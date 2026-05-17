@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-05-17 08:16:02
+# Generated: 2026-05-17 19:05:42
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1899,51 +1899,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (60) ---
+# --- DE-DAZN EVENT (39) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/91e272ejtjl13jukacb72k57u_image-header_pDach_1776932175000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 8 | Chieti - Fermo (2026-05-16 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183539.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3w13psddcqz3m3xaqbfxabyle_image-header_pDach_1761993529000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Bundesliga-Konferenz | 34. Spieltag (2026-05-16 14:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183541.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/537lko9urfnnj9z4627379gfp_image-header_pDach_1777646211000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Duan 99 vs Chalarmchon (2026-05-16 14:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183542.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zn0f14judxv63aowyv1gehxk_image-header_pDach_1776769381000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Thüringer HC - Viborg HK | Halbfinale (2026-05-16 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183543.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6dc5kx5cnwy6sb44o62988488_image-header_pDach_1777725073000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Chelsea - Man City | Finale (2026-05-16 15:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183544.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a4dd6u4qnjfvzs9mttir25vs8_image-header_pDach_1777895695000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Chelsea - Man City | Finale (Originalkommentar) (2026-05-16 16:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183545.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bfbdnn2z3kp6pgxtfffsn9dm7_image-header_pDach_1776263860000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Spa | Rennen 1 (2026-05-16 16:55:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183546.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ylsn7eoxalpb1pdwcisl9tin2_image-header_pDach_1778491051000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Allen vs. Hrgovic: Prelims (2026-05-16 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183547.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a5ee9lvp804tkozjnzmm959l7_image-header_pDach_1759880852000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",ALL IN | Die Bundesliga-Highlight-Show (34. Spieltag) (2026-05-16 17:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183548.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/24b6d3xv3qx6eob0j0wu3q8x0_image-header_pDach_1778246162000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",OL Lyonnes - Nantes | Halbfinale (2026-05-16 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183549.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5niti04cm7t14v1f51qq9f1ij_image-header_pDach_1777200006000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Dijon - MOL Esztergom | Halbfinale (2026-05-16 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183550.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bwvmw9kbmt84v71thtlxvlbf9_image-header_pDach_1776868274000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Hilal - NEOM (2026-05-16 18:05:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183551.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vp66ek9hfjgj1uz0rwlapzmod_image-header_pDach_1776269821000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Stein vs. Carmona (2026-05-16 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183552.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6wuh3nterqaf1imgb9534nbq2_image-header_pDach_1774880566000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Allen vs. Hrgovic (2026-05-16 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183553.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8gmrjdvysa9ibl1why0xjxmkw_image-header_pDach_1778156895000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Nassr - Gamba Osaka | Finale (2026-05-16 19:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183554.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amodj47az2jcfghmhugx0d4c4_image-header_pDach_1776868662000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Ahli - Al-Kholood (2026-05-16 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183555.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5uprrz8jqj94s7d2noslrh14g_image-header_pDach_1778077941000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",St. Truiden - Gent (2026-05-16 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183556.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b03e28cvl2glvcy54y5tamu2p_image-header_pDach_1778246156000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Paris FC - PSG | Halbfinale (2026-05-16 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183557.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mcpkq2emyvc01g4vgv5bn426b_image-header_pDach_1778154864000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Davis vs. Albright 2: Prelims (2026-05-17 00:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183558.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8hdqsutu6441fwlt43v130v7s_image-header_pDach_1776934582000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",UFC Fight Night | Arnold Allen vs Melquizael Costa (Main Card) (2026-05-17 02:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183559.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ngxx001xi3wb1wgypkangnlwu_image-header_pDach_1776263516000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Davis vs. Albright 2 (2026-05-17 02:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183560.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/coh8xj6w8kb6w8exz2rryasid_image-header_pDach_1743436485000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Ironman 70.3 | Aix en Provence (2026-05-17 06:30:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183561.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/87ykk5jo1zsrhdxner6sd607y_image-header_pDach_1776300973000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Spa | Rennen 2 (2026-05-17 10:20:00)
@@ -7085,4 +7043,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3482
+# Total: 3461

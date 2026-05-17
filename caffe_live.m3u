@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-05-17 08:17:07
+# Generated: 2026-05-17 19:06:27
 # Expires: 2026-05-29
 # Family Safe Edition
 # ==============================================
@@ -251,7 +251,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5547.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-D21pGDqa5S4/WNg3fj86dGI/AAAAAAAADfY/Xc1II26YPyMkG-udRbY4pexYv2LUB3CWACLcB/s1600/Viasat_Film_premiere_2.jpg" group-title="Danska",DK: Viasat Film Premiere
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5545.m3u8
 
-# --- Deutsch (92) ---
+# --- Deutsch (91) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_DE_logo.png" group-title="Deutsch",RTL DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1576.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/RTL_DE_logo.png" group-title="Deutsch",RTL DE (backup)
@@ -352,8 +352,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114693.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1551.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/sky_1_de.png" group-title="Deutsch",SKx One HEVC
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4836.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky_Replay_GB_logo.png" group-title="Deutsch",Skx Replay
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/114695.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/sony-channel-de-logo.png" group-title="Deutsch",Skx Sony DE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34168.m3u8
 #EXTINF:-1 tvg-logo="https://www.sky.de/static/img/senderlogos_dark/890_sky_logo_cinema_special_hd_tvguide.png" group-title="Deutsch",Sky Cinema special
@@ -437,7 +435,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1531.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-Cinema-Select-logo.png" group-title="Deutsch",Selekt 8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1530.m3u8
 
-# --- Doku & Style (34) ---
+# --- Doku & Style (35) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1404.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic (backup)
@@ -464,6 +462,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118794.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1400.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/ViasatNature.png" group-title="Doku & Style",Viasat Nature
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1396.m3u8
+#EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/ViasatHistory.png" group-title="Doku & Style",Viasat History
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1399.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/AnimalPlanet.png" group-title="Doku & Style",Animal Planet
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1394.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/LoviRibolov.png" group-title="Doku & Style",Lov i Ribolov
@@ -923,7 +923,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1276.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagledam.com/logo/logoskyfolk.jpg" group-title="Makedonija",SKY folk
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53665.m3u8
 
-# --- Music (27) ---
+# --- Music (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Adria
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1428.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/mtv-base-logo.png" group-title="Music",MTV Base
@@ -960,8 +960,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1415.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/2536.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/ImperiaTV_logo.png" group-title="Music",Imperia
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34181.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",BMC
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/34182.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Toxic TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/33010.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",Sevdah TV
@@ -1481,7 +1479,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6413.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Viasat Sport Premium
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5549.m3u8
 
-# --- Srbija (72) ---
+# --- Srbija (71) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1310.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/RTS1_logo.png" group-title="Srbija",RTS 1 (backup)
@@ -1558,8 +1556,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4594.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118730.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Moja_Happy_Zemlja_RS_logo.png" group-title="Srbija",Happy Zemlja
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118731.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Moja_Happy_Muzika_RS_logo.png" group-title="Srbija",Happy Muzika
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118732.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/147.sr.png" group-title="Srbija",Happy Parovi uzivo 24h
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1298.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/BlicTV_RS_logo.png" group-title="Srbija",Blic TV
@@ -1657,7 +1653,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53710.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/TRT_World_TR_logo.png" group-title="Turk",TRT World
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/53706.m3u8
 
-# --- UK & USA (25) ---
+# --- UK & USA (24) ---
 #EXTINF:-1 tvg-logo="" group-title="UK & USA",BBC One UK
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1601.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bbc-two-logo.png" group-title="UK & USA",BBC Two UK
@@ -1680,8 +1676,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1595.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6634.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/RTE-One_logo.png" group-title="UK & USA",RTE ONE
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6632.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK & USA",RTE Two
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6633.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/nat-geographic-logo.png" group-title="UK & USA",National Geographic Channel UK
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1594.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/NationalGeoWildHD.png" group-title="UK & USA",Nat Geo Wild UK
@@ -1719,4 +1713,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/79256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 833
+# Total: 830

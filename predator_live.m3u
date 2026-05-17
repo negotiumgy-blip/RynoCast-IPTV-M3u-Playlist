@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-16 19:10:36
+# Generated: 2026-05-17 18:59:07
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -5316,18 +5316,18 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/21673.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: DIZI SMART MAX HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA YERLI HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/21689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA YERLI 2 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/21690.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA TV HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21688.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA 2 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/21689.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA TV AKSIYON HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21683.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA KOMEDI HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21684.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA AILE HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21685.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA AILE 2 HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/21690.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA TV 1001 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21686.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: SINEMA TV 1002 HD

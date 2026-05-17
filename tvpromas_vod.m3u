@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-05-17 08:16:38
+# Generated: 2026-05-17 19:05:39
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -4569,7 +4569,7 @@ http://tvpromas.com:8080/movie/stksared/9520/137007.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqFq6aylDrY23wfPdCgUAIA4bO0.jpg" group-title="Movies | ACCION",Los indestructibles 2 (2012)
 http://tvpromas.com:8080/movie/stksared/9520/137008.mkv
 
-# --- Movies | ACCION & AVENTURA (89) ---
+# --- Movies | ACCION & AVENTURA (90) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Bichos Raros
 http://tvpromas.com:8080/movie/stksared/9520/1005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Oni: La leyenda del dios del trueno
@@ -4748,6 +4748,8 @@ http://tvpromas.com:8080/movie/stksared/9520/2562.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2563.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Hombre en llamas
 http://tvpromas.com:8080/movie/stksared/9520/2610.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ACCION & AVENTURA",Marvel - The Punisher
+http://tvpromas.com:8080/movie/stksared/9520/2613.mp4
 
 # --- Movies | ANIME (247) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFCwkeCvuRdBeMnabtYdoLgjOqA.jpg" group-title="Movies | ANIME",Ancien y el mundo mágico (2017)
@@ -22827,4 +22829,4 @@ http://tvpromas.com:8080/series/stksared/9520/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpromas.com:8080/series/stksared/9520/2580
 
-# Total: 11378
+# Total: 11379

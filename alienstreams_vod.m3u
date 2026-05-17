@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-05-17 08:13:59
+# Generated: 2026-05-17 18:59:09
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -5352,7 +5352,7 @@ http://alienstreams.fi:8080/movie/hellhell/hellhell/341785.mkv
 http://alienstreams.fi:8080/movie/hellhell/hellhell/343446.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg" group-title="Movies | Crime [VOD]",Jack Reacher
 http://alienstreams.fi:8080/movie/hellhell/hellhell/348564.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg" group-title="Movies | Crime [VOD]",Se7en
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg" group-title="Movies | Crime [VOD]",Seven
 http://alienstreams.fi:8080/movie/hellhell/hellhell/348988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qENzVKfdyNBAwShcS0YhWeJe34M.jpg" group-title="Movies | Crime [VOD]",Flawless
 http://alienstreams.fi:8080/movie/hellhell/hellhell/349294.mkv
@@ -16254,6 +16254,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/404418
 http://alienstreams.fi:8080/series/hellhell/hellhell/404421
 
 # --- Series | Drama [Series] (658) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander
+http://alienstreams.fi:8080/series/hellhell/hellhell/496200
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doc
 http://alienstreams.fi:8080/series/hellhell/hellhell/494352
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Looking for Alaska
@@ -16292,8 +16294,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/495696
 http://alienstreams.fi:8080/series/hellhell/hellhell/500739
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Red Band Society
 http://alienstreams.fi:8080/series/hellhell/hellhell/500724
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander
-http://alienstreams.fi:8080/series/hellhell/hellhell/496200
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Half Man
 http://alienstreams.fi:8080/series/hellhell/hellhell/499978
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Spanish Princess
@@ -19216,12 +19216,16 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
 # --- Series | Svenska Serier [Series] (303) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
+http://alienstreams.fi:8080/series/hellhell/hellhell/481721
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson: Gränslandet
+http://alienstreams.fi:8080/series/hellhell/hellhell/481827
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mästarnas mästare
+http://alienstreams.fi:8080/series/hellhell/hellhell/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Leva Life
 http://alienstreams.fi:8080/series/hellhell/hellhell/500951
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Masked Singer Sverige
 http://alienstreams.fi:8080/series/hellhell/hellhell/498355
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
-http://alienstreams.fi:8080/series/hellhell/hellhell/481721
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Ex on the Beach Sverige
 http://alienstreams.fi:8080/series/hellhell/hellhell/499974
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Muren
@@ -19268,10 +19272,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/476207
 http://alienstreams.fi:8080/series/hellhell/hellhell/487947
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Spökjakt - Inlåsta
 http://alienstreams.fi:8080/series/hellhell/hellhell/499192
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson: Gränslandet
-http://alienstreams.fi:8080/series/hellhell/hellhell/481827
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mästarnas mästare
-http://alienstreams.fi:8080/series/hellhell/hellhell/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Skilsmässobarn
 http://alienstreams.fi:8080/series/hellhell/hellhell/499340
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Wahlgrens Värld

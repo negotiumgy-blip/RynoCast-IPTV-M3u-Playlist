@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-05-17 08:16:10
+# Generated: 2026-05-17 19:12:06
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -517,7 +517,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/250.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",RT Docu HD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/251.m3u8
 
-# --- FILM (56) ---
+# --- FILM (49) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HBO_HD..png" group-title="FILM",HBO Adria
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/54.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HBO_HD..png" group-title="FILM",HBO Adria HD
@@ -594,20 +594,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45593.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45594.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/EURO_CINEMA_4_HD.png" group-title="FILM",Euro Cinema 4
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/45595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 1 FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60942.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 2 FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60943.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 3 FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60944.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 4 FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60945.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 5 FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 6 FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60947.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",Cine + Select 7 FHD
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/60948.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM",Film Klub
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM",Nova Cinema
@@ -1178,7 +1164,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/318.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/319.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Cinema DE
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Emotion DE
+#EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",Sat Emotion DE
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANIJA (DE)",13TH STREET
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/323.m3u8
@@ -4347,4 +4333,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2145
+# Total: 2138
