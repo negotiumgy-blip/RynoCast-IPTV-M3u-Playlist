@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-16 19:10:18
+# Generated: 2026-05-17 08:19:16
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -20446,8 +20446,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/13973.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2769.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/babytvpt.png" group-title="Portugal",Baby TV PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2768.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/pandabiggspt.png" group-title="Portugal",Panda Biggs PT
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2763.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/disneyjuniorpt.png" group-title="Portugal",Disney Junior PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2755.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/disneychannelpt.png" group-title="Portugal",Disney Channel PT
@@ -20550,6 +20548,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/78308.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/90949.m3u8
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/Style%20Library/GuiaTv_CanaisLogos/NOSSTUDIOS.png" group-title="Portugal",Nos Studios FHD PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/73310.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_VinTV.png" group-title="Portugal",VinTV PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",========== Notícias ==========
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/13975.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/sicnoticiaspt.png" group-title="Portugal",SIC Notícias PT
@@ -20963,7 +20963,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/91035.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",BackUP- Sport 1 FHD PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/91036.m3u8
 
-# --- Portugal - Canais 24-7 (439) ---
+# --- Portugal - Canais 24-7 (440) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",========== Filmes 24/7 ==========
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/83019.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",NETFLIX Ação 24/7 ( Exclusivo ) PT
@@ -21172,6 +21172,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/82417.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/82418.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Game of Thrones S08 24/7 ( Exclusivo ) PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/82419.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",House 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135030.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",HBO Chernobyl 24/7 ( Exclusivo ) PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/82858.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",The Outsider S01 24/7 ( Exclusivo ) PT
@@ -31659,4 +31661,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15722
+# Total: 15723

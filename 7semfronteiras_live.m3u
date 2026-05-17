@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 7semfronteiras.cc
-# Generated: 2026-05-16 19:10:00
+# Generated: 2026-05-17 08:18:39
 # Expires: 2026-07-31
 # Family Safe Edition
 # ==============================================
@@ -2306,6 +2306,10 @@ http://7semfronteiras.cc/live/3947938/128192899/281333.m3u8
 http://7semfronteiras.cc/live/3947938/128192899/281304.m3u8
 #EXTINF:-1 tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/11/logo-supertennis.png" group-title="CANAIS | ESPORTES PORTUGAL / MUNDO",IT: SUPER TENNIS (Backup)
 http://7semfronteiras.cc/live/3947938/128192899/281614.m3u8
+
+# --- CANAIS | EVENTOS EXCLUSIVOS (1) ---
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/netflix-logo-5.png" group-title="CANAIS | EVENTOS EXCLUSIVOS",Netflix Eventos HD¹
+http://7semfronteiras.cc/live/3947938/128192899/355683.m3u8
 
 # --- CANAIS | FILMES E SÉRIES (95) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/aeefhd.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD¹
@@ -9079,4 +9083,4 @@ http://7semfronteiras.cc/live/3947938/128192899/197699.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7semfronteiras.cc/live/3947938/128192899/197701.m3u8
 
-# Total: 4476
+# Total: 4477

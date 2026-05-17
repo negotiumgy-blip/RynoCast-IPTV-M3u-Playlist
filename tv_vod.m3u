@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-05-16 19:11:11
+# Generated: 2026-05-17 08:14:18
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -658,7 +658,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/304158.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/304159.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mW3rSOoC99HX6tBUEU3j6Mn4d4H.jpg" group-title="Movies | VOD 4K",Capitán Phillips (2013)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/304160.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHEyEjAS4ch8snfWh4WLZrZ2ZWw.jpg" group-title="Movies | VOD 4K",Carrie (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHEyEjAS4ch8snfWh4WLZrZ2ZWw.jpg" group-title="Movies | VOD 4K",Carrie (2002)WW
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/304161.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="Movies | VOD 4K",Cazafantasmas (2016)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/304162.mkv
@@ -1003,7 +1003,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/304333.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg" group-title="Movies | VOD 4K",¡Olvídate de mí! (2004)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/304334.mkv
 
-# --- Movies | VOD ACCION (903) ---
+# --- Movies | VOD ACCION (902) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cM7OYPiPv1QVc0UrYwg7P3lweRc.jpg" group-title="Movies | VOD ACCION",La hora decisiva (2016) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/324888.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MrKD5qkFA9sWxP0V2Y793koZYG.jpg" group-title="Movies | VOD ACCION",Cowboys & Aliens  EXTENDED (2011) DUAL
@@ -1346,7 +1346,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/7286.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/7289.mp4
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/KmhBZq7k98lfWfhEQmtFArtLpTk0etuR.jpg" group-title="Movies | VOD ACCION",VOD | Piratas del Caribe: El cofre del hombre muerto (2006)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/7290.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/MCAIjlHlCpeBhgMCVPleu6uFWqw6FyHo.jpg" group-title="Movies | VOD ACCION",VOD | Piratas del Caribe: En el fin del mundo (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHcUMez2b1QiMGQYCuQTAlqwDEe.jpg" group-title="Movies | VOD ACCION",Piratas del Caribe: En el fin del mundo (2007)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/7291.mp4
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/ZU0AhrepfezTFwVb1sQ3pwMe5MDRMRve.jpg" group-title="Movies | VOD ACCION",VOD | Piratas del Caribe: En mareas misteriosas (2011)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/7292.mp4
@@ -2310,8 +2310,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/140660.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/140820.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/8170958cbaaf492481654587fe685090.jpg" group-title="Movies | VOD ACCION",VOD | Operación Fortune: El gran engaño (2023) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/140933.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/5d899d2299554f1a8393bffb903da759.jpg" group-title="Movies | VOD ACCION",VOD | Creed III (2023) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/142985.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/402519338ffb4b26c85bdb56e11a8414.jpg" group-title="Movies | VOD ACCION",VOD | Terremoto 8.5 (Alerta roja) (2020)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/144204.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/402519338ffb4b26c85bdb56e11a8414.jpg" group-title="Movies | VOD ACCION",VOD | Alerta roja (2019) dual
@@ -5523,7 +5521,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/205874.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW6pB4C674TDMhFcBXDbz7L0ppO.jpg" group-title="Movies | VOD CASTELLANO",VOD | La piel que habito (2011) cast
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/243594.mkv
 
-# --- Movies | VOD CIENCIA FICCIÓN (320) ---
+# --- Movies | VOD CIENCIA FICCIÓN (319) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjpKA5SkJcefyBxTAcItsNkwApp.jpg" group-title="Movies | VOD CIENCIA FICCIÓN",El hombre bicentenario (1999) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/298626.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNjwi0STOwzmwE9laZSMYYh2JPE.jpg" group-title="Movies | VOD CIENCIA FICCIÓN",Al filo del mañana (2014) DUAL
@@ -5636,8 +5634,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37110.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37111.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQQlnuFrF3wOXF7lHqDC9gWQSoP.jpg" group-title="Movies | VOD CIENCIA FICCIÓN",VOD | Los hambrientos (2017)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37113.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQEMFZHU9pLuhu49piOUkqIeKlo.jpg" group-title="Movies | VOD CIENCIA FICCIÓN",VOD | Critters ¡Al ataque! (2019)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37114.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxDekfQeobu7zONfRGzA5vy0RxL.jpg" group-title="Movies | VOD CIENCIA FICCIÓN",VOD | Whitney Cummings: Can I Touch It? (2019)(SUB)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37115.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zv03BoK68TbrnzVO7T3mcl7ipfy.jpg" group-title="Movies | VOD CIENCIA FICCIÓN",VOD | Anon (2018)
@@ -7791,7 +7787,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253102.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKH8hvs6aNT3SH0brcgepUNokny.jpg" group-title="Movies | VOD CINE PERUANO",¡Asu Mare! Los amigos (2023)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253103.mp4
 
-# --- Movies | VOD CLASICAS (217) ---
+# --- Movies | VOD CLASICAS (215) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hE7ovWkqKzPmgrXZhLRIA20Hx6F.jpg" group-title="Movies | VOD CLASICAS",Moulin Rouge (2001) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/264394.mkv
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/NXRs2sQF9yfFAkXorIw3EjmkC2OW2iDd.jpg" group-title="Movies | VOD CLASICAS",VOD | Fiebre del sábado noche (1977)
@@ -7876,10 +7872,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19266.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19268.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYUqA99E2zI3Z1DJt6vtVgken6M.jpg" group-title="Movies | VOD CLASICAS",VOD | Cocoon - 1985
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19269.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neunrbZQ6cctrBYpAM2YlswJcls.jpg" group-title="Movies | VOD CLASICAS",VOD | Cocodrilo Dundee - 1986
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19270.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etEb51nk9fIK4QENTWbUJYsoyRZ.jpg" group-title="Movies | VOD CLASICAS",VOD | Cocodrilo Dundee II - 1988
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19271.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPRRp2bGNOhHKbxeZPrrmWqFVfo.jpg" group-title="Movies | VOD CLASICAS",VOD | Ghoulies - 1984
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19276.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVsHgyJ1mJhkJHtEy0tTXMHKUI.jpg" group-title="Movies | VOD CLASICAS",VOD | La iniciación - 1984
@@ -8227,7 +8219,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/196944.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f5ce0b79d788ab379f268e4aead66a02.jpg" group-title="Movies | VOD CLASICAS",VOD | El juego del halcón (1985) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/204841.mkv
 
-# --- Movies | VOD COMEDIA (858) ---
+# --- Movies | VOD COMEDIA (855) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ae66on9Eo9Oi7lx11Fqo1MNf5s.jpg" group-title="Movies | VOD COMEDIA",El chico león (2021) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/331709.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99XaTLygymVuzqZAlWOaWfld67u.jpg" group-title="Movies | VOD COMEDIA",Austin Powers: Misterioso agente internacional (1997) DUAL
@@ -8622,12 +8614,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11643.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11644.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcycHo8hyTMWYV942dSa1np28pG.jpg" group-title="Movies | VOD COMEDIA",VOD | Pelea de profes (2017)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11645.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD COMEDIA",VOD |  | Porky's (1984)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11646.mp4
-#EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:25461/images/b2db3ad3685f1bcdf2039f47b860e67f.jpg" group-title="Movies | VOD COMEDIA",vod | Porky's II: Al día siguiente
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11647.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD COMEDIA",Porky's III: Contraataca (1985)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11648.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYIAgdWQJlExfqE5xIMSoo1sQEQ.jpg" group-title="Movies | VOD COMEDIA",VOD | Puerto Ricans (puerto Ricans In Paris) (2016)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11651.mp4
 #EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:25461/images/194b1094f58b5f7bb5cd3accc2727a15.jpg" group-title="Movies | VOD COMEDIA",VOD | Resacón 2, ¡Ahora en Tailandia!
@@ -12855,7 +12841,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/307971.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9kNDfpOG7o2W6mHfUltypvZEPa.jpg" group-title="Movies | VOD DOCUMENTALES",Descubriendo a Harry: El arte detrás de la magia (2026) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/330353.mkv
 
-# --- Movies | VOD DRAMA (1412) ---
+# --- Movies | VOD DRAMA (1411) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xFWOPWzN4mwFx0js8bDvHOUIO0.jpg" group-title="Movies | VOD DRAMA",Sala de profesores (2023) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/340822.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJd2NwGzciSMppCHividNSROIZR.jpg" group-title="Movies | VOD DRAMA",Aftersun (2022) dual
@@ -13088,8 +13074,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4589.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4600.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/0iUmWq1qE7dn3PCwzXRGQYSvNIQoBd4m.jpg" group-title="Movies | VOD DRAMA",VOD | Uno más de la familia (2019) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4601.mp4
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/qldE1qwXhga6DEdIQUnejiCJTMQ8QtJr.jpg" group-title="Movies | VOD DRAMA",VOD | Creed II: La leyenda de Rocky (2018) sub
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4605.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/vyplKj0YMWlUQUDuuhIQNRq6BYe04Tgw.jpg" group-title="Movies | VOD DRAMA",VOD | Bohemian Rhapsody (2019) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4610.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/GziWsSIj7N4nEV4mQMbh9Lfjrm2EViRj.jpg" group-title="Movies | VOD DRAMA",VOD | First Man (El primer hombre) (2018) sub
@@ -18960,10 +18944,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347438.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347437.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auROSiN4VL3Ckjab1s8FiKDbXsh.jpg" group-title="Movies | VOD INFANTIL",En busca del valle encantado IV: Viaje a la tierra de las brumas (1996)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347436.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tO6o64SAmNiLxXG4Ozbam5QI3UO.jpg" group-title="Movies | VOD INFANTIL",En busca del valle encantado III: La fuente de la vida (1995)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347435.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lC7oGqh9zhd55W4naq1niu6Z1M.jpg" group-title="Movies | VOD INFANTIL",En busca del valle encantado II: Aventuras en el gran valle (1994)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsxGmtUe06AAhfWihGiLDukI0QS.jpg" group-title="Movies | VOD INFANTIL",En busca del valle encantado (1988)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347433.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Gsc5NFpeT22l43sEHd7rVZSbXK.jpg" group-title="Movies | VOD INFANTIL",Emoji: La película (2017)
@@ -19286,6 +19266,10 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347258.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347257.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6qp51WW5DsYcjc0elXnn6YGiRv.jpg" group-title="Movies | VOD INFANTIL",Spy Cat (2019)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/347256.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tO6o64SAmNiLxXG4Ozbam5QI3UO.jpg" group-title="Movies | VOD INFANTIL",En busca del valle encantado III: La fuente de la vida (1995)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348230.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lC7oGqh9zhd55W4naq1niu6Z1M.jpg" group-title="Movies | VOD INFANTIL",En busca del valle encantado II: Aventuras en el gran valle (1994)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348229.mkv
 
 # --- Movies | VOD MISCELANEO (11) ---
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/07/25/17534273790680.jpg" group-title="Movies | VOD MISCELANEO",VELADA DEL AÑO 5 (2025)
@@ -22351,89 +22335,57 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/280842.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kR8tJ89vCBwXEqmyX0ThlyFsXmY.jpg" group-title="Movies | VOD ROMANCE",Empezar otra vez (2014) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/318014.mkv
 
-# --- Movies | VOD SAGAS (505) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yLy7EFXU3CKULLDWzR0L6XmmSi.jpg" group-title="Movies | VOD SAGAS",Bailando (Step Up) (2006) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253851.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emRJx4qxG2DMtrEPH1vWDvee9Mm.jpg" group-title="Movies | VOD SAGAS",Street dance (Step Up 2) (2008) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253852.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i5tn8G9zm7wMz9p1kB6zS2woMH.jpg" group-title="Movies | VOD SAGAS",Step Up 3 -  (2010) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253853.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMpwxmk3r7Aq36GcqMbCuP9DJYQ.jpg" group-title="Movies | VOD SAGAS",Step Up 4 Revolution (2012) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253854.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XFIl3s7wiWOSWdZ4uyFwTOP0hX.jpg" group-title="Movies | VOD SAGAS",Step Up 5 - All In (2014) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253855.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DQvNzUFjKj3pfbBNsMl1UJKTzp.jpg" group-title="Movies | VOD SAGAS",Step Up 6 : China (2019) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253856.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg" group-title="Movies | VOD SAGAS",Destino final (2000) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32671.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m4TTnatasZcMi6qE4Hbe9LdJgz.jpg" group-title="Movies | VOD SAGAS",Destino final 2 (2003) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32672.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg" group-title="Movies | VOD SAGAS",Destino final 3 (2006) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32673.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg" group-title="Movies | VOD SAGAS",Destino final 4 (2009) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32674.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="Movies | VOD SAGAS",Destino final 5 (2011) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32675.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PWLsq6g52HqBMVJPVj64Q77p1L.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy (2004) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/217359.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7LObtoON3jwa2aOrLgIeTnba2z.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy II: El ejército dorado (2008) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/217360.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dLwRfMIKvrufKiJADKbTGdAoqN.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy (2019) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/217361.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy: The Crooked Man (2024) Final (DUAL)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/213269.mkv
-#EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:8080/images/hUYhWi06Lm0UhHXAOVzRznhyx2PEu0pr.jpg" group-title="Movies | VOD SAGAS",VOD | Matrix (1999) 60FPS
+# --- Movies | VOD SAGAS (544) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuJj5ziHLLVgO7DdvycBqdAXqpN.jpg" group-title="Movies | VOD SAGAS",Porky's contraataca (1985)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11648.mp4
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/1232d59417a2d1c7795d7c88cbbb7c33.jpg" group-title="Movies | VOD SAGAS",Death Race 4 : Beyond Anarchy (2018) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/68227.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/a7bc3db12934406eee79040da6a0d110.jpg" group-title="Movies | VOD SAGAS",VOD | Death Race 3 (La carrera de la muerte. Inferno) 2013 DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/68226.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/ac226bab6f73663b6ad1ef4c86a14ea2.jpg" group-title="Movies | VOD SAGAS",VOD | Death Race 2 (La carrera de la muerte: el origen) (2010 ) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/68225.mkv
+#EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:8080/images/hUYhWi06Lm0UhHXAOVzRznhyx2PEu0pr.jpg" group-title="Movies | VOD SAGAS",VOD | Matrix (1999) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2658.mp4
 #EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:8080/images/K72Gg00AS5G3AywphnsoyddxPUhzo8dw.jpg" group-title="Movies | VOD SAGAS",VOD | Matrix Reloaded (2003) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2659.mkv
 #EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:8080/images/GYBhKoxCDqX4PqGaH5NgKksKmYHvsq1R.jpg" group-title="Movies | VOD SAGAS",VOD | Matrix Revolutions (2003) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2660.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/I0sAfgpDLR8haECVVavlgJ3RzQ0xHCIr.jpg" group-title="Movies | VOD SAGAS",VOD | Transformers (2007) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3000.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/hCzfRSKPGE0dXccKkzIJ3KaRLBUJZG78.jpg" group-title="Movies | VOD SAGAS",VOD | Transformers 2: La venganza de los caídos (2009) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3011.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/O9OkYDdb9E9LXbEh6qFHbw5yG6ruLuIL.jpg" group-title="Movies | VOD SAGAS",VOD |  Transformers 3: El lado oscuro de la Luna (2011) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3022.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/PYZ9uBIldP8ahoE4eC8hIZLvjeJqTIXE.jpg" group-title="Movies | VOD SAGAS",VOD | Transformers 4: La era de la extinción (2014) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3023.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/pUQCLu3syP4hl0qDwNwFAac7R1XjG0oX.jpg" group-title="Movies | VOD SAGAS",Transformers 5: El último caballero (2017) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3025.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/UGCUCXOMcoNIdg0Tb2T0jhmhtSx8sxS3.jpg" group-title="Movies | VOD SAGAS",VOD | Transformers 4: La era de la extinción (2014) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3027.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/dxZaTAbhLvwTR10DSUnLvvGQXxW6NSiG.jpg" group-title="Movies | VOD SAGAS",VOD | El señor de los anillos 1: La comunidad del anillo (2001) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3028.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/xJndmecntpEAtFpq7AZJeRoitn1887uv.jpg" group-title="Movies | VOD SAGAS",VOD | El señor de los anillos 2: Las dos torres (2002) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3029.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/W6TfmH32SSrLyCtHpDdVml7aqYMbTYVw.jpg" group-title="Movies | VOD SAGAS",VOD | El señor de los anillos 3: El retorno del rey (2003) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3030.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fumu2CGEFBFVzbodB0wgsGqmzEH.jpg" group-title="Movies | VOD SAGAS",VOD |  El Hobbit 1: Un viaje inseperado (2012) dual
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dJELUqdpGEkXVrMj7V3BiOjrtf.jpg" group-title="Movies | VOD SAGAS",El hobbit: Un viaje inesperado (2012) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3032.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2UCmHv8YRC4cJFg3rLTu4ZbNNU.jpg" group-title="Movies | VOD SAGAS",VOD 1 El Hobbit 2: La desolación de Smaug (2013) dual
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s8xZDmG5IkDU0m1LeW28YcwTRx.jpg" group-title="Movies | VOD SAGAS",El hobbit 2 : La desolación de Smaug (2013) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3034.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/e841ae18b7264953fc7c12c2a92e3272.jpg" group-title="Movies | VOD SAGAS",VOD | El Hobbit 3: La batalla de los Cinco Ejércitos (2014) dual ext
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3035.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men (2000) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3036.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOlFmApwWIIjAA8SnQhoR4g5XhH.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men 2 (2003) DUAL
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnZUa8bCq2uz56Jv6Clpcjtvw0V.jpg" group-title="Movies | VOD SAGAS",X-Men 2 (2003) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3037.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men 3: La decisión final (2006) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3038.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tzHWNz3jSFqfTsHxUc3Sel75n7.jpg" group-title="Movies | VOD SAGAS",X-Men orígenes: Lobezno
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3040.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p63jtwBMlec3pLffxHFqs6kOI5P.jpg" group-title="Movies | VOD SAGAS",VOD | X-Men: Primera Generación
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3041.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/a7XppdaQsvgLm8Vvi5OpX8xwwVk4I89e.jpg" group-title="Movies | VOD SAGAS",VOD | Wolverine inmortal (2013) lat
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men 3: La decisión final (2006) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3038.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2wFS6LAYDjOdSAtRc1Ey7roB4G.jpg" group-title="Movies | VOD SAGAS",X-Men orígenes: Lobezno (2009)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3040.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg" group-title="Movies | VOD SAGAS",X-Men: Primera Generación (2011) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3041.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsdBlh5Rg673dRmIblDZchuicWi.jpg" group-title="Movies | VOD SAGAS",Wolverine inmortal (2013) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3042.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/OuwFVtNyN40uOuT8ijYWUOhheZwPs9NT.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men: Días del futuro pasado (2014) dual
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg" group-title="Movies | VOD SAGAS",X-Men: Días del futuro pasado (2014) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3043.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/Dp0eqzFs9MmsAfW2CBrtL3bYjrBtamoE.jpg" group-title="Movies | VOD SAGAS",VOD | X-Men: Apocalipsis (2016) DUAL
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKqONIk0oX8rLvxkBCpnkZMTKE3.jpg" group-title="Movies | VOD SAGAS",X-Men: Apocalipsis (2016) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3044.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/b7nzWAyVby24uTyx7ldwTIepHxeVNBj6.jpg" group-title="Movies | VOD SAGAS",VOD | Logan (2017) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3045.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0ktjN9eKww26HhM8or8iUB1I68.jpg" group-title="Movies | VOD SAGAS",Logan (2017)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3045.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/TVV5cRsE7kFDqSyq4hl8NFNDWZ0EUg4y.jpg" group-title="Movies | VOD SAGAS",VOD | Rápidos y Furiosos 1 (2001) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3049.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/W3SfAX2Uik31FF6BA9qvVeWhC0YSia5U.jpg" group-title="Movies | VOD SAGAS",VOD | Rápidos y Furiosos 2: A todo gas (2003) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3051.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/swXJ8GiuXlILu8FGb4tjNaEWYyVx9wXy.jpg" group-title="Movies | VOD SAGAS",VOD |  Rápidos y Furiosos 3: Retro tokio (2006) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3188.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/i0P3sz90NA9D9zWmOLtpN3mUgkc9VwXL.jpg" group-title="Movies | VOD SAGAS",VOD | Rápidos y Furiosos 4: Aun mas Rapidos (2009) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3053.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/nKUk68mbq4Oth9nwgXdCeamjDwag5KEO.jpg" group-title="Movies | VOD SAGAS",VOD | Rápidos y Furiosos 5: Sin Control (2011)  DUAL
@@ -22452,26 +22404,12 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3060.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3062.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2oOARbiV871kCC27FyKBmYwOM3G.jpg" group-title="Movies | VOD SAGAS",Piratas del Caribe: En mareas misteriosas (2011) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3063.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/7HdGyjBI2UN1voill2CkD6IpOd6GZfWZ.jpg" group-title="Movies | VOD SAGAS",VOD | Piratas del Caribe 5: La venganza de Salazar (2017) DUAL
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/net3hZOe33XbieLzVkfJsQEdig2.jpg" group-title="Movies | VOD SAGAS",Piratas del Caribe: La venganza de Salazar (2017)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3065.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/wU7rxgk8s67261oAV0rhmGKw7QZS3kyK.jpg" group-title="Movies | VOD SAGAS",VOD |  Batman vs. Superman: El origen de la justicia (20016) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3147.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/cHjjh67VaC0pB12fKOfVcdjNj0hHJhCA.jpg" group-title="Movies | VOD SAGAS",VOD | Maze Runner: Correr o Morir (2014) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3151.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/K5PdRpHQrFbOjqJ2d4cYLvsw69QeaC23.jpg" group-title="Movies | VOD SAGAS",VOD | Maze Runner: Prueba de Fuego (2014) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3154.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/5TcH5TQWk27DY7EpAVxfXVVnmOMzBok2.jpg" group-title="Movies | VOD SAGAS",VOD | Maze Runner: La Cura Mortal (2018) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3156.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/idb6zgArOkkaK4mFnRV8qyJFbtmCLYen.jpg" group-title="Movies | VOD SAGAS",VOD | Animales fantásticos y dónde encontrarlos (2016) DUAL
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wduJFXlHQTIw1TBf6kTO3bHf2VN.jpg" group-title="Movies | VOD SAGAS",Animales fantásticos y dónde encontrarlos (2016)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3158.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/vsnr4GQs5SAsQHIbrDuaKmoeHxi6eTvE.jpg" group-title="Movies | VOD SAGAS",VOD | Animales fantásticos: Los crímenes de Grindelwald (2018) DUAL
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4BabO5lvfXnIsVIBLDpN2wLORz.jpg" group-title="Movies | VOD SAGAS",Animales fantásticos: Los crímenes de Grindelwald (2018)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3169.mkv
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/kUaY6yFhI13sGuKKGk15teWwLgSrx8yk.jpg" group-title="Movies | VOD SAGAS",VOD | Creed 1: La leyenda de Rocky (2015) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3185.mp4
-#EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/r1ikXMNVlFmpb7ryQF7K5XaQLfcpmoq0.jpg" group-title="Movies | VOD SAGAS",VOD | Creed 2: Defendiendo el Legado (2018) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3186.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/swXJ8GiuXlILu8FGb4tjNaEWYyVx9wXy.jpg" group-title="Movies | VOD SAGAS",VOD |  Rápidos y Furiosos 3: Retro tokio (2006) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3188.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg" group-title="Movies | VOD SAGAS",Rambo 1 (1982)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TuW7rwhdVPrm3qBsBGnn747Uar.jpg" group-title="Movies | VOD SAGAS",Rambo 2 (1985)
@@ -22500,7 +22438,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11527.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11607.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/984cd8c65e4d1ab99e25cb5d4463a13e.jpg" group-title="Movies | VOD SAGAS",VOD | Loca academia de policía 2: Su primera misión (1985)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11608.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD SAGAS",VOD | Loca Academia de Policia 3: De vuelta a la escuela (1986)|
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D3CuPOQH4WDMRjvjrlY2mQeE1t.jpg" group-title="Movies | VOD SAGAS",Loca academia de policía 3: De vuelta a la escuela (1986)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11609.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/d5a043cf2af9262c659b290be7cea101.jpg" group-title="Movies | VOD SAGAS",VOD | Loca academia de policía 4: Los ciudadanos se defienden (1987)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11610.mkv
@@ -22510,11 +22448,15 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11611.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11612.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/2849f6791516d97082bad570e0684437.jpg" group-title="Movies | VOD SAGAS",VOD | Loca academia de policía: Misión en Moscú (1994)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11613.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqCOt1cWfKqCepxK7LIdT812idH.jpg" group-title="Movies | VOD SAGAS",Porky's (1981)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11646.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geHNYpQvArdlxHB2xgg3bAxA5rt.jpg" group-title="Movies | VOD SAGAS",Porky's II: Al día siguiente (1983)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11647.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHWR3YplPQWciYzxEity2kyDoDn.jpg" group-title="Movies | VOD SAGAS",VOD | Scary Movie (2000)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11657.mp4
-#EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:25461/images/4c8037c85dfe0af09e35da97247e3a8a.jpg" group-title="Movies | VOD SAGAS",VOD | Scary Movie 2 (2001)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4qTydYjntbb5TfZKV229NpSaCt.jpg" group-title="Movies | VOD SAGAS",Scary Movie 2 (2001)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11658.mp4
-#EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:25461/images/1188fcd04916baae3c639b27c75d86f8.jpg" group-title="Movies | VOD SAGAS",VOD | Scary Movie 3 (2003)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg" group-title="Movies | VOD SAGAS",Scary Movie 3 (2003)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11659.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSybaw6TeJKKmHIh8UonOEsv4Bh.jpg" group-title="Movies | VOD SAGAS",VOD | Scary Movie 4 (2006)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11660.mp4
@@ -22522,11 +22464,11 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11660.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11670.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6vDc3CsdRVWBeagMl45k2gmJum.jpg" group-title="Movies | VOD SAGAS",VOD | Torrente 2: Mision Marbella (2001)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11671.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndNbU20bSVk9Kx4pZmQ4x4xo7g5.jpg" group-title="Movies | VOD SAGAS",VOD | Torrente 3: El Protector (2005)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDPujLAIQTfUCkrS21l8FXGXb5E.jpg" group-title="Movies | VOD SAGAS",Torrente 3: El protector (2005)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11672.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbXTUL2EM5ZC8D9ZKVBfXl0WgBq.jpg" group-title="Movies | VOD SAGAS",VOD | Torrente 4: Crisis Letal (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ye6vXu1Ts4lo8gPlKUBRESvdgic.jpg" group-title="Movies | VOD SAGAS",Torrente 4: Lethal crisis (2011)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11673.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CDBBLy8vKMWngBQLbLdrlu1vVu.jpg" group-title="Movies | VOD SAGAS",VOD | Torrente 5: Operacion Eurovegas (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfdrLVB61b0ALAjxFwtbmlv1GT4.jpg" group-title="Movies | VOD SAGAS",Torrente 5: Operación Eurovegas (2014)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/11674.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/4ce66e43047ef0cd33a82217ebc37a68.jpg" group-title="Movies | VOD SAGAS",VOD | Mad Max: Salvajes de la autopista (1979) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19228.mkv
@@ -22534,49 +22476,47 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19228.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19229.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/274b95829822ad85c8290c161d76da85.jpg" group-title="Movies | VOD SAGAS",VOD | Rocky II (1979) h265 1080p Dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19230.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="Movies | VOD SAGAS",VOD | JURASICC PARK - 1993
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19304.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/aaa391ea56d4ed966a4e63bcbd3a2b56.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio I: La amenaza fantasma - 1999
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19789.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/42e642c4fc37951cd037c4740d36d4a8.jpg" group-title="Movies | VOD SAGAS",La guerra de las galaxias. Episodio II: El ataque de los clones - 2002
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19790.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/0c13d90528e7b37f9a3210a54c08f079.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio III: La venganza de los Sith - 2005
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19791.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/da3935a0e1ce2da9d27fc7d4ff6ae74b.jpg" group-title="Movies | VOD SAGAS",La guerra de las galaxias. Episodio IV: Una nueva esperanza - 1977
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19792.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/e0050f45bd2665c4eb31cff9047118bf.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio V: El imperio contraataca - 1980
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19793.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/36d8c10f6284ab9882a989c2df3dc011.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio VI: El retorno del Jedi - 1983
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19794.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/6620be9d25029ec848e2cc97aa79eb1a.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias VII: El despertar de la fuerza - 2015
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19795.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/674ca9c8ebdd840124e7e6af7eab523e.jpg" group-title="Movies | VOD SAGAS",La guerra de las galaxias VIII: Los últimos Jedi - 2017
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19857.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/b44fd1196bd47c00fe5b8ccbc306167d.jpg" group-title="Movies | VOD SAGAS",VOD | Rocky III - (1982) h265 1080p dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/22028.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/8aa94c04c358eae8f2c930a742576811.jpg" group-title="Movies | VOD SAGAS",VOD | Rocky IV - (1985) h265 1080p dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/22029.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/5d12dbf2d9c6f26e8fb7e92b6a9f64b1.jpg" group-title="Movies | VOD SAGAS",VOD | Rocky V - (1990) h265 1080p Dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/22030.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/da3935a0e1ce2da9d27fc7d4ff6ae74b.jpg" group-title="Movies | VOD SAGAS",La guerra de las galaxias. Episodio IV: Una nueva esperanza - 1977
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19792.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/e0050f45bd2665c4eb31cff9047118bf.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio V: El imperio contraataca - 1980
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19793.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/36d8c10f6284ab9882a989c2df3dc011.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio VI: El retorno del Jedi - 1983
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19794.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/aaa391ea56d4ed966a4e63bcbd3a2b56.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio I: La amenaza fantasma - 1999
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19789.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/42e642c4fc37951cd037c4740d36d4a8.jpg" group-title="Movies | VOD SAGAS",La guerra de las galaxias. Episodio II: El ataque de los clones - 2002
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19790.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/0c13d90528e7b37f9a3210a54c08f079.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias. Episodio III: La venganza de los Sith - 2005
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19791.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/6620be9d25029ec848e2cc97aa79eb1a.jpg" group-title="Movies | VOD SAGAS",VOD | La guerra de las galaxias VII: El despertar de la fuerza - 2015
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19795.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/674ca9c8ebdd840124e7e6af7eab523e.jpg" group-title="Movies | VOD SAGAS",La guerra de las galaxias VIII: Los últimos Jedi - 2017
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/19857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJUB1AXsHTZoGyN7CIagZh9JwiN.jpg" group-title="Movies | VOD SAGAS",VOD | Los juegos del hambre (2012)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29792.mp4
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29792.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/290CyZsscncYKPwRv32PzpdcAZG.jpg" group-title="Movies | VOD SAGAS",VOD | Los juegos del hambre: En llamas (2013)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29793.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGgjSmIEWOnqnxkOA0YmZUym7E0.jpg" group-title="Movies | VOD SAGAS",VOD | Los juegos del hambre: Sinsajo. Parte 2 (2015)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29794.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxbptfH5VibUyjm0He3lujT6j6q.jpg" group-title="Movies | VOD SAGAS",VOD | Los juegos del hambre: Sinsajo. Parte 1 (2014)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29795.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywJTwF11ZL2gDTIYlwHTIYU2kSZ.jpg" group-title="Movies | VOD SAGAS",VOD | Invicto (2002)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30933.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSGlv1yJxEewtf44bo0CUgHSNHW.jpg" group-title="Movies | VOD SAGAS",VOD | Invicto 2 (2006)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30934.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEzI0Sib3eGO82oMSk62Qo3fzJn.jpg" group-title="Movies | VOD SAGAS",VOD | Invicto 3: Redención (2010)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30935.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg" group-title="Movies | VOD SAGAS",Invicto IV (2016)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30936.mp4
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29793.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfLsciidZamFPeOb4FD8ywk1Q9c.jpg" group-title="Movies | VOD SAGAS",Los Juegos del Hambre: Sinsajo - Parte 1 (2014)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29795.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qQPBc7JVGXJGo0Av5jrqndcdTm.jpg" group-title="Movies | VOD SAGAS",Los Juegos del Hambre: Sinsajo - Parte 2 (2015)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/29794.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" group-title="Movies | VOD SAGAS",Invicto (2002)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30933.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSGlv1yJxEewtf44bo0CUgHSNHW.jpg" group-title="Movies | VOD SAGAS",Invicto 2 (2006) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEzI0Sib3eGO82oMSk62Qo3fzJn.jpg" group-title="Movies | VOD SAGAS",Invicto 3: Redención (2010)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30935.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QGdIJWWTkPhVjpQ0zA6z69khod.jpg" group-title="Movies | VOD SAGAS",Invicto IV (2016) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/30936.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHnOKBeu71MAs89QSp0v0giRmra.jpg" group-title="Movies | VOD SAGAS",¡Goool! La película (2005) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/31831.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm37Zg0YAa38YIaNp8hesjr4eTl.jpg" group-title="Movies | VOD SAGAS",VOD | ¡Goool 2! Viviendo el sueño (2007) LAT
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptGaYLmcEs0xLN4Yk3Fb3lqvGqf.jpg" group-title="Movies | VOD SAGAS",¡Goool 2! Viviendo el sueño (2007)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/31832.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ak5yYUtaZ7yoe2SesHXi7sjBp5V.jpg" group-title="Movies | VOD SAGAS",VOD | Goal! 3: Taking On The World (2009) LAT
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/31833.mkv
@@ -22584,7 +22524,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/31833.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32648.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvFjow9ET16axWcQdXSBqehiFL1.jpg" group-title="Movies | VOD SAGAS",VOD | Los 4 fantásticos y Silver Surfer (2007)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32649.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPPByy3xtGzXfZZnHgpLNRlmRYp.jpg" group-title="Movies | VOD SAGAS",VOD | 4  fantásticoss (2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3Yk65bVdgiMOMeK6O8aZxEBt5J.jpg" group-title="Movies | VOD SAGAS",Los 4 fantásticos (2005)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32650.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ri2mVo4xQCfGczyX3kPAhoWPUh.jpg" group-title="Movies | VOD SAGAS",VOD | El guerrero americano (1985)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32651.mp4
@@ -22608,9 +22548,9 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32659.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32660.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1tu1F0z53Lrcs3NsVOGPDRefqR.jpg" group-title="Movies | VOD SAGAS",VOD | CHUCKY Muñeco diabólico 3 (1991)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32661.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnfiEcYDppRTaOi8BzNYcTJQBPe.jpg" group-title="Movies | VOD SAGAS",VOD | La novia de Chucky (1998)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHWzPfi9aTA82aFiRi9aC5dh2Gq.jpg" group-title="Movies | VOD SAGAS",La novia de Chucky (1998)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32662.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO1yExjoPb7X7JkzM4Xtj5kvwvH.jpg" group-title="Movies | VOD SAGAS",VOD | La semilla de Chucky (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KFnfRzXmn0QNzMZGNWMoW4iSKD.jpg" group-title="Movies | VOD SAGAS",La semilla de Chucky (2004)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32663.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z67Sdv2jz0bIkKAV7CHK2eE8ws.jpg" group-title="Movies | VOD SAGAS",VOD | La maldición de Chucky (2013)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32664.mkv
@@ -22618,53 +22558,57 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32664.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32665.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfsmra1wBF49uY4UzvwvLzNG278.jpg" group-title="Movies | VOD SAGAS",VOD | Ángeles y demonios (2009)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32666.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8epe7qoxRHEPt69tQNxZBCmwXf.jpg" group-title="Movies | VOD SAGAS",VOD | Infernoo (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCGqpwsgjegq26fMiR54ugJtIc6.jpg" group-title="Movies | VOD SAGAS",Inferno (2016)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32667.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9WMcPeguI4pmwULmB6LqzPyj1v.jpg" group-title="Movies | VOD SAGAS",VOD | Las crónicas de Narnia: El león, la bruja y el armario (2005)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32668.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j53P9LEPTkfJhYVSpq69UCV1koT.jpg" group-title="Movies | VOD SAGAS",VOD | Las crónicas de Narnia: El príncipe Caspian (2008)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32669.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpaAOQw900SFZtPjmcGE7JIQ1za.jpg" group-title="Movies | VOD SAGAS",VOD | Las crónicas de Narnia: La travesía del viajero del albaA (2010)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1VNVBUkai81eRQTS16zXllnN52.jpg" group-title="Movies | VOD SAGAS",Las crónicas de Narnia: La travesía del viajero del alba (2010)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32670.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csOCHuIIPGwixlHhZBiXwhlTknm.jpg" group-title="Movies | VOD SAGAS",VOD | El protegido (2000)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg" group-title="Movies | VOD SAGAS",Destino final (2000) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32671.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m4TTnatasZcMi6qE4Hbe9LdJgz.jpg" group-title="Movies | VOD SAGAS",Destino final 2 (2003) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32672.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg" group-title="Movies | VOD SAGAS",Destino final 3 (2006) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32673.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg" group-title="Movies | VOD SAGAS",Destino final 4 (2009) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32674.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/T0IGau7Alj52OLrrthzftkLMIA.jpg" group-title="Movies | VOD SAGAS",Destino final 5 (2011) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32675.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjFzPg7MwDD7T6KgL3rtyy2PHwW.jpg" group-title="Movies | VOD SAGAS",El protegido (2000)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32679.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag51YF1ZTNTefjhVMVGBCFv8h5s.jpg" group-title="Movies | VOD SAGAS",VOD | FRAGMENTADO (2016)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32680.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRpkzJbC4NGKRaZ88ZE7e2Yn897.jpg" group-title="Movies | VOD SAGAS",VOD | Glass (Cristal) (2019)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32681.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD SAGAS",VOD | The Gates of Hell (1980)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8baM6jeDmoifweKUrP1cTJpcpgM.jpg" group-title="Movies | VOD SAGAS",Miedo en la ciudad de los muertos vivientes (1980)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32682.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/oMmmvLEDZ4i8GcipGLKdP9GuknY.jpg" group-title="Movies | VOD SAGAS",VOD | The Gates of Hell (1981)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32683.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD SAGAS",VOD The Gates of Hell (1981) 3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61o4ewjOsGfhQ3wRSmKa2tzhtWD.jpg" group-title="Movies | VOD SAGAS",The Gates of Hell (2008)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32684.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMCX1MJP5GVpWjT5ESUINnRlpFO.jpg" group-title="Movies | VOD SAGAS",VOD | Hannibal (2001)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg" group-title="Movies | VOD SAGAS",Hannibal (2001)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32688.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg3H6nw9l90QSeMTbNtQqTEkCVR.jpg" group-title="Movies | VOD SAGAS",VOD | El dragón rojo (2002)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6wmFX2hY3GS1rWpCwh5MnsMzLa.jpg" group-title="Movies | VOD SAGAS",El dragón rojo (2002)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32689.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBSUWlTvQqUznqTayvKQvTpcTTP.jpg" group-title="Movies | VOD SAGAS",VOD | Hannibal, el origen del mal (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfIIQ5lMbqpCa3UQCwHVieLRpyE.jpg" group-title="Movies | VOD SAGAS",Hannibal, el origen del mal (2007)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32690.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHZ3HmN294z2ri1KyWFwBORFOd7.jpg" group-title="Movies | VOD SAGAS",VOD | La historia interminable (1984)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32692.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmxZK2By8BsHrfGOlEERIX4TYRA.jpg" group-title="Movies | VOD SAGAS",VOD | La historia interminable II: El siguiente capítulo (1990)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32693.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83V6bGrEYtS46JZFbFZA5bL8hJL.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones y el reino de la calavera de cristal (2008)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32694.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones y el templo maldito (1984)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32695.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwxx2jsnyiAP2F4tPhj6vwbhxbc.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones en busca del arca perdida (1981)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tECLVwLCMexSkls33RTCwedRZ6d.jpg" group-title="Movies | VOD SAGAS",En busca del arca perdida (1981)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32696.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osKZUgKRUK1jwYMdsmlevK7zZIY.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones y la última cruzada (1989)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32697.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88ZImNfgY5r4lk4LBYGR6GhSRj.jpg" group-title="Movies | VOD SAGAS",VOD | Mortal Kombat (1995)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQA2tNUex9usFP4Tp6NEuZNGtxN.jpg" group-title="Movies | VOD SAGAS",Mortal Kombat (1995)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32702.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/juGjTFMKGNae5tWmK5DeokBWm3d.jpg" group-title="Movies | VOD SAGAS",VOD | Mortal Kombat: Aniquilación (1997)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wImgbIw8knn5WQvvqV5wdnIHdWn.jpg" group-title="Movies | VOD SAGAS",Mortal Kombat: Aniquilación (1997)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32703.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/288caNEFA7Sct7rq9CWvIyG0GGD.jpg" group-title="Movies | VOD SAGAS",VOD | UNA PAREJA EXPLOSIVA (1998)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQjBF386gMhiaQucVWwQYdtJ22s.jpg" group-title="Movies | VOD SAGAS",Hora punta (1998) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32704.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fidshYJvqZpNl2vy0KTOqHb6JTq.jpg" group-title="Movies | VOD SAGAS",VOD |  UNA PAREJA EXPLOSIVA  2 (2001)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/no3uHLYK0lQyjXiIXIj82fgUsZX.jpg" group-title="Movies | VOD SAGAS",Una pareja explosiva 2 (2001)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32705.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOxPbMJ3DpdDWt8J93DQZxpHJpq.jpg" group-title="Movies | VOD SAGAS",VOD | UNA PAREJA EXPLOSIVA 3 (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwtdRkBWtKfoSClaOJwxHq8Xa2b.jpg" group-title="Movies | VOD SAGAS",Una pareja explosiva 3 (2007)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32706.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn1sNctXEHzAhTXxfSLYBTeYeuM.jpg" group-title="Movies | VOD SAGAS",VOD | The Purge: La noche de las bestias (2013)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32707.mkv
@@ -22674,13 +22618,13 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32708.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32709.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aO1DumNAMId7aYZyWScDRx4AQfu.jpg" group-title="Movies | VOD SAGAS",VOD | La primera purga: La noche de las bestias (2018)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32710.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOUvF7SgljMXevnQVLYWHpwxEh7.jpg" group-title="Movies | VOD SAGAS",VOD | Retroceder nunca, rendirse jamás (1986)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSPeec7sDXl0JBvCtJtVThbIP.jpg" group-title="Movies | VOD SAGAS",Retroceder nunca, rendirse jamás (1986)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32711.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UTsG7Sdfk4MFQEUAVVMSMo6NOc.jpg" group-title="Movies | VOD SAGAS",VOD | Retroceder nunca, rendirse jamás 2 (1987)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32712.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUJxZGtmN2QcZ1IwRkOiJeiK8to.jpg" group-title="Movies | VOD SAGAS",VOD | Retroceder nunca, rendirse jamás 3 (1990)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32713.avi
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gRFlHtO3KdOCgEDhdiNJ37XcnT.jpg" group-title="Movies | VOD SAGAS",VOD |  Retroceder Nunca Rendirse Jamas 4 Contacto sangriento (1988)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnMZfM9CAlGwS8NMNRFRbxJAVOx.jpg" group-title="Movies | VOD SAGAS",Retroceder nunca rendirse Jamas 4 Contacto sangriento (1988)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32714.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isdwhJBofO6VDta7BbnxoWpqpQ9.jpg" group-title="Movies | VOD SAGAS",VOD | Retroceder Nunca Rendirse Jamas 5 El Rey de los kickboxers (1990)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32715.avi
@@ -22698,9 +22642,9 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32720.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32721.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8Vc8pyJSLPF9dy6vHXLtjYZuzD.jpg" group-title="Movies | VOD SAGAS",VOD  | RoboCop 2 (1990)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32722.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOM4ICsjAYtWJaWqNKPzWxSwnUa.jpg" group-title="Movies | VOD SAGAS",VOD | RoboCop 3 (1993)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEPpCbdh5UKspPgaH57SFzFJYw.jpg" group-title="Movies | VOD SAGAS",RoboCop 3 (1993)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32723.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7afwTQGFmr0E2GsRJRG6rX6AJJG.jpg" group-title="Movies | VOD SAGAS",VOD | RoboCop 4 (2014)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg" group-title="Movies | VOD SAGAS",RoboCop  4 (2014)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32724.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDfjkGzvYR4fx93imv5ATFGtOJB.jpg" group-title="Movies | VOD SAGAS",VOD | Spy Kids (2001)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32725.mkv
@@ -22708,9 +22652,9 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32725.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32726.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dftDqaerDT6xAxfk5pRHZGHeEql.jpg" group-title="Movies | VOD SAGAS",VOD | Spy Kids 3-D: Game Over (2003)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32727.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LgUKPYeBSlKaDqaXJ5fhMX2kjj.jpg" group-title="Movies | VOD SAGAS",VOD | Spy Kids 4: Todo el tiempo del mundo (2011)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJSznRfsweT1PymjPUFjYxcm2iD.jpg" group-title="Movies | VOD SAGAS",Spy Kids 4: Todo el tiempo del mundo (2011)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32728.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCtBzC4gMRPljKC1aKe5UhHz2pe.jpg" group-title="Movies | VOD SAGAS",VOD | Tiburón 2 (1978)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQgHcjBWzjCvdfFNY6PGMEzMN93.jpg" group-title="Movies | VOD SAGAS",Tiburón 2 (1978)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32730.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OrqOCcMb2fH7TQYXXU7vdhhEh0.jpg" group-title="Movies | VOD SAGAS",VOD | Tiburón 3-D: El Gran Tiburón (1983)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32731.mkv
@@ -22726,20 +22670,12 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32735.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32736.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a28e96a529c58db1e7676b157f459b36.jpg" group-title="Movies | VOD SAGAS",VOD | V/H/S/2 (2013) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32737.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2m9S6Y4HN7Ig5NuhHL9LtNYjJ5.jpg" group-title="Movies | VOD SAGAS",VOD | Viaje al centro de la Tierra (2008)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfZQzTXaHQ6m517Q4la8p7D1AJn.jpg" group-title="Movies | VOD SAGAS",Viaje al centro de la Tierra (2008)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32738.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAy2yUav8QPnDzfOGihNI527NjY.jpg" group-title="Movies | VOD SAGAS",VOD | Viaje al centro de la Tierra 2: La isla misteriosa (2012)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32739.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/cbd2f177c6cf26575329f757b61527ef.jpg" group-title="Movies | VOD SAGAS",VOD | Dos Policias rebeldes para siempre  (Bad boys III) (2020) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/34024.mp4
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f3263a92dd402c7c1f475770a79aa4c4.jpg" group-title="Movies | VOD SAGAS",VOD |  Crepúsculo: Luna nueva (2009)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35669.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" group-title="Movies | VOD SAGAS",VOD |  Crepúsculo: Eclipse (2010)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35670.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/3402204b750fd8c9c8dda72847eedbf9.jpg" group-title="Movies | VOD SAGAS",VOD |  Crepúsculo:  Amanecer - Parte 1 (2011)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35671.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPB3rQx0oBOmj5CHZxLWgexo5nS.jpg" group-title="Movies | VOD SAGAS",VOD | Crepúsculo:  Amanecer - Parte 2 (2012)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35672.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/34d22d4a2c8ff48c1075db610068fe39.jpg" group-title="Movies | VOD SAGAS",VOD | Resident Evil (2002)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/36962.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/5cf9cd5314331a65fa5fac9d014622f8.jpg" group-title="Movies | VOD SAGAS",Resident Evil 2: Apocalipsis (2004)
@@ -22750,32 +22686,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/36965.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/36966.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/ecc64e749cedecdedaa6fe4589f00920.jpg" group-title="Movies | VOD SAGAS",VOD | Resident Evil 6: El capítulo final (2016)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/36967.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a0299bc0c63ac15b1a735c4ef45b7331.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado II: Aventuras en el gran valle (1994)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37081.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/fa488e30d389831e6a9027792d3da311.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado III: La fuente de la vida (1995)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37082.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/54f3df42a9b168d983482b7fbb221d7c.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado IV: Viaje a la tierra de las brumas (1996)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37083.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/0dbae7e01fb259752795c14f8cc86ec8.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado V: La isla misteriosa (1997)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37084.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/2526e9c50893bca791bc2f24d1f21384.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado VI: El secreto de la roca del saurio (1998)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37085.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/15c4aea3699776b154484d04481680e5.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado VII: La misteriosa piedra de fuego (2000)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37086.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/61f4421668ac3bcacbe9885a468b66c8.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado VIII: La gran helada (2001)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37087.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a051e564a4d4e1f1f71a37f7bfa90b31.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado IX: Travesía a los océanos (2002)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37088.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/2e8b99b7266800c4a902ed27466562cd.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado X: El viaje de los Cuellilargos (2003)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37089.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/02a0cd4c988e2b285913d1d55178101b.jpg" group-title="Movies | VOD SAGAS",VOD  | En busca del valle encantado XI: La invasión de los Diminusaurios (2005)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37090.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/0b66a4d8dd66cda33d6a98381e83d2a2.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado XII: El gran día de los voladores (2006)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37091.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/e9dc80608074758cd6ac14f4e1d89f34.jpg" group-title="Movies | VOD SAGAS",En busca del valle encantado XIII: La sabiduría de los amigos (2007)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37092.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/d488742ed1aa1cfa36358f30963a673f.jpg" group-title="Movies | VOD SAGAS",VOD | En busca del valle encantado XIV: Viaje de los valientes (2016)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37093.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTshd9hjQMWyRijWucqszKPrp5z.jpg" group-title="Movies | VOD SAGAS",Busqueda implacable (2008)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/37845.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg" group-title="Movies | VOD SAGAS",VOD | busqueda implacable 2: Conexión Estambul (2012)
@@ -22830,7 +22740,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/39515.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/39516.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mw8Y0JNGhFmqHTGKfVqnMkT8ni5.jpg" group-title="Movies | VOD SAGAS",VOD | Bond 007 2 : Desde Rusia con amor (1963) LAT
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/39542.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD SAGAS",VOD | Bond 007 1 : Dr. No [LAT] (1962)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51Sy8Uu8Qwz6WWeqY17zHqXZU5d.jpg" group-title="Movies | VOD SAGAS",Agente 007 contra el Dr. No (1962)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/39543.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lDytIehZXJUD56K0XbwpfQoVnZ.jpg" group-title="Movies | VOD SAGAS",VOD | Bond 007 3: contra Goldfinger (1964)lat
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/39544.mp4
@@ -22894,26 +22804,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/39608.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/41673.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aRQlzp1CttwSDgHOKGy1TrLPpL.jpg" group-title="Movies | VOD SAGAS",VOD | Los mercenarios 3 (2014)DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42307.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fW40zcV28r5I9QCmVHYEYOLSDv3.jpg" group-title="Movies | VOD SAGAS",VOD | Temblores (1990)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42879.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGogIG6BHjoKnKJTRnFA5YwmFu0.jpg" group-title="Movies | VOD SAGAS",VOD | Temblores 2: La respuesta (1996)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42880.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg" group-title="Movies | VOD SAGAS",VOD | Temblores 3: Regreso a Perfección (2001)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42881.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjNWXlOnL85gkmW404OvAxGXtj.jpg" group-title="Movies | VOD SAGAS",VOD | Temblores 4: Comienza la leyenda (2004)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42882.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2kxo6yzwYvqUOGOBjXTaO8oYQ.jpg" group-title="Movies | VOD SAGAS",VOD | Temblores 5: El legado (2015)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42883.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2YZnTT9zdxRdXBKRb0K7BoM0jF.jpg" group-title="Movies | VOD SAGAS",VOD | Temblores 6: Un día en el infierno (2018)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42884.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yajm5msn3odl3C9rPMDFdxRNMZz.jpg" group-title="Movies | VOD SAGAS",VOD | La profecía (1976)LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42963.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdWeOABphiRLK3OobCH7cK8jMV5.jpg" group-title="Movies | VOD SAGAS",VOD | LA PROFECIA 2 (1978)LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42964.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4eOyQAKBS6ZpJWCcNldZuoSv9t.jpg" group-title="Movies | VOD SAGAS",VOD | La Profecia 3 (1981)LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42965.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yGNNDIPyFzrPisfv7trpqHsQaT.jpg" group-title="Movies | VOD SAGAS",VOD | La profecía 4: El renacer (1991LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42966.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DGmWZjUJPeKGFRHGCA6VPFUBML.jpg" group-title="Movies | VOD SAGAS",VOD | High School Musical (2006)dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/42967.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la2kiVWDm2vuB4APZDgCCmuBh4K.jpg" group-title="Movies | VOD SAGAS",VOD | High School Musical 2 (2007)dual
@@ -22973,22 +22863,20 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/43005.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9RFv2Ulev2lpnQVDHEcTVFon7v.jpg" group-title="Movies | VOD SAGAS",VOD | Viernes 13. 6ª parte: Jason vive (1986)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/43006.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoahbWHgcnqOLqGds4pDHGcBbIV.jpg" group-title="Movies | VOD SAGAS",VOD | Viernes 13  12 (2009)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/43007.avi
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/43007.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/172a97ece3060a917fabd86c3f1e3454.jpg" group-title="Movies | VOD SAGAS",VOD | Mad Max 2: El guerrero de la carretera (1981) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/43172.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f01c792f4258f4e7c14fbd07b43f6db8.jpg" group-title="Movies | VOD SAGAS",VOD | Mad Max 3: Más allá de la cúpula del trueno (1985) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/43173.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="Movies | VOD SAGAS",VOD| Jurassic park (1993) op2
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/47739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMNnrjCFRIczAVNINTNtxKgAbff.jpg" group-title="Movies | VOD SAGAS",VOD | Predator 4 (2018) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/47962.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg" group-title="Movies | VOD SAGAS",VOD | El rey Escorpión (2002)dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49704.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sifKzZSF0slc353Q3c02YmUTFtF.jpg" group-title="Movies | VOD SAGAS",VOD | El rey Escorpión 2: El nacimiento del guerrero (2008)dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49705.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sifKzZSF0slc353Q3c02YmUTFtF.jpg" group-title="Movies | VOD SAGAS",VOD | El rey Escorpión 2: El nacimiento del guerrero (2008)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49705.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S35RXhpva5hfXYTvPGLzQmqhdy.jpg" group-title="Movies | VOD SAGAS",VOD  | El rey Escorpión 3: Batalla por la redención (2012)dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49706.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" group-title="Movies | VOD SAGAS",VOD | El rey Escorpión 4: La búsqueda del poder (2015)LAT
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" group-title="Movies | VOD SAGAS",VOD | El rey Escorpión 4: La búsqueda del poder (2015)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49707.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/919Xf5NshBIKuj4HP2XkGIfNaCF.jpg" group-title="Movies | VOD SAGAS",Paranormal Activity (2007) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49708.mkv
@@ -23002,26 +22890,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49711.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49712.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vtmCckiI4fsYZkjmHJc1CZmVqH.jpg" group-title="Movies | VOD SAGAS",VOD | Paranormal Activity 6 (2015)dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49713.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIWDeijkYl5kqA8hjtsE7yx2DRm.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 1 (1987)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49714.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS7qm6Tosxs0Q5o1b62C9nVbOqQ.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 2 (1988)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49715.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqCMW3xR6eTyti5ybNIq93owWDX.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 3 (1992)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49716.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iDJa6KyO6C2rPrWHhjzqToDxoW.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 4 (1996)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49717.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pymwF2VfUubRqkYJLkH5Bt8U0Dn.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 5  (2000)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49718.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLfl70jxxJrEqfzjlsG9kglqJp3.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 6  (2002)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49719.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odDvTVD7hzN316WUAUkGmG5Q2O7.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 7 (2005)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49720.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyeet52vADTNTw9X29e2AnSv49r.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 8 (2005)DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49721.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYlSoysJVSvfKhMMKB6PLbXuWUK.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 9  (2018)LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49722.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvHvlulvXvGV6ouEsOesOEYX8Jk.jpg" group-title="Movies | VOD SAGAS",VOD | Hellraiser 10 (2011)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49723.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg" group-title="Movies | VOD SAGAS",VOD | Pesadilla en Elm Street 2: La venganza de Freddy (1985)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49734.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zUOyVY0cvDHOOUGr3k2bXrN9L0.jpg" group-title="Movies | VOD SAGAS",VOD | Pesadilla en Elm Street 3: Los guerreros del sueño (1987)
@@ -23038,20 +22906,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49739.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49740.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecA41dJgUMeYGzwccDSno4Q2ZX5.jpg" group-title="Movies | VOD SAGAS",VOD | Hannibal 4 el origen del mal (2007)DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/49741.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/c51800c6021d50bd7c93077059e4470e.jpg" group-title="Movies | VOD SAGAS",VOD | Arma letal 3 (1992)  dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57672.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/881e93f74d4701bb126db306abb34168.jpg" group-title="Movies | VOD SAGAS",VOD | Arma letal 2 (1989) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57673.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/45ac3d4e2e0c2392566b4fda6950c5ad.jpg" group-title="Movies | VOD SAGAS",VOD | Arma letal 4 (1998) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57674.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/928d11e4d7b8b4875f700de61e7520a4.jpg" group-title="Movies | VOD SAGAS",VOD | Arma MORTAL (1987)LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57675.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yajm5msn3odl3C9rPMDFdxRNMZz.jpg" group-title="Movies | VOD SAGAS",VOD | La profecía (1976)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57676.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg" group-title="Movies | VOD SAGAS",VOD | La profecia 2  (1978)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57677.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7fhHVUEstLH6jeiDS17W9RcUH5.jpg" group-title="Movies | VOD SAGAS",VOD | La profecia 3 (1981)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57678.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg" group-title="Movies | VOD SAGAS",VOD | Pesadilla en Elm Street (El origen) (2010)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/59329.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvrs4RU6zSFzcRWdqZFWsGUAsOS.jpg" group-title="Movies | VOD SAGAS",VOD | Star Trek 1 : La película (1979)
@@ -23082,16 +22936,10 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/59789.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/59790.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYMKdE8cDgKIHuMGJSq67LkttGo.jpg" group-title="Movies | VOD SAGAS",VOD | Pesadilla en Elm Street (1984)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60437.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movies | VOD SAGAS",VOD | Rapidos y furiosos: Hobbs & Shaw (2019) ) (spin-off) dual
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KHGWvWDfMa8enQqezGim3aMBQw.jpg" group-title="Movies | VOD SAGAS",Fast & Furious: Hobbs & Shaw (2019)spin
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/66245.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/52545a67bbefa4728c301d9795e651af.jpg" group-title="Movies | VOD SAGAS",VOD | Death Race: La carrera de la muerte 1 (2008) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/68224.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/ac226bab6f73663b6ad1ef4c86a14ea2.jpg" group-title="Movies | VOD SAGAS",VOD | Death Race 2 (La carrera de la muerte: el origen) 2010 SUB
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/68225.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/a7bc3db12934406eee79040da6a0d110.jpg" group-title="Movies | VOD SAGAS",VOD | Death Race 3 (La carrera de la muerte. Inferno) 2013 DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/68226.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/1232d59417a2d1c7795d7c88cbbb7c33.jpg" group-title="Movies | VOD SAGAS",Death Race 4 : Beyond Anarchy (2018) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/68227.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/a8096edac6c60607f4505e8598d78228.jpg" group-title="Movies | VOD SAGAS",VOD | Baztán 1 |  El guardián invisible (2017)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/79490.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/6c825c974e56463e40ce8c579a9f5249.jpg" group-title="Movies | VOD SAGAS",VOD | Baztán 2  | Legado en los huesos (2919)
@@ -23108,10 +22956,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/84359.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/84360.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/364c74f9ad4ee7e3cde4aa9e5924a20a.jpg" group-title="Movies | VOD SAGAS",VOD | 6. Alien: Covenant (2017) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/84362.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/42e4d5a4642a08c6783d5466cc73684d.jpg" group-title="Movies | VOD SAGAS",VOD | Liberad a Willy (1993) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/84375.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/9879af851899ce467211602018b99a11.jpg" group-title="Movies | VOD SAGAS",VOD | Liberad a Willy 2 (1995) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/84376.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a134642de8b61fe6cbde8073148587bb.jpg" group-title="Movies | VOD SAGAS",VOD | Underworld (2003) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/88363.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/07ac9517412c206bf77b7fe99ecafc0b.jpg" group-title="Movies | VOD SAGAS",VOD | Underworld: Evolution (2006) DUAL
@@ -23192,8 +23036,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/105596.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/105597.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/b8966ebea3969aab80eb08fdf4e18dac.jpg" group-title="Movies | VOD SAGAS",VOD | Spiral: Saw IX (2021) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/105598.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f80837d5c6da9c3aa56b4623eebe7bbd.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones y la última cruzada (1989) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/106053.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/2e5446d67f9b477414e36bfe20d9ace9.jpg" group-title="Movies | VOD SAGAS",VOD | 1. The Bourne Identity: El caso Bourne (2002) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/114810.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/61b7ebe1c45aa8e6d18ed07c924330c0.jpg" group-title="Movies | VOD SAGAS",VOD | 2. El mito de Bourne (2004) DUAL
@@ -23204,10 +23046,14 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/114812.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/114813.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/c61cb21470748efa5bd81b50bfa502e2.jpg" group-title="Movies | VOD SAGAS",VOD | 5. Jason Bourne (2016) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/114814.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/1cf7d11b9232139b126960a22befa3e7.jpg" group-title="Movies | VOD SAGAS",VOD | El grito (2004) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/115547.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/6c4fea12928ffad48a4b24cd9f044634.jpg" group-title="Movies | VOD SAGAS",VOD | El grito 2 (2006) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/115548.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/91b073dc15d193f60c32b10bf1f4efd4.jpg" group-title="Movies | VOD SAGAS",VOD | El grito 3 (2009) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/115549.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/efd07c1ba4d846fea426fafe6b853283.jpg" group-title="Movies | VOD SAGAS",VOD | V/H/S/99 (2022) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/123927.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/bb3db3471c33458f0967956edfc290c7.jpg" group-title="Movies | VOD SAGAS",Crepúsculo (2008)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/131378.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/7f05829b8c8136dd0f43631a07972d0b.jpg" group-title="Movies | VOD SAGAS",VOD |  Rapidos y furiosos 10  (2023)  1080p DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/154990.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/aceb4790c2a55c92ddf807ef7f7d71aa.jpg" group-title="Movies | VOD SAGAS",VOD | La momia (1999) dual
@@ -23216,10 +23062,10 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/158233.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/158234.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/1e51f8e046ee0333aaa5388a8b10c16e.jpg" group-title="Movies | VOD SAGAS",VOD | La momia: La tumba del emperador Dragón (2008) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/158235.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/4ea0fb9df82db2a83e5c009510bcb620.jpg" group-title="Movies | VOD SAGAS",VOD | Misión imposible 2 (2000) REMASTERIZADO  Blu-ray 1080p dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/167402.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/19c0dacf59f65bba1ac8a4317a60db58.jpg" group-title="Movies | VOD SAGAS",VOD | Misión imposible (1996) REMASTERIZADO Blu-Ray 1080p dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/167403.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/4ea0fb9df82db2a83e5c009510bcb620.jpg" group-title="Movies | VOD SAGAS",VOD | Misión imposible 2 (2000) REMASTERIZADO  Blu-ray 1080p dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/167402.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/75e9fb1ecb4605c543ed4dc64525a4d2.jpg" group-title="Movies | VOD SAGAS",VOD | Misión imposible 3 (2006) REMASTERIZADO Blu-Ray 1080p dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/167404.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/bb0f8fad5cb59431891540346bdf9739.jpg" group-title="Movies | VOD SAGAS",VOD | Misión imposible: Protocolo fantasma (2011) Blu-Ray 1080p dual
@@ -23238,6 +23084,8 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/173548.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/173549.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/bc4cf4c2ee8aea181e54816ef7193e25.jpg" group-title="Movies | VOD SAGAS",VOD | Scanners 5: Scanner Cop 2 (1995) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/173550.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/df5af27f8bb6c45b812ddfe53dfa913a.jpg" group-title="Movies | VOD SAGAS",VOD | Saw X (2023) FINAL (dual)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/174348.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/96f3943cd26067b5f285a20ff3c20273.jpg" group-title="Movies | VOD SAGAS",VOD | El exorcista (1973) DUAL s
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/175129.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/17abf4f4bf9c0e73ec49617bfb235169.jpg" group-title="Movies | VOD SAGAS",VOD | V/H/S: Viral (2014) SUB
@@ -23290,12 +23138,12 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/197053.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/197735.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/b405c0718fb986f9aff60455407bd34e.jpg" group-title="Movies | VOD SAGAS",VOD | Superman II (1980) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/197736.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/bb9ade802cb47248dead60f35fe193ca.jpg" group-title="Movies | VOD SAGAS",VOD | Superman III (1983) LA
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/197739.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/b6184ec42f805e736d3c688803e87ff2.jpg" group-title="Movies | VOD SAGAS",VOD | Superman IV: En busca de la paz (1987) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/197737.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/971d0b0915ad782a75bd094da9940697.jpg" group-title="Movies | VOD SAGAS",VOD | Superman Returns: El regreso (2006) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/197738.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/bb9ade802cb47248dead60f35fe193ca.jpg" group-title="Movies | VOD SAGAS",VOD | Superman III (1983) LA
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/197739.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/00d32d090d0e106bb2efd8129f0ee940.jpg" group-title="Movies | VOD SAGAS",VOD | El planeta de los simios (1968) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/200523.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/b1d11d1b8905269406b66b2b60117b5c.jpg" group-title="Movies | VOD SAGAS",VOD | Regreso al planeta de los simios (1970) dual
@@ -23358,10 +23206,224 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/208961.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/208962.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/8b84d7b3619a13b92aa2091ea3f59d5f.jpg" group-title="Movies | VOD SAGAS",VOD | Agárralo como puedas 33 1/3: el insulto final (1994) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/208963.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ExFaxmvlGxBmUBVKv9ey94fNyy.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy: The Crooked Man (2024) Final (DUAL)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/213269.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PWLsq6g52HqBMVJPVj64Q77p1L.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy (2004) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/217359.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7LObtoON3jwa2aOrLgIeTnba2z.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy II: El ejército dorado (2008) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/217360.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dLwRfMIKvrufKiJADKbTGdAoqN.jpg" group-title="Movies | VOD SAGAS",VOD | Hellboy (2019) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/217361.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yLy7EFXU3CKULLDWzR0L6XmmSi.jpg" group-title="Movies | VOD SAGAS",Bailando (Step Up) (2006) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253851.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emRJx4qxG2DMtrEPH1vWDvee9Mm.jpg" group-title="Movies | VOD SAGAS",Street dance (Step Up 2) (2008) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253852.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i5tn8G9zm7wMz9p1kB6zS2woMH.jpg" group-title="Movies | VOD SAGAS",Step Up 3 -  (2010) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253853.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMpwxmk3r7Aq36GcqMbCuP9DJYQ.jpg" group-title="Movies | VOD SAGAS",Step Up 4 Revolution (2012) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253854.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XFIl3s7wiWOSWdZ4uyFwTOP0hX.jpg" group-title="Movies | VOD SAGAS",Step Up 5 - All In (2014) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253855.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DQvNzUFjKj3pfbBNsMl1UJKTzp.jpg" group-title="Movies | VOD SAGAS",Step Up 6 : China (2019) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/253856.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg" group-title="Movies | VOD SAGAS",Transformers (2007)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348174.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg" group-title="Movies | VOD SAGAS",Transformers: La venganza de los caídos (2009)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348175.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMqXNNgzTaxalU1ve9KevpELiGe.jpg" group-title="Movies | VOD SAGAS",Transformers: El lado oscuro de la luna (2011)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348176.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXEBnMqFwTJCrddVhknCH9fq3fB.jpg" group-title="Movies | VOD SAGAS",Transformers: El último caballero (2017)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348178.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owqV5Qo2DMMomfB1fS6xYWv3yEh.jpg" group-title="Movies | VOD SAGAS",Transformers: La era de la extinción (2014)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348179.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMqXNNgzTaxalU1ve9KevpELiGe.jpg" group-title="Movies | VOD SAGAS",Transformers: El lado oscuro de la luna (2011)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348180.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzEIlhHivIcpKhKVOkb61eBz2Mv.jpg" group-title="Movies | VOD SAGAS",Transformers: La venganza de los caídos (2009)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348181.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GdQs5bc8feiPhgLZYOZ8fs8gsu.jpg" group-title="Movies | VOD SAGAS",Beethoven: Uno más de la familia (1992)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348182.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMjoADYBQHNIy3UdufxayFwCB2S.jpg" group-title="Movies | VOD SAGAS",Beethoven 2: La familia crece (1993)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348183.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1se0w1IwJj7APH94qwbnmgnHjI.jpg" group-title="Movies | VOD SAGAS",Beethoven 3: De excursión con la familia (2000)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348184.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvw8mJlEjxvBggoiAbiPkXfvbFO.jpg" group-title="Movies | VOD SAGAS",Beethoven 4: Enredo en la familia (2001)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348185.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyV3eGe7WmRr7Dai2BeWq33J1df.jpg" group-title="Movies | VOD SAGAS",Beethoven 5: El perro buscatesoros (2003)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348186.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6BFaobIdGWQhYI1uiq9gmY4FBq.jpg" group-title="Movies | VOD SAGAS",Beethoven: La gran oportunidad (2008)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348187.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9lB7wV0TGsuKsDj3JrlgegyIdh.jpg" group-title="Movies | VOD SAGAS",Beethoven: Aventura de navidad (2011)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348188.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iORmyini1D3QwDkuTGYBYomskfc.jpg" group-title="Movies | VOD SAGAS",Beethoven: La búsqueda del tesoro (2014)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348189.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAvUp7ngPyuhx1nLjmCOTCBNo91.jpg" group-title="Movies | VOD SAGAS",After: Almas perdidas (2021)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348190.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcI9BD5kMmVI45Pzj5B1ZaGpFIR.jpg" group-title="Movies | VOD SAGAS",After: Amor infinito (2022)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348191.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kZxlS9vLExy3hZA5GfNFg8oJgZ.jpg" group-title="Movies | VOD SAGAS",After: Aquí empieza todo (2019)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348192.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nPw22C41EUWXREWmY9iIivMXxm.jpg" group-title="Movies | VOD SAGAS",After: En mil pedazos (2020)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348193.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jO3VGQi5sHIj2BGS963g1F74yCq.jpg" group-title="Movies | VOD SAGAS",After: Aquí acaba todo (2023)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348194.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KffN0UcuAKJdUAcOvZ21OrqXc8.jpg" group-title="Movies | VOD SAGAS",Boogeyman: La puerta del miedo (2005)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348199.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zPtDUBYzbbTnTsLXIfoOHGg8Gux.jpg" group-title="Movies | VOD SAGAS",Boogeyman 2 (2007)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348200.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOCBPiNeQ7tPuQDwxapNYuSLKT5.jpg" group-title="Movies | VOD SAGAS",Boogeyman 3 (2008)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348201.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzaEJ68gtZZ6cPqffUkAl56x223.jpg" group-title="Movies | VOD SAGAS",The Boogeyman (2023)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348202.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi7yCzIPFek5tLY4coe4178SANJ.jpg" group-title="Movies | VOD SAGAS",Cucuy: The Boogeyman (2018)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348203.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx39ZISsvHJW1K0dIfoDD6tOOfo.jpg" group-title="Movies | VOD SAGAS",Carrie (1976)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348204.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHEyEjAS4ch8snfWh4WLZrZ2ZWw.jpg" group-title="Movies | VOD SAGAS",Carrie (2002)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348205.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJX62lKNQAzowhAsHLGqp9yzuNN.jpg" group-title="Movies | VOD SAGAS",Carrie (2013)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348206.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0Msbpvpe6yuvIUCyJuBbQ9UhUj.jpg" group-title="Movies | VOD SAGAS",Cocodrilo Dundee (1986)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348207.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNKpKq8Ugx9NytDcnI1kb58mFSF.jpg" group-title="Movies | VOD SAGAS",Cocodrilo Dundee II (1988)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348208.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cruYZMxJdoMY23cR71J2QssFqm4.jpg" group-title="Movies | VOD SAGAS",Cocodrilo Dundee en Los Ángeles (2001)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348209.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg" group-title="Movies | VOD SAGAS",Dragonheart: Vengeance (2021)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348211.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OsZhXvfY3yCrdnQ8Su3SwndYeV.jpg" group-title="Movies | VOD SAGAS",Dragonheart (Corazón de dragón) (1996)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348212.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9qdSmhab3Zit9Xy8deMVrKrb3U.jpg" group-title="Movies | VOD SAGAS",Dragonheart 3: La maldición del brujo (2015)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348213.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8c8DTXDdpSK6PytaoNgImR2ZFY.jpg" group-title="Movies | VOD SAGAS",Dragonheart 2: Un nuevo comienzo (2000)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348214.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuhWzb39UawF0dQnfEV2tFSdycp.jpg" group-title="Movies | VOD SAGAS",Dragonheart 4: Corazón de fuego (2017)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348215.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MlSXoMpKFi7moXHvAgCAHAT1Wd.jpg" group-title="Movies | VOD SAGAS",Critters (1986)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348216.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SDQYB3QEyQWLav7OnxzrhROBmg.jpg" group-title="Movies | VOD SAGAS",Critters 2 (1988)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348217.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frjklbq23pRgBjhekEq6drQkrZm.jpg" group-title="Movies | VOD SAGAS",Critters 3 (1991)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348218.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1Xio02tnxgyFA9PnlP2OSCIK2C.jpg" group-title="Movies | VOD SAGAS",Critters 4 (1992)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99VBWFq4ekkP2kjIkYaUH8YSbyx.jpg" group-title="Movies | VOD SAGAS",Mandíbulas (1999)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348221.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J7sNLEEeIO40gVWQxNLuDaahQY.jpg" group-title="Movies | VOD SAGAS",Cocodrilo 2: Aguas sangrientas (2002)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348222.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDonCwTd0yWw52cwuwPCYwLRKAP.jpg" group-title="Movies | VOD SAGAS",Mandíbulas 3 (2010)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348223.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiKZELy3QivFVVSuHOAJtYNAwaS.jpg" group-title="Movies | VOD SAGAS",Mandíbulas 4: El capítulo final (2013)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348220.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNK2NgDf3MPBRbBBmucKOPuBZbb.jpg" group-title="Movies | VOD SAGAS",Mandíbulas contra Anaconda (2015)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348225.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="Movies | VOD SAGAS",Mandíbulas 6: El legado (2018)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348224.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngM6WtSC1bzcST3QzbCiDYsxo7E.jpg" group-title="Movies | VOD SAGAS",Cube (1998)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348226.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gN5jiymsQW00AK7ZT2ftM7hVsWD.jpg" group-title="Movies | VOD SAGAS",Cube 2: Hypercube (2002)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348227.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/615Tr0lF3LxYU8vQeyMEwmPPS3f.jpg" group-title="Movies | VOD SAGAS",Cube Zero (2004)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348228.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKlDrFiPJ6twicw6u9JdoSLduYJ.jpg" group-title="Movies | VOD SAGAS",Species II (Especie mortal II) (1998)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348231.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0PqYmWmTXQETaoR5b0fsWkdMyw.jpg" group-title="Movies | VOD SAGAS",Species III (Especie mortal III) (2005)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348232.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYWGq17sQ2Th0v77tVK6yteA37P.jpg" group-title="Movies | VOD SAGAS",Species IV: El despertar (2007)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348233.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lg9kkaKc53vZd1tqiuc2lmf0bp.jpg" group-title="Movies | VOD SAGAS",Species (Especie mortal) (1995)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348234.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnWh57WYf8YpXm1tN5SvoFNJQn0.jpg" group-title="Movies | VOD SAGAS",La revancha de los novatos 2  (1987) 720p Lat
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348241.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70Kbw3BcOAdfqzGIRbFGwK9vbNa.jpg" group-title="Movies | VOD SAGAS",La revancha de los novatos III (1992)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348242.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw8RxjwBCgj1Lk2BgZnB7uAtbTG.jpg" group-title="Movies | VOD SAGAS",La revancha de los novatos IV (1994)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348243.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBKRKu3srnTqiEITXOUSLperhKP.jpg" group-title="Movies | VOD SAGAS",Hostel (2006)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348244.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkXPu3wyhKRyooYjO0GqKYE9nPh.jpg" group-title="Movies | VOD SAGAS",Hostel 2 (2007)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348245.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upsBscthfBpP7iK0rw2sDTxnkFf.jpg" group-title="Movies | VOD SAGAS",Hostel 3: De vuelta al horror (2011)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348246.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg" group-title="Movies | VOD SAGAS",Wishmaster (1997)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348247.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncxLkFBcJasjw5GHsL7cF6SS4SN.jpg" group-title="Movies | VOD SAGAS",Wishmaster 2: El mal nunca muere (1999)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348248.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wtzK0r5Q0a9NkN5ocv2WmixVKg.jpg" group-title="Movies | VOD SAGAS",Wishmaster 3: La piedra del diablo (2001)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348249.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLaHLsd9vJ8ZHR0bHq3Hwel61og.jpg" group-title="Movies | VOD SAGAS",Wishmaster 4: La profecía (2002)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348250.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfE0u0Th1thZ4slkEtIgvreauh4.jpg" group-title="Movies | VOD SAGAS",Hellraiser: Los que traen el infierno (1987)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348251.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS7qm6Tosxs0Q5o1b62C9nVbOqQ.jpg" group-title="Movies | VOD SAGAS",Hellbound: Hellraiser II (1988)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348252.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqCMW3xR6eTyti5ybNIq93owWDX.jpg" group-title="Movies | VOD SAGAS",Hellraiser III: Infierno en la Tierra (1992)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348253.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCQsVackQil2fl5TzOYrCAI6All.jpg" group-title="Movies | VOD SAGAS",Hellraiser IV: El final de la dinastía sangrienta (1996)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348254.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OfJppmD5cRFgmosXXAxRFcMyrM.jpg" group-title="Movies | VOD SAGAS",Hellraiser V - Inferno (2000)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348255.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXG1Ef113oLRydJS1w2ZoNC8sS1.jpg" group-title="Movies | VOD SAGAS",Hellraiser VI - Hellseeker (2002)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348256.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVeTiZ4aBeiyiFssInq1JYlQrZH.jpg" group-title="Movies | VOD SAGAS",Hellraiser VII - Deader (2005)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348257.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUGniRFNqV3hQA2JBSMawd7gckP.jpg" group-title="Movies | VOD SAGAS",Hellraiser VIII - Hellworld (2005)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348258.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvHvlulvXvGV6ouEsOesOEYX8Jk.jpg" group-title="Movies | VOD SAGAS",Hellraiser IX - Revelation (2011)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348259.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYlSoysJVSvfKhMMKB6PLbXuWUK.jpg" group-title="Movies | VOD SAGAS",Hellraiser: Judgment (2018) sub
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348260.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg" group-title="Movies | VOD SAGAS",Temblores (1990) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348261.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGogIG6BHjoKnKJTRnFA5YwmFu0.jpg" group-title="Movies | VOD SAGAS",Temblores 2: La respuesta (1996) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348262.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg" group-title="Movies | VOD SAGAS",Temblores 3: Regreso a Perfección (2001)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348263.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjNWXlOnL85gkmW404OvAxGXtj.jpg" group-title="Movies | VOD SAGAS",Temblores 4: Comienza la leyenda (2004) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348264.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2kxo6yzwYvqUOGOBjXTaO8oYQ.jpg" group-title="Movies | VOD SAGAS",Temblores 5: El legado (2015) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348265.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2YZnTT9zdxRdXBKRb0K7BoM0jF.jpg" group-title="Movies | VOD SAGAS",Temblores 6: Un día en el infierno (2018) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348266.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IjdhmIVs99V3iiF0Gz6yElsU9p.jpg" group-title="Movies | VOD SAGAS",Temblores 7: Shrieker Island (2020) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348267.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/42e4d5a4642a08c6783d5466cc73684d.jpg" group-title="Movies | VOD SAGAS",VOD | Liberad a Willy (1993) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/84375.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/9879af851899ce467211602018b99a11.jpg" group-title="Movies | VOD SAGAS",VOD | Liberad a Willy 2 (1995) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/84376.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7POi2UyCiQRASsvat2QKYhkp21s.jpg" group-title="Movies | VOD SAGAS",Liberad a Willy 3: El rescate (1997) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/306788.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOmKVohi6yjxBnoP7XvX6tpXR56.jpg" group-title="Movies | VOD SAGAS",Arma letal (1987) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/330332.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/c51800c6021d50bd7c93077059e4470e.jpg" group-title="Movies | VOD SAGAS",VOD | Arma letal 3 (1992)  dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57672.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/881e93f74d4701bb126db306abb34168.jpg" group-title="Movies | VOD SAGAS",VOD | Arma letal 2 (1989) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57673.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/45ac3d4e2e0c2392566b4fda6950c5ad.jpg" group-title="Movies | VOD SAGAS",VOD | Arma letal 4 (1998) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/57674.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLEaz41vKyKY7AgCTGgijLGWzbk.jpg" group-title="Movies | VOD SAGAS",Indiana Jones y el templo maldito (1984) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32697.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones y el templo maldito (1984)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32695.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f80837d5c6da9c3aa56b4623eebe7bbd.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones y la última cruzada (1989) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/106053.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83V6bGrEYtS46JZFbFZA5bL8hJL.jpg" group-title="Movies | VOD SAGAS",VOD | Indiana Jones y el reino de la calavera de cristal (2008)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/32694.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTdozSSr2cTZcioldjfVUbBzhrW.jpg" group-title="Movies | VOD SAGAS",Creed. La leyenda de Rocky (2015) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3185.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t53WEu1Ck7qAMS3theMnQK2N2c.jpg" group-title="Movies | VOD SAGAS",Creed II: La leyenda de Rocky (2018) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3186.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/bb3db3471c33458f0967956edfc290c7.jpg" group-title="Movies | VOD SAGAS",Crepúsculo (2008)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/131378.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/5d899d2299554f1a8393bffb903da759.jpg" group-title="Movies | VOD SAGAS",VOD | Creed III (2023) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/142985.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f3263a92dd402c7c1f475770a79aa4c4.jpg" group-title="Movies | VOD SAGAS",VOD |  Crepúsculo: Luna nueva (2009)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35669.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjfrg4H8sCst4Z5gAW0Asn7506T.jpg" group-title="Movies | VOD SAGAS",VOD |  Crepúsculo: Eclipse (2010)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35670.mkv
+#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/3402204b750fd8c9c8dda72847eedbf9.jpg" group-title="Movies | VOD SAGAS",VOD |  Crepúsculo:  Amanecer - Parte 1 (2011)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35671.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPB3rQx0oBOmj5CHZxLWgexo5nS.jpg" group-title="Movies | VOD SAGAS",VOD | Crepúsculo:  Amanecer - Parte 2 (2012)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/35672.mkv
 
 # --- Movies | VOD SUSPENSO (673) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnME9c2PEtYGBDPO4lZXAVeEu0G.jpg" group-title="Movies | VOD SUSPENSO",La infiltrada (2024) CAST
@@ -24711,7 +24773,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/339683.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/505AFHvK3BoHC2zwWXBWkevRTYF.jpg" group-title="Movies | VOD SUSPENSO",En realidad, nunca estuviste aquí (2017) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/339684.mkv
 
-# --- Movies | VOD TERROR (928) ---
+# --- Movies | VOD TERROR (921) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg" group-title="Movies | VOD TERROR",Noche de bodas (2019) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/298245.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y2SvYTYQeCNoEEOD26wjr3Nx1N.jpg" group-title="Movies | VOD TERROR",Mientras el lobo no está (2017) lat
@@ -24844,8 +24906,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2146.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2154.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/3Xq7QAEL78KJoeDlFM9cOItS1lIbMRSg.jpg" group-title="Movies | VOD TERROR",VOD |  Chucky el muñeco diabolico (2019) LAT
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2159.mp4
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/ywOfUznlkLsAM5zDagJTVxPgpgcUroW1.jpg" group-title="Movies | VOD TERROR",VOD | Critters ¡Al ataque! (2019)LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2161.mp4
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/Jt6vxiPIMImKjnnQLQIfAB4AAJj4kax5.jpg" group-title="Movies | VOD TERROR",VOD | The Legend of Halloween Jack (2018) Sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/2205.mp4
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/TvlkIbaztJb6bqMpgai62ElP8at6IdZz.jpg" group-title="Movies | VOD TERROR",VOD | Verano del 84 (2018) Sub
@@ -25136,8 +25196,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3818.mp4
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3820.mp4
 #EXTINF:-1 tvg-logo="http://iptv.premiumstore.biz:8080/images/chETubHihX8wZAKymrfkHfbj6Lh4V01g.jpg" group-title="Movies | VOD TERROR",VOD | La luz de mi vida (2019) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4519.mp4
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/vBtGrXC1YkcHrnU72ja71T7XqsWbyrsD.jpg" group-title="Movies | VOD TERROR",VOD | Critters ¡Al ataque! (2019) sub
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4529.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/MuM7Tqf3tu0MIEsWwwqgC0SKzty7jAkz.jpg" group-title="Movies | VOD TERROR",VOD | Annabelle vuelve a casa(2019) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/4536.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/jm2RwFoi0T7EtAnjiefeA7wDpblUCPuA.jpg" group-title="Movies | VOD TERROR",VOD | El hijo (2019) sub
@@ -25432,8 +25490,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/59330.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60123.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD TERROR",VOD | El resplandor (1961)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60125.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Cbn2hRcvRCHzUYV9hb1UCXqTr.jpg" group-title="Movies | VOD TERROR",VOD | Carrie (1976)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60416.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" group-title="Movies | VOD TERROR",VOD | It Follows (2014) LAT
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/60417.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTqRbjRIA6B1RbBaoLV098kwtXa.jpg" group-title="Movies | VOD TERROR",VOD | El proyecto de la bruja de Blair (1999)
@@ -25890,12 +25946,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/111750.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/111768.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/1ce346497c4c37fa5bee51c2307146ed.jpg" group-title="Movies | VOD TERROR",VOD | Un Cuento Sangriento (Red Snow) (2021)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/114784.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/1cf7d11b9232139b126960a22befa3e7.jpg" group-title="Movies | VOD TERROR",VOD | El grito (2004) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/115547.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/6c4fea12928ffad48a4b24cd9f044634.jpg" group-title="Movies | VOD TERROR",VOD | El grito 2 (2006) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/115548.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/91b073dc15d193f60c32b10bf1f4efd4.jpg" group-title="Movies | VOD TERROR",VOD | El grito 3 (2009) DUAL
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/115549.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/30d10f8c8a84dc3a30d05cd87e354184.jpg" group-title="Movies | VOD TERROR",VOD | Los otros (2021) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/115550.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/dc5a438c69f1951da8bc7cb6e29301f8.jpg" group-title="Movies | VOD TERROR",VOD | Jóvenes ocultos (1987) DUAL
@@ -26348,8 +26398,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/172032.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/172548.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/865555cb67e7a09cc350c2590ef1211a.jpg" group-title="Movies | VOD TERROR",VOD | The Boogeyman; Tu miedo es real (2023)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/174115.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/df5af27f8bb6c45b812ddfe53dfa913a.jpg" group-title="Movies | VOD TERROR",VOD | Saw X (2023) FINAL (dual)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/174348.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/96bdac1ddb1430bc79bf13cf282f33bf.jpg" group-title="Movies | VOD TERROR",VOD | El monstruo dentro de mí (2023) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/174900.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/1e7eb726a5cadb3ba4389cecd7a33a5e.jpg" group-title="Movies | VOD TERROR",VOD | Sangrientos dieciséis (2023) DUAL
@@ -35589,4 +35637,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17714
+# Total: 17738

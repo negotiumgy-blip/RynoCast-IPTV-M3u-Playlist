@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-05-16 19:03:44
+# Generated: 2026-05-17 08:14:43
 # Expires: 2026-06-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Doramas (218) ---
+# --- Movies | Doramas (219) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",As Três Irmãs
 http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/1585.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",Bulgasal: Almas Imortais
@@ -444,6 +444,8 @@ http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5657.mp4
 http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5681.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",Talvez Amanhã
 http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5753.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",A Juíza do Inferno
+http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5773.mp4
 
 # --- Movies | Doramas Viki (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas Viki",Meu colega de quarto é um Gumiho
@@ -28197,7 +28199,7 @@ http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Estranho Poder 2023
 http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5668.mp4
 
-# --- Movies | Novelas Turcas (71) ---
+# --- Movies | Novelas Turcas (72) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas Turcas",Um Milagre
 http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/315.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas Turcas",Prisão de Mulheres
@@ -28340,6 +28342,8 @@ http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5189.mp4
 http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5329.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas Turcas",Mãe 2016
 http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5706.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas Turcas",Leyla: Sombras do Passado
+http://play.1list.vip/movie/8yxHApRgvn/factoryiptv/5770.mp4
 
 # --- Movies | Stand Up Comedy (40) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Dk3lqCcOesF4Qr9ptHDB1zjIX1.jpg" group-title="Movies | Stand Up Comedy",Whindersson Nunes: É de Mim Mesmo (2022)
@@ -32491,7 +32495,7 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5728
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Globoplay",Artilheiros
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5729
 
-# --- Series | Series | HBO Max (337) ---
+# --- Series | Series | HBO Max (339) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | HBO Max",Ballers
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/50
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | HBO Max",Dr. House
@@ -33166,6 +33170,10 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5738
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5764
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | HBO Max",Peppa Pig
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5769
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | HBO Max",Em Terapia
+http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5771
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | HBO Max",O Vestido Ideal: Austrália
+http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5772
 
 # --- Series | Series | Legendados (75) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Legendados",Boruto: Naruto Next Generations
@@ -35629,7 +35637,7 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5760
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Berlim e a Dama com Arminho
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5762
 
-# --- Series | Series | Outros Streamings (258) ---
+# --- Series | Series | Outros Streamings (259) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outros Streamings",Six
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/370
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outros Streamings",O Exterminador do Futuro: As Crônicas de Sarah Connor
@@ -36146,6 +36154,8 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5766
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5767
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outros Streamings",As Minas do Rei Salomão
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5768
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Outros Streamings",Wayne
+http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5774
 
 # --- Series | Series | Paramount+ (148) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Paramount+",Californication
@@ -36749,4 +36759,4 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5582
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | STAR+",Food Truck - A Batalha
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5584
 
-# Total: 18325
+# Total: 18330

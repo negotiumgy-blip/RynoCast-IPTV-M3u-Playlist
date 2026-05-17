@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-05-16 19:03:44
+# Generated: 2026-05-17 08:14:43
 # Expires: 2026-06-14
 # Family Safe Edition
 # ==============================================
@@ -1997,7 +1997,7 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/73051.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN [4K]
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/215398.m3u8
 
-# --- Canais | Esportes (108) ---
+# --- Canais | Esportes (110) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 01 (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/131927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 02 (B)
@@ -2146,6 +2146,10 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/956911.m3u8
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/115355.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JJBxlmG.png" group-title="Canais | Esportes",Kings League Brasil
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/935081.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C87o0qz.png" group-title="Canais | Esportes",Lutas Netflix (A)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1012304.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C87o0qz.png" group-title="Canais | Esportes",Lutas Netflix (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/115356.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmXbAnO.png" group-title="Canais | Esportes",MMA TV
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/132016.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FGKqAe1.png" group-title="Canais | Esportes",Mr. Olympia 2025
@@ -5161,4 +5165,4 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/156905.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Textos Curtos para Aprender a Ler
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/156904.m3u8
 
-# Total: 2533
+# Total: 2535

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-05-16 19:09:32
+# Generated: 2026-05-17 08:16:38
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -1027,7 +1027,7 @@ http://tvpromas.com:8080/movie/stksared/9520/135486.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg" group-title="Movies | 2024",Nazi Supersoldier (2024)
 http://tvpromas.com:8080/movie/stksared/9520/137422.mkv
 
-# --- Movies | 2025 (557) ---
+# --- Movies | 2025 (558) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg" group-title="Movies | 2025",Una vida honrada (2025)
 http://tvpromas.com:8080/movie/stksared/9520/82271.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF3noXatzftfCltE0iEDnzU5WIi.jpg" group-title="Movies | 2025",Molt lluny (2025)
@@ -2142,8 +2142,10 @@ http://tvpromas.com:8080/movie/stksared/9520/138157.mkv
 http://tvpromas.com:8080/movie/stksared/9520/138158.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUH1zgvriFO6t6GBHYxil4Bx9Su.jpg" group-title="Movies | 2025",Les digo "almas" (2025)
 http://tvpromas.com:8080/movie/stksared/9520/138159.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3ETgv42JkchzAYK4ZDI5VvsY3w.jpg" group-title="Movies | 2025",Trouble Man (2025)
+http://tvpromas.com:8080/movie/stksared/9520/138162.mkv
 
-# --- Movies | 2026 (103) ---
+# --- Movies | 2026 (108) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7EDMH4aOFM9s5BeEj3TcbMyKOS.jpg" group-title="Movies | 2026",Guepardos en primer plano con Bertie Gregory (2026)
 http://tvpromas.com:8080/movie/stksared/9520/130532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | 2026",Gente que conocemos en vacaciones (2026)
@@ -2350,6 +2352,16 @@ http://tvpromas.com:8080/movie/stksared/9520/138156.mkv
 http://tvpromas.com:8080/movie/stksared/9520/138160.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkyqQqQN8HAkLezR6xWTYzz6Icv.jpg" group-title="Movies | 2026",The Punisher: La última muerte (2026)
 http://tvpromas.com:8080/movie/stksared/9520/138161.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oX64BrJsndCn1f8bXcvyf5Sc4P.jpg" group-title="Movies | 2026",El último depredador (2026)
+http://tvpromas.com:8080/movie/stksared/9520/138163.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y8HSuYIgKUum2JPfbkul3jR6jh.jpg" group-title="Movies | 2026",La novia del año (2026)
+http://tvpromas.com:8080/movie/stksared/9520/138164.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9VQvX7a05FgDKAiSGg71MHTXsyF.jpg" group-title="Movies | 2026",KARTAVYA (2026)
+http://tvpromas.com:8080/movie/stksared/9520/138165.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uEs5Q0kKqDryRZuGpXvJsr5tQN.jpg" group-title="Movies | 2026",Perturbado por el pasado (2026)
+http://tvpromas.com:8080/movie/stksared/9520/138166.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niXSl8jLAZu9fL1ywfNyLGCRXLh.jpg" group-title="Movies | 2026",Mortal Kombat II (2026)
+http://tvpromas.com:8080/movie/stksared/9520/138167.mkv
 
 # --- Movies | ACCION (1102) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZUSbYbUXol5AezpNIJwwENdyE0.jpg" group-title="Movies | ACCION",2 Fast 2 Furious (2003)
@@ -22815,4 +22827,4 @@ http://tvpromas.com:8080/series/stksared/9520/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpromas.com:8080/series/stksared/9520/2580
 
-# Total: 11372
+# Total: 11378

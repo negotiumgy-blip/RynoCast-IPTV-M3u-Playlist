@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-05-16 19:09:35
+# Generated: 2026-05-17 08:16:10
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -7363,7 +7363,7 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/302.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURSKE SERIJE",Gülperi (TV Series 2018-2019)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/304.mp4
 
-# --- Movies | VIDEOTEKA (4230) ---
+# --- Movies | VIDEOTEKA (4235) ---
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYjAzMzQxNmUtYmIzNy00MWYzLWJmMTAtOTI5OTg0OGRjN2MxXkEyXkFqcGc%40._V1__SX500&f=1&h=500" group-title="Movies | VIDEOTEKA",Slatka Simona 2024 #df
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/57867.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Prisoner_of_War_%282025_film%29_poster.jpg/250px-Prisoner_of_War_%282025_film%29_poster.jpg" group-title="Movies | VIDEOTEKA",Prisoner of War 2025 #sf
@@ -15824,6 +15824,16 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65107.mkv
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65110.mkv
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/XDkVSB5DSi49E3ZZsrYrIdb-_5A=/206x305/v2/https://resizing.flixster.com/AMBo2TkL4aXutvZcW_4vAu2z5zM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNzcwMTVmLTE1OTEtNDQwZC1iZTY4LWZiZDRiNGMxYjU1ZC5qcGc=" group-title="Movies | VIDEOTEKA",Wasteman 2026 #sf
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65111.mkv
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/lHQmdVnvg4JBUg_Szvrj5JNHJa4=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31822608_p_v8_aa.jpg" group-title="Movies | VIDEOTEKA",The Magic Faraway Tree 2026 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65171.mp4
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/ISh8AVhHrPk-GBUf0pxPCcRnfPA=/206x305/v2/https://resizing.flixster.com/Xyt8cDDZ3W-gKmsTBYBBnmlO1zc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EyZTgzZTkzLWE0N2MtNGRkNy1hNzQ5LTQwOWZjNzIyMzc5YS5qcGc=" group-title="Movies | VIDEOTEKA",You, Me & Tuscany 2026 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65172.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Mortal_Kombat_II_%28film%29_poster.jpg/250px-Mortal_Kombat_II_%28film%29_poster.jpg" group-title="Movies | VIDEOTEKA",Mortal Kombat II 2026 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65173.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/The_Punisher_One_Last_Kill_poster.jpg/250px-The_Punisher_One_Last_Kill_poster.jpg" group-title="Movies | VIDEOTEKA",The Punisher: One Last Kill 2026 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65174.mp4
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/UlgdOm24E0_Z-wFbVwSx5huvkNA=/206x305/v2/https://resizing.flixster.com/apjYUcTkHrxGqc7ov_zQmVzDqzo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzMTk4NGEyLTU3NzUtNDIxMi1iZTRiLTc0NDM3OGExNDcxMy5qcGc=" group-title="Movies | VIDEOTEKA",Faces of Death 2026 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65175.mp4
 
 # --- Movies | WESTERN FILMOVI (176) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | WESTERN FILMOVI",Western Union 1941 |wst
@@ -16179,4 +16189,4 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40524.mkv
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/8b4d7c7d.jpg" group-title="Movies | WESTERN FILMOVI",The Power of the Dog 2021 |wst
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40523.mkv
 
-# Total: 8075
+# Total: 8080

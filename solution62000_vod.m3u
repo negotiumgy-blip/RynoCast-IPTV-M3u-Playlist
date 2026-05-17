@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-16 08:16:07
+# Generated: 2026-05-17 08:12:27
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -51,7 +51,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2983.mp4
 #EXTINF:-1 tvg-logo="http://boxhd2.selfip.com/pic/q23.jpg" group-title="Movies | AL Quran Al Karim",alfurqan
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2984.mp4
 
-# --- Movies | Apple tv+ (92) ---
+# --- Movies | Apple tv+ (93) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg" group-title="Movies | Apple tv+",Chantage (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26258.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eL1krZJlU8Z45FGByFhMAHLqySp.jpg" group-title="Movies | Apple tv+",The Family Plan 2 (2025)
@@ -236,6 +236,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1037.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1079.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",Widow's Bay
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1129.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Apple tv+",For All Mankind
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1160.mp4
 
 # --- Movies | Cowboys (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjXKy5b2M3fDelAQItIswcDNvwm.jpg" group-title="Movies | Cowboys",Il était une fois dans l'Ouest (1968)
@@ -5249,7 +5251,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (478) ---
+# --- Movies | NETFLIX (479) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ay12YxITkgfpY107arfcHfuLnQG.jpg" group-title="Movies | NETFLIX",De si remarquables créatures (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27119.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geFc71rCYM8fErbROLY6n1LfAS6.jpg" group-title="Movies | NETFLIX",La Mariée de l'année (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27059.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b1VNnA0ewb6F0hccCpPpXD8c8oT.jpg" group-title="Movies | NETFLIX",My Dearest Assassin (2026)
@@ -5932,7 +5936,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/289.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/292.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Pax Massilia
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/302.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Berlin
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Berlin et les joyaux de paris
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/306.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Griselda
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/314.mp4
@@ -7455,7 +7459,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (297) ---
+# --- Series | Series divers (299) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8050,5 +8054,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1152
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1156
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Dutton Ranch
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1158
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Bookish
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1159
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",It's Not Like That
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1161
 
-# Total: 3992
+# Total: 3996

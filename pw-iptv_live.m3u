@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-05-16 19:05:30
+# Generated: 2026-05-17 08:17:28
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -12619,6 +12619,38 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/285389.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3047.jpg?55368" group-title="IT| BAMBINI HD/4K",IT: SUPER!
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/285391.m3u8
 
+# --- IT| CINEMA HD/4K (15) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" group-title="IT| CINEMA HD/4K",###### CINEMA HD/4K ######
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284857.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA ACTION HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284859.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA COLLECTION HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284862.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA COMEDY HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284865.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA DRAMA HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284868.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA DUE  24 HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284871.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA DUE HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284873.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA FAMILY HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284876.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA ROMANCE HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284879.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA SUSPENSE HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284882.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA UNO 24 HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284885.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="IT| CINEMA HD/4K",IT: SKY CINEMA UNO HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284887.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?42264" group-title="IT| CINEMA HD/4K",IT: SKY ARTE HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284893.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?42264" group-title="IT| CINEMA HD/4K",IT: SKY ATLANTIC HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284895.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12384.jpg?64832" group-title="IT| CINEMA HD/4K",IT: Sky Primafila Premiere Vetrina HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284915.m3u8
+
 # --- IT| CINEMA VIP HD/4K (10) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12384.jpg?64832" group-title="IT| CINEMA VIP HD/4K",IT: SKY PRIMAFILA PREMIERE 1 UHD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/285087.m3u8
@@ -17058,31 +17090,31 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324978.m3u8
 # --- US| MLS PPV (21) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV",##### MLS PPV #####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/525889.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 1 | Montréal vs Chicago start:2026-05-16 21:25:00 stop:2026-05-17 00:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605394.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 2 | New England  vs Minnesota start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605393.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 3 | D.C vs St. Louis start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605392.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 4 | New York RB vs New York City start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605391.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 5 | Philadelphia vs Columbus start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605390.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 6 | Houston vs Vancouver start:2026-05-17 01:25:00 stop:2026-05-17 04:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605389.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 7 | Austin vs Kansas City start:2026-05-17 01:25:00 stop:2026-05-17 04:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605388.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 8 | Salt Lake vs Colorado start:2026-05-17 02:25:00 stop:2026-05-17 05:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605387.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 9 | San Diego vs Cincinnati start:2026-05-17 02:25:00 stop:2026-05-17 05:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605386.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 10
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 10 | Orlando vs Atlanta start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605385.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 11
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 11 | San Jose vs Dallas start:2026-05-17 03:25:00 stop:2026-05-17 06:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605383.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 12
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 12 | Seattle vs LA start:2026-05-17 02:10:00 stop:2026-05-17 04:52:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605382.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 13
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 13 | charlotte vs toronto start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605381.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 14
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605380.m3u8
@@ -17102,37 +17134,37 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605375.m3u8
 # --- US| MLS PPV VIP (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV VIP",####### MLS PPV VIP #######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021729.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | MONTRÉAL VS. CHICAGO | Sat 16 May 16:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | MONTRÉAL VS. CHICAGO | Sat 16 May 16:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021728.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | MLS COUNTDOWN | Sat 16 May 18:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",ENDED | MLS COUNTDOWN | Sat 16 May 18:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021727.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | PHILADELPHIA VS. COLUMBUS | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | PHILADELPHIA VS. COLUMBUS | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 3
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021726.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | D.C. VS. ST. LOUIS | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | D.C. VS. ST. LOUIS | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 4
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021725.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | ORLANDO VS. ATLANTA | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | ORLANDO VS. ATLANTA | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 5
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021724.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | NEW YORK VS. NEW YORK CITY | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | NEW YORK VS. NEW YORK CITY | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 6
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021723.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | NEW ENGLAND VS. MINNESOTA | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | NEW ENGLAND VS. MINNESOTA | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 7
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021722.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | ⁨MLS 360⁩ | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | ⁨MLS 360⁩ | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021721.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | CHARLOTTE VS. TORONTO | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | CHARLOTTE VS. TORONTO | Sat 16 May 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 9
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021720.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 10
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | HOUSTON VS. VANCOUVER | Sat 16 May 20:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 10
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021719.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 11
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | AUSTIN VS. KANSAS CITY | Sat 16 May 20:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 11
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021718.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 12
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | SEATTLE VS. LA | Sat 16 May 21:15 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 12
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021717.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 13
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | SAN DIEGO VS. CINCINNATI | Sat 16 May 21:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 13
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021716.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 14
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | SALT LAKE VS. COLORADO | Sat 16 May 21:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 14
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021715.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 15
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | SAN JOSE VS. DALLAS | Sat 16 May 22:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 15
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021714.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 16
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | MIAMI VS. PORTLAND | Sun 17 May 17:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 16
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021713.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 17
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021712.m3u8
@@ -17662,38 +17694,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324993.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325036.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8135.png?84018" group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: Z CLASSIC
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325060.m3u8
-
-# --- Unknown (15) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" group-title="Unknown",###### CINEMA HD/4K ######
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284857.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA ACTION HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284859.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA COLLECTION HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284862.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA COMEDY HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284865.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA DRAMA HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284868.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA DUE  24 HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284871.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA DUE HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284873.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA FAMILY HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284876.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA ROMANCE HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284879.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA SUSPENSE HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284882.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA UNO 24 HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284885.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?53609" group-title="Unknown",IT: SKY CINEMA UNO HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284887.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?42264" group-title="Unknown",IT: SKY ARTE HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284893.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?42264" group-title="Unknown",IT: SKY ATLANTIC HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284895.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12384.jpg?64832" group-title="Unknown",IT: Sky Primafila Premiere Vetrina HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/284915.m3u8
 
 # --- VI| VIETNAM (50) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" group-title="VI| VIETNAM",#### VIETNAM ####
