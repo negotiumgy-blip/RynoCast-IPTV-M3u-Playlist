@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-05-17 19:00:39
+# Generated: 2026-05-18 21:03:24
 # Expires: 2026-10-21
 # Family Safe Edition
 # ==============================================
@@ -903,7 +903,7 @@ http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9553.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",FR: 6ter
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9555.m3u8
 
-# --- GERMANY (80) ---
+# --- GERMANY (79) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",13th Street DE
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",3Sat DE
@@ -968,7 +968,7 @@ http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/7524.m3u8
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/7526.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",ARD
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY",Zee one DE
+#EXTINF:-1 tvg-logo="" group-title="GERMANY",Sat 1 Emotion DE
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/266.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",SRF 1 HD
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/269.m3u8
@@ -1038,8 +1038,6 @@ http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/13048.m3u8
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/13049.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Action DE
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Atlantic DE
-http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Cinema  24 DE
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/302.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Cinema DE
@@ -2431,4 +2429,4 @@ http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK",USA: CBS
 http://cazintv.com:80/live/Berislav_Pandzic/oGYw82pt8u/9511.m3u8
 
-# Total: 1182
+# Total: 1181

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-05-17 19:02:43
+# Generated: 2026-05-18 21:00:28
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13411,7 +13411,13 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (473) ---
+# --- Movies | |SPT| SPORT UFC (476) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qunJJqUIgBJbxgqijmDfAlKT3AK.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - Ronda Rousey vs. Gina Carano (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2076508.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 276: Allen vs. Costa (Prelims) (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2075723.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cssaN9nb45lxwDrEw5XH1ZBgIMO.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 276: Allen vs. Costa (Main Card) (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2075722.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="Movies | |SPT| SPORT UFC",EN - UFC 328: Chimaev vs Strickland (Prelims) (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2070316.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH8UeGO8tJWUnsf6X7sIuN4lo3p.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 328: Chimaev vs Strickland (Main Card) (2026)
@@ -18109,4 +18115,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9007
+# Total: 9010

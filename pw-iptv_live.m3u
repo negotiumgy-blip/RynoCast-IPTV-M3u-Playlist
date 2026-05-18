@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-05-17 19:00:31
+# Generated: 2026-05-18 21:04:31
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -17090,31 +17090,31 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324978.m3u8
 # --- US| MLS PPV (21) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV",##### MLS PPV #####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/525889.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 1 | Montréal vs Chicago start:2026-05-16 21:25:00 stop:2026-05-17 00:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 1 | Miami vs Portland start:2026-05-17 22:25:00 stop:2026-05-18 01:07:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605394.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 2 | New England  vs Minnesota start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 2 | Nashville vs LA FC start:2026-05-18 00:55:00 stop:2026-05-18 03:37:00
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605393.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 3 | D.C vs St. Louis start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 3 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605392.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 4 | New York RB vs New York City start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 4 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605391.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 5 | Philadelphia vs Columbus start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 5 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605390.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 6 | Houston vs Vancouver start:2026-05-17 01:25:00 stop:2026-05-17 04:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 6 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605389.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 7 | Austin vs Kansas City start:2026-05-17 01:25:00 stop:2026-05-17 04:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 7 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605388.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 8 | Salt Lake vs Colorado start:2026-05-17 02:25:00 stop:2026-05-17 05:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 8 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605387.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 9 | San Diego vs Cincinnati start:2026-05-17 02:25:00 stop:2026-05-17 05:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 9 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605386.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 10 | Orlando vs Atlanta start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 10 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605385.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 11 | San Jose vs Dallas start:2026-05-17 03:25:00 stop:2026-05-17 06:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 11 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605383.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 12 | Seattle vs LA start:2026-05-17 02:10:00 stop:2026-05-17 04:52:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 12 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605382.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 13 | charlotte vs toronto start:2026-05-17 00:25:00 stop:2026-05-17 03:07:00
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS 13 |
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605381.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 14
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605380.m3u8
@@ -17134,7 +17134,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605375.m3u8
 # --- US| MLS PPV VIP (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV VIP",####### MLS PPV VIP #######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021729.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | MIAMI VS. PORTLAND | Sun 17 May 17:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021728.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021727.m3u8

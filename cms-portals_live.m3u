@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2026-05-17 19:09:56
+# Generated: 2026-05-18 21:05:09
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -903,7 +903,7 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9553.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",FR: 6ter
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9555.m3u8
 
-# --- GERMANY (80) ---
+# --- GERMANY (79) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",13th Street DE
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",3Sat DE
@@ -968,7 +968,7 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/7524.m3u8
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/7526.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",ARD
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY",Zee one DE
+#EXTINF:-1 tvg-logo="" group-title="GERMANY",Sat 1 Emotion DE
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/266.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",SRF 1 HD
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/269.m3u8
@@ -1038,8 +1038,6 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/13048.m3u8
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/13049.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Action DE
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Atlantic DE
-http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Cinema  24 DE
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/302.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY",Sky Cinema DE
@@ -2431,4 +2429,4 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK",USA: CBS
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9511.m3u8
 
-# Total: 1182
+# Total: 1181

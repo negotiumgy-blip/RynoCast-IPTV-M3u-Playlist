@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-17 18:59:07
+# Generated: 2026-05-18 20:58:51
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -889,7 +889,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: TV 2 Sport X HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17425.m3u8
 
-# --- Deutschland (335) ---
+# --- Deutschland (334) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Deutschland",========Deutschland ========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Das Erste FHD RAW
@@ -922,17 +922,17 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/67314.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11767.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: SAT 1 FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67315.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sat 1 FHD
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sat 1 FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11744.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sat 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/36882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sat 1 Gold FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: VOX HD
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: VOX FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11740.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Kabel Eins FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67313.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Kabel Eins FHD
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Kabel Eins FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Now Rock HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/59099.m3u8
@@ -982,7 +982,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/11762.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/23550.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Pro 7 Fun HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Pro Sieben Maxx FHD
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Pro Sieben Maxx FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11769.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL Crime HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11773.m3u8
@@ -1166,8 +1166,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/21887.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21889.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: SportDigital Fussball HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: SportDigital 1+ HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81551.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sport 1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sportdigital 1+ HD
@@ -9033,4 +9031,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4486
+# Total: 4485

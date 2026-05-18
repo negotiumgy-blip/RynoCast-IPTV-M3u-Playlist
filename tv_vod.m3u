@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-05-17 19:03:28
+# Generated: 2026-05-18 21:01:47
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -19271,30 +19271,6 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348230.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lC7oGqh9zhd55W4naq1niu6Z1M.jpg" group-title="Movies | VOD INFANTIL",En busca del valle encantado II: Aventuras en el gran valle (1994)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348229.mkv
 
-# --- Movies | VOD MISCELANEO (11) ---
-#EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/07/25/17534273790680.jpg" group-title="Movies | VOD MISCELANEO",VELADA DEL AÑO 5 (2025)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/271009.mp4
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/1fe688ff47770c91ce6b526a70caad12.jpg" group-title="Movies | VOD MISCELANEO",VOD | The 80th Annual Golden Globe Awards (2023) SUB
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/133523.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/99f36f1ce6516fd3e966d1f819f45a97.png" group-title="Movies | VOD MISCELANEO",VOD | The 65th Grammy Awards (2023) 1080p Latino
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/137487.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/2e85300a1264c7b12b677d2719151fc1.jpg" group-title="Movies | VOD MISCELANEO",Rihanna – Super Bowl Halftime Show (2023)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/138163.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/a608b9c44912c72db6855ad555397470.jpg" group-title="Movies | VOD MISCELANEO",VOD | Premios Oscar 2023 1080p LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/141716.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/5e71686b5a2777755e67a981dec5d714.jpg" group-title="Movies | VOD MISCELANEO",VOD || La velada del año III (2023)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/161099.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/0cb4911b5ddecdec570972a86d7b0933.jpg" group-title="Movies | VOD MISCELANEO",VOD | Premios Grammy Latinos (2023)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/181239.mkv
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/aa7016a88bff80c38fb226b9cb46cf59.jpg" group-title="Movies | VOD MISCELANEO",VOD | TikTok: In the Mix (2023)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/182696.mkv
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GBeyYTnXYAAjyP2?format=jpg" group-title="Movies | VOD MISCELANEO",VOD | Una velada navideña con Luis Jara (2023)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/182706.mp4
-#EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/37971b7ab7776d48fc1f37f1c4004809.jpg" group-title="Movies | VOD MISCELANEO",VOD | Anatomía de una caída (2024) WEB-dll (Subtitulada)
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/184566.mkv
-#EXTINF:-1 tvg-logo="https://cdn.eldestapeweb.com/eldestape/062024/1717697448423.webp?cw=768&ch=432&extw=jpg" group-title="Movies | VOD MISCELANEO",VOD | Paris 2024 Olympic Opening Ceremony (2024) LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/207268.mkv
-
 # --- Movies | VOD MUSICALES (196) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgflb0u8gW8ohjtXoTT52ra3Lhr.jpg" group-title="Movies | VOD MUSICALES",VOD | Kneecap música y libertad  (2024) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/224906.mkv
@@ -28007,11 +27983,13 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/208042.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/9ef3ecc1ae0b53c4ca7426047d8d01c9.jpg" group-title="Movies | VOD WW LUCHA LIBRE",VOD | WWE Bash in Berlin 2024 (2024) LATINO
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/211471.mkv
 
-# --- Movies | ☆ VOD EN CARTELERA ☆ (26) ---
+# --- Movies | ☆ VOD EN CARTELERA ☆ (27) ---
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f51c847b31e41cf2d1de9ab3ad21309d.png" group-title="Movies | ☆ VOD EN CARTELERA ☆",ABRE LA INFO
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/199057.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIx9KAE3DgmrGJKwIL0xjIUfkBT.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",No te olvidaré (2026) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/331341.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",La momia de Lee Cronin (2026) webrip dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348606.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivVKHht5jutNGnObn1y5sSDrAXn.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Mortal Kombat II (2026) hdts lat (bet)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/346689.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqlgMvy1d5jIbIE6SPlJq724htT.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Exit 8 (2026) SUB
@@ -31093,7 +31071,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4223
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Los encantos del sinvergüenza (VIX -LAT)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4242
 
-# --- Series | SERIES - CRIMEN (341) ---
+# --- Series | SERIES - CRIMEN (342) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Elite
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/19
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",El marginal
@@ -31776,6 +31754,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4238
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4239
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",M.I.A. (PRMT+ DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4247
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Berlín y la dama del armiño (NTFX -CAST)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4248
 
 # --- Series | SERIES - DEPORTES (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DEPORTES",Senna (NTFX -DUAL)
@@ -35637,4 +35617,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17738
+# Total: 17729

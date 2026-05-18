@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-05-17 19:12:06
+# Generated: 2026-05-18 21:06:56
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -2398,7 +2398,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/29.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/172.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/RTL_HD..png" group-title="HRVATSKA",RTL HR
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/6.m3u8
-#EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/RTL_HD..png" group-title="HRVATSKA",RTL Televizija  HD
+#EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/RTL_HD..png" group-title="HRVATSKA",RTL HD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1417.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/RTL_2_HD..png" group-title="HRVATSKA",RTL 2
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/7.m3u8
@@ -3479,7 +3479,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/57778.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Liverpool TV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/41975.m3u8
 
-# --- SRBIJA (77) ---
+# --- SRBIJA (74) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/RTS_1_HD..png" group-title="SRBIJA",RTS 1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/16.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/RTS_1_HD..png" group-title="SRBIJA",RTS 1 HD
@@ -3572,12 +3572,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/258.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/41611.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/PRVA_FILES_HD.png" group-title="SRBIJA",Prva Files
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SRBIJA",Happy Drustvo
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/44789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SRBIJA",Happy Zivot
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/44790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SRBIJA",Happy Muzika
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/44791.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/KCN_1.png" group-title="SRBIJA",KCN 1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/393.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/KCN_2.png" group-title="SRBIJA",KCN 2
@@ -4333,4 +4327,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2138
+# Total: 2135

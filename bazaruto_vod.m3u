@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-05-17 19:12:06
+# Generated: 2026-05-18 21:06:56
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -6953,7 +6953,7 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/61334.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/8WeFg8OExE8e4vyK8fNiU3xlWv7.jpg" group-title="Movies | KOMEDIJA",Death at a Funeral 2025 #sf
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/61735.mp4
 
-# --- Movies | STRANE SERIJE (195) ---
+# --- Movies | STRANE SERIJE (197) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Ozark (TV Serija 2017-2022)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Superman and Lois (TV Serija 2021-2024)
@@ -7344,6 +7344,10 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/506.mp4
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/509.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",The White Lotus (TV Series 2021)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/519.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Prisoner (TV Series 2026)
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/526.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Man on Fire (TV Series 2026)
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/527.mp4
 
 # --- Movies | TURSKE SERIJE (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURSKE SERIJE",Barbaros Hayreddin Sultanin Fermani  (TV Serija) TU
@@ -16189,4 +16193,4 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40524.mkv
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/8b4d7c7d.jpg" group-title="Movies | WESTERN FILMOVI",The Power of the Dog 2021 |wst
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40523.mkv
 
-# Total: 8080
+# Total: 8082

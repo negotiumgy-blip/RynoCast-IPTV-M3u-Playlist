@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-05-17 18:59:39
+# Generated: 2026-05-18 21:01:00
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -6743,7 +6743,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/321606.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17VU3cN3apSe7KyIWexBkBvEcOc.jpg" group-title="Movies | 2025 MOVIES",Pizza Under Fire (2025)
 http://tv14s.xyz:8080/movie/07301982/23101897/321608.mp4
 
-# --- Movies | 2026 Movies (236) ---
+# --- Movies | 2026 Movies (235) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://tv14s.xyz:8080/movie/07301982/23101897/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7112,8 +7112,6 @@ http://tv14s.xyz:8080/movie/07301982/23101897/316745.mp4
 http://tv14s.xyz:8080/movie/07301982/23101897/316746.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2026 Movies",Zeta.2026.720p.WEBRip.x264.AAC-[YTS.BZ]
 http://tv14s.xyz:8080/movie/07301982/23101897/316747.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKiAnV1QAGIJP38vatwCZp4dCrH.jpg" group-title="Movies | 2026 Movies",Spice World (1997)
-http://tv14s.xyz:8080/movie/07301982/23101897/317112.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h35opZK913C4eHC2ncpRWp7ZLWj.jpg" group-title="Movies | 2026 Movies",Murder in the Dark (2026)
 http://tv14s.xyz:8080/movie/07301982/23101897/317708.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg" group-title="Movies | 2026 Movies",Apex (2026)
@@ -11743,7 +11741,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/182903.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg" group-title="Movies | Clint Eastwood HD Movies Collection",Where Eagles Dare (1968)
 http://tv14s.xyz:8080/movie/07301982/23101897/182904.mp4
 
-# --- Movies | Comedy (578) ---
+# --- Movies | Comedy (579) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWrPZZL7CC3MqySlOzpXaUWjUrd.jpg" group-title="Movies | Comedy",2 Minutes of Fame (2020)
 http://tv14s.xyz:8080/movie/07301982/23101897/198428.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A40ko85pS3yrkzeYVuVKB8Xbjjq.jpg" group-title="Movies | Comedy",3 Generations (2016)
@@ -12900,6 +12898,8 @@ http://tv14s.xyz:8080/movie/07301982/23101897/199024.mp4
 http://tv14s.xyz:8080/movie/07301982/23101897/199025.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdrbSneHZjJG2Dj0hhBxzzAo4HB.jpg" group-title="Movies | Comedy",Zoolander (2001)
 http://tv14s.xyz:8080/movie/07301982/23101897/317111.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKiAnV1QAGIJP38vatwCZp4dCrH.jpg" group-title="Movies | Comedy",Spice World (1997)
+http://tv14s.xyz:8080/movie/07301982/23101897/317112.mp4
 
 # --- Movies | Drama Movies (1374) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdm0rXjrg7y9WDbiFzC2ikMtikG.jpg" group-title="Movies | Drama Movies",1, 2, 3, All Eyes On Me (2020)

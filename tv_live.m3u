@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-05-17 19:03:28
+# Generated: 2026-05-18 21:01:47
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -2893,19 +2893,303 @@ http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/340493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS ( Pay Per View )",PPV | FUBO SPORTS
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/285139.m3u8
 
-# --- EVENTOS MLB (2) ---
+# --- EVENTOS FUTBOL (125) ---
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/41-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 04:15pm Juan Pablo II College vs Alianza Atlético = LigaMax
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348461.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/62-ekstraklasa.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:15am Piast Gliwice vs Raków Częstochowa = BeinSports3
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348462.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Roma vs Lazio = FoxDeportes
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348463.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Roma vs Lazio = Espn2 Sur
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348464.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Roma vs Lazio = Espn2 CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348465.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Roma vs Lazio = TNT1
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348466.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Roma vs Lazio = Espn4 Mx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348467.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Como vs Parma = Sportv5
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348468.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Genoa vs Milan = Espn Mx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348469.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Juventus vs Fiorentina = Espn4CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348470.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Juventus vs Fiorentina = Sportv2
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348471.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:30am Pisa vs Napoli = Sportv7
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348472.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = Espn Sur
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348473.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = Espn CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348474.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = Espn Colombia
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348475.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = SkySportsMain
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348476.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = FOX
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348477.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = Dazn
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348478.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = Dazn1 Espana
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348479.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = Telemundo
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348480.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:30am Manchester United vs Nottingham Forest = UsaNetwork
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348481.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/545-frauen-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 08:00am Deportivo La Coruña vs FC Andorra = LigaHyper
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348482.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/13-eredivisie.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 08:30am Heerenveen vs Ajax = Espn4Mx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348483.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/62-ekstraklasa.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 08:45am Katowice vs Jagiellonia Białystok = BeinXtra
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348484.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00am Internazionale vs Verona = Espn2 sur
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348485.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00am Internazionale vs Verona = Espn2 Colombia
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348486.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00am Internazionale vs Verona = EspnMx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348487.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00am Internazionale vs Verona = FoxDeportes
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348488.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/11-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00am Livingston vs Kilmarnock = CbsSports
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348489.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Hannover 96 vs Nürnberg = FoxSports
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348490.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Magdeburg vs Kaiserslautern = SkyBundesliga9
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348491.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Karlsruher SC vs Bochum = SkyBundesliga10
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348492.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Elversberg vs Preußen Münster = FoxSports2
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348493.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Arminia Bielefeld vs Hertha BSC = SkyBundesliga7
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348494.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Darmstadt 98 vs Paderborn = FoxSports3
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348495.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Schalke 04 vs Eintracht Braunschweig = SkyBundesliga2
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348496.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Dynamo Dresden vs Holstein Kiel = SkyBundesliga8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348497.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/118-2-bundesliga.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:30am Greuther Fürth vs Fortuna Düsseldorf = SkyBundesliga6
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348498.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = Espn Sur
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348499.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = Espn CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348500.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = Espn Colombia
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348501.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = SkySportsMain
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348502.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = Dazn3
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348503.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = Dazn1 Espana
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348504.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = TelemundoNY
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348505.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Leeds United vs Brighton & Hove Albion = UsaNetwork
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348506.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Wolverhampton Wanderers vs Fulham = FOX
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348507.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Wolverhampton Wanderers vs Fulham = Dazn
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348508.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Wolverhampton Wanderers vs Fulham = Dazn4 Espana
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348509.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Brentford vs Crystal Palace = SkySportsFootball
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348510.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Brentford vs Crystal Palace = TubiMx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348511.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Brentford vs Crystal Palace = Dazn2
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348512.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Brentford vs Crystal Palace = Dazn2 Espana
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348513.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Everton vs Sunderland = SkySportsPremier
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348514.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Brentford vs Crystal Palace = Dazn4
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348515.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Brentford vs Crystal Palace = Dazn3 Espana
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348516.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/87-caf-champions-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 10:00am Mamelodi Sundowns vs FAR Rabat = BeinSportsLatino
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348517.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/62-ekstraklasa.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 11:30am Lechia Gdańsk vs Legia Warszawa = BeinSports4
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348518.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:00pm Atalanta vs Bologna = Sportv
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348519.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/338-serie-a-women.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:00pm Parma vs Juventus = FoxSoccer
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348520.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/41-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:00pm ADT vs Comerciantes Unidos = LigaMax
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348521.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:30pm Newcastle United vs West Ham United = SkySportsMain
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348522.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:30pm Newcastle United vs West Ham United = Dazn1
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348523.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:30pm Newcastle United vs West Ham United = Dazn1 Espana
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348524.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:30pm Newcastle United vs West Ham United = UsNetwork
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348525.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/6-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:30pm Newcastle United vs West Ham United = TelemundoNY
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348526.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/89-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 12:30pm Huachipato vs Unión La Calera = TNT Premiun
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348527.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Athletic Club vs Celta de Vigo = Directv
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348528.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Athletic Club vs Celta de Vigo = SkySportsLaLiga
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348529.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Athletic Club vs Celta de Vigo = TDP
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348530.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Atlético Madrid vs Girona = Espn3 Sur
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348531.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Atlético Madrid vs Girona = Espn3 CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348532.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Atlético Madrid vs Girona = Dazn LaLiga
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348533.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Elche vs Getafe = Espn4 CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348534.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Elche vs Getafe = TUDNmx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348535.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Levante vs Mallorca = Espn+
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348537.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Osasuna vs Espanyol = Espn+
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348538.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Rayo Vallecano vs Villarreal = Dazn4
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348539.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Rayo Vallecano vs Villarreal = Espn+
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348540.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Real Sociedad vs Valencia = Espn5 CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348541.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Real Oviedo vs Deportivo Alavés = Espn+
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348542.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Sevilla vs Real Madrid = EspnDeportes
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348543.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Sevilla vs Real Madrid = Espn Sur
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348544.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Sevilla vs Real Madrid = Espn CL
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348545.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Sevilla vs Real Madrid = Espn COlombia
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348546.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Sevilla vs Real Madrid = Dazn2
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348547.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/715-canadian-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Atl. Ottawa vs HFX Wanderers = OneSoccer
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348548.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/59-super-lig.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Kasımpaşa vs Galatasaray = BeinSportsLatino
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348549.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/59-super-lig.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 01:00pm Fenerbahçe vs Eyüpspor = BeinXtra Espanol
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348550.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/35-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 02:00pm Leones del Norte vs Mushuc Runa = Zapping
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348551.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/114-serie-b.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 02:00pm Catanzaro vs Palermo = FoxSoccer
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348552.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 02:00pm América vs Monterrey = TUDNusa
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348553.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 02:00pm América vs Monterrey = TUDNmx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348554.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/41-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 02:15pm Deportivo Garcilaso vs UTC Cajamarca = LigaMax
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348555.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 02:45pm Cagliari vs Torino = EspnMx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348556.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/39-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 02:45pm Udinese vs Cremonese = TNT1
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348557.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Brest vs Angers SCO = BeinXtra Espanol
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348558.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Olympique Lyonnais vs Lens = BeinSorts6
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348559.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Nice vs Metz = FoxSoccer
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348560.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Lille vs Auxerre = BeinSports
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348561.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Strasbourg vs Monaco = BeinSports5
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348562.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/10-ligue-1.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Paris vs PSG = BeinSportsLatino
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348563.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/31-serie-a-brasileirao.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Bahia vs Grêmio = AztecaDeportes
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348564.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/89-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Cobresal vs Universidad Chile = TNT Premiun
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348565.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/31-serie-a-brasileirao.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:00pm Botafogo vs Corinthians = ECDF
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348566.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:15pm Barcelona vs Real Betis = EspnDeportes
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348567.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:15pm Barcelona vs Real Betis = Directv
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348568.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/8-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:15pm Barcelona vs Real Betis = SkySportsLaLiga
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348569.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/148-segunda-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 03:15pm Real Zaragoza vs Sporting Gijón = LigaHyper
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348570.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 04:00pm Argentinos Juniors vs Belgrano = FoxDeportes
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348571.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/30-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 04:00pm Argentinos Juniors vs Belgrano = EspnPremiun
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348572.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/41-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 04:30pm Los Chankas vs Deportivo Moquegua = LigaMax
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348573.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/715-canadian-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 05:00pm Pacific FC vs Inter Toronto = FoxSoccer
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348574.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/89-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 05:30pm Colo-Colo vs Ñublense = TNT Premiun
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348575.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:00pm Inter Miami vs Portland Timbers = MLS Pass
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348576.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/504-nwsl.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 06:00pm Portland Thorns vs Angel City = EspnDeportes
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348577.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/35-serie-a.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 07:10pm Manta vs Emelec = Ecuavisa
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348579.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/43-major-league-soccer.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 08:00pm Nashville SC vs Los Angeles FC  = MLS Pass
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348580.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/89-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 08:00pm Deportes Concepción vs Everton = TNT Premiun
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348581.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00pm Pumas UNAM vs Pachuca = TUDNusa
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348582.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00pm Pumas UNAM vs Pachuca = UnivisionNY
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348583.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00pm Pumas UNAM vs Pachuca = TUDNmx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348584.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/40-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00pm Pumas UNAM vs Pachuca = Azteca7Mx
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348585.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/715-canadian-premier-league.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00pm Vancouver FC vs Cavalry = FoxSoccer
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348587.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/36-primera-division.png?q=75&w=50" group-title="EVENTOS FUTBOL",05/17 Soccer 09:00pm FAS vs Municipal Limeño = CATV
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348588.m3u8
+
+# --- EVENTOS MLB (17) ---
 #EXTINF:-1 tvg-logo="http://miarea.us:8080/images/990cf9dcdba8403c0a5792752b344bf8.jpg" group-title="EVENTOS MLB",MLB TV HD
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/345827.m3u8
 #EXTINF:-1 tvg-logo="http://miarea.us:8080/images/819805e297bb1037dc89b5438e6d5f04.jpg" group-title="EVENTOS MLB",MLB STRIKER ZONE
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/345837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS MLB",*_**_**_*EVENTOS DIARIOS MLB*_**_**_*
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348590.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 12:15pm: Miami Marlins @ Tampa Bay Rays
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348591.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 01:35pm: Baltimore Orioles @ Washington Nationals
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348592.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 01:35pm: Philadelphia Phillies @ Pittsburgh Pirates
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348593.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 01:35pm: Boston Red Sox @ Atlanta Braves
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348594.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 01:40pm: New York Yankees @ New York Mets
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348596.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 01:40pm: Cincinnati Reds @ Cleveland Guardians
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348597.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 02:10pm: Chicago Cubs @ Chicago White Sox
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348598.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 02:10pm: Milwaukee Brewers @ Minnesota Twins
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348599.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 02:10pm: Texas Rangers @ Houston Astros
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348600.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 02:15pm: Kansas City Royals @ St. Louis Cardinals
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348601.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 03:10pm: Arizona Diamondbacks @ Colorado Rockies
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348602.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 04:05pm: San Francisco Giants @ Athletics
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348603.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 04:07pm: Los Angeles Dodgers @ Los Angeles Angels
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348604.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.us:8080/images/ace50f3594fdb205275a47faaaa97d9a.png" group-title="EVENTOS MLB",05/17 MLB 07:20pm: San Diego Padres @ Seattle Mariners
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348605.m3u8
 
-# --- EVENTOS NBA (3) ---
+# --- EVENTOS NBA (4) ---
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/wnba-logo-png_seeklogo-362491.png" group-title="EVENTOS NBA",WNBA | NBATV
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/345824.m3u8
 #EXTINF:-1 tvg-logo="http://miarea.us:8080/images/952a938c2ee05a4de1dfa4393b486bd1.png" group-title="EVENTOS NBA",NBA |  PPV 1 NBA  (SPA )  | opc según dispo
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/345522.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EVENTOS NBA",NBA |  PPV 2 NBA  (SPA )  | opc según dispo
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/345523.m3u8
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/14ba518f27151bf1c131592c30f31897.png" group-title="EVENTOS NBA",05/17 NBA 08:00pm: Cleveland Cavaliers @ Detroit Pistons: Conference Semifinal - Series tied 3-3
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348589.m3u8
 
 # --- EVENTOS TENNIS (2) ---
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png" group-title="EVENTOS TENNIS",DEP| TENNIS CHANNEL
@@ -6221,328 +6505,336 @@ http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/85032.m3u8
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/c172e27e81a0633908064de128594689.PNG" group-title="VENEZUELA",VENEZUELA| VIVE HD
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/85030.m3u8
 
-# --- ☆ EVENTOS DEL DIA ☆ (161) ---
-#EXTINF:-1 tvg-logo="" group-title="☆ EVENTOS DEL DIA ☆",SABADO 16 DE MAYO  GTM-5
+# --- ☆ EVENTOS DEL DIA ☆ (165) ---
+#EXTINF:-1 tvg-logo="" group-title="☆ EVENTOS DEL DIA ☆",DOMINGO 17 DE MAYO  GTM-5
 http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/259499.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b5315cc7893bd48e1c8bc0ce8505183c.png" group-title="☆ EVENTOS DEL DIA ☆",01:35 ▫ MotoGP ▫ GP Cataluña - Free Practice 2 ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/347992.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",04:30 ▫ Super Rugby ▫ Force vs. Reds ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/347994.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="☆ EVENTOS DEL DIA ☆",05:00 ▫ ATP Roma - Supertennis Arena ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/347996.m3u8
-#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/wsbk.png" group-title="☆ EVENTOS DEL DIA ☆",05:15 ▫ World SSP ▫ Race 1 - Motul Czech - Autodrom Most ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/347997.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b5315cc7893bd48e1c8bc0ce8505183c.png" group-title="☆ EVENTOS DEL DIA ☆",05:40 ▫ MotoGP ▫ GP Cataluña - Qualifying ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/347998.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="☆ EVENTOS DEL DIA ☆",06:00 ▫ ATP Roma - Supertennis Arena ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/347999.m3u8
-#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/scotland.png" group-title="☆ EVENTOS DEL DIA ☆",06:30 ▫ Scottish Premiership ▫ Celtic vs. Hearts ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348000.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b5315cc7893bd48e1c8bc0ce8505183c.png" group-title="☆ EVENTOS DEL DIA ☆",06:35 ▫ MotoGP ▫ GP Cataluña - Qualifying ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348001.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/9a3aa930600681609078035f8c581e9c.png" group-title="☆ EVENTOS DEL DIA ☆",06:40 ▫ PGA Championship ▫ Main Coverage ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348002.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/fb6a6b3d865fcdcc89b421742e70fe43.png" group-title="☆ EVENTOS DEL DIA ☆",06:55 ▫ Women's Premier League ▫ Chelsea vs. Manchester United ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348004.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/fb6a6b3d865fcdcc89b421742e70fe43.png" group-title="☆ EVENTOS DEL DIA ☆",06:55 ▫ Women's Premier League ▫ Everton vs. Leicester City ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348005.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/fb6a6b3d865fcdcc89b421742e70fe43.png" group-title="☆ EVENTOS DEL DIA ☆",06:55 ▫ Women's Premier League ▫ Liverpool vs. Arsenal ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348006.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",07:00 ▫ Liga Smartbank ▫ Real Sociedad II vs. Mirandés ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348007.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c51d64c58002d1fb926a4c91aaad3004.png" group-title="☆ EVENTOS DEL DIA ☆",07:30 ▫ Indycar ▫ 110th Indianapolis 500 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348008.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="☆ EVENTOS DEL DIA ☆",08:00 ▫ ATP Roma - Jannik Sinner vs. Daniil Medvedev ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348009.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="☆ EVENTOS DEL DIA ☆",08:00 ▫ Segunda UY ▫ Uruguay Montevideo vs. Cerrito ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348010.m3u8
-#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/wsbk.png" group-title="☆ EVENTOS DEL DIA ☆",08:05 ▫ World SPB ▫ Race 1 - Motul Czech - Autodrom Most ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348011.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Bayer Leverkusen vs. Hamburger SV ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348012.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Bayern München vs. Köln ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348013.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Borussia M’gladbach vs. Hoffenheim ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348014.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Eintracht Frankfurt vs. Stuttgart ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348015.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Freiburg vs. RB Leipzig ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348016.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Heidenheim vs. Mainz 05 ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348017.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ St. Pauli vs. Wolfsburg ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348018.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Union Berlin vs. Augsburg ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348019.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4f3088abbdec405bc6940fe221ae92a7.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ Bundesliga ▫ Werder Bremen vs. Borussia Dortmund ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348020.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b03b5f90a1cee11abe3655068b4b86ea.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ FA Cup ▫ Chelsea vs. Manchester City ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348021.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ NCAA Men's & Women's Team Tennis - Court 1 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348022.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ NCAA Men's & Women's Team Tennis - Court 2 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348023.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ NCAA Men's & Women's Team Tennis - Court 3 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348024.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ NCAA Men's & Women's Team Tennis - Court 4 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348025.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ NCAA Men's & Women's Team Tennis - Court 5 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348026.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ NCAA Men's & Women's Team Tennis - Court 6 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348027.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ NCAA Men's Team Tennis ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348028.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",09:15 ▫ Liga Smartbank ▫ Ceuta vs. Málaga ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348029.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",09:15 ▫ Liga Smartbank ▫ Cultural Leonesa vs. Eibar ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348030.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",09:30 ▫ Primeira Liga ▫ Moreirense vs. AVS ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348031.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",09:30 ▫ Primeira Liga ▫ Porto vs. Santa Clara ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348032.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",09:55 ▫ Premiership Rugby ▫ Harlequins vs. Exeter Chiefs ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348033.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c51d64c58002d1fb926a4c91aaad3004.png" group-title="☆ EVENTOS DEL DIA ☆",10:00 ▫ Indycar ▫ 110th Indianapolis 500 ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348034.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="☆ EVENTOS DEL DIA ☆",10:00 ▫ Primera UY ▫ Boston River vs. Cerro ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348035.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4684c60ddc71bc393a1bf007f5452372.png" group-title="☆ EVENTOS DEL DIA ☆",11:00 ▫ Boxeo ▫ Granit Stein vs. Diego Carmona ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348036.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",11:00 ▫ Ligue 1 ▫ Olympique Lyonnais vs. Nantes ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348037.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="☆ EVENTOS DEL DIA ☆",11:00 ▫ Segunda UY ▫ River Plate vs. Paysandú ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348038.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/05cb20599d02a77f137636bda93fcbc0.png" group-title="☆ EVENTOS DEL DIA ☆",11:05 ▫ Saudi Pro League ▫ Al Hilal vs. NEOM ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348039.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",11:30 ▫ Liga Smartbank ▫ Almería vs. Las Palmas ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348040.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",11:30 ▫ Liga Smartbank ▫ Granada vs. Burgos ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348041.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",11:30 ▫ Liga Smartbank ▫ Racing Santander vs. Real Valladolid ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348042.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d9d831c961e8d515531822c3c0aad2e3.png" group-title="☆ EVENTOS DEL DIA ☆",11:30 ▫ Primera B Chile ▫ Magallanes vs. Recoleta ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348043.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4684c60ddc71bc393a1bf007f5452372.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ Boxeo ▫ Dave Allen vs. Filip Hrgovic (Main Cards) ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348044.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ NCAA Men's Team Tennis ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348045.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ Primeira Liga ▫ Arouca vs. Tondela ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348046.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ Primeira Liga ▫ Casa Pia vs. Rio Ave ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348047.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ Primeira Liga ▫ Nacional vs. Vitória Guimarães ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348048.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ Primeira Liga ▫ Sporting Braga vs. Estrela ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348049.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",12:25 ▫ Premiership Rugby ▫ Saracens vs. Gloucester ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348052.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a273d8cf04e0e9d04934e8b05a9d3666.png" group-title="☆ EVENTOS DEL DIA ☆",12:45 ▫ AFC Champions League Two ▫ Al Nassr vs. Gamba Osaka ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348053.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a273d8cf04e0e9d04934e8b05a9d3666.png" group-title="☆ EVENTOS DEL DIA ☆",12:45 ▫ AFC Champions League Two ▫ Al Nassr vs. Gamba Osaka ▫ SD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348054.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/eb0b18f79a526e40bbe6ccef566b19a7.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ Liga 1 ▫ Melgar vs. Sport Huancayo ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348055.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ Primera UY ▫ Juventud vs. Progreso ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348056.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/05cb20599d02a77f137636bda93fcbc0.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ Saudi Pro League ▫ Al-Ahli vs. Al Kholood ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348057.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b5315cc7893bd48e1c8bc0ce8505183c.png" group-title="☆ EVENTOS DEL DIA ☆",03:45 ▫ MotoGP ▫ GP Cataluña (Carrera) ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348268.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/49ac0336a60e3e8e0f3b2653a3c091e3.png" group-title="☆ EVENTOS DEL DIA ☆",05:20 ▫ IIHF World Championship ▫ Slovakia vs. Italy ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348270.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/49ac0336a60e3e8e0f3b2653a3c091e3.png" group-title="☆ EVENTOS DEL DIA ☆",05:20 ▫ IIHF World Championship ▫ USA vs. Great Britain ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348271.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Como vs. Parma ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348272.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Como vs. Parma ▫ SD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348273.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Genoa vs. Milan ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348274.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Genoa vs. Milan ▫ SD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348275.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Juventus vs. Fiorentina ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348276.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Juventus vs. Fiorentina ▫ SD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348277.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Pisa vs. Napoli ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348278.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ Serie A ▫ Roma vs. Lazio ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348279.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ WTA ▫ Internationaux de Strasbourg / Court 1 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348280.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="☆ EVENTOS DEL DIA ☆",05:30 ▫ WTA ▫ Internationaux de Strasbourg ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348281.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/rugby.png" group-title="☆ EVENTOS DEL DIA ☆",06:10 ▫ Test Match ▫ Gales vs. Italia ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348282.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="☆ EVENTOS DEL DIA ☆",06:30 ▫ ATP ▫ bitpanda Hamburg Open ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348283.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",06:30 ▫ Premier League ▫ Manchester United vs. Nottingham Forest ▫ FHD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348284.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",06:30 ▫ Premier League ▫ Manchester United vs. Nottingham Forest ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348285.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="☆ EVENTOS DEL DIA ☆",06:30 ▫ WTA ▫ Internationaux de Strasbourg / Court 2 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348286.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/20a549e584a4295360271c308dbc8446.png" group-title="☆ EVENTOS DEL DIA ☆",06:30 ▫ WTA ▫ Internationaux de Strasbourg / Court Patrice Dominguez ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348287.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/ddcf3f1d229411acd59df0073c29b45a.png" group-title="☆ EVENTOS DEL DIA ☆",07:00 ▫ ATP ▫ Gonet Geneva Open ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348289.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",07:00 ▫ L4L1g4 SmartBank ▫ Deportivo La Coruña vs. FC Andorra ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348290.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/97a5668873ac94a51e8f64891184fccf.png" group-title="☆ EVENTOS DEL DIA ☆",07:30 ▫ Eredivisie ▫ AZ vs. NAC Breda ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348291.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/97a5668873ac94a51e8f64891184fccf.png" group-title="☆ EVENTOS DEL DIA ☆",07:30 ▫ Eredivisie ▫ NEC Nijmegen vs. Go Ahead Eagles ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348292.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/97a5668873ac94a51e8f64891184fccf.png" group-title="☆ EVENTOS DEL DIA ☆",07:30 ▫ Eredivisie ▫ PSV vs. FC Twente ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348293.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/97a5668873ac94a51e8f64891184fccf.png" group-title="☆ EVENTOS DEL DIA ☆",07:30 ▫ Eredivisie ▫ SC Heerenveen vs. Ajax ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348294.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="☆ EVENTOS DEL DIA ☆",08:00 ▫ Primera UY ▫ Central Español vs. Defensor Sporting ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348295.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="☆ EVENTOS DEL DIA ☆",08:00 ▫ Primera UY ▫ Central Español vs. Defensor Sporting ▫ SD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348296.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="☆ EVENTOS DEL DIA ☆",08:00 ▫ Segunda UY ▫ Rentistas vs. Miramar Misiones ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348297.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",08:00 ▫ Serie A ▫ Internazionale vs. Verona ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348298.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/rugby.png" group-title="☆ EVENTOS DEL DIA ☆",08:25 ▫ Test Match ▫ Irlanda vs. Escocia ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348299.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Arminia Bielefeld vs. Hertha BSC ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348300.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Darmstadt 98 vs. Paderborn ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348301.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Dynamo Dresden vs. Holstein Kiel ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348302.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Elversberg vs. Preußen Münster ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348303.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Greuther Fürth vs. Fortuna Düsseldorf ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348304.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Hannover 96 vs. Nürnberg ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348305.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Karlsruher SC vs. Bochum ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348306.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Magdeburg vs. Kaiserslautern ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348307.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2598f0eb34dd7581c0ad1dd13651ed03.png" group-title="☆ EVENTOS DEL DIA ☆",08:30 ▫ 2. Bundesliga ▫ Schalke 04 vs. Eintracht Braunschweig ▫ HD - GER ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348308.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ Brasileirão ▫ Santos vs. Coritiba ▫ HD - POR ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348309.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ Premier League ▫ Brentford vs. Crystal Palace ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348310.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ Premier League ▫ Everton vs. Sunderland ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348311.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ Premier League ▫ Leeds United vs. Brighton & Hove Albion ▫ FHD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348312.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ Premier League ▫ Leeds United vs. Brighton & Hove Albion ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348313.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",09:00 ▫ Premier League ▫ Wolverhampton Wanderers vs. Fulham ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348314.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/49ac0336a60e3e8e0f3b2653a3c091e3.png" group-title="☆ EVENTOS DEL DIA ☆",09:20 ▫ IIHF World Championship ▫ Hungary vs. Austria ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348315.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/49ac0336a60e3e8e0f3b2653a3c091e3.png" group-title="☆ EVENTOS DEL DIA ☆",09:20 ▫ IIHF World Championship ▫ Sweden vs. Denmark ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348316.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/eb0b18f79a526e40bbe6ccef566b19a7.png" group-title="☆ EVENTOS DEL DIA ☆",10:00 ▫ Liga 1 ▫ ADT vs. Comerciantes Unidos ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348317.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/rugby.png" group-title="☆ EVENTOS DEL DIA ☆",10:40 ▫ Test Match ▫ Francia vs. Inglaterra ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348318.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="☆ EVENTOS DEL DIA ☆",11:00 ▫ Segunda UY ▫ Fénix vs. Tacuarembó ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348319.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",11:00 ▫ Serie A ▫ Atalanta vs. Bologna ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348320.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",11:15 ▫ MLB ▫ Miami Marlins vs. Tampa Bay Rays ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348321.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0435712fc637ca4c4db9ab272b424683.png" group-title="☆ EVENTOS DEL DIA ☆",11:30 ▫ Premier League ▫ Newcastle United vs. West Ham United ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348322.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b0df54ade1d3ca54777e5c8208f65c79.png" group-title="☆ EVENTOS DEL DIA ☆",11:30 ▫ Primera Chile ▫ Huachipato vs. Unión La Calera ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348323.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/uefa.png" group-title="☆ EVENTOS DEL DIA ☆",11:50 ▫ Europeo Femenino Sub-17 ▫ Alemania vs. Francia ▫ FHD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348324.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/uefa.png" group-title="☆ EVENTOS DEL DIA ☆",11:50 ▫ Europeo Femenino Sub-17 ▫ Alemania vs. Francia ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348325.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/6de9a82fb078388e66344c30e1180413.png" group-title="☆ EVENTOS DEL DIA ☆",11:50 ▫ Superlig ▫ Kasımpaşa vs. Galatasaray ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348326.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/6de9a82fb078388e66344c30e1180413.png" group-title="☆ EVENTOS DEL DIA ☆",11:50 ▫ Superlig ▫ Trabzonspor vs. Gençlerbirliği ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348327.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/462b0847fa3d5fa364b8fe2bffa8f244.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ Canadian Premier League ▫ Atl. Ottawa vs. HFX Wanderers ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348328.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Athletic Club vs. Celta de Vigo ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348329.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Atlético Madrid vs. Girona ▫ FHD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348330.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Atlético Madrid vs. Girona ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348331.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Elche vs. Getafe ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348332.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Levante vs. Mallorca ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348333.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Osasuna vs. Espanyol ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348334.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Rayo Vallecano vs. Villarreal ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348335.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Real Oviedo vs. Deportivo Alavés ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348336.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Real Sociedad vs. Valencia ▫ FHD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348337.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Real Sociedad vs. Valencia ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348338.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Sevilla vs. Real Madrid ▫ FHD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348339.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Sevilla vs. Real Madrid ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348340.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",12:00 ▫ L4L1g4 ▫ Sevilla vs. Real Madrid ▫ SD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348341.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="☆ EVENTOS DEL DIA ☆",12:30 ▫ WNBA ▫ Las Vegas Aces vs. Atlanta Dream ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348342.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",12:35 ▫ MLB ▫ Baltimore Orioles vs. Washington Nationals ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348343.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",12:35 ▫ MLB ▫ Boston Red Sox vs. Atlanta Braves ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348344.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",12:35 ▫ MLB ▫ Philadelphia Phillies vs. Pittsburgh Pirates ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348345.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",12:40 ▫ MLB ▫ Cincinnati Reds vs. Cleveland Guardians ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348346.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",12:40 ▫ MLB ▫ New York Yankees vs. New York Mets ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348347.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/11e96c41d7f2127bac4a070e6af42590.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ Liga MX Femenil ▫ América (F) vs. Monterrey (F) ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348349.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ Liga Pro ▫ Leones del Norte vs. Mushuc Runa ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348350.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/motoamerica.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ MotoAmerica ▫ Supersport Race 2 ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348351.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ NCAA Men's & Women's Team Tennis - Court 1 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348352.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ NCAA Men's & Women's Team Tennis - Court 2 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348353.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ NCAA Men's & Women's Team Tennis - Court 3 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348354.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ NCAA Men's & Women's Team Tennis - Court 4 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348355.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ NCAA Men's & Women's Team Tennis - Court 5 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348356.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ NCAA Men's & Women's Team Tennis - Court 6 ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348357.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ NCAA Men's Team Tennis Championships ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348358.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="☆ EVENTOS DEL DIA ☆",13:00 ▫ Primera UY ▫ Racing vs. Cerro Largo ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348359.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",13:10 ▫ MLB ▫ Chicago Cubs vs. Chicago White Sox ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348360.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",13:10 ▫ MLB ▫ Milwaukee Brewers vs. Minnesota Twins ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348361.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",13:10 ▫ MLB ▫ Texas Rangers vs. Houston Astros ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348362.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/eb0b18f79a526e40bbe6ccef566b19a7.png" group-title="☆ EVENTOS DEL DIA ☆",13:15 ▫ Liga 1 ▫ Deportivo Garcilaso vs. UTC Cajamarca ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348363.m3u8
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",13:15 ▫ MLB ▫ Kansas City Royals vs. St. Louis Cardinals ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348058.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:20 ▫ URBA ▫ Alumni vs. Hindú ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348059.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:20 ▫ URBA ▫ Belgrano Athletic vs. Atlético del Rosario ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348060.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:20 ▫ URBA ▫ Buenos Aires CRC vs. Los Tilos ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348061.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:20 ▫ URBA ▫ Champagnat vs. Los Matreros ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348062.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:20 ▫ URBA ▫ Newman vs. La Plata ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348063.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:20 ▫ URBA ▫ SIC vs. Regatas Bella Vista ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348064.m3u8
-#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/copadelareina.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Copa de la Reina ▫ Barcelona vs. Atlético Madrid ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348065.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Paris FC vs. PSG ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348066.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d9d831c961e8d515531822c3c0aad2e3.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Primera B Chile ▫ Cobreloa vs. Copiapó ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348067.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d9d831c961e8d515531822c3c0aad2e3.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Primera B Chile ▫ Unión San Felipe vs. Rangers ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348068.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Segunda UY ▫ Deportivo Colonia vs. Plaza Colonia ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348069.m3u8
-#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/ecuador.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Serie A ▫ Macará vs. Independiente del Valle ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348070.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348364.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/49ac0336a60e3e8e0f3b2653a3c091e3.png" group-title="☆ EVENTOS DEL DIA ☆",13:20 ▫ IIHF World Championship ▫ Latvia vs. Germany ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348365.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:30 ▫ URBA ▫ GEBA vs. Lomas ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348366.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/aedec944fea8d666e777c53c0b69cf48.png" group-title="☆ EVENTOS DEL DIA ☆",13:30 ▫ URBA ▫ Santa Bárbara vs. San Fernando ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348367.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",13:45 ▫ Serie A ▫ Cagliari vs. Torino ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348368.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",13:45 ▫ Serie A ▫ Sassuolo vs. Lecce ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348369.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/767ad3f16f11f4d9a0c82de7102e8fd6.png" group-title="☆ EVENTOS DEL DIA ☆",13:45 ▫ Serie A ▫ Udinese vs. Cremonese ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348370.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Brasileirão ▫ Bahia vs. Grêmio ▫ HD - POR ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348371.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Brasileirão ▫ Botafogo vs. Corinthians ▫ HD - POR ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348372.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Brest vs. Angers SCO ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348373.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Lille vs. Auxerre ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348374.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Lorient vs. Le Havre ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348375.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Nantes vs. Toulouse ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348377.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Nice vs. Metz ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348378.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Olympique Lyonnais vs. Lens ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348379.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Olympique Marseille vs. Rennes ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348380.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Paris vs. PSG ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348381.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/cb7a9bd0aba208717b570d7d7fcb765f.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Ligue 1 ▫ Strasbourg vs. Monaco ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348382.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/segundachile.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Primera B Chile ▫ San Luis vs. Puerto Montt ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348383.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b0df54ade1d3ca54777e5c8208f65c79.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Primera Chile ▫ Cobresal vs. Universidad Chile ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348384.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="☆ EVENTOS DEL DIA ☆",14:00 ▫ Segunda UY ▫ Huracán vs. Atenas ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348385.m3u8
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",14:10 ▫ MLB ▫ Arizona Diamondbacks vs. Colorado Rockies ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348071.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",14:30 ▫ Primeira Liga ▫ Estoril vs. Benfica ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348072.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",14:30 ▫ Primeira Liga ▫ Famalicão vs. Alverca ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348073.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d7f8473a2301d9b9e34306200c159528.png" group-title="☆ EVENTOS DEL DIA ☆",14:30 ▫ Primeira Liga ▫ Sporting CP vs. Gil Vicente ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348074.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",15:00 ▫ USL Cup▫ Portland Hearts of Pine vs. Rhode Island FC ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348075.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7069395cdadb41061ebb6e122d10f295.png" group-title="☆ EVENTOS DEL DIA ☆",15:00 ▫ USL Super League ▫ Spokane Zephyr vs. Brooklyn ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348076.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",15:05 ▫ MLB ▫ Baltimore Orioles vs. Washington Nationals ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348077.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",15:05 ▫ MLB ▫ Philadelphia Phillies vs. Pittsburgh Pirates ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348078.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",15:10 ▫ MLB ▫ Miami Marlins vs. Tampa Bay Rays ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348079.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/eb0b18f79a526e40bbe6ccef566b19a7.png" group-title="☆ EVENTOS DEL DIA ☆",15:15 ▫ Liga 1 ▫ Juan Pablo II College vs. Alianza Atlético ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348080.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",15:30 ▫ MLS ▫ CF Montréal vs. Chicago Fire ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348081.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ NHL ▫ Anaheim Ducks vs. Vegas Golden Knights ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348082.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2c599cbb6248272e888cba32cfb10d23.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ Queens League Americas ▫ Final #4 ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348083.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ UFC ▫ Melquizael Costa vs. Arnold Allen ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348084.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ UFC ▫ Melquizael Costa vs. Arnold Allen ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348085.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7069395cdadb41061ebb6e122d10f295.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ USL Super League ▫ Lexington Sporting Club vs. Tampa Bay Sun ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348086.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Brasileirão ▫ Atlético Mineiro vs. Mirassol ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348087.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Brasileirão ▫ Internacional vs. Vasco da Gama ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348088.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d9d831c961e8d515531822c3c0aad2e3.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Primera B Chile ▫ Curicó Unido vs. Santiago Wanderers ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348089.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b0df54ade1d3ca54777e5c8208f65c79.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Primera Chile ▫ O'Higgins vs. Univ. Concepción ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348090.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Primera UY ▫ Peñarol vs. Liverpool ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348091.m3u8
-#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/ecuador.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Serie A ▫ Universidad Católica vs. Delfín ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348092.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ Brasileirão ▫ Fluminense vs. São Paulo ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348093.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ LFA ▫ Caudillos de Chihuahua vs. Dinos de Saltillo ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348094.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ LMB ▫ Tigres de Quintana Roo vs. Diablos Rojos del México ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348095.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ USL Cup ▫ Forward Madison FC vs. Detroit City FC ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348096.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",17:10 ▫ MLB ▫ Cincinnati Reds vs. Cleveland Guardians ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348097.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/190b720c63ce641a024032b924b72c38.png" group-title="☆ EVENTOS DEL DIA ☆",17:30 ▫ Liga Argentina ▫ River Plate vs. Rosario Central ▫ FHD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348098.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/190b720c63ce641a024032b924b72c38.png" group-title="☆ EVENTOS DEL DIA ☆",17:30 ▫ Liga Argentina ▫ River Plate vs. Rosario Central ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348099.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/eb0b18f79a526e40bbe6ccef566b19a7.png" group-title="☆ EVENTOS DEL DIA ☆",17:45 ▫ Liga 1 ▫ Cienciano vs. Alianza Lima ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348100.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4684c60ddc71bc393a1bf007f5452372.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ Boxeo ▫ NYC Attitude vs. Las Vegas Hustle ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348101.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ LMB ▫ Algodoneros de la Laguna vs. Sultanes de Monterrey ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348102.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ NCAA Women's Team Tennis ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348103.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ USL Cup ▫ Brooklyn FC vs. Hartford Athletic ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348104.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ USL Cup ▫ Chattanooga Red Wolves vs. Birmingham Legion ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348105.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ USL Cup ▫ Miami FC vs. Tampa Bay Rowdies ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348106.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ USL Cup ▫ One Knoxville SC vs. San Antonio FC ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348107.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ USL Cup ▫ Richmond Kickers vs. Charleston Battery ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348108.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7069395cdadb41061ebb6e122d10f295.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ USL Super League ▫ Carolina Ascent vs. Sporting JAX ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348109.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",18:10 ▫ MLB ▫ Chicago Cubs vs. Chicago White Sox ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348110.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",18:10 ▫ MLB ▫ Milwaukee Brewers vs. Minnesota Twins ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348111.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",18:10 ▫ MLB ▫ Texas Rangers vs. Houston Astros ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348112.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",18:15 ▫ MLB ▫ Boston Red Sox vs. Atlanta Braves ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348113.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",18:15 ▫ MLB ▫ New York Yankees vs. New York Mets ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348114.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",18:15 ▫ MLB ▫ San Diego Padres vs. Seattle Mariners ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348115.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ LMB ▫ Dorados de Chihuahua vs. Tecolotes de los Dos Laredos ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348116.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ MLS ▫ Charlotte vs. Toronto FC ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348117.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ MLS ▫ DC United vs. St. Louis City ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348118.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ MLS ▫ New England vs. Minnesota United ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348119.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ MLS ▫ New York RB vs. New York City ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348120.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ MLS ▫ Orlando City SC vs. Atlanta United ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348121.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ MLS ▫ Philadelphia Union vs. Columbus Crew ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348122.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ SL Cup ▫ Fort Wayne FC vs. Indy Eleven ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348123.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7069395cdadb41061ebb6e122d10f295.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ USL League One ▫ Sarasota Paradise vs. AV Alta FC ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348124.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ Brasileirão ▫ Palmeiras vs. Cruzeiro ▫ HD - POR ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348125.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/569cd913cb704f4396466fbb37ddf00e.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ Liga GT ▫ Municipal vs. Xelajú ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348126.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ LMB ▫ Bravos de León vs. Conspiradores de Querétaro ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348127.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ LMB ▫ Pericos de Puebla vs. El Águila de Veracruz ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348128.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ NHL ▫ Buffalo Sabres vs. Montreal Canadiens ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348129.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b0df54ade1d3ca54777e5c8208f65c79.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ Primera Chile ▫ Deportes Limache vs. Universidad Católica ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348130.m3u8
-#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/ecuador.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ Serie A ▫ Barcelona vs. Aucas ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348131.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ USL Cup ▫ Oakland Roots SC vs. Sacramento Republic FC ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348132.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4684c60ddc71bc393a1bf007f5452372.png" group-title="☆ EVENTOS DEL DIA ☆",19:25 ▫ Boxeo ▫ Keyshawn Davis vs. Nahir Albright ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348133.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",19:30 ▫ MLS ▫ Austin vs. Sporting KC ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348134.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",19:30 ▫ MLS ▫ Houston Dynamo vs. Vancouver Whitecaps ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348135.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",19:30 ▫ USL Cup ▫ Corpus Christi FC vs. FC Tulsa ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348136.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7069395cdadb41061ebb6e122d10f295.png" group-title="☆ EVENTOS DEL DIA ☆",19:30 ▫ USL Super League ▫ Dallas Trinity vs. Fort Lauderdale United ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348137.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ LFA ▫ Raptors del Valle de México vs. Osos de Monterrey ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348138.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ LFA ▫ Reyes de Jalisco vs. Mexicas CDMX ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348139.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/fc6087d8d34940db00e489c631ae7f21.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ Liga de Expansión MX ▫ Tepatitlán vs. CDS Tampico Madero ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348140.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ USL Cup ▫ Athletic Club Boise vs. Monterey Bay FC ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348142.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ USL Cup ▫ Colorado Springs Switchbacks FC vs. New Mexico United ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348143.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",20:05 ▫ LMB ▫ Guerreros de Oaxaca vs. Leones de Yucatán ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348144.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png" group-title="☆ EVENTOS DEL DIA ☆",20:07 ▫ Liga MX ▫ Guadalajara vs. Cruz Azul ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348145.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",20:15 ▫ MLS ▫ Seattle Sounders FC vs. LA Galaxy ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348146.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/eb0b18f79a526e40bbe6ccef566b19a7.png" group-title="☆ EVENTOS DEL DIA ☆",20:30 ▫ Liga 1 ▫ Sport Boys vs. Cusco ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348147.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",20:30 ▫ MLS ▫ Real Salt Lake vs. Colorado Rapids ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348148.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",20:30 ▫ MLS ▫ San Diego vs. Cincinnati ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348149.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348386.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/931005786aa350bfbe5133a4649bb5b3.png" group-title="☆ EVENTOS DEL DIA ☆",14:15 ▫ L4L1g4 SmartBank ▫ Real Zaragoza vs. Sporting Gijón ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348387.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",14:15 ▫ L4L1g4 ▫ Barcelona vs. Real Betis ▫ FHD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348388.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/7f513dad7eb3209c2bee9fa778ad3094.png" group-title="☆ EVENTOS DEL DIA ☆",14:15 ▫ L4L1g4 ▫ Barcelona vs. Real Betis ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348389.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/190b720c63ce641a024032b924b72c38.png" group-title="☆ EVENTOS DEL DIA ☆",15:00 ▫ Liga Argentina ▫ Argentinos Juniors vs. Belgrano ▫ FHD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348390.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/190b720c63ce641a024032b924b72c38.png" group-title="☆ EVENTOS DEL DIA ☆",15:00 ▫ Liga Argentina ▫ Argentinos Juniors vs. Belgrano ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348391.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",15:00 ▫ LMB ▫ Caliente de Durango vs. Rieleros de Aguascalientes ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348392.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",15:00 ▫ LMB ▫ Diablos Rojos del México vs. Tigres de Quintana Roo ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348393.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/motoamerica.png" group-title="☆ EVENTOS DEL DIA ☆",15:00 ▫ MotoAmerica ▫ Superbike Race 2 ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348394.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",15:05 ▫ MLB ▫ San Francisco Giants vs. Athletics ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348395.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",15:07 ▫ MLB ▫ Los Angeles Dodgers vs. Los Angeles Angels ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348396.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/eb0b18f79a526e40bbe6ccef566b19a7.png" group-title="☆ EVENTOS DEL DIA ☆",15:30 ▫ Liga 1 ▫ Los Chankas vs. Deportivo Moquegua ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348397.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/462b0847fa3d5fa364b8fe2bffa8f244.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ Canadian Premier League ▫ Pacific FC vs. Inter Toronto ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348398.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/2c599cbb6248272e888cba32cfb10d23.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ Kings League Americas (Final #4) ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348399.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/3dcc58a72a596b9ef1b3bebfdc3b052b.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ Primera UY ▫ Albion vs. Wanderers ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348400.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ USL Cup ▫ FC Naples vs. Sporting Club Jacksonville ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348401.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",16:00 ▫ USL Cup ▫ Union Omaha vs. Louisville City FC ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348402.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Brasileirão ▫ Chapecoense vs. Remo ▫ HD - POR ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348403.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Brasileirão ▫ RB Bragantino vs. Vitória ▫ HD - POR ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348404.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/segundachile.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Primera B Chile ▫ San Marcos vs. Antofagasta ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348405.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b0df54ade1d3ca54777e5c8208f65c79.png" group-title="☆ EVENTOS DEL DIA ☆",16:30 ▫ Primera Chile ▫ Colo-Colo vs. Ñublense ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348406.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ MLS ▫ Inter Miami vs. Portland Timbers ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348407.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ MLS ▫ Inter Miami vs. Portland Timbers ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348408.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/1b5ab9120fbddae928590a3ee09e66e1.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ NWSL ▫ Portland Thorns FC vs. Angel City FC ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348409.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="☆ EVENTOS DEL DIA ☆",17:00 ▫ WNBA ▫ Seattle Storm vs. Indiana Fever ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348410.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="☆ EVENTOS DEL DIA ☆",17:30 ▫ Brasileirão ▫ Athletico-PR vs. Flamengo ▫ HD - POR ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348411.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ LMB ▫ Conspiradores de Querétaro vs. Bravos de León ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348412.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ LMB ▫ Sultanes de Monterrey vs. Algodoneros de la Laguna ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348413.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e120975153fe450775b20e635d6cd83b.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ NCAA Women's Team Tennis Championships ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348414.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/4684c60ddc71bc393a1bf007f5452372.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ Team Boxing League ▫ Evento ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348415.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ USL Cup ▫ Spokane Velocity FC vs. Las Vegas Lights FC ▫ HD - ENG ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348416.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="☆ EVENTOS DEL DIA ☆",18:00 ▫ WNBA ▫ Toronto Tempo vs. Los Angeles Sparks ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348417.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="☆ EVENTOS DEL DIA ☆",18:10 ▫ Liga Pro ▫ Manta vs. Emelec ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348418.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",18:20 ▫ MLB ▫ San Diego Padres vs. Seattle Mariners ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348419.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/87316d3b9ec1e94ac2b63919477f669a.png" group-title="☆ EVENTOS DEL DIA ☆",18:30 ▫ Segunda UY ▫ Oriental vs. La Luz ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348420.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ LMB ▫ Acereros de Monclova vs. Charros de Jalisco ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348421.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ LMB ▫ El Águila de Veracruz vs. Pericos de Puebla ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348422.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ LMB ▫ Leones de Yucatán vs. Guerreros de Oaxaca ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348423.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ LMB ▫ Tecolotes de los Dos Laredos vs. Dorados de Chihuahua ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348425.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ MLS ▫ Nashville SC vs. Los Angeles FC ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348426.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ NBA ▫ Cleveland Cavaliers vs. Detroit Pistons ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348427.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/b0df54ade1d3ca54777e5c8208f65c79.png" group-title="☆ EVENTOS DEL DIA ☆",19:00 ▫ Primera Chile ▫ Deportes Concepción vs. Everton ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348428.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/462b0847fa3d5fa364b8fe2bffa8f244.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ Canadian Premier League ▫ Vancouver FC vs. Cavalry ▫ HD - ENG ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348429.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348430.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/f62b01dbb6b32b1e918fb7c035c296a5.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ Liga MX ▫ Pumas UNAM vs. Pachuca ▫ HD - ESP ▫▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348431.m3u8
+#EXTINF:-1 tvg-logo="http://23.153.217.128:90/Logos/ppv2/primerasalvador.png" group-title="☆ EVENTOS DEL DIA ☆",20:00 ▫ Primera SV ▫ FAS vs. Municipal Limeño ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348432.m3u8
+#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",20:05 ▫ LMB ▫ Toros de Tijuana vs. Saraperos de Saltillo ▫ HD - ESP ▫
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348433.m3u8
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",20:38 ▫ MLB ▫ Los Angeles Dodgers vs. Los Angeles Angels ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348150.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348434.m3u8
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="☆ EVENTOS DEL DIA ☆",20:40 ▫ MLB ▫ San Francisco Giants vs. Athletics ▫ HD - ENG ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348151.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",20:45 ▫ LMB ▫ Rieleros de Aguascalientes vs. Caliente de Durango ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348152.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/bb9447280147fcf718bf829201204971.png" group-title="☆ EVENTOS DEL DIA ☆",21:00 ▫ Primera CR ▫ Herediano vs. Deportivo Saprissa ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348153.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/e1d3a690f54e0a15f16fc393f6617894.png" group-title="☆ EVENTOS DEL DIA ☆",21:00 ▫ USL Cup ▫ Phoenix Rising FC vs. Orange County SC ▫ HD - ENG ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348154.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",21:05 ▫ LMB ▫ Charros de Jalisco vs. Acereros de Monclova ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348155.m3u8
-#EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/c349fba1221aa947f3977be278e3429e.png" group-title="☆ EVENTOS DEL DIA ☆",21:05 ▫ LMB ▫ Saraperos de Saltillo vs. Toros de Tijuana ▫ HD - ESP ▫▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348156.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348435.m3u8
 #EXTINF:-1 tvg-logo="http://www.1play.cool:25461/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="☆ EVENTOS DEL DIA ☆",21:30 ▫ MLS ▫ SJ Earthquakes vs. Dallas ▫ HD - ESP ▫
-http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348157.m3u8
+http://tv.streamid.tv:8080/live/JuanSolari/CxybCrqFu3e/348436.m3u8
 
-# Total: 3205
+# Total: 3350

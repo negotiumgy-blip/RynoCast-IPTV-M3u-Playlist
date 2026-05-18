@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-05-17 19:06:39
+# Generated: 2026-05-18 20:56:21
 # Expires: 2026-06-14
 # Family Safe Edition
 # ==============================================
@@ -1259,21 +1259,31 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/176796.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 9 (A)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/176797.m3u8
 
-# --- Canais | Disney+ (22) ---
+# --- Canais | Disney+ (26) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952472.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 Alt (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952474.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 HD (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/176744.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 1 SD (B)
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952474.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 10 (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/91275.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 (B)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 11 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952476.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 12 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1012429.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 13 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1012430.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 14 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1012431.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 15 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1012432.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 16 (B)
+http://play.1list.vip/live/8yxHApRgvn/factoryiptv/1012433.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 Alt (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952473.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 HD (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/176743.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 SD (B)
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 3 (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/176742.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 4 (B)
@@ -1302,8 +1312,6 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/85330.m3u8
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/89548.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 7 (A)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/931459.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ Mosaico (B)
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/952476.m3u8
 
 # --- Canais | Diversos (183) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTD6SJv.png" group-title="Canais | Diversos",3 Palavrinhas [BR]
@@ -1997,7 +2005,7 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/73051.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN [4K]
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/215398.m3u8
 
-# --- Canais | Esportes (110) ---
+# --- Canais | Esportes (106) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 01 (B)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/131927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 02 (B)
@@ -2050,16 +2058,8 @@ http://play.1list.vip/live/8yxHApRgvn/factoryiptv/987125.m3u8
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/176672.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufHPO6R.png" group-title="Canais | Esportes",CazéTV 07 (A)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/987126.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHPO6R.png" group-title="Canais | Esportes",CazéTV 07 (B)
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/216785.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufHPO6R.png" group-title="Canais | Esportes",CazéTV 08 (A)
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/987127.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHPO6R.png" group-title="Canais | Esportes",CazéTV 08 (B)
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/216786.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHPO6R.png" group-title="Canais | Esportes",CazéTV 09 (B)
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/216787.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ufHPO6R.png" group-title="Canais | Esportes",CazéTV 10 (B)
-http://play.1list.vip/live/8yxHApRgvn/factoryiptv/216788.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTCL5so.png" group-title="Canais | Esportes",Combate
 http://play.1list.vip/live/8yxHApRgvn/factoryiptv/37119.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTCL5so.png" group-title="Canais | Esportes",Combate FHD

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-05-17 19:12:34
+# Generated: 2026-05-18 21:00:12
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -17955,7 +17955,7 @@ http://allone8k.info:8080/live/hany/hany1234/485075.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | TV",AWE HD US
 http://allone8k.info:8080/live/hany/hany1234/485076.m3u8
 
-# --- Unknown (101) ---
+# --- Unknown (102) ---
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2F4k.gif" group-title="Unknown",Bein Sports News 4K
 http://allone8k.info:8080/live/hany/hany1234/298896.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2F4k.gif" group-title="Unknown",Bein Sports 1 4K-
@@ -18158,6 +18158,8 @@ http://allone8k.info:8080/live/hany/hany1234/141195.m3u8
 http://allone8k.info:8080/live/hany/hany1234/315095.m3u8
 #EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="Unknown",EID: ماهر المعيقلي
 http://allone8k.info:8080/live/hany/hany1234/229157.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Unknown",mbc masr test
+http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
 # --- [AR] KURDISTAN (1) ---
 #EXTINF:-1 tvg-logo="" group-title="[AR] KURDISTAN",AR:KU-ISHTAR TV
@@ -18302,9 +18304,5 @@ http://allone8k.info:8080/live/hany/hany1234/650314.m3u8
 http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
-
-# --- مهم (1) ---
-#EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
-http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
 # Total: 8943
