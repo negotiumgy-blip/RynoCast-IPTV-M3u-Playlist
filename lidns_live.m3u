@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lidns.cc
-# Generated: 2026-05-19 08:33:55
+# Generated: 2026-05-19 20:41:35
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -3234,15 +3234,15 @@ http://lidns.cc/live/yu3k45/3audeg/90442.m3u8
 # --- EVENTOS (27) ---
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lidns.cc/live/yu3k45/3audeg/89806.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:00] Arsenal x Burnley FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[16:15] Chelsea x Tottenham FHD
 http://lidns.cc/live/yu3k45/3audeg/506922.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[17:00] Convocação Copa 2026
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Fluminense x Bolívar FHD
 http://lidns.cc/live/yu3k45/3audeg/506923.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Ponte Preta x Londrina FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:00] Always Ready x Mirassol FHD
 http://lidns.cc/live/yu3k45/3audeg/506924.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] Confiança x Maranhão FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] Boca Juniors x Cruzeiro FHD
 http://lidns.cc/live/yu3k45/3audeg/506925.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[20:00] Botafogo-PB x Inter de Limeira FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] São Paulo x Millonarios FHD
 http://lidns.cc/live/yu3k45/3audeg/506926.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lidns.cc/live/yu3k45/3audeg/506927.m3u8

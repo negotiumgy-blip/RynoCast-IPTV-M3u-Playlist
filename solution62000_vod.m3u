@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-18 20:59:53
+# Generated: 2026-05-19 20:48:31
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -907,7 +907,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1030.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",Lucky Luke
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
 
-# --- Movies | Documentaires (60) ---
+# --- Movies | Documentaires (61) ---
+#EXTINF:-1 tvg-logo="http://162.55.83.97:8089/Nassri_1.png" group-title="Movies | Documentaires",SAMIR NASRI : "L’enfant prodige"
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27497.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="Movies | Documentaires",L'Accident (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27062.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xy5oC3dWw2OuSUHXIBPm6XQLk8n.jpg" group-title="Movies | Documentaires",Le Bus : Les Bleus en grève (2026)
@@ -3364,9 +3366,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5161.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5109.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcBXkQygo8h2PK0KnxOxzkbD9p.jpg" group-title="Movies | Films",Shazam! La Rage des Dieux - 2023
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5074.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg" group-title="Movies | Films",Opération Fortune : Ruse de Guerre - 2023
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vQGw9lzfh9hEoYSOWAE5XbZ6J7s.jpg" group-title="Movies | Films",Opération Fortune : Ruse de guerre (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5073.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuZVGnzjp0F0v4lLff3tpGs5aGJ.jpg" group-title="Movies | Films",Panama - 2023
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tuZVGnzjp0F0v4lLff3tpGs5aGJ.jpg" group-title="Movies | Films",Panama (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5016.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYQs5RPHiWctoYqvI8baHiIqdd8.jpg" group-title="Movies | Films",Creed III - 2023
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5015.mkv
@@ -4134,8 +4136,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1579.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/971.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qxs86L3vFdYPlXXvml5RNzyMM2.jpg" group-title="Movies | Films",Paul (2011)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13947.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVMudKQfhosujwgAKhfxNGfS9sL.jpg" group-title="Movies | Films",Pirates des Caraïbes : La Vengeance de Salazar - 2017
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1131.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abHumwgtwl0P6OGvJnyxYYe6iT2.jpg" group-title="Movies | Films",Players - 2013
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/844.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sb3hYPMDHjyUBID95jqMRoFMbl2.jpg" group-title="Movies | Films",Pourris gâtés (2021)
@@ -4322,6 +4322,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11390.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Q9EdjddChgzuMwXmXmNVcO3bI.jpg" group-title="Movies | Films",Sons of Rizk 2 (2019)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13764.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ltOkXWOYZoYstuKrMq44yogotHp.jpg" group-title="Movies | Films",Tomb Raider (2018)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27158.mkv
 
 # --- Movies | Films - ULTRA HD 4K (23) ---
 #EXTINF:-1 tvg-logo="https://metalunastore.fr/cdn/shop/files/RoboCop4KBlu-ray.jpg?v=1715248236" group-title="Movies | Films - ULTRA HD 4K",RoboCop (2014) - 4K
@@ -4619,7 +4621,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgXFOpfRT6BZeJlUFetFQIf9hh.jpg" group-title="Movies | Films Arabe",Waraqat Gameia - 2020
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5524.mp4
 
-# --- Movies | Films Cultes (274) ---
+# --- Movies | Films Cultes (279) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnR42jxXOWmwrBsn1S9AWRnWNGB.jpg" group-title="Movies | Films Cultes",Opération Portugal - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4052.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUzUir6haXE5dqg5vn6Gyx56g.jpg" group-title="Movies | Films Cultes",Halal police d’État (2011)
@@ -4684,7 +4686,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2649.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/967.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YEHLUIzKsqezQTRPxdojRBAQ3I.jpg" group-title="Movies | Films Cultes",Basic - 2003
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1393.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFvJPCY7N6z8eaOrtRgbNlLJfBO.jpg" group-title="Movies | Films Cultes",Benjamin Gates et le Livre des secrets - 2007
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tG82TWp51tYPgocMkp2FpiV9sOu.jpg" group-title="Movies | Films Cultes",Benjamin Gates et le Livre des Secrets (2007)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/811.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFCZwMEkPaWpjBfZ5tiZWxHTo8I.jpg" group-title="Movies | Films Cultes",Blade - 1998
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5046.mkv
@@ -5002,7 +5004,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/814.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5163.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPiy54eS2243YKp6l5u73UOL226.jpg" group-title="Movies | Films Cultes",L'Aile ou la Cuisse - 1976
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1547.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzOlMYEfNmgCDnFHj3zL3RBqwau.jpg" group-title="Movies | Films Cultes",Pirates des Caraïbes : Le Secret du coffre maudit - 2006
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fVMudKQfhosujwgAKhfxNGfS9sL.jpg" group-title="Movies | Films Cultes",Pirates des Caraïbes : La Vengeance de Salazar (2017)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1131.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bzOlMYEfNmgCDnFHj3zL3RBqwau.jpg" group-title="Movies | Films Cultes",Pirates des Caraïbes : Le Secret du coffre maudit (2006)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/808.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c7BVOAPWWvDKm6BpsDrD8v4pBgT.jpg" group-title="Movies | Films Cultes",Désigné pour mourir - 1990
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1182.mkv
@@ -5168,6 +5172,14 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2945.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2946.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htc0XxpoFuRvILQOUDJGS13Gmsq.jpg" group-title="Movies | Films Cultes",Le Grinch - 2000
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2950.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ix7O8Kdb5cXDg5Pwnry7wvoeAn6.jpg" group-title="Movies | Films Cultes",Benjamin Gates et le Trésor des Templiers (2004)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27155.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t7hdugSBoox8ojzrwZWPJtNMlWb.jpg" group-title="Movies | Films Cultes",Lara Croft : Tomb Raider (2001)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27156.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1UbRvMwbiCrkFHEeFVUiXeGvy7j.jpg" group-title="Movies | Films Cultes",Lara Croft : Tomb Raider, le berceau de la vie (2003)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27157.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wkMvIIUGZIxcjFihn19rl2CiPTa.jpg" group-title="Movies | Films Cultes",Jeanne d'Arc (1999)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27159.mkv
 
 # --- Movies | Films Marocains (2) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD9Ny1ixmMYYhAV10GSAvyXcQTy.jpg" group-title="Movies | Films Marocains",Animalia - 2023
@@ -7463,7 +7475,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (300) ---
+# --- Series | Series divers (301) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8064,5 +8076,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1159
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1161
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",PONIES
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1162
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Memory of a Killer
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1165
 
-# Total: 3999
+# Total: 4006

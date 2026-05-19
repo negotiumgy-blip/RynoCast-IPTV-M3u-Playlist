@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: line.mytvzone.xyz:80
-# Generated: 2026-05-19 08:38:46
+# Generated: 2026-05-19 20:42:49
 # Expires: 2027-03-30
 # Family Safe Edition
 # ==============================================
@@ -3321,13 +3321,9 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1449886.m3u8
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY HOCKEY ʀᴀᴡ",VIA ▎HOCKEY 10 :
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1449885.m3u8
 
-# --- NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ (11) ---
-#EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE TOP EVENT :
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1215769.m3u8
-#EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 01:Arsenal FC vs. Burnley FC : Monday. 18 May 2026 20:00
+# --- NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ (9) ---
+#EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 01: AFC Bournemouth vs. Manchester City : Tuesday. 19 May 2026 19:30
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1215770.m3u8
-#EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 02:
-http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1215771.m3u8
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 03:
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1215772.m3u8
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/viaplay.png" group-title="NL ▎VIAPLAY PREMIER LEAGUE ʀᴀᴡ",VIA ▎PREMIER LEAGUE 04:
@@ -3911,4 +3907,4 @@ http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1707539.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/volendamvip.png" group-title="Unknown",NL ▎VOLENDAM VIP 11
 http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/1707540.m3u8
 
-# Total: 1902
+# Total: 1900

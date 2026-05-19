@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2026-05-19 08:31:27
+# Generated: 2026-05-19 20:45:09
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -10066,11 +10066,11 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1266447.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1266448.m3u8
 
 # --- SPORTS - CANADIAN HOCKEY (70) ---
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735219.jpg" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 01: ECHL Maine vs Wheeling @ 7:10 PM EDT
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735219.jpg" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 01: AHL W-B/Scranton vs Springfield @ 7:05 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735219.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735278.jpg" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 02:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735278.jpg" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 02: AHL Grand Rapids vs Chicago @ 8:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735278.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735279.jpg" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 03:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735279.jpg" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 03:  ECHL Toledo vs Fort Wayne @ 7:35 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735279.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735280.jpg" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 04:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735280.m3u8
@@ -10229,60 +10229,58 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/632095.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - CRICKET",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/632096.m3u8
 
-# --- SPORTS - ESPN+ (286) ---
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d45ed2ae-d60e-402f-b294-4987220d1b3a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 001) | ESPN Radio May 18 10:00AM ET (2026-05-18 10:00:00)
+# --- SPORTS - ESPN+ (285) ---
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/39bda54c-ada8-49a2-bc2c-528e49f089ce/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 001) | ESPN Radio May 19 10:00AM ET (2026-05-19 10:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162517.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/88a78261-d8d4-485d-befa-f629fa9aa4a0/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 002) | Mon_ 5/18 _ The Rich Eisen Show May 18 12:00PM ET (2026-05-18 12:00:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4f15b81c-a346-46ff-aaae-9a305285e74a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 002) | Tue_ 5/19 _ LALIGA Highlight Show May 19 11:00AM ET (2026-05-19 11:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162518.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3b5970a9-5a58-4123-a3b9-23280ff4a31d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 003) | Ivy Baseball Championship (Championship (If Necessary)) May 18 12:00PM ET (2026-05-18 12:00:05)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/46a9d62f-afd4-475b-ab5b-829697fcd53b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 003) | The Pat McAfee Show May 19 12:00PM ET (2026-05-19 12:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162519.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/84e24dc0-70b2-4eb7-9b9c-a01fafa35742/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 004) | The Pat McAfee Show May 18 12:00PM ET (2026-05-18 12:00:10)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/24b3379d-a1a7-4abc-bfea-98425d593d5c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 004) | Tue_ 5/19 _ The Rich Eisen Show May 19 12:00PM ET (2026-05-19 12:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162520.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d0f342f4-1447-4d3c-8820-56bf108e2ba3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 005) | Holy Cross vs. Bucknell (Championship Series _ Game 1) May 18 2:00PM ET (2026-05-18 14:00:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/53c30e80-f537-4339-8c63-c2ce7f618060/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 005) | UT Martin vs. Lindenwood (Game 1) May 19 1:00PM ET (2026-05-19 13:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162521.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c8d1aefb-4054-4f15-a22e-3d5152f6e3e3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 006) | Freddie & Harry May 18 3:00PM ET (2026-05-18 15:00:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6ba4a8f9-1763-4e07-bed1-4075112b1334/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 006) | Tue_ 5/19 _ Futbol W May 19 1:00PM ET (2026-05-19 13:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162522.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/552060fc-8d4b-4872-976c-22a166e46797/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 007) | 2026 WSL Championship Tour: Corona Cero New Zealand Pro May 18 3:30PM ET (2026-05-18 15:30:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8916f11e-9b41-4fc5-bd7d-28f2c889f045/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 007) | Austin Peay vs. Jacksonville (Game 1) May 19 2:00PM ET (2026-05-19 14:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162523.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/508f3585-f8ed-4fef-b670-bd0c5923cbfa/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 008) | Mon_ 5/18 _ ESPN FC May 18 5:00PM ET (2026-05-18 17:00:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9d005443-1841-4a21-a3c8-a2b5f5f602ee/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 008) | Holy Cross vs. Bucknell (Championship Series _ Game 2) May 19 2:00PM ET (2026-05-19 14:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162524.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7bab8f3f-2740-464a-b344-cd22f5e7f6b7/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 009) | The Point Presented by Lexus May 18 7:00PM ET (2026-05-18 19:00:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8188cf05-61e2-4c21-8c22-0755b7ac6121/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 009) | Freddie & Harry May 19 3:00PM ET (2026-05-19 15:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162525.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/eea06dee-5991-432e-8a7f-5ccb5b487c1f/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 010) | Mon_ 5/18 _ Futbol Americas May 18 8:30PM ET (2026-05-18 20:30:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1e3928b4-915d-4c45-a98d-35ba7737307e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 010) | Atlanta Braves vs. Miami Marlins May 19 3:20PM ET (2026-05-19 15:20:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162526.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1194cb73-906f-4d4f-9398-e03bbb742bc5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 011) | Chicago White Sox vs. Seattle Mariners May 18 8:50PM ET (2026-05-18 20:50:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/15cc318b-7da2-492c-95fc-71f23d062df5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 011) | Atlanta Braves vs. Miami Marlins May 19 3:20PM ET (2026-05-19 15:20:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162527.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d90ab3f6-4301-4a4a-9bc6-8b58b7f0431b/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 012) | Chicago White Sox vs. Seattle Mariners May 18 8:50PM ET (2026-05-18 20:50:05)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/50f6830e-cae9-4f43-a902-80dcfefe3a0a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 012) | 2026 WSL Championship Tour: Corona Cero New Zealand Pro May 19 3:30PM ET (2026-05-19 15:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162528.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/31159ad9-3b32-4185-b1fa-c5c7e826d2d0/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 013) | En Español_Chicago White Sox vs. Seattle Mariners May 18 9:30PM ET (2026-05-18 21:30:00)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4470927c-88da-4050-bb1e-70dcc1f6919a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 013) | Bundesliga Special #20 _ Bayern Unleashed _ Records in Red May 19 4:00PM ET (2026-05-19 16:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162529.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b404aeff-6c12-42f6-8592-0e400bdf74ee/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 014) | Marshall vs. Louisiana (First Round) May 19 4:00PM ET (2026-05-19 16:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162530.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d87d289e-509f-46b3-a879-a87d7b85d083/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 015) | En Español_Atlanta Braves vs. Miami Marlins May 19 4:00PM ET (2026-05-19 16:00:10)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162531.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dd55bae8-4378-48f1-bece-424f7d8daac4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 016) | Southern Indiana vs. Morehead State (Game 2) May 19 4:00PM ET (2026-05-19 16:00:15)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162532.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/aa6c285c-252e-4fa6-bd19-2066a20ee286/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 017) | Tue_ 5/19 _ ESPN FC May 19 5:00PM ET (2026-05-19 17:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162533.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/44399ffc-125c-402e-9161-3d44f623770c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 018) | Bundesliga Original Series _ Road to the Americas Ep. 3 May 19 5:30PM ET (2026-05-19 17:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162534.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f4ba2a29-8a8a-47f3-b6f6-bb530b071d2d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 019) | Stetson vs. Central Arkansas (Game 2) May 19 6:00PM ET (2026-05-19 18:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162535.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/92b080d8-a800-4864-b1cd-a79f9bd8c99c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 020) | FA Cup Final Review Show May 19 7:00PM ET (2026-05-19 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4f6401e1-1a22-4965-aa04-94c2c2fc0092/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 021) | NBA Layup Lines May 19 7:15PM ET (2026-05-19 19:15:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162537.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/61a38c00-3137-4531-88d5-19c055daae26/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 022) | Georgia State vs. Old Dominion (First Round) May 19 7:30PM ET (2026-05-19 19:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162538.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/294d723d-fe2a-4908-bb5b-dc55f3228208/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 023) | Hoop Streams May 19 7:30PM ET (2026-05-19 19:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162539.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ac627db0-6e64-4311-baed-cdf9ea2bec01/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 024) | Texas Tech vs. BYU (Game 1) May 19 7:30PM ET (2026-05-19 19:30:10)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162540.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/736abd20-38d3-46c3-b83d-f727a9217732/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 025) | Above the Rim: Cleveland Cavaliers vs. New York Knicks May 19 8:00PM ET (2026-05-19 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162541.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
-http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162542.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f75c6328-76af-4eff-9565-ccc8a474428a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - ESPN+",US (ESPN+ 027) | Kansas State vs. Utah (Game 2) May 19 11:00PM ET (2026-05-19 23:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162543.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - ESPN+",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/1162544.m3u8
@@ -10824,7 +10822,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707588.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707589.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707590.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69fcddea94518.png" group-title="SPORTS - FLOSPORTS",(FLSP 010) | flohockey: 2026 Maine Mariners vs Wheeling Nailers (Home) @ 7:10 PM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_6a01e6bb2655e.png" group-title="SPORTS - FLOSPORTS",(FLSP 010) | flohockey: 2026 Grand Rapids Griffins vs Chicago Wolves (Away) @ 8:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707591.m3u8
@@ -10846,7 +10844,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707598.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707599.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707600.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69fcddea94518.png" group-title="SPORTS - FLOSPORTS",(FLSP 011) | flohockey: 2026 Maine Mariners vs Wheeling Nailers (Away) @ 7:10 PM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_6a0357b2b5f84.png" group-title="SPORTS - FLOSPORTS",(FLSP 011) | flohockey: 2026 Brooks Bandits vs Nanaimo Clippers (Home) @ 10:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707492.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707601.m3u8
@@ -10868,7 +10866,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707608.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707609.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707610.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69d54f074a9af.png" group-title="SPORTS - FLOSPORTS",(FLSP 012) | Owen Sound North Stars vs Six Nations Chiefs _ Men`s Lacrosse (Home) @ 7:30 PM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_6a0357b2b5f84.png" group-title="SPORTS - FLOSPORTS",(FLSP 012) | flohockey: 2026 Brooks Bandits vs Nanaimo Clippers (Away) @ 10:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707611.m3u8
@@ -10890,7 +10888,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707618.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707619.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/kMqK37OylkWB1PXOxZjm4RB9mrk1K4qN.jpg" group-title="SPORTS - FLOSPORTS",(FLSP 013) | United States vs Scotland _ Cricket (USA vs Scotland) @ 11:45 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707621.m3u8
@@ -11246,7 +11244,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707779.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707780.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707510.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69f4fe8a33daa.png" group-title="SPORTS - FLOSPORTS",(FLSP 002) | flohockey: 2026 Bears vs Otters (Matterhorn) (Home) @ 8:00 AM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/FloBikes-Overlay.jpg" group-title="SPORTS - FLOSPORTS",(FLSP 002) | flobikes: 2026 Classique Dunkerque Hauts de France (Classique Dunkerque Hauts de France) @ 9:00 AM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707781.m3u8
@@ -11468,7 +11466,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707879.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707880.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707520.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69f4fe83dbee6.png" group-title="SPORTS - FLOSPORTS",(FLSP 003) | flohockey: 2026 Falcons vs Storm (Matterhorn) (Home) @ 8:15 AM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/kMqK37OylkWB1PXOxZjm4RB9mrk1K4qN.jpg" group-title="SPORTS - FLOSPORTS",(FLSP 003) | Lucknow Super Giants vs Rajasthan Royals _ Cricket (Super Giants vs Royals) @ 10:00 AM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707484.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707881.m3u8
@@ -11690,7 +11688,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707979.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707980.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707530.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/6a04863446dbe.png" group-title="SPORTS - FLOSPORTS",(FLSP 004) | flowrestling: FloWrestling Radio Live _ May 18th (FloWrestling Radio Live _ May 13th) @ 10:00 AM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/699756d14ede8.png" group-title="SPORTS - FLOSPORTS",(FLSP 004) | floracing: 2026 High Limit Racing at Grandview Speedway (High Limit Racing at Grandview) @ 6:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707485.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707981.m3u8
@@ -11714,7 +11712,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707538.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707539.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707540.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69f4fe9c94d82.png" group-title="SPORTS - FLOSPORTS",(FLSP 005) | flohockey: 2026 Wildcats vs Sting (Matterhorn) (Home) @ 10:00 AM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_6a01e6b7adee6.png" group-title="SPORTS - FLOSPORTS",(FLSP 005) | flohockey: 2026 Wilkes_Barre/Scranton Penguins vs Springfield Thunderbirds (Home) @ 7:05 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707486.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707541.m3u8
@@ -11736,7 +11734,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707548.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707549.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707550.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/kMqK37OylkWB1PXOxZjm4RB9mrk1K4qN.jpg" group-title="SPORTS - FLOSPORTS",(FLSP 006) | Sunrisers Hyderabad vs Chennai Super Kings _ Cricket (Sunrisers vs Super Kings) @ 10:00 AM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_6a01e6b7adee6.png" group-title="SPORTS - FLOSPORTS",(FLSP 006) | flohockey: 2026 Wilkes_Barre/Scranton Penguins vs Springfield Thunderbirds (Away) @ 7:05 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707487.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707551.m3u8
@@ -11758,7 +11756,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707558.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707559.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707560.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69f4fe9a26ff6.png" group-title="SPORTS - FLOSPORTS",(FLSP 007) | flohockey: 2026 Big Red vs Spirit (Matterhorn) (Home) @ 10:15 AM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69f8c8e743f26.png" group-title="SPORTS - FLOSPORTS",(FLSP 007) | flohockey: 2026 Toledo Walleye vs Fort Wayne Komets (Home) @ 7:35 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707488.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707561.m3u8
@@ -11780,7 +11778,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707568.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707569.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707570.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69f4feaaa71da.png" group-title="SPORTS - FLOSPORTS",(FLSP 008) | flohockey: 2026 Nittany Lions vs Firebirds (Matterhorn) (Home) @ 12:00 PM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_69f8c8e743f26.png" group-title="SPORTS - FLOSPORTS",(FLSP 008) | flohockey: 2026 Toledo Walleye vs Fort Wayne Komets (Away) @ 7:35 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707571.m3u8
@@ -11802,7 +11800,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707578.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - FLOSPORTS",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707580.m3u8
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/60b9646c2b76e.png" group-title="SPORTS - FLOSPORTS",(FLSP 009) | floracing: 2026 Wild Thing Kart Series at Stafford Speedway (Wild Thing Kart Series at Stafford) @ 6:15 PM EDT
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/tmis_6a01e6bb2655e.png" group-title="SPORTS - FLOSPORTS",(FLSP 009) | flohockey: 2026 Grand Rapids Griffins vs Chicago Wolves (Home) @ 8:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/707490.m3u8
 
 # --- SPORTS - GOLF (20) ---
@@ -11895,7 +11893,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/713464.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/713465.jpg" group-title="SPORTS - LACROSSE",Lacrosse 22:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/713465.m3u8
 
-# --- SPORTS - MLB (89) ---
+# --- SPORTS - MLB (88) ---
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/390398.jpg" group-title="SPORTS - MLB",MLB Arizona Diamondbacks
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/390398.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/390399.jpg" group-title="SPORTS - MLB",MLB Atlanta Braves
@@ -11954,14 +11952,12 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/390424.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/390425.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/390427.jpg" group-title="SPORTS - MLB",MLB Washington Nationals
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/390427.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177038.jpg" group-title="SPORTS - MLB",USA Real MLB 01: Guardians VS Tigers (FS1 Feed ) @ 18:40
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177038.jpg" group-title="SPORTS - MLB",USA Real MLB 01: Orioles VS Rays (Orioles Feed ) @ 18:40
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177038.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177039.jpg" group-title="SPORTS - MLB",USA Real MLB 02: Orioles VS Rays (Orioles Feed ) @ 18:40
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177039.jpg" group-title="SPORTS - MLB",USA Real MLB 02: Reds VS Phillies (Phillies Feed ) @ 18:40
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177039.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177040.jpg" group-title="SPORTS - MLB",USA Real MLB 03: Reds VS Phillies (Phillies Feed ) @ 18:40
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177040.jpg" group-title="SPORTS - MLB",USA Real MLB 03: Mets VS Nationals (Mets Feed ) @ 18:45
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177040.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177041.jpg" group-title="SPORTS - MLB",USA Real MLB 04: Mets VS Nationals (Mets Feed ) @ 18:45
-http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177041.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177043.jpg" group-title="SPORTS - MLB",USA Real MLB 06: Red Sox VS Royals (Red Sox Feed ) @ 19:40
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177043.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177044.jpg" group-title="SPORTS - MLB",USA Real MLB 07: Astros VS Twins (Astros Feed ) @ 19:40
@@ -11980,13 +11976,13 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177049.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177050.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177051.jpg" group-title="SPORTS - MLB",USA Real MLB 14: Giants VS D-backs (D-backs Feed ) @ 21:40
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177051.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177052.jpg" group-title="SPORTS - MLB",USA Real MLB 15: Atlanta Braves vs Miami Marlins @ 06:40 pm EDT
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177052.jpg" group-title="SPORTS - MLB",USA Real MLB 15: Atlanta Braves vs Miami Marlins @ 04:10 pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177052.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177053.jpg" group-title="SPORTS - MLB",USA Real MLB 16: Chicago White Sox vs Seattle Mariners @ 09:40 pm EDT
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177053.jpg" group-title="SPORTS - MLB",USA Real MLB 16: Cleveland Guardians vs Detroit Tigers @ 06:40 pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177053.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177054.jpg" group-title="SPORTS - MLB",USA Real MLB 17:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177054.jpg" group-title="SPORTS - MLB",USA Real MLB 17: Pittsburgh Pirates vs St. Louis Cardinals @ 07:45 pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177054.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177055.jpg" group-title="SPORTS - MLB",USA Real MLB 18:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177055.jpg" group-title="SPORTS - MLB",USA Real MLB 18: Chicago White Sox vs Seattle Mariners @ 09:40 pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177055.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/177056.jpg" group-title="SPORTS - MLB",USA Real MLB 19:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/177056.m3u8
@@ -12086,7 +12082,7 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/714452.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/714453.m3u8
 
 # --- SPORTS - NBA (90) ---
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/214171.jpg" group-title="SPORTS - NBA",USA Real NBA 01: San Antonio Spurs vs Oklahoma City Thunder @ 08:30 PM EDT
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/214171.jpg" group-title="SPORTS - NBA",USA Real NBA 01: CLE Cavaliers VS NYK Knicks ( ESPN Feed ) @ 8:00 PM
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/214171.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/214172.jpg" group-title="SPORTS - NBA",USA Real NBA 02:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/214172.m3u8
@@ -12280,23 +12276,23 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/711759.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/738353.m3u8
 
 # --- SPORTS - NCAA BASEBALL (40) ---
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d0f342f4-1447-4d3c-8820-56bf108e2ba3/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 01 - Holy Cross Crusaders vs. Bucknell Bison 02:00 PM EDT
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/53c30e80-f537-4339-8c63-c2ce7f618060/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 01 - UT Martin Skyhawks vs. Lindenwood Lions 01:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9d005443-1841-4a21-a3c8-a2b5f5f602ee/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 02 - Holy Cross Crusaders vs. Bucknell Bison 02:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8916f11e-9b41-4fc5-bd7d-28f2c889f045/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 03 - Austin Peay Governors vs. Jacksonville Dolphins 02:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523153.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b404aeff-6c12-42f6-8592-0e400bdf74ee/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 04 - Marshall Thundering Herd vs. Louisiana Ragin' Cajuns 04:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dd55bae8-4378-48f1-bece-424f7d8daac4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 05 - Southern Indiana Screaming Eagles vs. Morehead State Eagles 05:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f4ba2a29-8a8a-47f3-b6f6-bb530b071d2d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 06 - Stetson Hatters vs. Central Arkansas Bears 06:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/61a38c00-3137-4531-88d5-19c055daae26/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 07 - Georgia State Panthers vs. Old Dominion Monarchs 07:30 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ac627db0-6e64-4311-baed-cdf9ea2bec01/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 08 - Texas Tech Red Raiders vs. BYU Cougars 07:30 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523158.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f75c6328-76af-4eff-9565-ccc8a474428a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="SPORTS - NCAA BASEBALL",NCAA Baseball 09 - Kansas State Wildcats vs. Utah Utes 11:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523159.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA BASEBALL",
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/523160.m3u8
@@ -13322,9 +13318,9 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/509708.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/509726.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/509715.jpg" group-title="SPORTS - NHL",USA NHL Winnipeg Jets
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/509715.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/205046.jpg" group-title="SPORTS - NHL",USA Real NHL 01: MTL VS BUF (SN Feed ) @ 7:30 pm
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/205046.jpg" group-title="SPORTS - NHL",USA Real NHL 01:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/205046.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/205047.jpg" group-title="SPORTS - NHL",USA Real NHL 02: MTL VS BUF (TVAS Feed ) @ 7:30 pm
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/205047.jpg" group-title="SPORTS - NHL",USA Real NHL 02:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/205047.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/205048.jpg" group-title="SPORTS - NHL",USA Real NHL 03:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/205048.m3u8
@@ -13464,205 +13460,205 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/711714.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/711715.m3u8
 
 # --- SPORTS - PEACOCK EVENTS (98) ---
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735096.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Performance View: SAS vs. OKC (2026-05-18 19:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735096.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Chelsea v. Spurs (2026-05-19 15:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735096.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735097.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | Game 1: Spurs vs. Thunder (2026-05-18 19:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735097.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | Away Feed: CWS at SEA (2026-05-19 21:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735097.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735098.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | Mystics vs. Wings (2026-05-18 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735098.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | Home Feed: CWS at SEA (2026-05-19 21:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735098.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735099.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | Home Feed: SF at AZ (2026-05-18 21:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735099.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | Home Feed: CLE at DET (2026-05-20 18:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735099.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735100.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | Away Feed: SF at AZ (2026-05-18 21:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735100.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | Away Feed: CLE at DET (2026-05-20 18:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735100.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735101.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | Chelsea v. Spurs (2026-05-19 15:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735101.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | Game 2: Spurs vs. Thunder (2026-05-20 19:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735101.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735102.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | Away Feed: CWS at SEA (2026-05-19 21:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735102.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | Performance View: SAS vs. OKC (2026-05-20 19:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735102.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735103.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | Home Feed: CWS at SEA (2026-05-19 21:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735103.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | Premier League Darts: Night 16 (2026-05-21 14:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735103.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735104.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | Home Feed: CLE at DET (2026-05-20 18:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735104.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | Away Feed: ATL at MIA (2026-05-21 18:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735104.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735105.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | Away Feed: CLE at DET (2026-05-20 18:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735105.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | Home Feed: ATL at MIA (2026-05-21 18:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735105.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735106.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | Game 2: Spurs vs. Thunder (2026-05-20 19:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735106.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | Pro Swim Series: Sacramento 1 (2026-05-21 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735106.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735107.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | Performance View: SAS vs. OKC (2026-05-20 19:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735107.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | Home Feed: CLE at PHI (2026-05-22 18:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735107.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735108.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | Premier League Darts: Night 16 (2026-05-21 14:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735108.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | Away Feed: CLE at PHI (2026-05-22 18:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735108.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735109.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | Away Feed: ATL at MIA (2026-05-21 18:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735109.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | Performance View: OKC vs. SAS (2026-05-22 19:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735109.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735110.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | Home Feed: ATL at MIA (2026-05-21 18:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735110.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | Game 3: Thunder vs. Spurs (2026-05-22 19:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735110.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735111.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | Pro Swim Series: Sacramento 1 (2026-05-21 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735111.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | Pro Swim Series: Sacramento 2 (2026-05-22 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735111.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735112.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | Home Feed: CLE at PHI (2026-05-22 18:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735112.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | Home Feed: TB at NYY (2026-05-23 13:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735112.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735113.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | Away Feed: CLE at PHI (2026-05-22 18:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735113.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | Away Feed: TB at NYY (2026-05-23 13:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735113.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735114.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | Pro Swim Series: Sacramento 2 (2026-05-22 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735114.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | Rumbo al Mundial Objetivo 2026 (2026-05-23 17:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735114.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735115.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | Home Feed: TB at NYY (2026-05-23 13:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735115.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | Goal Rush: Championship Sunday (2026-05-24 10:50:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735115.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735116.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 021) | Away Feed: TB at NYY (2026-05-23 13:30:05)
-http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735116.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735117.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Rumbo al Mundial Objetivo 2026 (2026-05-23 17:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735117.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Goal Zone: Championship Sunday (2026-05-24 13:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735117.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735118.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | Goal Rush: Championship Sunday (2026-05-24 10:50:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735118.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | MLB Sunday Stretch: 5.24.26 (2026-05-24 14:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735118.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735120.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | Goal Zone: Championship Sunday (2026-05-24 13:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735119.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 024) | Wings vs. Liberty (2026-05-24 15:00:00)
+http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735119.m3u8
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735120.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | Home Feed: ATH at SD (2026-05-24 16:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735120.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735121.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | MLB Sunday Stretch: 5.24.26 (2026-05-24 14:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735121.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | Away Feed: ATH at SD (2026-05-24 16:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735121.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735122.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | Wings vs. Liberty (2026-05-24 15:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735122.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | Game 4: Thunder vs. Spurs (2026-05-24 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735122.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735123.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | Home Feed: ATH at SD (2026-05-24 16:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735123.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | Rangers at Angels (2026-05-24 19:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735123.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735124.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | Away Feed: ATH at SD (2026-05-24 16:00:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735124.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | Performance View: OKC vs. SAS (2026-05-24 19:00:10)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735124.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735125.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | Rangers at Angels (2026-05-24 19:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735125.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | Away Feed: HOU at TEX (2026-05-25 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735125.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735126.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | Away Feed: HOU at TEX (2026-05-25 19:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735126.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | Home Feed: HOU at TEX (2026-05-25 19:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735126.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735127.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | Home Feed: HOU at TEX (2026-05-25 19:00:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735127.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | Fire vs. Liberty (2026-05-25 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735127.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735128.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | Fire vs. Liberty (2026-05-25 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735128.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | Performance View: SAS vs. OKC (2026-05-26 19:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735128.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735129.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | Away Feed: PHI at SD (2026-05-26 21:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735129.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | Game 5: Spurs vs. Thunder (If Nec.) (2026-05-26 19:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735129.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735130.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | Home Feed: PHI at SD (2026-05-26 21:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735130.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | Away Feed: PHI at SD (2026-05-26 21:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735130.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735131.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | Home Feed: STL at MIL (2026-05-27 13:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735131.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | Home Feed: PHI at SD (2026-05-26 21:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735131.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735132.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | Away Feed: STL at MIL (2026-05-27 13:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735132.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | Home Feed: STL at MIL (2026-05-27 13:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735132.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735133.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Premier League Darts: Finals (2026-05-28 14:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735133.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Away Feed: STL at MIL (2026-05-27 13:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735133.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735134.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | Away Feed: CHC at PIT (2026-05-28 18:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735134.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | Premier League Darts: Finals (2026-05-28 14:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735134.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735135.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | Home Feed: CHC at PIT (2026-05-28 18:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735135.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | Away Feed: CHC at PIT (2026-05-28 18:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735135.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735136.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | IMSA Detroit Qualifying (2026-05-29 16:45:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735136.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | Home Feed: CHC at PIT (2026-05-28 18:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735136.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735137.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | Away Feed: TOR at BAL (2026-05-29 19:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735137.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | Performance View: OKC vs. SAS (2026-05-28 19:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735137.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735138.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | Home Feed: TOR at BAL (2026-05-29 19:00:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735138.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | Game 6: Thunder vs. Spurs (If Nec.) (2026-05-28 19:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735138.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735139.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | Race Day Live: Fox Raceway (2026-05-30 13:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735139.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | IMSA Detroit Qualifying (2026-05-29 16:45:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735139.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735140.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | Motocross Rd. 18: Fox Raceway (2026-05-30 15:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735140.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | Away Feed: TOR at BAL (2026-05-29 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735140.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735141.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | IMSA Detroit Grand Prix (2026-05-30 16:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735141.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | Home Feed: TOR at BAL (2026-05-29 19:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735141.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735142.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | Away Feed: NYY at ATH (2026-05-30 21:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735142.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | Race Day Live: Fox Raceway (2026-05-30 13:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735142.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735143.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | Home Feed: NYY at ATH (2026-05-30 21:30:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735143.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | Motocross Rd. 18: Fox Raceway (2026-05-30 15:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735143.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735145.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | MLB Sunday Stretch: 5.31.26 (2026-05-31 14:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735144.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 049) | IMSA Detroit Grand Prix (2026-05-30 16:00:00)
+http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735144.m3u8
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735145.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | Game 7: Spurs vs. Thunder (If Nec.) (2026-05-30 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735145.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735146.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | USA vs. Senegal (Español) (2026-05-31 15:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735146.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | Performance View: SAS vs. OKC (2026-05-30 19:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735146.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735147.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | Aces vs. Valkyries (2026-05-31 15:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735147.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | Away Feed: NYY at ATH (2026-05-30 21:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735147.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735148.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Cubs at Cardinals (2026-05-31 19:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735148.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Home Feed: NYY at ATH (2026-05-30 21:30:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735148.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735149.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 054) | Away Feed: AZ at SEA (2026-05-31 22:00:00)
-http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735149.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735150.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | Home Feed: AZ at SEA (2026-05-31 22:00:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735150.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | MLB Sunday Stretch: 5.31.26 (2026-05-31 14:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735150.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735151.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | Lynx vs. Mercury (2026-06-01 22:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735151.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | USA vs. Senegal (Español) (2026-05-31 15:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735151.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735152.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | Race Day Live: Hangtown (2026-06-06 13:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735152.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | Aces vs. Valkyries (2026-05-31 15:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735152.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735153.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | USA vs. Germany (Español) (2026-06-06 14:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735153.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | Away Feed: AZ at SEA (2026-05-31 16:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735153.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735154.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | Motocross Rd. 19: Hangtown (2026-06-06 16:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735154.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | Home Feed: AZ at SEA (2026-05-31 16:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735154.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735155.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Lone Star Grand Prix (2026-06-06 16:00:05)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735155.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Cubs at Cardinals (2026-05-31 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735155.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735156.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | Nationals at Diamondbacks (2026-06-07 15:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735156.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | Lynx vs. Mercury (2026-06-01 22:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735156.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735157.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | MLB Sunday Stretch: 6.7.26 (2026-06-07 17:45:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735157.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | Race Day Live: Hangtown (2026-06-06 13:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735157.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735158.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | Giants at Cubs (2026-06-07 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735158.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | USA vs. Germany (Español) (2026-06-06 14:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735158.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735159.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | Fever vs. Mystics (2026-06-08 19:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735159.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | Motocross Rd. 19: Hangtown (2026-06-06 16:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735159.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735160.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Ceremonia de Apertura (2026-06-11 13:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735160.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Lone Star Grand Prix (2026-06-06 16:00:05)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735160.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735161.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | México v. Sudáfrica (2026-06-11 14:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735161.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | Nationals at Diamondbacks (2026-06-07 15:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735161.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735162.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | República de Corea v. Chequia (2026-06-11 21:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735162.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | MLB Sunday Stretch: 6.7.26 (2026-06-07 17:45:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735162.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735163.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | Canadá v. Bosnia y Herzegovina (2026-06-12 14:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735163.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | Giants at Cubs (2026-06-07 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735163.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735164.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | Estados Unidos v. Paraguay (2026-06-12 20:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735164.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | Fever vs. Mystics (2026-06-08 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735164.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735165.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | Race Day Live: Thunder Valley (2026-06-13 12:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735165.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | Ceremonia de Apertura (2026-06-11 13:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735165.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735166.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | Catar v. Suiza (2026-06-13 14:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735166.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | México v. Sudáfrica (2026-06-11 14:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735166.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735167.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | Motocross Rd. 20: Thunder Valley (2026-06-13 15:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735167.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | República de Corea v. Chequia (2026-06-11 21:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735167.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735168.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | Brasil v. Marruecos (2026-06-13 17:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735168.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | Canadá v. Bosnia y Herzegovina (2026-06-12 14:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735168.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735169.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | Fever vs. Sun (2026-06-13 18:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735169.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | Estados Unidos v. Paraguay (2026-06-12 20:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735169.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735170.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | Haití v. Escocia (2026-06-13 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735170.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | Race Day Live: Thunder Valley (2026-06-13 12:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735170.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735171.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | Australia v. Turquía (2026-06-13 23:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735171.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | Catar v. Suiza (2026-06-13 14:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735171.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735172.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | Marlins at Pirates (2026-06-14 12:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735172.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | Motocross Rd. 20: Thunder Valley (2026-06-13 15:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735172.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735173.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | Alemania v. Curazao (2026-06-14 12:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735173.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | Brasil v. Marruecos (2026-06-13 17:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735173.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735174.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | MLB Sunday Stretch: 6.14.26 (2026-06-14 14:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735174.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | Fever vs. Sun (2026-06-13 18:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735174.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735175.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | Países Bajos v. Japón (2026-06-14 15:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735175.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | Haití v. Escocia (2026-06-13 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735175.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735176.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | Costa de Marfil v. Ecuador (2026-06-14 18:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735176.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | Australia v. Turquía (2026-06-13 23:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735176.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735177.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | Rangers at Red Sox (2026-06-14 19:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735177.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | Marlins at Pirates (2026-06-14 12:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735177.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735178.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | Suecia v. Túnez (2026-06-14 21:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735178.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | Alemania v. Curazao (2026-06-14 12:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735178.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735179.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | España v. Cabo Verde (2026-06-15 11:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735179.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | MLB Sunday Stretch: 6.14.26 (2026-06-14 14:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735179.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735180.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | Bélgica v. Egipto (2026-06-15 14:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735180.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | Países Bajos v. Japón (2026-06-14 15:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735180.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735181.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | Arabia Saudí v. Uruguay (2026-06-15 17:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735181.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | Costa de Marfil v. Ecuador (2026-06-14 18:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735181.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735182.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | RI de Irán v. Nueza Zelanda (2026-06-15 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735182.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | Rangers at Red Sox (2026-06-14 19:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735182.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735183.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | Sparks vs. Valkyries (2026-06-15 22:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735183.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | Suecia v. Túnez (2026-06-14 21:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735183.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735184.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | Francia v. Senegal (2026-06-16 14:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735184.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | España v. Cabo Verde (2026-06-15 11:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735184.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735185.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | Irak v. Noruega (2026-06-16 17:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735185.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | Bélgica v. Egipto (2026-06-15 14:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735185.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735186.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | Argentina v. Argelia (2026-06-16 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735186.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | Arabia Saudí v. Uruguay (2026-06-15 17:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735186.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735187.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | Austria v. Jordania (2026-06-16 23:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735187.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | RI de Irán v. Nueza Zelanda (2026-06-15 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735187.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735188.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Portugal v. RD del Congo (2026-06-17 12:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735188.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Sparks vs. Valkyries (2026-06-15 22:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735188.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735189.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | Inglaterra v. Croacia (2026-06-17 15:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735189.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | Francia v. Senegal (2026-06-16 14:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735189.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735190.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | Ghana v. Panamá (2026-06-17 18:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735190.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | Irak v. Noruega (2026-06-16 17:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735190.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735191.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | Uzbekistán v. Colombia (2026-06-17 21:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735191.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | Argentina v. Argelia (2026-06-16 20:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735191.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735192.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Chequia v. Sudáfrica (2026-06-18 11:30:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735192.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Austria v. Jordania (2026-06-16 23:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735192.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735193.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | Suiza v. Bosnia y Herzegovina (2026-06-18 14:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735193.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | Portugal v. RD del Congo (2026-06-17 12:30:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735193.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735194.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | Canadá v. Catar (2026-06-18 17:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735194.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | Inglaterra v. Croacia (2026-06-17 15:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735194.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735195.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | México v. República de Corea (2026-06-18 20:00:00)
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/735195.jpg" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | Ghana v. Panamá (2026-06-17 18:00:00)
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/735195.m3u8
 
 # --- SPORTS - PPV (59) ---
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/5597.jpg" group-title="SPORTS - PPV",USA PPV01: WWE RAW @ 08:00 PM EDT
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/5597.jpg" group-title="SPORTS - PPV",USA PPV01: Millbridge Speedway @ 06:00 PM EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/5597.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/5598.jpg" group-title="SPORTS - PPV",USA PPV02:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/5598.m3u8
@@ -13793,30 +13789,28 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/710829.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/710830.jpg" group-title="SPORTS - RUGBY",Rugby 05:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/710830.m3u8
 
-# --- SPORTS - SOCCER (70) ---
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/38039.jpg" group-title="SPORTS - SOCCER",USA Soccer01: England - Premier League : Arsenal vs Burnley @ 03:00pm EDT
+# --- SPORTS - SOCCER (69) ---
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/38039.jpg" group-title="SPORTS - SOCCER",USA Soccer01: England - Premier League : AFC Bournemouth vs Manchester City @ 02:30pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/38039.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21812.jpg" group-title="SPORTS - SOCCER",USA Soccer02:
-http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21812.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21823.jpg" group-title="SPORTS - SOCCER",USA Soccer03:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21823.jpg" group-title="SPORTS - SOCCER",USA Soccer03: South America - Copa Libertadores : Rosario Central vs UCV @ 06:00pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21823.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21824.jpg" group-title="SPORTS - SOCCER",USA Soccer04:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21824.jpg" group-title="SPORTS - SOCCER",USA Soccer04: South America - Copa Libertadores : Fluminense vs Bolívar @ 06:00pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21824.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21825.jpg" group-title="SPORTS - SOCCER",USA Soccer05:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21825.jpg" group-title="SPORTS - SOCCER",USA Soccer05: South America - Copa Libertadores : Always Ready vs Mirassol @ 08:00pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21825.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21826.jpg" group-title="SPORTS - SOCCER",USA Soccer06:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21826.jpg" group-title="SPORTS - SOCCER",USA Soccer06: South America - Copa Libertadores : Boca Juniors vs Cruzeiro @ 08:30pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21826.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21827.jpg" group-title="SPORTS - SOCCER",USA Soccer07:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21827.jpg" group-title="SPORTS - SOCCER",USA Soccer07: United States - US Open Cup : St. Louis City vs Houston Dynamo @ 08:00pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21827.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21828.jpg" group-title="SPORTS - SOCCER",USA Soccer08:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21828.jpg" group-title="SPORTS - SOCCER",USA Soccer08: France - Ligue 2 : Rouen vs Laval @ 02:30pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21828.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21829.jpg" group-title="SPORTS - SOCCER",USA Soccer09:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21829.jpg" group-title="SPORTS - SOCCER",USA Soccer09: South America - Copa Sudamericana : Audax Italiano vs Barracas Central @ 06:00pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21829.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21830.jpg" group-title="SPORTS - SOCCER",USA Soccer10:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21830.jpg" group-title="SPORTS - SOCCER",USA Soccer10: South America - Copa Sudamericana : São Paulo vs Millonarios @ 08:30pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21830.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21831.jpg" group-title="SPORTS - SOCCER",USA Soccer11:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21831.jpg" group-title="SPORTS - SOCCER",USA Soccer11: South America - Copa Sudamericana : Deportivo Cuenca vs Deportivo Recoleta @ 10:00pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21831.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21832.jpg" group-title="SPORTS - SOCCER",USA Soccer12:
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21832.jpg" group-title="SPORTS - SOCCER",USA Soccer12: South America - Copa Sudamericana : América de Cali vs Tigre @ 10:00pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21832.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/21833.jpg" group-title="SPORTS - SOCCER",USA Soccer13:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/21833.m3u8
@@ -14032,9 +14026,9 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/714405.m3u8
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/714406.m3u8
 
 # --- SPORTS - WNBA (10) ---
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/685882.jpg" group-title="SPORTS - WNBA",WNBA 01: Washington Mystics vs Dallas Wings @ 08:00 pm EDT
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/685882.jpg" group-title="SPORTS - WNBA",WNBA 01: Toronto Tempo vs Phoenix Mercury @ 10:00 pm EDT
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/685882.m3u8
-#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/679464.jpg" group-title="SPORTS - WNBA",WNBA 02: Connecticut Sun vs Portland Fire @ 10:00 pm EDT
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/679464.jpg" group-title="SPORTS - WNBA",WNBA 02:
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/679464.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/679465.jpg" group-title="SPORTS - WNBA",WNBA 03 :
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/679465.m3u8
@@ -19251,4 +19245,4 @@ http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/660965.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/660966.jpg" group-title="VIETNAM",VN Vietface TV
 http://s.rocketdns.info:8080/live/XtremeTV/5ALMBnQVzb/660966.m3u8
 
-# Total: 9504
+# Total: 9501

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-19 08:45:04
+# Generated: 2026-05-19 20:41:10
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -7195,7 +7195,27 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/119771.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/f2/2a/126592/1/c300.png" group-title="Denmark Radio",Radio FM HipHop DK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/119772.m3u8
 
-# --- Denmark VIP (118) ---
+# --- Denmark VIP (128) ---
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 1 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135038.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 2 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135039.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 3 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135040.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 4 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135041.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 5 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135042.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 6 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135043.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 7 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135044.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 8 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135045.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 9 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135046.m3u8
+#EXTINF:-1 tvg-logo="https://kvindebasketligaen.dk/wp-content/uploads/2026/01/Frame-5.png" group-title="Denmark VIP",DirekteSport 10 DK VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135047.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max.png?raw=true" group-title="Denmark VIP",Max Event 1 HD VIP DK
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105789.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max.png?raw=true" group-title="Denmark VIP",Max Event 2 HD VIP DK
@@ -31661,4 +31681,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15723
+# Total: 15733

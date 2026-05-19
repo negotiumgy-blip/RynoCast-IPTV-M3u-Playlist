@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-05-19 08:32:16
+# Generated: 2026-05-19 20:48:03
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -7213,7 +7213,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/321274.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOggsBCSypNXq0yApYeXe7nnopT.jpg" group-title="Movies | 2026 Movies",A Marvel Television Special Presentation - The Punisher: One Last Kill (2026)
 http://tv14s.xyz:8080/movie/07301982/23101897/321403.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg" group-title="Movies | 2026 Movies",Kraken (2026)
-http://tv14s.xyz:8080/movie/07301982/23101897/322199.mp4
+http://tv14s.xyz:8080/movie/07301982/23101897/323273.mkv
 
 # --- Movies | Action Movies (1603) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -11741,7 +11741,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/182903.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnyiVS4Ad4w4rfS4Bm1YalEdonx.jpg" group-title="Movies | Clint Eastwood HD Movies Collection",Where Eagles Dare (1968)
 http://tv14s.xyz:8080/movie/07301982/23101897/182904.mp4
 
-# --- Movies | Comedy (579) ---
+# --- Movies | Comedy (580) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWrPZZL7CC3MqySlOzpXaUWjUrd.jpg" group-title="Movies | Comedy",2 Minutes of Fame (2020)
 http://tv14s.xyz:8080/movie/07301982/23101897/198428.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A40ko85pS3yrkzeYVuVKB8Xbjjq.jpg" group-title="Movies | Comedy",3 Generations (2016)
@@ -12900,6 +12900,8 @@ http://tv14s.xyz:8080/movie/07301982/23101897/199025.mp4
 http://tv14s.xyz:8080/movie/07301982/23101897/317111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKiAnV1QAGIJP38vatwCZp4dCrH.jpg" group-title="Movies | Comedy",Spice World (1997)
 http://tv14s.xyz:8080/movie/07301982/23101897/317112.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n8AJzALlTPBwe9Tkv3tdxbiAr9i.jpg" group-title="Movies | Comedy",Zoolander 2 (2016)
+http://tv14s.xyz:8080/movie/07301982/23101897/323271.mp4
 
 # --- Movies | Drama Movies (1374) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdm0rXjrg7y9WDbiFzC2ikMtikG.jpg" group-title="Movies | Drama Movies",1, 2, 3, All Eyes On Me (2020)
@@ -29301,4 +29303,4 @@ http://tv14s.xyz:8080/series/07301982/23101897/2365
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's Daredevil
 http://tv14s.xyz:8080/series/07301982/23101897/2366
 
-# Total: 14590
+# Total: 14591
