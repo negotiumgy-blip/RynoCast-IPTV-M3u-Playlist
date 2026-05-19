@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-05-18 21:00:55
+# Generated: 2026-05-19 08:44:30
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -5096,7 +5096,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/427704.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308977.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL NETWORK HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308981.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 01 : CANADIENS @ SABRES MAY 18 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308982.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 02 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308983.m3u8
@@ -14602,7 +14602,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1085328.m3u8
 # --- AM | USA | LIVE EVENT (33) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | LIVE EVENT",##### LIVE EVENTS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248327.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 01 : WWE MONDAY NIGHT RAW MAY 18 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248328.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 02 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248329.m3u8
@@ -15015,7 +15015,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1278621.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 70 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278622.m3u8
 
-# --- AM | USA | MLB (54) ---
+# --- AM | USA | MLB (53) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | MLB",#### MLB PPV ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/79689.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB NETWORK HD
@@ -15030,33 +15030,31 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/302488.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388877.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - THE MLB CHANNEL HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388886.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 : GUARDIANS @ TIGERS MAY 18 – 11:40 PM ET / 04:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233018.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 : ORIOLES @ RAYS MAY 18 – 11:40 PM ET / 04:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233019.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 : REDS @ PHILLIES MAY 18 – 11:40 PM ET / 04:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233020.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 : BRAVES @ MARLINS MAY 18 – 11:40 PM ET / 04:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233021.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 : METS @ NATIONALS MAY 18 – 11:45 PM ET / 04:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232804.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 06 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/233022.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 07 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 07 : RED SOX @ ROYALS MAY 19 – 12:40 AM ET / 05:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232803.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 08 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 08 : ASTROS @ TWINS MAY 19 – 12:40 AM ET / 05:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232801.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 09 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 09 : BREWERS @ CUBS MAY 19 – 12:40 AM ET / 05:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232807.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 : RANGERS @ ROCKIES MAY 19 – 01:40 AM ET / 06:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232806.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 : ATHLETICS @ ANGELS MAY 19 – 02:38 AM ET / 07:38 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232802.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 : DODGERS @ PADRES MAY 19 – 02:40 AM ET / 07:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233023.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 13 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 13 : GIANTS @ D-BACKS MAY 19 – 02:40 AM ET / 07:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233024.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 : WHITE SOX @ MARINERS MAY 19 – 02:40 AM ET / 07:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233025.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 15 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232808.m3u8
@@ -16540,7 +16538,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/578370.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/145535.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL NETWORK HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/71912.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 01 : CANADIENS @ SABRES MAY 18 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232815.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 02 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232816.m3u8
@@ -18650,9 +18648,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1312924.m3u8
 # --- AM | USA | WNBA (11) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | WNBA",##### WNBA PPV #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1240501.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/wnba.png" group-title="AM | USA | WNBA",US - WNBA GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/wnba.png" group-title="AM | USA | WNBA",US - WNBA GAME 01 : DALLAS WINGS @ WASHINGTON MYSTICS MAY 18 – 08:00 PM ET / 01:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/851940.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/wnba.png" group-title="AM | USA | WNBA",US - WNBA GAME 02 :
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/wnba.png" group-title="AM | USA | WNBA",US - WNBA GAME 02 : CONNECTICUT SUN @ PORTLAND FIRE MAY 18 – 10:00 PM ET / 03:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/851939.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/wnba.png" group-title="AM | USA | WNBA",US - WNBA GAME 03 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/851938.m3u8
@@ -24379,7 +24377,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1324353.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | FRANCE DAZN",FR - DAZN PPV 100 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1324354.m3u8
 
-# --- EU | FRANCE DOCUMENTAIRE (73) ---
+# --- EU | FRANCE DOCUMENTAIRE (75) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE DOCUMENTAIRE",#### FRANCE DOCUMANTARY FHD ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119459.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/ANIMAUX.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - ANIMAUX FHD
@@ -24400,6 +24398,10 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/57095.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/57083.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/crime.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - PLANETE CRIME FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/57092.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DESTINATION.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - DESTINATION NATURE FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1424227.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/nature.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - NATURE TIME FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1424232.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/15.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - RMC DECOUVERTE FHD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/57093.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/RMCMystere.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - RMC MYSTÈRE FHD
@@ -24527,7 +24529,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/57025.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/USHUAIA_FHD.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - USHUAIA SD
 http://teck-tv.com/live/2605201443100597/C655BF416768/56881.m3u8
 
-# --- EU | FRANCE ENTERTAINMENT (87) ---
+# --- EU | FRANCE ENTERTAINMENT (88) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE ENTERTAINMENT",##### FRANCE  ENTERTAINMENT FHD #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/57098.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/E_ENTERTAINMENT.png" group-title="EU | FRANCE ENTERTAINMENT",FR - E! ENTERTAINMENT FHD
@@ -24550,6 +24552,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/57077.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/250135.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/m6mu.png" group-title="EU | FRANCE ENTERTAINMENT",FR - M6 MUSIC FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/62685.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/NIGERIA/NINA-NOVELAS.png" group-title="EU | FRANCE ENTERTAINMENT",FR - NINA NOVELAS TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1424386.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/TRACE GOSPEL.png" group-title="EU | FRANCE ENTERTAINMENT",FR - TRACE GOSPEL FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/169318.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/TRACELATINA.png" group-title="EU | FRANCE ENTERTAINMENT",FR - TRACE LATINA FHD
@@ -29410,69 +29414,69 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1024113.m3u8
 # --- VIP | SERIE A (33) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - COMO VS PARMA 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - PISA VS NAPOLI 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100790.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - JUVENTUS VS FIORENTINA 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT -  GENOA VS MILAN 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT -  NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033756.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - ROMA VS LAZIO 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018106.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - INTERNAZIONALE VS VERONA 14:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018105.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - ATALANTA VS BOLOGNA 17:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018104.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - SASSUOLO VS LECCE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018102.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - UDINESE VS CREMONESE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018103.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - CAGLIARI VS TORINO 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1421365.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | SERIE A",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - COMO VS PARMA 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - PISA VS NAPOLI 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028898.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - JUVENTUS VS FIORENTINA 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028731.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - GENOA VS MILAN 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028730.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - ROMA VS LAZIO 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018098.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - INTERNAZIONALE VS VERONA 14:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018097.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - ATALANTA VS BOLOGNA 17:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018096.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - SASSUOLO VS LECCE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018094.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - UDINESE VS CREMONESE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018095.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - CAGLIARI VS TORINO 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1421366.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - COMO VS PARMA 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - PISA VS NAPOLI 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - JUVENTUS VS FIORENTINA 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018111.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - GENOA VS MILAN 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018110.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - ROMA VS LAZIO 11:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018109.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - INTERNAZIONALE VS VERONA 14:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018108.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - ATALANTA VS BOLOGNA 17:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1421362.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - UDINESE VS CREMONESE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1421363.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - SASSUOLO VS LECCE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1421364.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - CAGLIARI VS TORINO 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1421367.m3u8
 
 # --- VIP | UEFA CHAMPIONS LEAGUE (60) ---
@@ -29799,4 +29803,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1405863.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PAKISTAN/TEN-SPORTS.png" group-title="VIP | WORLD CRICKET",VIP - TEN SPORTS FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1406508.m3u8
 
-# Total: 14727
+# Total: 14729

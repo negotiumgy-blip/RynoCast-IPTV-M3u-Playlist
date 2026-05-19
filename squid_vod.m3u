@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-18 21:08:41
+# Generated: 2026-05-19 08:37:01
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -547,6 +547,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/683.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Berlin",Berlin
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/515.mp4
 
+# --- Movies | Berlin and the Lady with an Ermine (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Berlin and the Lady with an Ermine",Berlin and the Lady with an Ermine (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1273.mp4
+
 # --- Movies | Betoane (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Betoane",Betoane (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/961.mp4
@@ -854,6 +858,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/773.mp4
 # --- Movies | Cirkin (Urata) (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Cirkin (Urata)",Cirkin (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1260.mp4
+
+# --- Movies | Citadel (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Citadel",Citadel (2023)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1275.mp4
 
 # --- Movies | Clanul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Clanul",Clanul
@@ -12053,7 +12061,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (368) ---
+# --- Movies | Filme Drama (369) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg" group-title="Movies | Filme Drama",The Wrestler - 2008
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70280.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95wNSQvguF9XdGP3KMeIbsVHU6b.jpg" group-title="Movies | Filme Drama",Sundays at Tiffany's - 2010
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70214.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg" group-title="Movies | Filme Drama",Love & Other Drugs - 2010
@@ -14333,7 +14343,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/27275.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/euq3YhkXJgsDlUxid5cTInsxnqh.jpg" group-title="Movies | Filme Retro (Nou)",La Traversée de Paris (1956)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/47508.mp4
 
-# --- Movies | Filme Romanesti (421) ---
+# --- Movies | Filme Romanesti (422) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1fvzlZ2l4fSfgtDOsYgOzIEIqS.jpg" group-title="Movies | Filme Romanesti",Dragoste la țară (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70263.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSMQCaQgGQRanGkFd0MhjWbBMHW.jpg" group-title="Movies | Filme Romanesti",Hirtia va fi albastrã (2006)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69876.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2t1d40OEA7BsI5hCKnAdkc5yC0.jpg" group-title="Movies | Filme Romanesti",Padurea este a mea (2025)
@@ -15681,7 +15693,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (217) ---
+# --- Movies | Filme Thriller (218) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg" group-title="Movies | Filme Thriller",Automata - 2014
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70279.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg" group-title="Movies | Filme Thriller",Flightplan - 2005
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70064.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxw9l9YNL14ODdmAavUwHLBjiDo.jpg" group-title="Movies | Filme Thriller",The Ninth Gate - 1999
@@ -18193,6 +18207,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1228.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Memory of a Killer",Memory of a Killer (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1180.mp4
 
+# --- Movies | Mercy for None (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Mercy for None",Mercy for None (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1277.mp4
+
 # --- Movies | Merlin (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Merlin",Merlin
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/376.mp4
@@ -18396,6 +18414,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/79.mp4
 # --- Movies | No Mans Land (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | No Mans Land",No Man's Land (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/966.mp4
+
+# --- Movies | Norsemen (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Norsemen",Norsemen (2016)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1274.mp4
 
 # --- Movies | Nothing (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nothing",Nothing (2023)
@@ -19893,6 +19915,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/695.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Office UK",The Office
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/763.mp4
 
+# --- Movies | The Old Stories Moses (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Old Stories Moses",The Old Stories: Moses (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1278.mp4
+
 # --- Movies | The Originals (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Originals",The Originals
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/311.mp4
@@ -20188,6 +20214,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/551.mp4
 # --- Movies | Tokyo Vice (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Tokyo Vice",Tokyo Vice
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/537.mp4
+
+# --- Movies | Tom Clancy's Jack Ryan (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Tom Clancy's Jack Ryan",Tom Clancy's Jack Ryan (2018)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1276.mp4
 
 # --- Movies | Top Boy (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Top Boy",Top Boy
@@ -20665,4 +20695,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9032
+# Total: 9041
