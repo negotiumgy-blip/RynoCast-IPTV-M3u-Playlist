@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2026-05-19 20:43:11
+# Generated: 2026-05-20 08:34:46
 # Expires: 2026-12-08
 # Family Safe Edition
 # ==============================================
@@ -543,7 +543,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/4206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Dokumantar",Nöthin' but a Good Time: The Uncensored Story of '80s Hair Metal
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/4207.mp4
 
-# --- Movies | DE - Dokumentar Films (81) ---
+# --- Movies | DE - Dokumentar Films (82) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0Hi2cTLrz7eFtKNDFZouQoITvW.jpg" group-title="Movies | DE - Dokumentar Films",Ronaldo vs. Messi
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/30782.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20vqLBPkN6Xycdo6pB3VB59R2cc.jpg" group-title="Movies | DE - Dokumentar Films",Tarantino - The Bloody Genius (DE)
@@ -706,6 +706,8 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154092.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4QdUukg4FnbcwM6qeP6ZCoQZhf.jpg" group-title="Movies | DE - Dokumentar Films",Marty, Life Is Short (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155145.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS1ad6L9ybHYEJLljmTkxn4ORDC.jpg" group-title="Movies | DE - Dokumentar Films",Untold UK: Liverpool's Miracle of lstanbul (DE)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155450.mkv
 
 # --- Movies | DE - HBO Max (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - HBO Max",The Seduction
@@ -9023,7 +9025,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg" group-title="Movies | DE - Kino 2025",Magazine Dreams (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155259.mkv
 
-# --- Movies | DE - Kino 2026 (78) ---
+# --- Movies | DE - Kino 2026 (79) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EfFRgXde2iFFDfdFDMAOB9RuYJ.jpg" group-title="Movies | DE - Kino 2026",Greenland 2 (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/148653.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies | DE - Kino 2026",People We Meet on Vacation (DE)
@@ -9180,6 +9182,8 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155256.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155260.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3NeLsif2Zn6KKALxfc4f6rA11n.jpg" group-title="Movies | DE - Kino 2026",Lee Cronin's The Mummy (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155261.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2BN6IUs26qr4UCxP4h5Qd9wudj.jpg" group-title="Movies | DE - Kino 2026",Mortal Kombat II (DE)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155453.mkv
 
 # --- Movies | DE - MGM+ (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Leben ohne Ende
@@ -19247,4 +19251,4 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/4372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",The Good Lord Bird
 http://l1iptv.xyz/series/ibrahimtopal/rP8DwDMPgG/686
 
-# Total: 9537
+# Total: 9539

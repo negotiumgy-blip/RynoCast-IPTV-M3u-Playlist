@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-05-19 20:48:03
+# Generated: 2026-05-20 08:38:39
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -7215,7 +7215,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/321403.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg" group-title="Movies | 2026 Movies",Kraken (2026)
 http://tv14s.xyz:8080/movie/07301982/23101897/323273.mkv
 
-# --- Movies | Action Movies (1603) ---
+# --- Movies | Action Movies (1644) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
 http://tv14s.xyz:8080/movie/07301982/23101897/196293.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhSoCoiMAXa4rOM7KhFSOs3gbh7.jpg" group-title="Movies | Action Movies",3 Days to Kill (2014)
@@ -10422,6 +10422,88 @@ http://tv14s.xyz:8080/movie/07301982/23101897/262310.mkv
 http://tv14s.xyz:8080/movie/07301982/23101897/262722.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYIDJ15RLBsFFBSAkqjIirZCgVi.jpg" group-title="Movies | Action Movies",District B13 (2004)
 http://tv14s.xyz:8080/movie/07301982/23101897/262775.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9HsemSsBEHN5eoMble1bj6fDxs.jpg" group-title="Movies | Action Movies",Dr. No (1962)
+http://tv14s.xyz:8080/movie/07301982/23101897/323313.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg" group-title="Movies | Action Movies",Goldfinger (1964)
+http://tv14s.xyz:8080/movie/07301982/23101897/323314.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg" group-title="Movies | Action Movies",Thunderball (1965)
+http://tv14s.xyz:8080/movie/07301982/23101897/323315.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAWpvlroYbHbkaeKwlL3XlVRnyG.jpg" group-title="Movies | Action Movies",Fear the Night (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323317.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="Movies | Action Movies",Five Nights at Freddy's (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323318.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg" group-title="Movies | Action Movies",From Russia with Love (1963)
+http://tv14s.xyz:8080/movie/07301982/23101897/323319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="Movies | Action Movies",Gran Turismo (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323320.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8uEuy1NhOwltHePRqvxcDDUJg1.jpg" group-title="Movies | Action Movies",Haunting of the Queen Mary (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323321.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YPzkMsC8pjAdGqGFKeDSSO4udE.jpg" group-title="Movies | Action Movies",Headspace (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323322.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",Hit.Man.2023.720p.BluRay.x264.AAC-[YTS.MX]
+http://tv14s.xyz:8080/movie/07301982/23101897/323323.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="Movies | Action Movies",Hypnotic (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323324.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg" group-title="Movies | Action Movies",Jules (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323325.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcRVsjMbhFstRK9z2oGRHiIvulr.jpg" group-title="Movies | Action Movies",Justice League: Crisis on Infinite Earths Part One (2024)
+http://tv14s.xyz:8080/movie/07301982/23101897/323326.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="Movies | Action Movies",Lift (2024)
+http://tv14s.xyz:8080/movie/07301982/23101897/323327.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhV7B610l7hjlri4ywikJ18ONuq.jpg" group-title="Movies | Action Movies",May December (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323328.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbtpCJvLxEZfzV9iArnBcxww6gz.jpg" group-title="Movies | Action Movies",Mercy Road (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323329.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcz8oi9oCgq1wkA3Wz2kluE94pE.jpg" group-title="Movies | Action Movies",Mob Land (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323330.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yO8okCs9iohJ0iDVls6QYfu6l6.jpg" group-title="Movies | Action Movies",My Big Fat Greek Wedding 3 (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323331.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84YOsylmgr181BHrTKlmaKs8IzV.jpg" group-title="Movies | Action Movies",Night of the Hunted (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323332.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njqMl3slWNaP7aiSpt7Xu66BdLk.jpg" group-title="Movies | Action Movies",No New Friends (2024)
+http://tv14s.xyz:8080/movie/07301982/23101897/323333.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg" group-title="Movies | Action Movies",Origin (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323334.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg" group-title="Movies | Action Movies",Pete Davidson: Turbo Fonzarelli (2024)
+http://tv14s.xyz:8080/movie/07301982/23101897/323335.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s6Pe9l2NJMFDiscCIx7DwjDJMT.jpg" group-title="Movies | Action Movies",Poisoned: The Dirty Truth About Your Food (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323336.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxAGYHNQeScvCxZuhzMj0dRUEFp.jpg" group-title="Movies | Action Movies",Poor Boy (2018)
+http://tv14s.xyz:8080/movie/07301982/23101897/323337.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg" group-title="Movies | Action Movies",Priscilla (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323338.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovoybG8mCn6nQ6i5WoC8DdR08c2.jpg" group-title="Movies | Action Movies",Race for Glory: Audi vs. Lancia (2024)
+http://tv14s.xyz:8080/movie/07301982/23101897/323339.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gu4G74gEfm0b5hZC1CZbbBloXpr.jpg" group-title="Movies | Action Movies",Rather (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323340.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",Riddle.Of.Fire.2023.720p.WEBRip.x264.AAC-[YTS.MX]
+http://tv14s.xyz:8080/movie/07301982/23101897/323341.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPkHaGP7hahvRuWs0Ckpzqt070E.jpg" group-title="Movies | Action Movies",Roadkill (2024)
+http://tv14s.xyz:8080/movie/07301982/23101897/323342.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BAqLXrPD4ra3zA07lVsozK6sEj.jpg" group-title="Movies | Action Movies",Robots (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323343.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsRDrAML7hJC8ZCgRQobHIrzbxR.jpg" group-title="Movies | Action Movies",Shrapnel (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323345.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tJnYgLeefl3ebgB5mHwSstSRreF.jpg" group-title="Movies | Action Movies",The Braid (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323346.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg" group-title="Movies | Action Movies",The Channel (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323347.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aLFglfGkTFG5p6KQg9o07EN3rl.jpg" group-title="Movies | Action Movies",The Dive (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323348.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WOGqHUuwcfpnZdA9iMLVn6pxDF.jpg" group-title="Movies | Action Movies",The Finale (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323349.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8Dx470lSbIL7OFj7TkFsWAONR5.jpg" group-title="Movies | Action Movies",The Hill (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323350.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg" group-title="Movies | Action Movies",The Last Voyage of the Demeter (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323351.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MOOL38IZTylA7K04FvJ4PaklaI.jpg" group-title="Movies | Action Movies",The Miracle Club (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323352.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0hNRXZtGaON1wBPqPI4oe1V4CU.jpg" group-title="Movies | Action Movies",The New Boy (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323353.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" group-title="Movies | Action Movies",The Revenant (2015)
+http://tv14s.xyz:8080/movie/07301982/23101897/323355.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg" group-title="Movies | Action Movies",The Zone of Interest (2023)
+http://tv14s.xyz:8080/movie/07301982/23101897/323357.mp4
 
 # --- Movies | Alien Movie Collection (9) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg" group-title="Movies | Alien Movie Collection",Alien (1979)
@@ -29303,4 +29385,4 @@ http://tv14s.xyz:8080/series/07301982/23101897/2365
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's Daredevil
 http://tv14s.xyz:8080/series/07301982/23101897/2366
 
-# Total: 14591
+# Total: 14632

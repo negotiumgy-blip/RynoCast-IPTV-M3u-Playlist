@@ -1,11 +1,161 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-05-19 20:45:24
+# Generated: 2026-05-20 08:35:00
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
 
+
+# --- BEIN SPORTS MAX FM (24) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 4K
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389600.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 4K
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389599.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 4K
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389598.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 4K
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389597.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 4K
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389596.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 4K
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389595.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 FHD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389594.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 FHD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389593.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 FHD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389592.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 FHD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389591.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 FHD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389590.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 FHD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389589.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389588.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389587.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389586.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389585.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389584.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389583.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 1 SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389582.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 2 SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389581.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 3 SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389580.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 4 SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389579.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 5 SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389578.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX FM",BEIN SPORTS MAX 6 SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389577.m3u8
+
+# --- BEIN SPORTS MAX NM (24) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ⁴ᴷ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389576.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ⁴ᴷ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389575.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ⁴ᴷ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389574.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ⁴ᴷ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389573.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ⁴ᴷ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389572.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ⁴ᴷ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389571.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ᶠʰᵈ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389570.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ᶠʰᵈ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389569.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ᶠʰᵈ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389568.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ᶠʰᵈ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389567.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ᶠʰᵈ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389566.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ᶠʰᵈ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389565.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389564.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389563.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389562.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389561.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389560.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389559.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 ˢᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389558.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 ˢᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389557.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 EN ˢᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389556.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 EN ˢᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389555.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 1 FR ˢᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389554.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX NM",BEIN MAX 2 FR ˢᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389553.m3u8
+
+# --- BEIN SPORTS MAX ⁸ᴷ (24) ---
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389624.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389623.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389622.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389621.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389620.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ᴴᴰ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389619.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389618.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389617.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389616.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389615.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389614.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR SD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389613.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ʰᵉᵛᶜ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389612.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ʰᵉᵛᶜ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389611.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ʰᵉᵛᶜ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389610.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ʰᵉᵛᶜ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389609.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ʰᵉᵛᶜ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389608.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ʰᵉᵛᶜ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389607.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 1 AR ᴿᴬᵂ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389606.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 2 AR ᴿᴬᵂ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389605.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 3 EN ᴿᴬᵂ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389604.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 4 EN ᴿᴬᵂ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389603.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 5 FR ᴿᴬᵂ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389602.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="BEIN SPORTS MAX ⁸ᴷ",BEIN SPORTS MAX 6 FR ᴿᴬᵂ
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389601.m3u8
 
 # --- FORMULA 1 + MOTO GP (66) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/F1-formula.png" group-title="FORMULA 1 + MOTO GP",F1 - ALB ALBON WILLIAMS
@@ -4422,17 +4572,17 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/648876.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/753363.m3u8
 
 # --- |AR| ALWAN (6) ---
-#EXTINF:-1 tvg-logo="" group-title="|AR| ALWAN",AR - ALWAN TURKEY 4K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN",AR - ALWAN TURKEY 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1388728.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|AR| ALWAN",AR -  ALWAN MOSALSALAT 4K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN",AR -  ALWAN MOSALSALAT 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1388727.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|AR| ALWAN",AR - ALWAN ATFAL 4K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN",AR - ALWAN ATFAL 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1388726.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|AR| ALWAN",AR - ALWAN ALWATHAEQYE 4K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN",AR - ALWAN ALWATHAEQYE 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1388725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|AR| ALWAN",AR - ALWAN AFLAM 2 4K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN",AR - ALWAN AFLAM 2 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1388724.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|AR| ALWAN",AR - ALWAN AFLAM 1 4K
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALWAN.png" group-title="|AR| ALWAN",AR - ALWAN AFLAM 1 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1388723.m3u8
 
 # --- |AR| ALWAN SPORT (18) ---
@@ -15824,11 +15974,11 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1358331.m3u8
 # --- |DE| DYN NETWORK (62) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",##### DYN PPV EXCLUSIVE #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/985362.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | ALBA BERLIN - RASTA VECHTA | PLAYOFFS – VIERTELFINALE SPIEL 2 | Tue 19 May 18:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | ALBA BERLIN - RASTA VECHTA | PLAYOFFS – VIERTELFINALE SPIEL 2 | Tue 19 May 18:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331981.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | FC BAYERN MÜNCHEN BASKETBALL - VET-CONCEPT GLADIATORS TRIER | PLAYOFFS – VIERTELFINALE SPIEL 2 | Tue 19 May 20:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",ENDED | FC BAYERN MÜNCHEN BASKETBALL - VET-CONCEPT GLADIATORS TRIER | PLAYOFFS – VIERTELFINALE SPIEL 2 | Tue 19 May 20:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331980.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | BSV SACHSEN ZWICKAU - VFL OLDENBURG | PLAYOFFS 5-11 | Wed 20 May 17:45 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331979.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331978.m3u8
@@ -16516,7 +16666,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/750139.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1375568.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",NEXT | PROA HALBFINALE: BOZIC ESTRICHE KNIGHTS KIRCHHEIM VS. GIESSEN 46ERS - SPIEL 1 | Wed 20 May 17:45 CEST (DE) | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1375567.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1375566.m3u8
@@ -20181,9 +20331,275 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/553685.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/553686.png" group-title="|EU| FRANCE 4K",FR - BEIN SPORTS 3 4K
 http://portott.com/live/c4c24c0217/c4b2e86278c6/553686.m3u8
 
-# --- |EU| FRANCE CARRIBEAN (38) ---
+# --- |EU| FRANCE CARRIBEAN (171) ---
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197560.png" group-title="|EU| FRANCE CARRIBEAN",##### CARRIBEAN #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/715965.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/921073.png" group-title="|EU| FRANCE CARRIBEAN",FR -  ZING HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389280.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/921074.png" group-title="|EU| FRANCE CARRIBEAN",FR -  ZEE TV HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389279.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/921081.png" group-title="|EU| FRANCE CARRIBEAN",FR -  MBC SAT HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389278.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/921082.png" group-title="|EU| FRANCE CARRIBEAN",FR -  MA TV HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389277.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/VIAATV.png" group-title="|EU| FRANCE CARRIBEAN",FR - vià ATV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389276.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/ZOUK.png" group-title="|EU| FRANCE CARRIBEAN",FR - ZOUK TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389275.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/ZITATA.png" group-title="|EU| FRANCE CARRIBEAN",FR - ZITATA TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389274.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/WARNERTVNEXT.png" group-title="|EU| FRANCE CARRIBEAN",FR - WARNER TV NEXT
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389273.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/WARNER.png" group-title="|EU| FRANCE CARRIBEAN",FR - WARNER TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389272.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/W9.png" group-title="|EU| FRANCE CARRIBEAN",FR - W9
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389271.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/USHUAIA.png" group-title="|EU| FRANCE CARRIBEAN",FR - USHUAIA TV HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389270.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TV5MONDE.png" group-title="|EU| FRANCE CARRIBEAN",FR - TV5 MONDE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389269.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TVMETROPOLE.png" group-title="|EU| FRANCE CARRIBEAN",FR - TV METROPOLE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389268.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BREIZH.png" group-title="|EU| FRANCE CARRIBEAN",FR - TV BREIZH
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389267.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TROTTERS.png" group-title="|EU| FRANCE CARRIBEAN",FR - TROTTERS TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389266.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TRACEURBAN.png" group-title="|EU| FRANCE CARRIBEAN",FR - TRACE URBAN
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389265.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TRACECARIBBEAN.png" group-title="|EU| FRANCE CARRIBEAN",FR - TRACE CARIBBEAN
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389264.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TRACEAYITI.png" group-title="|EU| FRANCE CARRIBEAN",FR - TRACE AYITI
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389263.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TOUTELHISTOIRE.png" group-title="|EU| FRANCE CARRIBEAN",FR - TOUTE L'HISTOIRE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389262.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TNHHAITI.png" group-title="|EU| FRANCE CARRIBEAN",FR - TNH HAITI
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389261.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TMC.png" group-title="|EU| FRANCE CARRIBEAN",FR - TMC
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389260.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TLC.png" group-title="|EU| FRANCE CARRIBEAN",FR - TLC
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389259.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TFX.png" group-title="|EU| FRANCE CARRIBEAN",FR - TFX
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389258.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TF1SERIESFILMS.png" group-title="|EU| FRANCE CARRIBEAN",FR - TF1 SERIES FILMS
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389257.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TF1.png" group-title="|EU| FRANCE CARRIBEAN",FR - TF1 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389256.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TEVA.png" group-title="|EU| FRANCE CARRIBEAN",FR - TEVA
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389255.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TELETOONPLUS.png" group-title="|EU| FRANCE CARRIBEAN",FR - TELETOON+
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389254.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TELEPEYIGUYANE.png" group-title="|EU| FRANCE CARRIBEAN",FR - TELE PEYI GUYANE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389253.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TELE20.png" group-title="|EU| FRANCE CARRIBEAN",FR - TELE 20
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389252.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/TCMCINEMA.png" group-title="|EU| FRANCE CARRIBEAN",FR - TCM CINEMA
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389251.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/T18.png" group-title="|EU| FRANCE CARRIBEAN",FR - T18
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389250.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/SYFY.png" group-title="|EU| FRANCE CARRIBEAN",FR - SYFY
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389249.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/SPORTENFRANCE.png" group-title="|EU| FRANCE CARRIBEAN",FR - SPORT EN FRANCE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389248.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/SEASONS.png" group-title="|EU| FRANCE CARRIBEAN",FR - SEASONS
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389247.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/RTL9.png" group-title="|EU| FRANCE CARRIBEAN",FR - RTL9
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389246.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/RMCSTORY.png" group-title="|EU| FRANCE CARRIBEAN",FR - RMC STORY
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389245.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/RMCLIFE.png" group-title="|EU| FRANCE CARRIBEAN",FR - RMC LIFE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389244.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/RMCDECOUVERTE.png" group-title="|EU| FRANCE CARRIBEAN",FR - RMC DECOUVERTE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389243.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/PUNCH.png" group-title="|EU| FRANCE CARRIBEAN",FR - PUNCH TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389242.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/PLANETEPLUSCRIME.png" group-title="|EU| FRANCE CARRIBEAN",FR - PLANETE+CRIME
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389241.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/PLANETEPLUSAVENTURE.png" group-title="|EU| FRANCE CARRIBEAN",FR - PLANETE+AVENTURE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389240.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/PLANETEPLUS.png" group-title="|EU| FRANCE CARRIBEAN",FR - PLANETE+ HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389239.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/PIWIPLUS.png" group-title="|EU| FRANCE CARRIBEAN",FR - PIWI+
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389238.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/PARISPREMIERE.png" group-title="|EU| FRANCE CARRIBEAN",FR - PARIS PREMIERE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389237.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/OLYMPIA.png" group-title="|EU| FRANCE CARRIBEAN",FR - OLYMPIA TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389236.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/OCS.png" group-title="|EU| FRANCE CARRIBEAN",FR - OCS HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389235.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/NOVO19.png" group-title="|EU| FRANCE CARRIBEAN",FR - NOVO19
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389234.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/NOVELAS.png" group-title="|EU| FRANCE CARRIBEAN",FR - NOVELAS TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389233.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/NOLLYWOOD.png" group-title="|EU| FRANCE CARRIBEAN",FR - NOLLYWOOD TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389232.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/NICKELODEONJR.png" group-title="|EU| FRANCE CARRIBEAN",FR - NICKELODEON JR
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389231.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/NICKELODEON.png" group-title="|EU| FRANCE CARRIBEAN",FR - NICKELODEON
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389230.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/MYTVCARAIBES.png" group-title="|EU| FRANCE CARRIBEAN",FR - MY TV CARAÏBES
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389229.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/MUSEUM.png" group-title="|EU| FRANCE CARRIBEAN",FR - MUSEUM TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389228.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/MTV.png" group-title="|EU| FRANCE CARRIBEAN",FR - MTV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389227.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/MIEUX.png" group-title="|EU| FRANCE CARRIBEAN",FR - MIEUX
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389226.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/MGG.png" group-title="|EU| FRANCE CARRIBEAN",FR - MGG TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389225.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/MARTINIQUE1ERE.png" group-title="|EU| FRANCE CARRIBEAN",FR - MARTINIQUE 1ERE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389224.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/MANGAS.png" group-title="|EU| FRANCE CARRIBEAN",FR - MANGAS
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389223.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/M6.png" group-title="|EU| FRANCE CARRIBEAN",FR - M6 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389222.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/LUDIKIDS.png" group-title="|EU| FRANCE CARRIBEAN",FR - LUDIKIDS
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389221.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/LCP.png" group-title="|EU| FRANCE CARRIBEAN",FR - LCP
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389220.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/LCI.png" group-title="|EU| FRANCE CARRIBEAN",FR - LCI
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389219.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/LEQUIPE.png" group-title="|EU| FRANCE CARRIBEAN",FR - L'EQUIPE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389218.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/KTO.png" group-title="|EU| FRANCE CARRIBEAN",FR - KTO
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389217.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/KOUROU.png" group-title="|EU| FRANCE CARRIBEAN",FR - KOUROU TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389216.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/KMT.png" group-title="|EU| FRANCE CARRIBEAN",FR - KMT
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389215.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/IOTV.png" group-title="|EU| FRANCE CARRIBEAN",FR - IOTV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389214.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/INFOSPORTPLUS.png" group-title="|EU| FRANCE CARRIBEAN",FR - INFOSPORT+
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389213.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/GUYANE1ERE.png" group-title="|EU| FRANCE CARRIBEAN",FR - GUYANE 1ERE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389212.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/GULLI.png" group-title="|EU| FRANCE CARRIBEAN",FR - GULLI
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389211.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/GUADELOUPE1ERE.png" group-title="|EU| FRANCE CARRIBEAN",FR - GUADELOUPE 1ERE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389210.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/GRAPHE.png" group-title="|EU| FRANCE CARRIBEAN",FR - GRAPHE TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389209.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/FUSION.png" group-title="|EU| FRANCE CARRIBEAN",FR - FUSION TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389208.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/FRANCEINFO.png" group-title="|EU| FRANCE CARRIBEAN",FR - FRANCE INFO:
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389207.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/FRANCE5.png" group-title="|EU| FRANCE CARRIBEAN",FR - FRANCE 5
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389206.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/FRANCE4.png" group-title="|EU| FRANCE CARRIBEAN",FR - FRANCE 4 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389205.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/FRANCE3.png" group-title="|EU| FRANCE CARRIBEAN",FR - FRANCE 3
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389204.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/FRANCE24.png" group-title="|EU| FRANCE CARRIBEAN",FR - FRANCE 24
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389203.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/FRANCE2.png" group-title="|EU| FRANCE CARRIBEAN",FR - FRANCE 2
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389202.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EVANGILE.png" group-title="|EU| FRANCE CARRIBEAN",FR - EVANGILE TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389201.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EUROSPORT2.png" group-title="|EU| FRANCE CARRIBEAN",FR - EUROSPORT 2 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389200.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EUROSPORT1.png" group-title="|EU| FRANCE CARRIBEAN",FR - EUROSPORT 1 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389199.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EUROPE2POP.png" group-title="|EU| FRANCE CARRIBEAN",FR - EUROPE 2 POP TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389198.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EUROPE1.png" group-title="|EU| FRANCE CARRIBEAN",FR - EUROPE 1 TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389197.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/ETV.png" group-title="|EU| FRANCE CARRIBEAN",FR - ETV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389196.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EQUIDIA.png" group-title="|EU| FRANCE CARRIBEAN",FR - EQUIDIA HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389195.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/ENGLISHCLUB.png" group-title="|EU| FRANCE CARRIBEAN",FR - ENGLISH CLUB TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389194.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/EMCI.png" group-title="|EU| FRANCE CARRIBEAN",FR - EMCI
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389193.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/E-E.png" group-title="|EU| FRANCE CARRIBEAN",FR - E!
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389192.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/DISCOVERYINVESTIGATION.png" group-title="|EU| FRANCE CARRIBEAN",FR - DISCOVERY INVESTIGATION
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389191.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/DISCOVERYCHANNEL.png" group-title="|EU| FRANCE CARRIBEAN",FR - DISCOVERY CHANNEL
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389190.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CSTAR.png" group-title="|EU| FRANCE CARRIBEAN",FR - CSTAR
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389189.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/COMEDIEPLUS.png" group-title="|EU| FRANCE CARRIBEAN",FR - COMEDIE+
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389188.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CNN.png" group-title="|EU| FRANCE CARRIBEAN",FR - CNN
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389187.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CNEWSPRIME.png" group-title="|EU| FRANCE CARRIBEAN",FR - CNEWS PRIME
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389186.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CNEWS.png" group-title="|EU| FRANCE CARRIBEAN",FR - CNEWS
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389185.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CINEPLUSFRISSON.png" group-title="|EU| FRANCE CARRIBEAN",FR - CINE+FRISSON HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389184.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CINEPLUSFESTIVAL.png" group-title="|EU| FRANCE CARRIBEAN",FR - CINE+FESTIVAL
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389183.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CINEPLUSFAMILY.png" group-title="|EU| FRANCE CARRIBEAN",FR - CINE+FAMILY
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389182.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CINEPLUSEMOTION.png" group-title="|EU| FRANCE CARRIBEAN",FR - CINE+EMOTION
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389181.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CINEPLUSCLASSIC.png" group-title="|EU| FRANCE CARRIBEAN",FR - CINE+CLASSIC
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389180.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CARTOONITO.png" group-title="|EU| FRANCE CARRIBEAN",FR - CARTOONITO
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389179.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/CARTOONNETWORK.png" group-title="|EU| FRANCE CARRIBEAN",FR - CARTOON NETWORK
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389178.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BOOMERANG.png" group-title="|EU| FRANCE CARRIBEAN",FR - BOOMERANG
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389148.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BFM.png" group-title="|EU| FRANCE CARRIBEAN",FR - BFM TV
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389147.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BFMBUSINESS.png" group-title="|EU| FRANCE CARRIBEAN",FR - BFM BUSINESS
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389146.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX9.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS MAX 9
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389145.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX8.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS MAX 8
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389144.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX7.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS MAX 7
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389143.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX6.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS MAX 6
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389142.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX5.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS MAX 5
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389141.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX4.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS MAX 4
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389140.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTSMAX10.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS MAX 10
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389139.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTS3.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS 3 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389138.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTS2.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS 2 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389137.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BEINSPORTS1.png" group-title="|EU| FRANCE CARRIBEAN",FR - BEIN SPORTS 1 HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389136.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BBLACKCARIBBEAN.png" group-title="|EU| FRANCE CARRIBEAN",FR - BBLACK CARIBBEAN
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389135.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/BBCNEWS.png" group-title="|EU| FRANCE CARRIBEAN",FR - BBC NEWS
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389134.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/AUTOMOTO.png" group-title="|EU| FRANCE CARRIBEAN",FR - AUTOMOTO
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389133.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/ARTE.png" group-title="|EU| FRANCE CARRIBEAN",FR - ARTE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389132.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/AFRICA24.png" group-title="|EU| FRANCE CARRIBEAN",FR - AFRICA 24
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389131.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/ACTION.png" group-title="|EU| FRANCE CARRIBEAN",FR - ACTION
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389130.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/APLUS.png" group-title="|EU| FRANCE CARRIBEAN",FR - A+
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389129.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/6TER.png" group-title="|EU| FRANCE CARRIBEAN",FR - 6TER
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389128.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/13EMERUE.png" group-title="|EU| FRANCE CARRIBEAN",FR - 13EME RUE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389127.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/721870.png" group-title="|EU| FRANCE CARRIBEAN",FR - VOIR OCEAN INDIEN
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389126.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/921078.png" group-title="|EU| FRANCE CARRIBEAN",FR -  TRACE VANILLA HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389125.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/721873.png" group-title="|EU| FRANCE CARRIBEAN",FR - RTA
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389124.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/1466060.png" group-title="|EU| FRANCE CARRIBEAN",FR - MARTINIQUE 1ERE
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389123.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/920991.png" group-title="|EU| FRANCE CARRIBEAN",FR - GUADLOUPE PREMIERE HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389122.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/699396.png" group-title="|EU| FRANCE CARRIBEAN",FR - GUADELOUPE 1ERE HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389121.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/920986.png" group-title="|EU| FRANCE CARRIBEAN",FR - BLACK CARIBBEAN HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389119.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/699400.png" group-title="|EU| FRANCE CARRIBEAN",FR - ALIZES GUADELOUPE HD
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1389118.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/715989.png" group-title="|EU| FRANCE CARRIBEAN",FR - ANTENNE REUNION
 http://portott.com/live/c4c24c0217/c4b2e86278c6/715989.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/france/715988.png" group-title="|EU| FRANCE CARRIBEAN",FR - REUNION 1ERE
@@ -24210,89 +24626,89 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | CHRIS RODESCH - LEANDRO RIEDI | Tue 19 May 15:35 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | CHRIS RODESCH - LEANDRO RIEDI | Tue 19 May 15:35 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307815.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | DARJA SEMENISTAJA - IRYNA SHYMANOVICH | Tue 19 May 15:03 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | DARJA SEMENISTAJA - IRYNA SHYMANOVICH | Tue 19 May 15:03 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307814.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LINDA FRUHVIRTOVA - LUCIE HAVLICKOVA | Tue 19 May 15:07 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LINDA FRUHVIRTOVA - LUCIE HAVLICKOVA | Tue 19 May 15:07 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307813.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MARK LAJAL - ROMAN SAFIULLIN | Tue 19 May 16:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | MARK LAJAL - ROMAN SAFIULLIN | Tue 19 May 16:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307812.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | JESSIKA PONCHET - PRISCILLA HON | Tue 19 May 15:36 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | JESSIKA PONCHET - PRISCILLA HON | Tue 19 May 15:36 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307811.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | ALEX MOLCAN - OLIVER CRAWFORD | Tue 19 May 12:49 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | KRISTINA MLADENOVIC - XIYU WANG | Tue 19 May 17:05 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307810.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | FRANCESCO MAESTRELLI - RIO NOGUCHI | Tue 19 May 12:58 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | REI SAKAMOTO - PEDRO MARTINEZ | Tue 19 May 17:25 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307809.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | NURIA BRANCACCIO - KAITLIN QUEVEDO | Tue 19 May 12:58 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | THIAGO SEYBOTH WILD - YU HSIOU HSU | Tue 19 May 17:36 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307808.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | GIRO D'ITALIA | Tue 19 May 12:59 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | EMILIO NAVA - BU YUNCHAOKETE | Tue 19 May 18:21 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307807.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | NERMAN FATIC - LUKA MIKRUT | Tue 19 May 15:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | NERMAN FATIC - LUKA MIKRUT | Tue 19 May 15:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307806.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LAUTARO MIDON - ROBERTO CARBALLES BAENA | Tue 19 May 13:03 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | JOEL SCHWAERZLER - CLÉMENT CHIDEKH | Tue 19 May 18:18 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307805.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LIAM BROADY - GIANLUCA CADENASSO | Tue 19 May 16:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LIAM BROADY - GIANLUCA CADENASSO | Tue 19 May 16:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307804.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | MATEJ DODIG - YI ZHOU | Tue 19 May 13:07 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | REBEKA MASAROVA - MARIA LOURDES CARLE | Tue 19 May 18:33 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307803.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | DARJA VIDMANOVA - XINYU GAO | Tue 19 May 17:12 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | DARJA VIDMANOVA - XINYU GAO | Tue 19 May 17:12 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307802.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | ELIAS YMER - ARTHUR FÉRY | Tue 19 May 18:41 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307801.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | MULTISCREEN | Tue 19 May 13:15 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | CADENCE BRACE - MARIA TIMOFEEVA | Tue 19 May 18:41 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307800.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | KAJA JUVAN - ANNA SISKOVÁ | Tue 19 May 13:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | HAROLD MAYOT - TOMAS BARRIOS VERA | Tue 19 May 18:27 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | HENRIQUE ROCHA - ZSOMBOR PIROS | Tue 19 May 15:12 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | DARWIN BLANCH - TIMOFEY SKATOV | Tue 19 May 19:20 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | AZIZ DOUGAZ - FELIX GILL | Tue 19 May 14:28 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LUCREZIA STEFANINI - ALINA CHARAEVA | Tue 19 May 19:25 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307797.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | PIERRE-HUGUES HERBERT - KAICHI UCHIDA | Tue 19 May 15:34 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LUCIA BRONZETTI - VARVARA LEPCHENKO | Tue 19 May 18:53 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307796.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LORENZO GIUSTINO - KYRIAN JACQUET | Tue 19 May 15:17 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | IRENE BURILLO - VIKTORIYA TOMOVA | Tue 19 May 19:43 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307795.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | AYANA AKLI - KATARZYNA KAWA | Tue 19 May 16:36 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LUKA PAVLOVIC - HARRY WENDELKEN | Tue 19 May 19:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307794.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | JAN CHOINSKI - ANDY ANDRADE | Tue 19 May 16:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | REBECCA SRAMKOVA - KAYLA CROSS | Tue 19 May 20:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307793.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | HARMONY TAN - KARMAN THANDI | Tue 19 May 16:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | POLINA KUDERMETOVA - ANOUK KOEVERMANS | Tue 19 May 20:07 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307792.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | CLASSIQUE DUNKERQUE | Tue 19 May 15:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | TAHLIA KOKKINIS - STORM HUNTER | Tue 19 May 19:01 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307791.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | LAURA PIGOSSI - CLAIRE LIU | Tue 19 May 14:16 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | JÉRÔME KYM - TOM GENTZSCH | Tue 19 May 20:12 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307790.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | KATARINA ZAVATSKA - CAROL ZHAO | Tue 19 May 16:36 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 27
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | FRANCISCA JORGE - XIAODI YOU | Tue 19 May 21:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307789.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 28
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | TRISTAN SCHOOLKATE - KIMMER COPPEJANS | Tue 19 May 20:12 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 28
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307788.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 29
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | NICOLAI BUDKOV KJAER - GILLES ARNAUD BAILLY | Tue 19 May 22:12 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 29
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307787.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 30
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | FRANCISCA JORGE - YOU XIAODI  | Tue 19 May 20:06 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 30
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307786.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",ENDED | TENNIS | Tue 19 May 22:36 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 31
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307785.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 32
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | NEW YORK KNICKS - CLEVELAND CAVALIERS | Wed 20 May 02:03 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 32
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307784.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 33
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MAJA CHWALINSKA - CAROLE MONNET | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 33
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307783.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 34
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | DESPINA PAPAMICHAIL - HANYU GUO | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 34
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307782.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 35
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | SINJA KRAUS - NOMA NOHA AKUGUE | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 35
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307781.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 36
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | SOFIA COSTOULAS - MAI HONTAMA | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 36
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307780.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 37
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | FACUNDO DÍAZ ACOSTA - REMY BERTOLA | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 37
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307779.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 38
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | AUGUST HOLMGREN - DANIEL JADE | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 38
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307778.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 39
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MICHAEL ZHENG - STEFANO TRAVAGLIA | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 39
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307777.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 40
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ANDREA PELLEGRINO - LLOYD HARRIS | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 40
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307776.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 41
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ANNA-LENA FRIEDSAM - TAMARA ZIDANSEK | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 41
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307775.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 42
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JESPER DE JONG - LIAM DRAXL | Wed 20 May 09:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 42
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307774.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 43
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307773.m3u8
@@ -27628,95 +28044,95 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/800575.m3u8
 # --- |NA| PPV LIVE EVENT (101) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/USA-FLAG.png" group-title="|NA| PPV LIVE EVENT",###### CHAMPIONS LEAGUE ######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994284.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 01 - Aston Villa vs Nottingham Forest 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 01 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994287.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 02 - Freiburg vs Sporting Braga 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 02 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994288.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 03 - Crystal Palace vs Shakhtar Donetsk 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 03 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994289.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 04 - Strasbourg vs Rayo Vallecano 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 04 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994290.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 - AZ  vs Shakhtar D 5:40pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994291.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA | 06 - AEK Athens  vs Rayo 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA | 06 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994292.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA | 07 - Fiorentina  vs Crystal Palace 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA | 07 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994293.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 08 - Strasbourg vs Mainz 05 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 08 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994294.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPIEN-QUALIFIER%c2%a0.png" group-title="|NA| PPV LIVE EVENT",UEFA | 09 - Arsenal vs Vilareal 6:00pm
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994295.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/USA-FLAG.png" group-title="|NA| PPV LIVE EVENT",###### EUROPA LEAGUE CONFERENCE ######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994286.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 17 - Juventus vs Wolfsburg 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 17 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983134.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 18 - Manchester United vs Atletico Madrid 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 18 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983133.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 19 - Stuttgart vs Young Boys 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 19 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983132.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 20 - Breidablik vs Shamrock Rovers 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 20 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983131.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 21 - Drita vs Az 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 21 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983130.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 22 - Fiorentina vs Dynamo Kyiv 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 22 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983129.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 23 - Hacken vs Aek Larnaca 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 23 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983128.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 24 - Jagiellonia vs Rayo Vallecano 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/UEFA-2024.png" group-title="|NA| PPV LIVE EVENT",UEFA | 24 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983127.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 25 - Noah vs Legia Warszawa 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 25 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983126.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 26 - Samsunspor vs Aek Athens 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 26 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983125.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 27 - Shkendija vs Sk Slovan 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 27 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983124.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 28 - Universitatea Craiova vs Sparta Prague 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 28 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983123.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 29 - Aberdeen vs Strasbourg 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 29 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983122.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 14 - Molde vs Häcken 17.45
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983121.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 31 - Kups vs Lausanne 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 31 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983120.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983119.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 01 - Aston Villa vs Nottingham Forest 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 01 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983118.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 02 - Freiburg vs Sporting Braga 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 02 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983117.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 03 - Crystal Palace vs Shakhtar Donetsk 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 03 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983116.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 04 - Strasbourg vs Rayo Vallecano 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 04 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983115.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 - AZ  vs Shakhtar D 5:40pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983114.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 06 - AEK Athens  vs Rayo 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 06 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983113.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 07 - Fiorentina  vs Crystal Palace 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 07 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983112.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 08 - Strasbourg vs Mainz 05 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 08 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983111.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 09 -  Ark Larnaca bs Crystal Palace 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 09 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983110.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA |10 - Mainz vs Sigma 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA |10 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983109.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 11 - Rakow czestochowa vs Fiorentina 5:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 11 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983108.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 12 - Rayo Vallecano vs Samsunspor 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 12 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983107.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 13 - Shakhtar vs Lech Poznan 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 13 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983106.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 14 - Sparta Prague vs Az 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 14 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/983105.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 15 - Strasbourg vs Rijeka 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA | 15 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988160.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 16 - Shkendija vs Samsunspor 8:00pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROPA.png" group-title="|NA| PPV LIVE EVENT",UEFA  | 16 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988161.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/USA-FLAG.png" group-title="|NA| PPV LIVE EVENT",###### PPV LIVE EVENTS ######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994285.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - 6pm High Limit Racing Grandview
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/615651.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - 6:15pm Millbridge Sprints
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/615650.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 03 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/615649.m3u8
@@ -33398,35 +33814,35 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/725220.m3u8
 # --- |NA| USA MLB (47) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",##### USA MLB LIVE #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/552255.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 01 | Guardians x Tigers start:2026-05-18 23:40:00 stop:2026-05-19 06:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 01 | Braves x Marlins start:2026-05-19 21:10:00 stop:2026-05-20 04:23:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801199.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 02 | Orioles x Rays start:2026-05-18 23:40:00 stop:2026-05-19 06:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 02 | Guardians x Tigers start:2026-05-19 23:40:00 stop:2026-05-20 06:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801200.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 03 | Reds x Phillies start:2026-05-18 23:40:00 stop:2026-05-19 06:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 03 | Orioles x Rays start:2026-05-19 23:40:00 stop:2026-05-20 06:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801201.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 04 | Braves x Marlins start:2026-05-18 23:40:00 stop:2026-05-19 06:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 04 | Reds x Phillies start:2026-05-19 23:40:00 stop:2026-05-20 06:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801202.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 05 | Mets x Nationals start:2026-05-18 23:45:00 stop:2026-05-19 06:58:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 05 | Mets x Nationals start:2026-05-19 23:45:00 stop:2026-05-20 06:58:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801203.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 07 | Red Sox x Royals start:2026-05-19 00:40:00 stop:2026-05-19 07:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 07 | Red Sox x Royals start:2026-05-20 00:40:00 stop:2026-05-20 07:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801205.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 08 | Astros x Twins start:2026-05-19 00:40:00 stop:2026-05-19 07:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 08 | Astros x Twins start:2026-05-20 00:40:00 stop:2026-05-20 07:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801206.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 09 | Brewers x Cubs start:2026-05-19 00:40:00 stop:2026-05-19 07:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 09 | Brewers x Cubs start:2026-05-20 00:40:00 stop:2026-05-20 07:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801207.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 10 | Rangers x Rockies start:2026-05-19 01:40:00 stop:2026-05-19 08:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 10 | Pirates x Cardinals start:2026-05-20 00:45:00 stop:2026-05-20 07:58:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801192.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 11 | Athletics x Angels start:2026-05-19 02:38:00 stop:2026-05-19 09:51:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 11 | Rangers x Rockies start:2026-05-20 01:40:00 stop:2026-05-20 08:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801193.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 12 | Dodgers x Padres start:2026-05-19 02:40:00 stop:2026-05-19 09:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 12 | Athletics x Angels start:2026-05-20 02:38:00 stop:2026-05-20 09:51:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801194.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 13 | Giants x D-backs start:2026-05-19 02:40:00 stop:2026-05-19 09:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 13 | Dodgers x Padres start:2026-05-20 02:40:00 stop:2026-05-20 09:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801195.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 14 | White Sox x Mariners start:2026-05-19 02:40:00 stop:2026-05-19 09:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 14 | Giants x D-backs start:2026-05-20 02:40:00 stop:2026-05-20 09:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801196.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 15 | Padres x Mariners start:2026-05-18 00:20:00 stop:2026-05-18 07:33:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 15 | White Sox x Mariners start:2026-05-20 02:40:00 stop:2026-05-20 09:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801197.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 16 | Cardinals x Tigers start:2026-04-06 00:20:00 stop:2026-04-06 07:33:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 16 |
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801198.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 17 |
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801208.m3u8
@@ -33828,35 +34244,35 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/552024.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660708.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA-TV.png" group-title="|NA| USA NBA",USA - NBA TV HD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1009003.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 01 : San Antonio Spurs @ Thunder  // UK TUE 19 May 1:30am // ET Mon 18 May 8:30pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 01 : New York Knicks @ Cleveland Cavaliers  // UK WED 20 May 1:00am // ET Mon 18 May 8:00pm
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660707.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 02 : Minnesota Timberwolves @ San Antonio Spurs // UK Sun 17 May 02:30am // ET Sun 16 May 9:30pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 02 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660706.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 03 : Los Angeles Lakers @ Houston Rockets // UK Sat 2 May 1:15am // ET Fri 1 May 8:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 03 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660705.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 04 : Los Angeles Lakers @ Houston Rockets // UK Mon 27 Apr 1:15am // ET Sun 26 Apr 8:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 04 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660704.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 05 : Charlotte Hornets @ New York Knicks // UK Sun 12 Apr 9:45pm // ET Sun 12 Apr 4:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 05 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660703.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 06 : Milwaukee Bucks @ Philadelphia 76ers // UK Sun 12 Apr 9:45pm // ET Sun 12 Apr 4:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 06 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660702.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 07 : Brooklyn Nets @ Toronto Raptors // UK Sun 12 Apr 9:45pm // ET Sun 12 Apr 4:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 07 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660701.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 08 : Chicago Bulls @ Dallas Mavericks // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 08 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660700.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 09 : Memphis Grizzlies @ Houston Rockets // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 09 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660699.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 10 : New Orleans Pelicans @ Minnesota Timberwolves // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 10 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660698.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 11 | Phoenix Suns @ Oklahoma City Thunder // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 11 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660697.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 12 : Denver Nuggets @ San Antonio Spurs // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 12 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660696.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 13 : Utah Jazz @ Los Angeles Lakers // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 13 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660695.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 14 : Golden State Warriors @ LA Clippers // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 14 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660694.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 15 : Sacramento Kings @ Portland Trail Blazers // UK Mon 13 Apr 12:15am // ET Sun 12 Apr 7:15pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 15 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660693.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",##### NBA TEAMS #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660692.m3u8
@@ -34716,7 +35132,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/660767.m3u8
 # --- |NA| USA NHL (49) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",##### NHL LIVE EVENTS #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660756.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 01 -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 01 - 8pm Golden Knights @ Avalanche
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660755.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 02 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660754.m3u8
@@ -36296,87 +36712,87 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | NERMAN FATIC - LUKA MIKRUT | Tue 19 May 15:32 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | NERMAN FATIC - LUKA MIKRUT | Tue 19 May 15:32 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | KATARINA ZAVATSKA - CAROL ZHAO | Tue 19 May 15:03 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | KATARINA ZAVATSKA - CAROL ZHAO | Tue 19 May 15:03 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168964.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DARJA SEMENISTAJA - IRYNA SHYMANOVICH | Tue 19 May 15:03 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | DARJA SEMENISTAJA - IRYNA SHYMANOVICH | Tue 19 May 15:03 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168963.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | ROLAND GARROS | KWALIFIKACJE | 2. DZIEŃ | Tue 19 May 10:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | EMILIO NAVA - BU YUNCHAOKETE | Tue 19 May 18:21 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168962.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | MARK LAJAL - ROMAN SAFIULLIN | Tue 19 May 16:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | MARK LAJAL - ROMAN SAFIULLIN | Tue 19 May 16:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168961.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | CHRIS RODESCH - LEANDRO RIEDI | Tue 19 May 15:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | CHRIS RODESCH - LEANDRO RIEDI | Tue 19 May 15:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168960.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | ALEX MOLCAN - OLIVER CRAWFORD | Tue 19 May 12:49 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | KRISTINA MLADENOVIC - XIYU WANG | Tue 19 May 17:05 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168959.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | FRANCESCO MAESTRELLI - RIO NOGUCHI | Tue 19 May 12:58 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | REI SAKAMOTO - PEDRO MARTINEZ | Tue 19 May 17:25 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168958.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | NURIA BRANCACCIO - KAITLIN QUEVEDO | Tue 19 May 12:58 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | THIAGO SEYBOTH WILD - YU HSIOU HSU | Tue 19 May 17:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168957.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | GIRO D'ITALIA | 10. ETAP | Tue 19 May 12:59 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | HAROLD MAYOT - TOMAS BARRIOS VERA | Tue 19 May 18:27 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168956.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | LINDA FRUHVIRTOVA - LUCIE HAVLICKOVA | Tue 19 May 15:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LINDA FRUHVIRTOVA - LUCIE HAVLICKOVA | Tue 19 May 15:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168955.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LAUTARO MIDON - ROBERTO CARBALLES BAENA | Tue 19 May 13:03 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | JOEL SCHWAERZLER - CLÉMENT CHIDEKH | Tue 19 May 18:18 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168954.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | LIAM BROADY - GIANLUCA CADENASSO | Tue 19 May 16:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LIAM BROADY - GIANLUCA CADENASSO | Tue 19 May 16:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168953.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | MATEJ DODIG - YI ZHOU | Tue 19 May 13:07 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | REBEKA MASAROVA - MARIA LOURDES CARLE | Tue 19 May 18:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168952.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | DARJA VIDMANOVA - XINYU GAO | Tue 19 May 17:12 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | DARJA VIDMANOVA - XINYU GAO | Tue 19 May 17:12 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168951.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LULU SUN - YE-XIN MA | Tue 19 May 13:12 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | ELIAS YMER - ARTHUR FÉRY | Tue 19 May 18:41 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168950.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | GIRO D'ITALIA | 10. ETAP | MULTISCREEN | Tue 19 May 13:15 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | CADENCE BRACE - MARIA TIMOFEEVA | Tue 19 May 18:41 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168949.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | KAJA JUVAN - ANNA SISKOVA | Tue 19 May 13:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | DARWIN BLANCH - TIMOFEY SKATOV | Tue 19 May 19:20 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168948.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | HENRIQUE ROCHA - ZSOMBOR PIROS | Tue 19 May 15:12 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LUCREZIA STEFANINI - ALINA CZARAJEWA | Tue 19 May 19:25 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168947.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | AZIZ DOUGAZ - FELIX GILL | Tue 19 May 14:28 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | IRENE BURILLO - VIKTORIYA TOMOVA | Tue 19 May 19:43 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168946.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | PIERRE-HUGUES HERBERT - KAICHI UCHIDA | Tue 19 May 15:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LUCIA BRONZETTI - VARVARA LEPCHENKO | Tue 19 May 18:53 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168945.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | LORENZO GIUSTINO - KYRIAN JACQUET | Tue 19 May 15:17 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LUKA PAVLOVIC - HARRY WENDELKEN | Tue 19 May 19:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168944.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | KATARZYNA KAWA - AYANA AKLI | Tue 19 May 16:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | POLINA KUDERMIETOWA- ANOUK KOEVERMANS | Tue 19 May 20:07 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168943.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | JAN CHOINSKI - ANDY ANDRADE | Tue 19 May 16:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | TRISTAN SCHOOLKATE - KIMMER COPPEJANS | Tue 19 May 20:12 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168942.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | HARMONY TAN - KARMAN THANDI | Tue 19 May 16:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | JÉRÔME KYM - TOM GENTZSCH | Tue 19 May 20:12 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168941.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DUNKIRK CLASSIC | Tue 19 May 15:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | TAHLIA KOKKINIS - STORM HUNTER | Tue 19 May 19:01 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168940.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | LAURA PIGOSSI - CLAIRE LIU | Tue 19 May 14:16 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 27
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | REBECCA SRAMKOVA - KAYLA CROSS | Tue 19 May 20:29 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168939.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | JESSIKA PONCHET - PRISCILLA HON | Tue 19 May 15:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 28
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | JESSIKA PONCHET - PRISCILLA HON | Tue 19 May 15:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 28
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168938.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 29
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | FRANCISCA JORGE - XIAODI YOU | Tue 19 May 21:33 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 29
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168937.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 30
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | NICOLAI BUDKOV KJAER - GILLES ARNAUD BAILLY | Tue 19 May 22:12 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 30
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168936.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 31
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",ENDED | FRANCISCA JORGE - YOU XIAODI  | Tue 19 May 20:06 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 31
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168935.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 32
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MAJA CHWALIŃSKA - CAROLE MONNET | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 32
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168934.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 33
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | DESPINA PAPAMICHAIL - HANYU GUO | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 33
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168933.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 34
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | SINJA KRAUS - NOMA NOHA AKUGUE | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 34
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168932.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 35
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ANNA-LENA FRIEDSAM - TAMARA ZIDANSEK | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 35
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168931.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 36
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | SOFIA COSTOULAS - MAI HONTAMA | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 36
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168930.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 37
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | FACUNDO DÍAZ ACOSTA - REMY BERTOLA | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 37
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168929.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 38
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | AUGUST HOLMGREN - DANIEL JADE | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 38
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168928.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 39
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MICHAEL ZHENG - STEFANO TRAVAGLIA | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 39
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168927.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 40
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ANDREA PELLEGRINO - LLOYD HARRIS | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 40
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168926.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 41
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | JESPER DE JONG - LIAM DRAXL | Wed 20 May 09:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 41
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168925.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 42
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168924.m3u8
@@ -40204,9 +40620,9 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/677310.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677309.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",SBO 4: SKY SPORT BOX OFFICE FHD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677308.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - 6pm High Limit Racing Grandview
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677307.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - 6:15pm Millbridge Sprints
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677306.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 03 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677305.m3u8
@@ -40272,65 +40688,65 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/677276.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677274.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 33 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677275.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 17 - Juventus vs Wolfsburg 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 17 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988178.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 18 - Manchester United vs Atletico Madrid 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 18 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988179.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 19 - Stuttgart vs Young Boys 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 19 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988180.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 20 - Breidablik vs Shamrock Rovers 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 20 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988181.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 21 - Drita vs Az 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 21 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988182.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 22 - Fiorentina vs Dynamo Kyiv 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 22 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988183.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 23 - Hacken vs Aek Larnaca 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 23 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988184.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 24 - Jagiellonia vs Rayo Vallecano 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 24 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988185.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 25 - Noah vs Legia Warszawa 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 25 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988186.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 26 - Samsunspor vs Aek Athens 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 26 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988187.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 27 - Shkendija vs Sk Slovan 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 27 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988188.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 28 - Universitatea Craiova vs Sparta Prague 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 28 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988189.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 29 - Aberdeen vs Strasbourg 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 29 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988190.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 30 - Hamrun Spartans vs Shakhtar 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 30 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988191.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 31 - Kups vs Lausanne 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 31 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988192.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 32 - ARSENAL - ATHLETIC CLUB BILBAO | Sat 09 Aug 15:45
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988193.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 01 - Aston Villa vs Nottingham Forest 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 01 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988194.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 02 - Freiburg vs Sporting Braga 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 02 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988195.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 03 - Crystal Palace vs Shakhtar Donetsk 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 03 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988196.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 04 - Strasbourg vs Rayo Vallecano 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 04 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988197.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 05 - AZ  vs Shakhtar D 5:40pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 05 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988198.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 06 - AEK Athens  vs Rayo 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 06 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988199.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 07 - Fiorentina  vs Crystal Palace 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 07 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988200.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 08 - Strasbourg vs Mainz 05 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA  | 08 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988201.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 09 -  Ark Larnaca bs Crystal Palace 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 09 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988202.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA |10 - Mainz vs Sigma 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA |10 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988203.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 11 - Rakow czestochowa vs Fiorentina 5:45pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 11 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988204.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 12 - Rayo Vallecano vs Samsunspor 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 12 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988173.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 13 - Shakhtar vs Lech Poznan 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 13 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988175.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 14 - Sparta Prague vs Az 8:00pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 14 -
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988176.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",##### [UK] PPV UHD #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/578051.m3u8
@@ -41551,4 +41967,4 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/828028.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/828027.m3u8
 
-# Total: 20431
+# Total: 20636

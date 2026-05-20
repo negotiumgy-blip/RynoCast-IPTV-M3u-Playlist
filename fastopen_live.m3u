@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-19 20:41:10
+# Generated: 2026-05-20 08:41:02
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -20983,7 +20983,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/91035.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",BackUP- Sport 1 FHD PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/91036.m3u8
 
-# --- Portugal - Canais 24-7 (440) ---
+# --- Portugal - Canais 24-7 (451) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",========== Filmes 24/7 ==========
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/83019.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",NETFLIX Ação 24/7 ( Exclusivo ) PT
@@ -21162,6 +21162,28 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96238.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96831.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",========== Séries 24/7 ==========
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/83054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Eu Amo O Benfica 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Vizinhos Para Sempre 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",O Americano 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Celebrity Hells Kitchen Portugal 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",O Programa Da Maria 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Bora La Marina 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Morangos Com Acucar 2023 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",A Travessia 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135050.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Taskmaster Portugal 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135049.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Knuckles 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Tony 24/7 ( Exclusivo ) PT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135048.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Squid Game (Ingles) 24/7 ( Exclusivo ) PT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/103354.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal - Canais 24-7",Squid Game (Original) 24/7 ( Exclusivo ) PT
@@ -31681,4 +31703,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15733
+# Total: 15744

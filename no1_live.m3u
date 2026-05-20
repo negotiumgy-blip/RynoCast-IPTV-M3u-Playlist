@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-05-19 20:43:19
+# Generated: 2026-05-20 08:43:34
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -4123,7 +4123,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/52125.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KD: KURDI",KRD: 4KURD HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/52126.m3u8
 
-# --- MKD: MACEDONIA (25) ---
+# --- MKD: MACEDONIA (26) ---
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",##### MACEDONIA #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152601.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MKD: M24 Vesti
@@ -4160,6 +4160,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152618.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152619.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MK: TV Sonce
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152620.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MKD:  MOLDOVA HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152621.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MKD: Tera Bitola
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/152622.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MKD: Hugo
@@ -4645,7 +4647,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/52700.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL: POLAND",PL: AXN
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/52687.m3u8
 
-# --- RO: Romanya (318) ---
+# --- RO: Romanya (314) ---
 #EXTINF:-1 tvg-logo="" group-title="RO: Romanya",##### ROMANIA #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37243.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO: Prima Sport 1 HD
@@ -4658,14 +4660,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39100.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39091.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO: Digi 24 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39093.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO: Digi Sport 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39095.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO: Digi Sport 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39096.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO: Digi Sport 3 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39097.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO: Digi Sport 4 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39098.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO✦ ANTENA 1
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/182220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RO: Romanya",RO✦ AXN White
@@ -7237,4 +7231,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3558
+# Total: 3555
