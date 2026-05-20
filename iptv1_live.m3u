@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv1.kavkom.tv:8000
-# Generated: 2026-05-20 08:31:57
+# Generated: 2026-05-20 20:41:55
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -30,7 +30,7 @@ http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1719.m3u8
 http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1724.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/TFX.png" group-title="LIVE",TFX
 http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1725.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Polar%2B_%28Logo%29.png" group-title="LIVE",Polar+
+#EXTINF:-1 tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/6/69/Polar%2B_%28Logo%29.png" group-title="LIVE",Polar+
 http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1726.m3u8
 #EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2335_442_1_C00000_0_0_0.png" group-title="LIVE",C STAR
 http://iptv1.kavkom.tv:8000/live/xzatx72v/nt4fp0sl5l/1731.m3u8

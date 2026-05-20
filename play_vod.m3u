@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-05-20 08:33:39
+# Generated: 2026-05-20 20:49:40
 # Expires: 2026-05-25
 # Family Safe Edition
 # ==============================================
@@ -25374,8 +25374,6 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1703.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1745.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",I Love Paraisópolis
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1772.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Carinha de Anjo
-http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1787.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Verdades Secretas
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1816.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Os Dez Mandamentos
@@ -26048,8 +26046,10 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5583.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Estranho Poder 2023
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5668.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Quem Ama Cuida 2026
-http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5781.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Quem Ama Cuida
+http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5782.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",Carinha de Anjo 2016
+http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5783.mp4
 
 # --- Movies | Novelas Turcas (73) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas Turcas",Um Milagre

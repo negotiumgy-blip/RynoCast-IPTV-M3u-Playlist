@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2026-05-20 08:32:56
+# Generated: 2026-05-20 20:43:51
 # Expires: 2026-06-17
 # Family Safe Edition
 # ==============================================
@@ -2869,86 +2869,90 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/100488.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-user.com/logos/zoomoo.png" group-title="INFANTIS",Zoomoo SD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100489.m3u8
 
-# --- JOGOS DO DIA (58) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bournemouth x Manchester City - 15:30 FHD
+# --- JOGOS DO DIA (60) ---
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Al-Najma SC x Al-Shabab - 15:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355630.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bournemouth x Manchester City - 15:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Al-Najma SC x Al-Shabab - 15:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355631.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Rosario Central x Universidad Central - 19:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Al-Khaleej x Al-Ahli - 15:00 FHD
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/355632.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Al-Khaleej x Al-Ahli - 15:00 HD
+http://cdn4k.us:80/live/Adrianobrito16/910989645a/355633.m3u8
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SC Freiburg x Aston Villa - 16:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355634.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Rosario Central x Universidad Central - 19:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",SC Freiburg x Aston Villa - 16:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355635.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Coquimbo Unido x Deportes Tolima - 19:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Santos x San Lorenzo - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355636.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Coquimbo Unido x Deportes Tolima - 19:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Santos x San Lorenzo - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355637.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fluminense x Bolívar - 19:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Boston River x O'Higgins - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355638.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fluminense x Bolívar - 19:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Boston River x O'Higgins - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355639.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Audax Italiano x Barracas Central - 19:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Olimpia x Vasco da Gama - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355640.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Audax Italiano x Barracas Central - 19:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Olimpia x Vasco da Gama - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355641.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Montevideo City Torque x Deportivo Riestra - 19:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Nacional x Universitario de Deportes - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355642.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Montevideo City Torque x Deportivo Riestra - 19:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Nacional x Universitario de Deportes - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355643.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Always Ready x Mirassol - 21:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Grêmio Novorizontino x Chapecoense - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355644.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Always Ready x Mirassol - 21:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Grêmio Novorizontino x Chapecoense - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355645.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",São Paulo x Millonarios - 21:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Volta Redonda x Avaí - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355646.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",São Paulo x Millonarios - 21:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Volta Redonda x Avaí - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355647.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Independiente Santa Fe x Club Atlético Platense - 21:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Paysandu SC x Nacional-AM - 20:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355648.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Independiente Santa Fe x Club Atlético Platense - 21:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Paysandu SC x Nacional-AM - 20:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355649.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Boca Juniors x Cruzeiro - 21:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fortaleza x Sport Recife - 21:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355650.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Boca Juniors x Cruzeiro - 21:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Fortaleza x Sport Recife - 21:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355651.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Independiente del Valle x Libertad - 23:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Houston Dash x San Diego Wave FC - 21:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355652.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Independiente del Valle x Libertad - 23:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Houston Dash x San Diego Wave FC - 21:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355653.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",América de Cali x Tigre - 23:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Independiente x Botafogo - 21:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355654.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",América de Cali x Tigre - 23:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Club Independiente x Botafogo - 21:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355655.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Deportivo Cuenca x Recoleta FC - 23:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Grêmio x Palestino - 21:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355656.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Deportivo Cuenca x Recoleta FC - 23:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Grêmio x Palestino - 21:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355657.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vitória x ABC - 21:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355658.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vitória x ABC - 21:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355659.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",River Plate x Red Bull Bragantino - 21:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355660.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",River Plate x Red Bull Bragantino - 21:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355661.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",LDU x CA Lanús - 21:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355662.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",LDU x CA Lanús - 21:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355663.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Palmeiras x Cerro Porteño - 21:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355664.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Palmeiras x Cerro Porteño - 21:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355665.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Flamengo x Estudiantes de La Plata - 21:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355666.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Flamengo x Estudiantes de La Plata - 21:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355667.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Junior Barranquilla x Club Sporting Cristal - 23:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355668.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Junior Barranquilla x Club Sporting Cristal - 23:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355669.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cusco FC x Independiente Medellín - 23:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355670.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Cusco FC x Independiente Medellín - 23:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355671.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355672.m3u8
@@ -4523,4 +4527,4 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/155608.m3u8
 #EXTINF:-1 tvg-logo="http://cdn-user.com/logos/YOUTUBE-24HS.png" group-title="YOUTUBE 24 HORAS",Partoba
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/155606.m3u8
 
-# Total: 2211
+# Total: 2213
