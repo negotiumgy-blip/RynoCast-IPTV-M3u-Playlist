@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-05-20 20:41:56
+# Generated: 2026-05-21 20:44:55
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -7215,7 +7215,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/321403.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg" group-title="Movies | 2026 Movies",Kraken (2026)
 http://tv14s.xyz:8080/movie/07301982/23101897/323273.mkv
 
-# --- Movies | Action Movies (1644) ---
+# --- Movies | Action Movies (1640) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
 http://tv14s.xyz:8080/movie/07301982/23101897/196293.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhSoCoiMAXa4rOM7KhFSOs3gbh7.jpg" group-title="Movies | Action Movies",3 Days to Kill (2014)
@@ -10422,18 +10422,10 @@ http://tv14s.xyz:8080/movie/07301982/23101897/262310.mkv
 http://tv14s.xyz:8080/movie/07301982/23101897/262722.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uYIDJ15RLBsFFBSAkqjIirZCgVi.jpg" group-title="Movies | Action Movies",District B13 (2004)
 http://tv14s.xyz:8080/movie/07301982/23101897/262775.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9HsemSsBEHN5eoMble1bj6fDxs.jpg" group-title="Movies | Action Movies",Dr. No (1962)
-http://tv14s.xyz:8080/movie/07301982/23101897/323313.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg" group-title="Movies | Action Movies",Goldfinger (1964)
-http://tv14s.xyz:8080/movie/07301982/23101897/323314.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg" group-title="Movies | Action Movies",Thunderball (1965)
-http://tv14s.xyz:8080/movie/07301982/23101897/323315.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAWpvlroYbHbkaeKwlL3XlVRnyG.jpg" group-title="Movies | Action Movies",Fear the Night (2023)
 http://tv14s.xyz:8080/movie/07301982/23101897/323317.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="Movies | Action Movies",Five Nights at Freddy's (2023)
 http://tv14s.xyz:8080/movie/07301982/23101897/323318.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg" group-title="Movies | Action Movies",From Russia with Love (1963)
-http://tv14s.xyz:8080/movie/07301982/23101897/323319.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="Movies | Action Movies",Gran Turismo (2023)
 http://tv14s.xyz:8080/movie/07301982/23101897/323320.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8uEuy1NhOwltHePRqvxcDDUJg1.jpg" group-title="Movies | Action Movies",Haunting of the Queen Mary (2023)
@@ -19164,6 +19156,50 @@ http://tv14s.xyz:8080/movie/07301982/23101897/182955.avi
 http://tv14s.xyz:8080/movie/07301982/23101897/182956.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ViUIV1rf0WZQte0hHh74DWFLeW.jpg" group-title="Movies | Jackie Chan Movies Collection",Robin-B-Hood (2006)
 http://tv14s.xyz:8080/movie/07301982/23101897/182957.avi
+
+# --- Movies | James Bond (21) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9HsemSsBEHN5eoMble1bj6fDxs.jpg" group-title="Movies | James Bond",Dr. No (1962)
+http://tv14s.xyz:8080/movie/07301982/23101897/323313.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg" group-title="Movies | James Bond",Goldfinger (1964)
+http://tv14s.xyz:8080/movie/07301982/23101897/323314.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg" group-title="Movies | James Bond",Thunderball (1965)
+http://tv14s.xyz:8080/movie/07301982/23101897/323315.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg" group-title="Movies | James Bond",From Russia with Love (1963)
+http://tv14s.xyz:8080/movie/07301982/23101897/323319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | James Bond",On Her Majesty's Secret Service (1969)
+http://tv14s.xyz:8080/movie/07301982/23101897/323359.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg" group-title="Movies | James Bond",You Only Live Twice (1967)
+http://tv14s.xyz:8080/movie/07301982/23101897/323360.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooDT0eKrWCxJCsn9JehPkD0QYNj.jpg" group-title="Movies | James Bond",Diamonds Are Forever (1971)
+http://tv14s.xyz:8080/movie/07301982/23101897/323361.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV4Nnr6DjjERlqNikqDQX8LUgua.jpg" group-title="Movies | James Bond",For Your Eyes Only (1981)
+http://tv14s.xyz:8080/movie/07301982/23101897/323362.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39qkrjqMZs6utwNmihVImC3ghas.jpg" group-title="Movies | James Bond",Live and Let Die (1973)
+http://tv14s.xyz:8080/movie/07301982/23101897/323363.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg" group-title="Movies | James Bond",Moonraker (1979)
+http://tv14s.xyz:8080/movie/07301982/23101897/323364.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhoAL4o1STGgLbLxJ9r1ijfyHC9.jpg" group-title="Movies | James Bond",Never Say Never Again (1983)
+http://tv14s.xyz:8080/movie/07301982/23101897/323365.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg" group-title="Movies | James Bond",The Spy Who Loved Me (1977)
+http://tv14s.xyz:8080/movie/07301982/23101897/323366.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVkbKwGnBVNQ122GN5bCTMyPbWz.jpg" group-title="Movies | James Bond",The Man with the Golden Gun (1974)
+http://tv14s.xyz:8080/movie/07301982/23101897/323367.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg" group-title="Movies | James Bond",Octopussy (1983)
+http://tv14s.xyz:8080/movie/07301982/23101897/323368.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arJF829RP9cYvh0NU70dC5TtXSa.jpg" group-title="Movies | James Bond",A View to a Kill (1985)
+http://tv14s.xyz:8080/movie/07301982/23101897/323369.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oRlmWX9hewpn2B44wawBjHd7dx.jpg" group-title="Movies | James Bond",The Living Daylights (1987)
+http://tv14s.xyz:8080/movie/07301982/23101897/323370.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nzJve63EXA79HGAyidZwivZrQ2.jpg" group-title="Movies | James Bond",Licence to Kill (1989)
+http://tv14s.xyz:8080/movie/07301982/23101897/323371.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0ljRnNxIO7CRBhLEO0DvLgAFPR.jpg" group-title="Movies | James Bond",GoldenEye (1995)
+http://tv14s.xyz:8080/movie/07301982/23101897/323387.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZm002w7q9yLOkltxT76TWGfdZX.jpg" group-title="Movies | James Bond",Tomorrow Never Dies (1997)
+http://tv14s.xyz:8080/movie/07301982/23101897/323388.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCb2msgoZPK01WIqry24M4xsM73.jpg" group-title="Movies | James Bond",The World Is Not Enough (1999)
+http://tv14s.xyz:8080/movie/07301982/23101897/323389.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg" group-title="Movies | James Bond",Die Another Day (2002)
+http://tv14s.xyz:8080/movie/07301982/23101897/323390.mp4
 
 # --- Movies | Mafia Movies (583) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU8O2qyWrpdtMeYYaVNTr5LHmj6.jpg" group-title="Movies | Mafia Movies",8 Heads in a Duffel Bag (1997)
@@ -28653,7 +28689,7 @@ http://tv14s.xyz:8080/series/07301982/23101897/2344
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Cross
 http://tv14s.xyz:8080/series/07301982/23101897/2352
 
-# --- Series | 2025 TV Series (23) ---
+# --- Series | 2025 TV Series (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Watson
 http://tv14s.xyz:8080/series/07301982/23101897/2320
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Prime Target
@@ -28700,6 +28736,8 @@ http://tv14s.xyz:8080/series/07301982/23101897/2346
 http://tv14s.xyz:8080/series/07301982/23101897/2347
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Heated Rivalry
 http://tv14s.xyz:8080/series/07301982/23101897/2349
+#EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",The Pitt
+http://tv14s.xyz:8080/series/07301982/23101897/2367
 
 # --- Series | 2026 TV Series (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
@@ -29385,4 +29423,4 @@ http://tv14s.xyz:8080/series/07301982/23101897/2365
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's Daredevil
 http://tv14s.xyz:8080/series/07301982/23101897/2366
 
-# Total: 14632
+# Total: 14650

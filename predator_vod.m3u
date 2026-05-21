@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-20 08:41:13
+# Generated: 2026-05-21 20:51:33
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -337,9 +337,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1136) ---
+# --- Movies | Filma me titra Shqip (1137) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="Movies | Filma me titra Shqip",Tom Clancy's Jack Ryan: Ghost War (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85683.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg" group-title="Movies | Filma me titra Shqip",Mortal Kombat II (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85622.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg" group-title="Movies | Filma me titra Shqip",Normal (2026)
@@ -6393,9 +6395,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8NBvEukRr7LAMbnpTUtXSajXwF.jpg" group-title="Movies | Vod Ita",Troll- (2022)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67409.mkv
 
-# --- Movies | Vod de (1362) ---
+# --- Movies | Vod de (1363) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/80934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGWsD2XTDAhgsI6p1pO2DOGsa7Z.jpg" group-title="Movies | Vod de",Tom Clancy's Jack Ryan: Ghost War (2026) DE
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85705.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjcPbV53ovhlogVFYdmkTDBooqg.jpg" group-title="Movies | Vod de",A Marvel Television Special Presentation - The Punisher: One Last Kill (2026) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85514.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg" group-title="Movies | Vod de",Der Astronaut – Project Hail Mary (2026)
@@ -9119,4 +9123,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4547
+# Total: 4549

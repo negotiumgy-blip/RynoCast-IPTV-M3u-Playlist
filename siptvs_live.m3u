@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-05-20 20:50:18
+# Generated: 2026-05-21 20:54:48
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -966,7 +966,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/5153.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/5157.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/skycinemaspecialhd.png" group-title="|DE| SKY",|DE| SKY CINEMA SPEZIAL
 http://siptvs.com:8080/live/Biljana12/Biljana12/5138.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/skycinemapremierenplus24.png" group-title="|DE| SKY",|DE| SKY CINEMA HIGHLIGHTS
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/skycinemapremierenplus24.png" group-title="|DE| SKY",|DE| SKY CINEMA Blockbuster
 http://siptvs.com:8080/live/Biljana12/Biljana12/5155.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/SKYCINEMAACTIONHD.png" group-title="|DE| SKY",|DE| SKY CINEMA ACTION HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/5156.m3u8
@@ -974,7 +974,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/5156.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/5160.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/skycinemabestof.png" group-title="|DE| SKY",|DE| SKY CINEMA BEST OF
 http://siptvs.com:8080/live/Biljana12/Biljana12/5161.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/SKYCINEMAFAMILYHD.png" group-title="|DE| SKY",|DE| SKY CINEMA FAMILY
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/SKYCINEMAFAMILYHD.png" group-title="|DE| SKY",|DE| SKY CINEMA Feelgood
 http://siptvs.com:8080/live/Biljana12/Biljana12/5165.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/SKYCINEMANOSTALGIE.png" group-title="|DE| SKY",|DE| SKY CINEMA CLASSICS
 http://siptvs.com:8080/live/Biljana12/Biljana12/5166.m3u8

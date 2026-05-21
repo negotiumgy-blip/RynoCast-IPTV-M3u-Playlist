@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-05-20 20:42:13
+# Generated: 2026-05-21 20:48:11
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1899,13 +1899,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (136) ---
+# --- DE-DAZN EVENT (134) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e5to9eioltbr4d9nwdonnvnil_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 10 | Viareggio - Massa (Einzelzeitfahren) (2026-05-19 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183735.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/apomijdsntexl2p7aeqcx7ycj_image-header_pDach_1776932175000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 11 | Porcari - Chiavari (2026-05-20 12:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183736.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/604dq89qx51v1k5zw2tz106aq_image-header_pDach_1778672111000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Estrella vs. Caiquetio (2026-05-21 02:30:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183737.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3xdpstqdvr4muael66ob3bivo_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 12 | Imperia - Novi Ligure (2026-05-21 12:45:00)
@@ -7231,4 +7227,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3555
+# Total: 3553

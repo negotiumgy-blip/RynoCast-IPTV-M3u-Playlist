@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-05-20 20:50:18
+# Generated: 2026-05-21 20:54:48
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -30119,7 +30119,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/203022.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nQXYTvm6AY4WmtcPskroqC7Skh.jpg" group-title="Movies | |EXYU| STRANI 2025",Exit 8 (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/203023.mkv
 
-# --- Movies | |EXYU| STRANI 2026 (186) ---
+# --- Movies | |EXYU| STRANI 2026 (187) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mu2TiOnVgG2TqHxrRNGV5Wj2E6v.jpg" group-title="Movies | |EXYU| STRANI 2026",Dolphin Summer (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198586.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | |EXYU| STRANI 2026",Oscar Shaw (2026)
@@ -30490,8 +30490,10 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/202738.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202824.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg" group-title="Movies | |EXYU| STRANI 2026",Dhurandhar: The Revenge (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202825.mp4
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg" group-title="Movies | |EXYU| STRANI 2026",The Devil Wears Prada 2 (2026)
-http://siptvs.com:8080/movie/Biljana12/Biljana12/203043.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="Movies | |EXYU| STRANI 2026",Tom Clancy's Jack Ryan: Ghost War (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/203068.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cgGC1l5ZnpDyHzR5WWY94KxBGgI.jpg" group-title="Movies | |EXYU| STRANI 2026",The Mummy (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/203069.mp4
 
 # --- Movies | |EXYU| STRANI ARHIVA (719) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDiAfxcjz5bydpbqTtBYBfaYHKD.jpg" group-title="Movies | |EXYU| STRANI ARHIVA",1 Buck (2017)
@@ -34855,4 +34857,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 17361
+# Total: 17362

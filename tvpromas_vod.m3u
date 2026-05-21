@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-05-20 20:51:30
+# Generated: 2026-05-21 20:47:28
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -7769,7 +7769,7 @@ http://tvpromas.com:8080/movie/stksared/9520/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://tvpromas.com:8080/movie/stksared/9520/80845.mp4
 
-# --- Movies | COMEDIA (1089) ---
+# --- Movies | COMEDIA (1091) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://tvpromas.com:8080/movie/stksared/9520/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -9948,6 +9948,10 @@ http://tvpromas.com:8080/movie/stksared/9520/2601.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2604.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Todos Odian a Chris
 http://tvpromas.com:8080/movie/stksared/9520/2611.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Hacks
+http://tvpromas.com:8080/movie/stksared/9520/2618.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",El profe
+http://tvpromas.com:8080/movie/stksared/9520/2619.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (349) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -10649,7 +10653,7 @@ http://tvpromas.com:8080/movie/stksared/9520/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://tvpromas.com:8080/movie/stksared/9520/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (175) ---
+# --- Movies | CRIMEN & MISTERIO (176) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://tvpromas.com:8080/movie/stksared/9520/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -11000,6 +11004,8 @@ http://tvpromas.com:8080/movie/stksared/9520/2599.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2607.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",M.I.A.
 http://tvpromas.com:8080/movie/stksared/9520/2617.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Berlín y la dama del armiño
+http://tvpromas.com:8080/movie/stksared/9520/2621.mp4
 
 # --- Movies | DISNEY (211) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -22835,4 +22841,4 @@ http://tvpromas.com:8080/series/stksared/9520/2580
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Lo Que La Vida Me Robó
 http://tvpromas.com:8080/series/stksared/9520/2614
 
-# Total: 11382
+# Total: 11385
