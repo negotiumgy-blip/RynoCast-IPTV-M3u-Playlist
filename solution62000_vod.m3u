@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-21 20:53:31
+# Generated: 2026-05-22 20:22:36
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1161,7 +1161,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1585) ---
+# --- Movies | Films (1588) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg" group-title="Movies | Films",Mother Mary (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27498.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1fW0dHU8ioeUL7mvnSshz15zjaG.jpg" group-title="Movies | Films",Ma fille tu seras libre (2026)
@@ -4318,6 +4318,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1452.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1568.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="Movies | Films",Zack Snyder's Justice League (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/3221.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3qqL5jpYIatN0Cdz21eATs32SHG.jpg" group-title="Movies | Films",Olivia (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27756.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/upZozDqQLIqNGotdqKNlxHC10fB.jpg" group-title="Movies | Films",Mission Jungle de la Pat' Patrouille (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27524.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5hOW0E9llZy2rfgom0UrO1OLaCC.jpg" group-title="Movies | Films",Amélie et la métaphysique des tubes (2025)
@@ -4332,6 +4334,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11390.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Q9EdjddChgzuMwXmXmNVcO3bI.jpg" group-title="Movies | Films",Sons of Rizk 2 (2019)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13764.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/efxlwMqMiZzDF2DABswC5VWptRC.jpg" group-title="Movies | Films",Le Mage du Kremlin (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27755.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg" group-title="Movies | Films",The Dark Knight : Le Chevalier noir (2008)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27865.mkv
 
 # --- Movies | Films - ULTRA HD 4K (23) ---
 #EXTINF:-1 tvg-logo="https://metalunastore.fr/cdn/shop/files/RoboCop4KBlu-ray.jpg?v=1715248236" group-title="Movies | Films - ULTRA HD 4K",RoboCop (2014) - 4K
@@ -4814,7 +4820,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/803.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1752.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hjp24ZuxIo2EImYgFj2jkXYRLq.jpg" group-title="Movies | Films Cultes",Iznogoud - 2005
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1265.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8un3ruICza4PVtB5kqF5jSSxjfz.jpg" group-title="Movies | Films Cultes",In Hell (2003)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8un3ruICza4PVtB5kqF5jSSxjfz.jpg" group-title="Movies | Films Cultes",In Hell (2003)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9526.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hZnsW4wGz3zuuwu9eniaoKIJnP.jpg" group-title="Movies | Films Cultes",Intouchables - 2011
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1784.mkv
@@ -5279,7 +5285,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (479) ---
+# --- Movies | NETFLIX (480) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ay12YxITkgfpY107arfcHfuLnQG.jpg" group-title="Movies | NETFLIX",De si remarquables créatures (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27119.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geFc71rCYM8fErbROLY6n1LfAS6.jpg" group-title="Movies | NETFLIX",La Mariée de l'année (2026)
@@ -6238,6 +6244,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1153.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1154.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Berlin et La Dame à l'hermine
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1155.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",The Boroughs : Retraite rebelle
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1172.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -7303,7 +7311,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1117
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) الفرنساوي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1137
 
-# --- Series | Series Documentaires (16) ---
+# --- Series | Series Documentaires (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/403
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",En guerre(s) pour l'Algérie
@@ -7336,6 +7344,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1120
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1140
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Kylie
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1171
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",James.
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1175
 
 # --- Series | Series Marocaines (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Marocaines",أولاد الدرب
@@ -7497,7 +7507,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (304) ---
+# --- Series | Series divers (307) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8106,5 +8116,11 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1166
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1167
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",We Come In Peace
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1169
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",SkyMed
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1173
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Prescott
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1174
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Yellowstone
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1176
 
-# Total: 4020
+# Total: 4028

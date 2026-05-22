@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-05-22 08:39:53
+# Generated: 2026-05-22 20:22:54
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1419,33 +1419,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (134) ---
+# --- DE-DAZN EVENT (122) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/604dq89qx51v1k5zw2tz106aq_image-header_pDach_1778672111000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Estrella vs. Caiquetio (2026-05-21 02:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183737.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3xdpstqdvr4muael66ob3bivo_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 12 | Imperia - Novi Ligure (2026-05-21 12:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183738.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/joxp669wlshj1xo19e7vo240b_image-header_pDach_1778671652000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",AS Douanes vs. ASN Nigelec (2026-05-21 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183739.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/uvdv4whg6qgs11ko0y8jl18eb_image-header_pDach_1778671682000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",AS UAM vs. Liberté FC (2026-05-21 16:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183740.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1d65b0r6t7r7v1iwfdjm5349lh_image-header_pDach_1778673133000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Bel Air FC vs. PTL Bazar Brothers FC (2026-05-21 16:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183741.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xe25rkkp8n671omvngbou2ac6_image-header_pDach_1778673158000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Wusum Stars FC vs. Bullom Stars FC (2026-05-21 18:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183742.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19xxhc4m8lk8h1en1ahd371nhs_image-header_pDach_1778673266000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",SLIFA FC vs. Kamboi Eagles FC (2026-05-21 18:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183743.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4bmdq0ag5tbsznivf6bfzgtv_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 16 in Sheffield (2026-05-21 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183744.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3eqb29q1vg4c1srwrx8qxwn3v_image-header_pDach_1778587826000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Usyk vs. Rico: Pressekonferenz (2026-05-21 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183745.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cgf6wi3emkmeira7y50dc27px_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 13 | Alessandria - Verbania (2026-05-22 12:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183746.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1lavdp1lc5lom15ue0olq8aa0m_image-header_pDach_1778671718000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Anse Reunion FC v Real Maldive FC (2026-05-22 12:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183747.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bkneft9thif8yfnrjtne2oda_image-header_pDach_1773917600000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",International Darts Open | Tag 1 (Session 1) (2026-05-22 13:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183748.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/gzp9m4cbmzel1f6a35ns7kkiy_image-header_pDach_1778672313000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Sahel SC vs. Urana FC (2026-05-22 16:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183749.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h4g1b0iug83x1dvjyi10zu5lh_image-header_pDach_1778672692000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Olympic FC vs. Tagour FC (2026-05-22 16:00:00)
@@ -6747,4 +6723,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3313
+# Total: 3301

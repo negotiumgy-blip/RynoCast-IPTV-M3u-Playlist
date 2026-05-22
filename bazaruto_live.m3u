@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-05-22 08:37:55
+# Generated: 2026-05-22 20:26:06
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -2593,7 +2593,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1356.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIJA",Top Crime  IT
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1358.m3u8
 
-# --- MAKEDONIJA (52) ---
+# --- MAKEDONIJA (48) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT  1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/30.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/MPT_1_HD_(MK).png" group-title="MAKEDONIJA",MRT 1 HD
@@ -2658,18 +2658,12 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/43559.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/43560.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HBO_3_HD..png" group-title="MAKEDONIJA",HBO 3 MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/43561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime 2 MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63588.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime Action MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63589.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",AXN MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/64227.m3u8
-#EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/TV_1000_(MK).png" group-title="MAKEDONIJA",TV 1000 MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/15593.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",FilmBox Extra MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63629.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime 1
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65263.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime 2
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65264.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",T-Prime Action
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/65265.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/STAR_CHANNEL_(MK).png" group-title="MAKEDONIJA",STAR MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/41324.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/STAR_MOVIES_(MK).png" group-title="MAKEDONIJA",STAR Movies MK
@@ -2678,10 +2672,10 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/17488.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/426.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/STAR_CRIME_(MK).png" group-title="MAKEDONIJA",STAR Crime MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/749.m3u8
+#EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/TV_1000_(MK).png" group-title="MAKEDONIJA",TV 1000 MK
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/15593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",M1 Film MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/64560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",M1 Gold MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/64561.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",Discovery Chanel MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63590.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",Animal Planet MK
@@ -2694,8 +2688,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/360.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/669.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/VIASAT_EXPLORE_HD..png" group-title="MAKEDONIJA",Viasat explore MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/47193.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",24 Kitchen MK
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63585.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MAKEDONIJA",TLC MK
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63603.m3u8
 
@@ -4327,4 +4319,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2135
+# Total: 2131

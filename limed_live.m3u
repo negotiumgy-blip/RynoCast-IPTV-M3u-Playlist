@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: limed.cc:80
-# Generated: 2026-05-22 08:40:45
+# Generated: 2026-05-22 20:25:18
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -3232,13 +3232,13 @@ http://limed.cc:80/live/Fbgv5Q/HH9WPx/90442.m3u8
 # --- EVENTOS (27) ---
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/89806.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:00] Al-Nassr x Damac FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:45] Fiorentina x Atalanta FHD
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/506922.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:00] Al-Fayha x Al-Hilal FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Náutico x Cuiabá FHD
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/506923.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Atlético-MG x Cienciano FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/506924.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] Peñarol x Corinthians FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/506925.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/Fbgv5Q/HH9WPx/506926.m3u8
