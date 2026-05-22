@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-05-21 20:48:18
+# Generated: 2026-05-22 08:45:10
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -6323,7 +6323,7 @@ http://allone8k.info:8080/live/hany/hany1234/234564.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220128/ourmid/pngtree-super-star-logo-with-digital-dot-png-image_4365226.png" group-title="AR | SUPERSTARS 4K",سعاد حسني ✪ 04
 http://allone8k.info:8080/live/hany/hany1234/234565.m3u8
 
-# --- AR | SYRIA 4K | سوريا (40) ---
+# --- AR | SYRIA 4K | سوريا (41) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9L9fozhuETt8lR_M15tr7kVSgENvm-1j-S8ZP9Dp9uJFJ8E9_asCIDuQ&s" group-title="AR | SYRIA 4K | سوريا",SYR: Al Souria TV HD
 http://allone8k.info:8080/live/hany/hany1234/644095.m3u8
 #EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg" group-title="AR | SYRIA 4K | سوريا",SYR: SYRIA TV HD الاولي
@@ -6404,6 +6404,8 @@ http://allone8k.info:8080/live/hany/hany1234/297212.m3u8
 http://allone8k.info:8080/live/hany/hany1234/509594.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AR | SYRIA 4K | سوريا",SYR: Ana Syria HD انا سوريا
 http://allone8k.info:8080/live/hany/hany1234/533416.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="AR | SYRIA 4K | سوريا",SYR:SHAM TV HD
+http://allone8k.info:8080/live/hany/hany1234/655988.m3u8
 
 # --- AR | TUNISIA 4K | تونس (18) ---
 #EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/tn/ttn1-95x95.gif" group-title="AR | TUNISIA 4K | تونس",TN: Tunisia Nat 1
@@ -18327,4 +18329,4 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
-# Total: 8953
+# Total: 8954

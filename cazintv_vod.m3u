@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-05-21 20:44:50
+# Generated: 2026-05-22 08:44:37
 # Expires: 2026-10-21
 # Family Safe Edition
 # ==============================================
@@ -765,7 +765,7 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/7656.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM5YzUwMzctOTA0OS00MjI4LWJlZTYtMDZmOTM1YTZhN2VmXkEyXkFqcGdeQXVyNzE0MDY5MzE@._V1_SY1000_CR0,0,714,1000_AL_.jpg" group-title="Movies | SERIJE",Besa S01 E12
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/7657.mp4
 
-# --- Movies | SERIJE NOVO (71) ---
+# --- Movies | SERIJE NOVO (72) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",The Witcher
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Chernobyl
@@ -908,6 +908,8 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/71.mp4
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/72.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Euphoria
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/73.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Berlin and the Lady with an Ermine
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/74.mp4
 
 # --- Movies | VIDEOTEKA (577) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/28_Weeks_Later_poster.jpg/250px-28_Weeks_Later_poster.jpg" group-title="Movies | VIDEOTEKA",28 Weeks Later (2007)
@@ -4037,7 +4039,15 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13433.mp4
 
-# --- Movies | VIDEOTEKA 2026 (54) ---
+# --- Movies | VIDEOTEKA 2026 (58) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BNGUzNzQzNWQtZTI2My00YmE2LTkyYzItNzFhMTM3OTVkYmNlXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",The Magic Faraway Tree (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13807.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS-PPm6JdvEi6ycLqIFt3UIQKp9lBKWFSzkes9O320RMAzdNlLoIUI2sEXRzwe8H_HH8zs&s=10" group-title="Movies | VIDEOTEKA 2026",You Me and Tuscany (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13804.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-hksdNWUHdY0xEjrRpEqX8nj34Y4ZO79cqwoq5pD5DFxuzdFsT-7JaOLr2-igUEJB473T&s=10" group-title="Movies | VIDEOTEKA 2026",Lee Cronins The Mummy (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13806.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4Kd1s5dD9zQ-o6VkPTACZbLTGIj7AXGP9YB6cItalyD6RXDwbj1YA7nZIiFwSNXzGYAA&s=10" group-title="Movies | VIDEOTEKA 2026",Normal (2025)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13805.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/jNd1deN24LIFywMl0FWiSMBe7voR8MYF_300x442.jpg?t=1772454521" group-title="Movies | VIDEOTEKA 2026",Beast (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13800.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMGJlZjY2ZGMtYjY0Ny00MTFmLTg0YTItM2MzYTQ4ZGNjMzkxXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",Faces of Death (2026)
@@ -4147,4 +4157,4 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13660.mp4
 
-# Total: 2054
+# Total: 2059

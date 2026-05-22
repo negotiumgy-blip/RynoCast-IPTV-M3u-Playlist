@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2026-05-21 20:44:55
+# Generated: 2026-05-22 08:43:30
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -23,7 +23,7 @@ http://tv14s.xyz:8080/movie/07301982/23101897/214972.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfK7zxNL63VWfluFuoUaJj5PdNw.jpg" group-title="Movies | 2020 Movies",Snowden (2016)
 http://tv14s.xyz:8080/movie/07301982/23101897/217620.mp4
 
-# --- Movies | 2021 Movies (214) ---
+# --- Movies | 2021 Movies (213) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" group-title="Movies | 2021 Movies",Chip 'n Dale: Rescue Rangers (2022)
 http://tv14s.xyz:8080/movie/07301982/23101897/168879.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg" group-title="Movies | 2021 Movies",Fantastic Beasts: The Secrets of Dumbledore (2022)
@@ -394,8 +394,6 @@ http://tv14s.xyz:8080/movie/07301982/23101897/189512.mp4
 http://tv14s.xyz:8080/movie/07301982/23101897/189513.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJzmSlNorOu6yvHSjXoF0bBcx17.jpg" group-title="Movies | 2021 Movies",No Man of God (2021)
 http://tv14s.xyz:8080/movie/07301982/23101897/189515.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="Movies | 2021 Movies",No Time to Die (2021)
-http://tv14s.xyz:8080/movie/07301982/23101897/189517.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXp6ERnrFdG04Gli3d34GtANsuw.jpg" group-title="Movies | 2021 Movies",Passing (2021)
 http://tv14s.xyz:8080/movie/07301982/23101897/189521.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg" group-title="Movies | 2021 Movies",PAW Patrol: The Movie (2021)
@@ -19157,7 +19155,9 @@ http://tv14s.xyz:8080/movie/07301982/23101897/182956.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ViUIV1rf0WZQte0hHh74DWFLeW.jpg" group-title="Movies | Jackie Chan Movies Collection",Robin-B-Hood (2006)
 http://tv14s.xyz:8080/movie/07301982/23101897/182957.avi
 
-# --- Movies | James Bond (21) ---
+# --- Movies | James Bond (26) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="Movies | James Bond",No Time to Die (2021)
+http://tv14s.xyz:8080/movie/07301982/23101897/189517.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9HsemSsBEHN5eoMble1bj6fDxs.jpg" group-title="Movies | James Bond",Dr. No (1962)
 http://tv14s.xyz:8080/movie/07301982/23101897/323313.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg" group-title="Movies | James Bond",Goldfinger (1964)
@@ -19200,6 +19200,14 @@ http://tv14s.xyz:8080/movie/07301982/23101897/323388.mp4
 http://tv14s.xyz:8080/movie/07301982/23101897/323389.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg" group-title="Movies | James Bond",Die Another Day (2002)
 http://tv14s.xyz:8080/movie/07301982/23101897/323390.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg" group-title="Movies | James Bond",Casino Royale (2006)
+http://tv14s.xyz:8080/movie/07301982/23101897/323882.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg" group-title="Movies | James Bond",Quantum of Solace (2008)
+http://tv14s.xyz:8080/movie/07301982/23101897/323883.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg" group-title="Movies | James Bond",Skyfall (2012)
+http://tv14s.xyz:8080/movie/07301982/23101897/323884.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg" group-title="Movies | James Bond",Spectre (2015)
+http://tv14s.xyz:8080/movie/07301982/23101897/323885.mp4
 
 # --- Movies | Mafia Movies (583) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nU8O2qyWrpdtMeYYaVNTr5LHmj6.jpg" group-title="Movies | Mafia Movies",8 Heads in a Duffel Bag (1997)
@@ -29423,4 +29431,4 @@ http://tv14s.xyz:8080/series/07301982/23101897/2365
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's Daredevil
 http://tv14s.xyz:8080/series/07301982/23101897/2366
 
-# Total: 14650
+# Total: 14654

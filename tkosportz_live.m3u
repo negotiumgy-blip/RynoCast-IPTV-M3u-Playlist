@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-05-21 20:54:54
+# Generated: 2026-05-22 08:36:27
 # Expires: 2026-06-09
 # Family Safe Edition
 # ==============================================
@@ -16075,6 +16075,10 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/240879.m3u8
 #EXTINF:-1 tvg-logo="http://azsold.xyz:9090/logos/s3444.jpg" group-title="09. 24-7 #6",24/7 Big Band Jazz Fireplace Ambience  Instrumental Jazz Party Music VIP
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/240880.m3u8
 
+# --- 16. LOCALS VIP (1) ---
+#EXTINF:-1 tvg-logo="" group-title="16. LOCALS VIP",01. BY MAJOR CITY
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/241068.m3u8
+
 # --- 17. LOCALS BY STATE (780) ---
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="17. LOCALS BY STATE",CBS: IL CHAMPAIGN  WCIA 3
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/215385.m3u8
@@ -18653,4 +18657,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 9294
+# Total: 9295
