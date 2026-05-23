@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-22 20:31:08
+# Generated: 2026-05-23 19:17:14
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -254,6 +254,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/107.mp4
 # --- Movies | Always a Witch (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Always a Witch",Always a Witch
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/241.mp4
+
+# --- Movies | Amanecer (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amanecer",Amanecer (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1279.mp4
 
 # --- Movies | Amazing Stories (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazing Stories",Amazing Stories (2020)
@@ -750,6 +754,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/708.mp4
 # --- Movies | Californication (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Californication",Californication (2007)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/914.mp4
+
+# --- Movies | Call the Midwife (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Call the Midwife",Call the Midwife (2012)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1280.mp4
 
 # --- Movies | Can Bagi - Pentru copilul meu (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Can Bagi - Pentru copilul meu",Can Bagi (2025)
@@ -1945,6 +1953,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/295.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dune Prophecy",Dune: Prophecy (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/736.mp4
 
+# --- Movies | Dutton Ranch (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dutton Ranch",Dutton Ranch (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1282.mp4
+
 # --- Movies | Dynasty The Murdochs (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dynasty The Murdochs",Dynasty: The Murdochs (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1222.mp4
@@ -2024,6 +2036,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1083.mp4
 # --- Movies | Erkrnci Kus - Pasarea Matinala (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Erkrnci Kus - Pasarea Matinala",Erkenci Kuş - Pasarea Matinala
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/780.mp4
+
+# --- Movies | Esmeralda (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Esmeralda",Esmeralda (1996)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1281.mp4
 
 # --- Movies | Esref Ruya – Visul lui Esref (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Esref Ruya – Visul lui Esref",Esref Rüya (2025)
@@ -10677,7 +10693,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9440.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg" group-title="Movies | Filme Aventura (NOU)",Mirror Mirror (2012)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/3820.mp4
 
-# --- Movies | Filme Comedie (486) ---
+# --- Movies | Filme Comedie (487) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KE4MGBu9BNr2dawI17n1We64nF.jpg" group-title="Movies | Filme Comedie",La Belle Verte - 1996
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70408.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg" group-title="Movies | Filme Comedie",We're the Millers - 2013
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69205.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wYoDpWInsBEVSmWStnRH06ddoyk.jpg" group-title="Movies | Filme Comedie",Matilda - 1996
@@ -15693,7 +15711,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (218) ---
+# --- Movies | Filme Thriller (219) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h03nz09KkWX4WBcopq7h7Cxd6um.jpg" group-title="Movies | Filme Thriller",Lethal Seduction - 2015
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70409.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg" group-title="Movies | Filme Thriller",Automata - 2014
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70279.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg" group-title="Movies | Filme Thriller",Flightplan - 2005
@@ -20695,4 +20715,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9041
+# Total: 9047

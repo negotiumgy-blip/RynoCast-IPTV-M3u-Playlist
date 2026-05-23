@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-05-22 20:21:25
+# Generated: 2026-05-23 19:05:18
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -43,7 +43,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/382977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" group-title="Movies | 4K [VOD]",A Minecraft Movie
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/398367.mkv
 
-# --- Movies | Action [VOD] (1011) ---
+# --- Movies | Action [VOD] (1013) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nl6GQZCjr2Ln5gkYzFXRIvWEdH.jpg" group-title="Movies | Action [VOD]",Doom
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/328061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" group-title="Movies | Action [VOD]",One Fast Move
@@ -2066,6 +2066,10 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/500942.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/500958.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="Movies | Action [VOD]",Tom Clancy's Jack Ryan: Ghost War (2026)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501124.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="Movies | Action [VOD]",Dhurandhar (2025)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501147.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hot0tcob2oHR0rK8TC8Mwfetx3E.jpg" group-title="Movies | Action [VOD]",Dhurandhar: The Revenge (2026)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501148.mkv
 
 # --- Movies | Adventure [VOD] (278) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Adventure [VOD]",Pocahontas
@@ -3247,7 +3251,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/496841.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="Movies | Cinema Prem 2026",28 Years Later: The Bone Temple (2026)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/499349.mkv
 
-# --- Movies | Comedy [VOD] (990) ---
+# --- Movies | Comedy [VOD] (991) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLkefl9aLo29ALVBbViRVyLo3WF.jpg" group-title="Movies | Comedy [VOD]",The Good Half
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/328089.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Movies | Comedy [VOD]",My Big Fat Greek Wedding 3
@@ -5228,6 +5232,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501024.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501027.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5VjMsijd47oryovu97W9HFgppOb.jpg" group-title="Movies | Comedy [VOD]",Venuseffekten
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501028.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="Movies | Comedy [VOD]",Ladies First (2026)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/501142.mkv
 
 # --- Movies | Crime [VOD] (266) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg" group-title="Movies | Crime [VOD]",Crossing Over
@@ -10552,10 +10558,10 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/399006.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/399005.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" group-title="Movies | Julfilmer [VOD]",A Boy Called Christmas (2021)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434381.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/k4kOxAqbDftvEZ7k1lYCApJB4al.jpg" group-title="Movies | Julfilmer [VOD]",Reisen til julestjernen (2012)
-http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434376.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gxzNvCMMXCyb9u6eQZ9l8sUodjU.jpg" group-title="Movies | Julfilmer [VOD]",Christmas She Wrote (2020)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434378.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/k4kOxAqbDftvEZ7k1lYCApJB4al.jpg" group-title="Movies | Julfilmer [VOD]",Reisen til julestjernen (2012)
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434376.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8JmaKH9dqO1y1hvY617W1pVavnG.jpg" group-title="Movies | Julfilmer [VOD]",Christmas in Pine Valley (2022)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/434375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/c8FgK92umNLI4KU2WcXoyt8oyrH.jpg" group-title="Movies | Julfilmer [VOD]",Christmas on the Farm (2021)
@@ -14251,7 +14257,9 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/495670.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zdn34Jx3rRkhDGsD0qcB0cA1HzB.jpg" group-title="Movies | War [VOD]",Hyena Road (2015)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/498704.mkv
 
-# --- Series | Action & Adventure [Series] (114) ---
+# --- Series | Action & Adventure [Series] (115) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Nemesis
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/501150
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Sandokan
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500788
 #EXTINF:-1 tvg-logo="" group-title="Series | Action & Adventure [Series]",Man on Fire
@@ -15191,7 +15199,9 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404414
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Fleabag
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404444
 
-# --- Series | Crime [Series] (200) ---
+# --- Series | Crime [Series] (201) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Don't F**k with Cats: Hunting an Internet Killer
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/501137
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Lupin
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/485995
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Criminal Record
@@ -16076,14 +16086,12 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405099
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405106
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Cold Case: The Tylenol Murders
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405111
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",100 Foot Wave
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403205
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Pop Goes the Vet with Dr. Joya
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405118
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Sherri Papini: Caught in the Lie
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405119
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Hollywood Demons
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405120
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",100 Foot Wave
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403205
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",F1: The Academy
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405127
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",X-Ray Earth
@@ -16126,6 +16134,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405257
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405265
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Born to Be Viral: The Real Lives of Kidfluencers
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405273
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Hollywood Demons
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405120
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Suffer the Little Children
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403250
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Close Encounters
@@ -16297,7 +16307,9 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404421
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Richard Hammond's Big
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404443
 
-# --- Series | Drama [Series] (658) ---
+# --- Series | Drama [Series] (657) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Half Man
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499978
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Margo's Got Money Troubles
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499266
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Marshals
@@ -16342,8 +16354,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499369
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500739
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Red Band Society
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500724
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Half Man
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499978
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Spanish Princess
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500665
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Maxima
@@ -16714,14 +16724,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/445249
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Devils
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403287
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Watcher
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404445
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Last Light
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404446
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outer Range
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404447
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Patient
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404448
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Offer
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404449
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Inside Man
@@ -17308,8 +17310,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403814
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403816
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",House
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403820
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Nemesis
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403821
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Harlan Coben's Shelter
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403823
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Rivals
@@ -17614,6 +17614,14 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404436
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404437
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Cocaine Coast
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404442
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Watcher
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404445
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Last Light
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404446
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outer Range
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404447
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Patient
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404448
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -19260,6 +19268,18 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (303) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Masked Singer Sverige
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498355
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Hela vägen
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499469
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Deal or No Deal
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/486778
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Muren
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497632
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fördomsshowen
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499341
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Dips
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500671
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481721
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Förrädarna
@@ -19296,24 +19316,12 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481827
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Leva Life
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500951
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Masked Singer Sverige
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498355
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Muren
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497632
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bytt är bytt
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496762
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Deal or No Deal
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/486778
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fördomsshowen
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499341
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Dips
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500671
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Förrädarna - Gravkammaren
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489666
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Renoveringsdrömmar
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495288
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Hela vägen
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499469
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husjakt i Solen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499470
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Skilsmässobarn
@@ -19913,7 +19921,9 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403872
 #EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",Godless
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404121
 
-# --- Series | Western [Series] (3) ---
+# --- Series | Western [Series] (4) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",Dutton Ranch
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/501131
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",The Good Lord Bird
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/493620
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",Deadwood
@@ -19921,4 +19931,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 9901
+# Total: 9906

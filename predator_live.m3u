@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-22 08:37:48
+# Generated: 2026-05-23 19:14:48
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -8685,9 +8685,11 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (168) ---
+# --- World Sports (154) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",USYK vs RICO
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85716.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -8856,36 +8858,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/82293.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Esport FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82294.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sport2 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sport1 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Premier Sport 3 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Premier Sport 2 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85695.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Premier Sport 1 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85694.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Oneplay Sport 4 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85693.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Oneplay Sport 3 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Oneplay Sport 2 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Oneplay Sport 1 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85690.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: nova Sport 6 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: nova Sport 5 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Nova Sport 4 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: nova SPORT 3 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: nova SPORT 2 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: nova SPORT 1 CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85684.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 1 EN HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 2 EN HD
@@ -9023,4 +8995,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4481
+# Total: 4467

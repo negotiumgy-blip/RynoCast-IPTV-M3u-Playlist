@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-05-22 20:27:52
+# Generated: 2026-05-23 19:09:53
 # Expires: 2026-06-22
 # Family Safe Edition
 # ==============================================
@@ -2139,7 +2139,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/351387.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD 60FPS",Pokémon Ranger and the Temple of the Sea (2006) 1080p BDrip x264 60 fps [spa, jpn]
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/351388.mkv
 
-# --- Movies | VOD ACCION (714) ---
+# --- Movies | VOD ACCION (745) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cM7OYPiPv1QVc0UrYwg7P3lweRc.jpg" group-title="Movies | VOD ACCION",La hora decisiva (2016) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/324888.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MrKD5qkFA9sWxP0V2Y793koZYG.jpg" group-title="Movies | VOD ACCION",Cowboys & Aliens  EXTENDED (2011) DUAL
@@ -3528,6 +3528,76 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/315784.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/318024.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5TsJWh87UHYyb5AIxAwQOsSwxF.jpg" group-title="Movies | VOD ACCION",MS1: Máxima seguridad (2012) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/331342.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCyh1WaWjERBsYW9y0oB5i3YWxm.jpg" group-title="Movies | VOD ACCION",Águila Negra (1988)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357257.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wabG7FNEijm21LjD9QZgG77OKR0.jpg" group-title="Movies | VOD ACCION",Un monje baja de la montaña (2015)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357256.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DkTKD3LPXD6QpWGNy87jhIX5fB.jpg" group-title="Movies | VOD ACCION",Tigre y dragón 2: La espada del destino (2016)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357255.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63X0cfaQ3xe3ab4L0LHUJzpIyQa.jpg" group-title="Movies | VOD ACCION",Tai-Chi Master (1993)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357253.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2s6Twiwwc0RnmhtmcTV6JBVKOdP.jpg" group-title="Movies | VOD ACCION",Street Fighter: La última batalla (1994)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357251.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiN9QGs9XZQ0R5D02hwNE66CXpB.jpg" group-title="Movies | VOD ACCION",Romeo debe morir (2000)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357248.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3r3ENoHaOt4dUrqRKiKa3sqfMa0.jpg" group-title="Movies | VOD ACCION",Retroceder nunca, rendirse jamás 3 (1990)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357247.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EX1oEuDy2oegNY8BL4JrD1ESrP.jpg" group-title="Movies | VOD ACCION",Retroceder nunca, rendirse jamás 2 (1987)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357246.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMSPeec7sDXl0JBvCtJtVThbIP.jpg" group-title="Movies | VOD ACCION",Retroceder nunca, rendirse jamás (1986)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357245.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srhQeDr0n53IV5xAfee4xwJMSPr.jpg" group-title="Movies | VOD ACCION",Ong Bak: El guerrero Muay Thai (2003)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357241.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEpzOcEL24Eojieyo4QrKvKwjuv.jpg" group-title="Movies | VOD ACCION",Ong Bak 3: La Batalla Final (2010)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357240.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37AsM77DFjqVpOE9k7t7Zqn2Inc.jpg" group-title="Movies | VOD ACCION",Ong Bak 2: La leyenda del Rey Elefante (2008)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357239.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TSEJk9ZZd6sVKh0lfRb0x7gl9Q.jpg" group-title="Movies | VOD ACCION",Mi padre es un héroe (1995)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357237.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SvIKrP3q1i3A8C99YPRgjSrNed.jpg" group-title="Movies | VOD ACCION",Master Z: El legado de Ip Man (2018)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357236.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4pTOgrUqPSXrDDLKDDAaaiN805.jpg" group-title="Movies | VOD ACCION",Lionheart, el luchador (1990)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357233.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBcsGcLuDXYQCZGEjyRd8QM0Xmm.jpg" group-title="Movies | VOD ACCION",La leyenda del luchador borracho (1994)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357230.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gLiyS8QhToSL2db36dbnJ9awVk.jpg" group-title="Movies | VOD ACCION",Kickboxer: Venganza (2016)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357229.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okNEstBQ46eAwVQoqXdVyYljHH.jpg" group-title="Movies | VOD ACCION",Kickboxer: Contraataque (2018)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357228.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zspCCTEwzP49bQ8lvMOOP7FpDHY.jpg" group-title="Movies | VOD ACCION",Kickboxer 3: El arte de la guerra (1992)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357226.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3NCTsIb5mzOuf3XbQr9AfZyAaF.jpg" group-title="Movies | VOD ACCION",Kickboxer (1989)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357224.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXRoB1yWjLk3vEPH68sML1BBgjm.jpg" group-title="Movies | VOD ACCION",Jet Li es el mejor luchador (1994)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357223.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4vucEsBBD3ZGCpn1VMcLT3eSfh.jpg" group-title="Movies | VOD ACCION",Ip Man. La leyenda (2010)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357222.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQYWGpcEZ6ZLVoW87tjr2FbgSx8.jpg" group-title="Movies | VOD ACCION",Invicto 2 (2006)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357220.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NfN3EmF62Z5wCwYyNpMzrqp7Ox.jpg" group-title="Movies | VOD ACCION",Invicto (2002)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357219.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzgnVmMN5mhS4wYLF7B1XmrMHzx.jpg" group-title="Movies | VOD ACCION",Fearless - Sin miedo (2006)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357218.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg" group-title="Movies | VOD ACCION",El reino prohibido (2008)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357217.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2ABL4L85wberIHaz2vyJ8Y1oNL.jpg" group-title="Movies | VOD ACCION",El mono de hierro (Iron Monkey) (1993)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357214.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob8jkwsa2swYex23Qkh3DxT0DSi.jpg" group-title="Movies | VOD ACCION",El hombre de los puños de hierro (2012)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357211.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPYMP4mAYTVFEu9kuPTWhH5nMht.jpg" group-title="Movies | VOD ACCION",El guardaespaldas (2016)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357210.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kv9keIg8ouzxNc67TgW8oAcYNh.jpg" group-title="Movies | VOD ACCION",El beso del dragón (2001)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357209.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNLYneTNnlfjf0jVUADlqA7RXaf.jpg" group-title="Movies | VOD ACCION",Dragon Blade (2015)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357206.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZTYSD8ZesYMKqLRbmVfZUW1FiE.jpg" group-title="Movies | VOD ACCION",Double Dragon (1994)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357205.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnMZfM9CAlGwS8NMNRFRbxJAVOx.jpg" group-title="Movies | VOD ACCION",Contacto sangriento (1988)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357203.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1YX2vWKfujfdDK8dOCWtb942me.jpg" group-title="Movies | VOD ACCION",Brandon Lee: La leyenda continúa (1986)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357199.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yegOHiGUyHiUXNSFlMfFTEZboj7.jpg" group-title="Movies | VOD ACCION",Boyka: Invicto IV (2016)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357198.mp4
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/25594dba6e0270b04a60843d56292288.jpg" group-title="Movies | VOD ACCION",VOD | Código de silencio (1985)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/171339.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/74cad097e3ae10b5270ab6210959de38.jpg" group-title="Movies | VOD ACCION",VOD | Fuerza Delta (1986) DUAL
@@ -3544,28 +3614,20 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/171344.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/171347.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qWJkYxCp42JBoiAPLstAZYZc3r.jpg" group-title="Movies | VOD ACCION",Delta Force 2 (1990) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322408.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe6YEwpegOGzXhmGS7Xkwz9XxVR.jpg" group-title="Movies | VOD ACCION",Los valientes visten de negro (1978) sub
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322409.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEbcH7OL5IefXGJaUDVDBhE7ONQ.jpg" group-title="Movies | VOD ACCION",El templo del oro (1986) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322429.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnx0puR1AvuYH4iAg0WHH1QcYzE.jpg" group-title="Movies | VOD ACCION",Los mercenarios 2 (2012) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322430.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CHZCoIruTfZ3ssN5tY7EG7UDvY.jpg" group-title="Movies | VOD ACCION",Duelo final (octagon) (1980) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322431.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AaPWvywczDIeGFCjUvohBIMzJL.jpg" group-title="Movies | VOD ACCION",Marcado para morir (1982) SUB
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeFIovY1yx53JaTAMS0fBrvpc2D.jpg" group-title="Movies | VOD ACCION",El poder de la fuerza (1977) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322433.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGu0e6dHop1KIBB3BmFbQpVONb1.jpg" group-title="Movies | VOD ACCION",El héroe y el terror (1988) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322434.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5IQyQsp4MlOFJB96Cxm7ni7L5g.jpg" group-title="Movies | VOD ACCION",Golpe por golpe (1981) LAT
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322435.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGnhNx1cucfkDSbWXZk6vEsgp06.jpg" group-title="Movies | VOD ACCION",El mediador (2005) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322436.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3RYlyVA3WNFK1NLPVQeowO6E4x.jpg" group-title="Movies | VOD ACCION",Juego con la muerte (1978)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322437.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skiXX2axTlVlOX8Cr3qVzcVJHL.jpg" group-title="Movies | VOD ACCION",The Hitman (1991) dual
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322438.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxxPAowtYuGj4WHrNqbPTfLHRLF.jpg" group-title="Movies | VOD ACCION",Agent Recon (2025) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322439.mkv
 
@@ -26473,7 +26535,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/297542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hvvcvepX9Y2s1D2HwUqUE82gme.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",EPiC: Elvis Presley in Concert (2026) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/330458.mkv
 
-# --- Movies | ☆ VOD ESTRENOS 2026 ☆ (726) ---
+# --- Movies | ☆ VOD ESTRENOS 2026 ☆ (727) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEWgfP5EQG7DWTN3LKuEan7AgiX.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Loco Por Ella (2025) lat
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/264696.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4D2Mj3oyCx9PsYl8GPv0O0rIprt.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Me llamo Agneta (2026) dual
@@ -27912,6 +27974,8 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357073.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357074.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Y8HSuYIgKUum2JPfbkul3jR6jh.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",La novia del año (2026) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357075.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ppRx5V7j2X7kmVsPmLeH9JycOS.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Resurrection (2025) sub
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdCiVGBmk9IVMT0BPf030hkQB41.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Turbulencia Pánico en el aire  (2026) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322032.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UdeIFlCk0OlvkmQEZb0PSdNUWf.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Wicked Parte II (2025) final (dual)
@@ -28411,7 +28475,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4100
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ACCIÓN",El señor de las moscas (AMZN DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4261
 
-# --- Series | SERIES - ANIMACIÓN (111) ---
+# --- Series | SERIES - ANIMACIÓN (112) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Futurama
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/45
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Los Simpson
@@ -28634,6 +28698,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4182
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4229
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Némesis (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4273
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIMACIÓN",Temporada de celo (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4276
 
 # --- Series | SERIES - ANIME (355) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",One Piece (lat)
@@ -32153,7 +32219,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4097
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DORAMAS / KDRAMAS",En busca de la perfeccion (En Busca del Jade) (NTFX -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4221
 
-# --- Series | SERIES - DRAMA (428) ---
+# --- Series | SERIES - DRAMA (429) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",You (NTFX-DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/1
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",The Act
@@ -33006,6 +33072,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4193
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4204
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",Bandi (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4206
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",House
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4255
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",Rivales (HULU -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4258
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",El homenaje (AMZN -DUAL)
@@ -35205,4 +35273,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17530
+# Total: 17564

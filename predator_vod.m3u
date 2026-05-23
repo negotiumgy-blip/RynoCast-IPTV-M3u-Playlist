@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-22 08:37:48
+# Generated: 2026-05-23 19:14:48
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2624,6 +2624,8 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/295.mp4
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/150.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Madison (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/294.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Boys (US)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/39.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Monarch: Legacy of Monsters
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/171.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",ONE PIECE (2023)
@@ -2958,8 +2960,6 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/43.mp4
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/51.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Wu Assassins (US)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/38.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",The Boys (US)
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/39.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",ZeroZeroZero (IT)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale me titra Shqip",Cursed (US)

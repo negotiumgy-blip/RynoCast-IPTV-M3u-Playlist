@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-05-22 20:20:54
+# Generated: 2026-05-23 19:18:34
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -10989,15 +10989,11 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840180.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11310.png?13254" group-title="ES| M+ CINE VIP",ES: HOLLYWOOD ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840162.m3u8
 
-# --- ES| M+ LALIGA VIP (4) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| M+ LALIGA VIP",#### ES| M+ LALIGA VIP ᴴᴰ ####
+# --- ES| M+ LALIGA VIP (2) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| M+ LALIGA VIP",#### M+ LALIGA VIP ᴴᴰ/SD/ᴿᴬᵂ ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840023.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11527.png?41966" group-title="ES| M+ LALIGA VIP",ES: MOVISTAR LA LIGA ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840022.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11576.png?95652" group-title="ES| M+ LALIGA VIP",ES: LALIGA TV HYPERMOTION ᴴᴰ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840021.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11576.png?95652" group-title="ES| M+ LALIGA VIP",ES: LALIGA TV HYPERMOTION 3 ᴴᴰ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/840020.m3u8
 
 # --- ES| MUSICA VIP (3) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/Animated-Flag-Spain.gif" group-title="ES| MUSICA VIP",#### ES| MUSICA VIP SD ####
@@ -17953,4 +17949,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8728
+# Total: 8726
