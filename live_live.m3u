@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-05-23 19:07:14
+# Generated: 2026-05-24 08:33:10
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -822,7 +822,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14884.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14885.m3u8
 #EXTINF:-1 tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png" group-title="Deportes",TNT Sports 3
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/6816.m3u8
-#EXTINF:-1 tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png" group-title="Deportes",TNT Sports 3 *
+#EXTINF:-1 tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png" group-title="Deportes",TNT Sports 3 HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14886.m3u8
 #EXTINF:-1 tvg-logo="https://logos.iptv.wtf/deportes/tntsports3.png" group-title="Deportes",TNT Sports 3 **
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14887.m3u8

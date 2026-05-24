@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-23 19:11:34
+# Generated: 2026-05-24 08:35:18
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -682,7 +682,7 @@ http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@7
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/13472.m3u8
 #EXTINF:-1 tvg-logo="https://picserve.netplus.ch/channels/ntv.png" group-title="GERMANY",NTV
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/15088.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY",RTL LIVING
+#EXTINF:-1 tvg-logo="" group-title="GERMANY",RTL Nitro
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/17184.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JzfHXNp/motorvision.png" group-title="GERMANY",MOTORVISION de
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/17893.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-05-23 19:09:53
+# Generated: 2026-05-24 08:33:31
 # Expires: 2026-06-22
 # Family Safe Edition
 # ==============================================
@@ -26479,9 +26479,11 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/208042.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/9ef3ecc1ae0b53c4ca7426047d8d01c9.jpg" group-title="Movies | VOD WW LUCHA LIBRE",VOD | WWE Bash in Berlin 2024 (2024) LATINO
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/211471.mkv
 
-# --- Movies | ☆ VOD EN CARTELERA ☆ (27) ---
+# --- Movies | ☆ VOD EN CARTELERA ☆ (28) ---
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/f51c847b31e41cf2d1de9ab3ad21309d.png" group-title="Movies | ☆ VOD EN CARTELERA ☆",ABRE LA INFO
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/199057.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWitU9IjgFwf6y1OrI0zUaL3GNa.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Star Wars: The Mandalorian and Grogu (2026) HDTS (bet) lat v1
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/358241.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlLsNgRUiPPEIVbcqZR2KmOBL7e.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",La momia de Lee Cronin (2026) webrip dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348606.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivVKHht5jutNGnObn1y5sSDrAXn.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Mortal Kombat II (2026) hdts lat (bet)
@@ -28067,7 +28069,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3797
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES  - HISTORIA",Los Forsytes (PBS -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3915
 
-# --- Series | SERIES -  EN ESTRENO (33) ---
+# --- Series | SERIES -  EN ESTRENO (34) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",9-1-1: Nashville (HULU -DUAL CAST)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3972
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Memoria de un asesino (FOX-DUAL)
@@ -28134,6 +28136,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4266
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4270
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Clásico americano (MGM+ DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4274
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",CIA (PRMT -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4289
 
 # --- Series | SERIES - 4K (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - 4K",4K Falcon y el Soldado de Invierno (DSNY+ DUAL)
@@ -30063,7 +30067,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4115
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CIENCIA FICCIÓN",The Boroughs: Jubilación rebelde (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4269
 
-# --- Series | SERIES - COMEDIAS (325) ---
+# --- Series | SERIES - COMEDIAS (329) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Dos hombres y medio
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/38
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Atípico (NTFX - DUAL)
@@ -30714,8 +30718,16 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4223
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4242
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Carísima (NTFX -LAT)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4252
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Allí abajo (NTFX -CAST)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4279
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Call Me Kat (MAX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4285
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Chica Vampiro (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4288
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Equipo Danger (PRMT- DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4296
 
-# --- Series | SERIES - CRIMEN (343) ---
+# --- Series | SERIES - CRIMEN (349) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Elite
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/19
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",El marginal
@@ -31402,6 +31414,18 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4248
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4254
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Leyendas (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4265
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Bad Guys (VIX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4281
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Bloque de búsqueda (RCN -LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4282
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Bull (PRMT+ DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4283
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Capadocia (MAX -LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4286
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Criminal: Reino Unido (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4294
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Cuando cae la noche (Rabbies) (AMAZN  -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4295
 
 # --- Series | SERIES - DEPORTES (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DEPORTES",Senna (NTFX -DUAL)
@@ -31863,7 +31887,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4234
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DOCUMENTAL",Kylie (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4251
 
-# --- Series | SERIES - DORAMAS / KDRAMAS (177) ---
+# --- Series | SERIES - DORAMAS / KDRAMAS (178) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DORAMAS / KDRAMAS",My Holo Love
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/298
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DORAMAS / KDRAMAS",Vagabundo
@@ -32218,8 +32242,10 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4093
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4097
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DORAMAS / KDRAMAS",En busca de la perfeccion (En Busca del Jade) (NTFX -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4221
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DORAMAS / KDRAMAS",Almas gemelas  (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4292
 
-# --- Series | SERIES - DRAMA (429) ---
+# --- Series | SERIES - DRAMA (434) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",You (NTFX-DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/1
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",The Act
@@ -33078,6 +33104,16 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4255
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4258
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",El homenaje (AMZN -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4260
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",Los Vencidos (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4277
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",Atlanta (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4280
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",Entre padre e hijo (NTFX -LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4290
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",Contra las cuerdas (NTFX -LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4293
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - DRAMA",Diablo Guardián (AMZN -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4300
 
 # --- Series | SERIES - ESPAÑA (147) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ESPAÑA",La casa de papel
@@ -33399,7 +33435,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4111
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ESTUDIOS",Java desde Cero
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4112
 
-# --- Series | SERIES - GUERRA Y POLITICA (16) ---
+# --- Series | SERIES - GUERRA Y POLITICA (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - GUERRA Y POLITICA",Generation Kill (HBOMX -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/2113
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - GUERRA Y POLITICA",Los fontaneros de la Casa Blanca (HBOMX -DUAL)
@@ -33432,6 +33468,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4042
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4126
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - GUERRA Y POLITICA",The Pacific (MAX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4212
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - GUERRA Y POLITICA",Das Boot (El submarino) (STARZ -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4297
 
 # --- Series | SERIES - INFANTIL RETRO (207) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",¿Le temes a la oscuridad?
@@ -33849,7 +33887,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4178
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTIL RETRO",Laboratorio submarino (Sealab 2021) (AMZN -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4184
 
-# --- Series | SERIES - INFANTILES (112) ---
+# --- Series | SERIES - INFANTILES (113) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Oye Arnold
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/55
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Robotech
@@ -34074,6 +34112,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4163
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4169
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Krypto the Superdog (MAX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4183
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - INFANTILES",Cachorritos: Buscando un hogar (APPLE+ DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4284
 
 # --- Series | SERIES - MARVEL (11) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MARVEL",Wandavision (DSNY+ DUAL)
@@ -34099,7 +34139,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/2513
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MARVEL",Agatha, ¿quién si no? (DSNY+ DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/2903
 
-# --- Series | SERIES - MISTERIO (120) ---
+# --- Series | SERIES - MISTERIO (121) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MISTERIO",Ellos (Them) ( AMZN - DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/1252
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MISTERIO",Nuevo sabor a cereza (NTFX - DUAL)
@@ -34340,8 +34380,10 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4245
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4250
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MISTERIO",The Terror (MGM+ DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4275
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - MISTERIO",Diablero (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4299
 
-# --- Series | SERIES - REALITY (77) ---
+# --- Series | SERIES - REALITY (78) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",El piso es lava
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/761
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",Nailed It! España
@@ -34496,6 +34538,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4165
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4201
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",Servicio Secreto by Chicote (A3PLAYRS  -CAST)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4231
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - REALITY",Catfish: Mentiras en la Red (MTV -LAT)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4287
 
 # --- Series | SERIES - RETRO (101) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - RETRO",El Zorro SD LAT
@@ -35273,4 +35317,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17564
+# Total: 17586
