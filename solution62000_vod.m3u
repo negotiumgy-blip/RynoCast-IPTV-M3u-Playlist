@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-22 20:22:36
+# Generated: 2026-05-25 20:46:46
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -909,7 +909,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1030.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",Lucky Luke
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
 
-# --- Movies | Documentaires (62) ---
+# --- Movies | Documentaires (63) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4r0bULEbJgxNbt7UoLYvHCIHuxl.jpg" group-title="Movies | Documentaires",Sacrée soirée ! (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27902.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dGuOkSEUieTjFGdbjwW7ZmaqCNQ.jpg" group-title="Movies | Documentaires",Secrets de la Science : Sommes-nous seuls dans l'Univers ? (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27505.mkv
 #EXTINF:-1 tvg-logo="http://162.55.83.97:8089/Nassri_1.png" group-title="Movies | Documentaires",SAMIR NASRI : "L’enfant prodige"
@@ -1035,7 +1037,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13611.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljSQgDf8rhz6HxnKUXwMvc4lgqw.jpg" group-title="Movies | Documentaires",C'Est Pas Moi (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13491.mkv
 
-# --- Movies | Enfants (57) ---
+# --- Movies | Enfants (58) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Eden
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/77.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Invincible
@@ -1150,6 +1152,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1127.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1147.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Devil May Cry
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1150.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Mating Season
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1177.mp4
 
 # --- Movies | FILMS TURK (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Movies | FILMS TURK",Sampiyonlar (2025)
@@ -1161,7 +1165,15 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1588) ---
+# --- Movies | Films (1593) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wV1B6SHK5Ea6hxJVcgICIlgfyPl.jpg" group-title="Movies | Films",The Carpenter's Son (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27870.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gozKFs2p6nq8BnV6BnLWH7WnDT4.jpg" group-title="Movies | Films",Tapis rouge à Groland (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27869.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg" group-title="Movies | Films",Witchboard (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27868.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/efxlwMqMiZzDF2DABswC5VWptRC.jpg" group-title="Movies | Films",Le Mage du Kremlin (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27755.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qMgUI6pxkPtIuoXX4DcJ6X7bdt2.jpg" group-title="Movies | Films",Mother Mary (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27498.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1fW0dHU8ioeUL7mvnSshz15zjaG.jpg" group-title="Movies | Films",Ma fille tu seras libre (2026)
@@ -1340,6 +1352,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6N3bJq0VInPhifYml7cZ0TjRrXb.jpg" group-title="Movies | Films",De fil et de sang (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28112.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ua6xDVAQ58zasCEfbGPVqHJOP70.jpg" group-title="Movies | Films",Si j'en avais la force (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27866.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9elkqiEjuJEYVr2p4XsmHyTySlM.jpg" group-title="Movies | Films",Gagne ton ciel (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26909.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6PE4s3a1VdjCdvLtexOk3H4yNNw.jpg" group-title="Movies | Films",La pire mère au monde (2025)
@@ -4256,6 +4272,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1570.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1597.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aa4EY0jr7NaSmjhUysHg5y7MmPF.jpg" group-title="Movies | Films",The Passenger - 2018
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1765.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg" group-title="Movies | Films",The Dark Knight : Le Chevalier noir (2008)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27865.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq2DGzM0kNWtGwkplGAcEEM4eSH.jpg" group-title="Movies | Films",The Recall - 2017
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1299.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xQYBKEjDsK7WrwpoYXCfNaAPnz3.jpg" group-title="Movies | Films",La fureur du Yeti (2011)
@@ -4334,10 +4352,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11390.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Q9EdjddChgzuMwXmXmNVcO3bI.jpg" group-title="Movies | Films",Sons of Rizk 2 (2019)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13764.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/efxlwMqMiZzDF2DABswC5VWptRC.jpg" group-title="Movies | Films",Le Mage du Kremlin (2026)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27755.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pyNXnq8QBWoK3b37RS6C3axwUOy.jpg" group-title="Movies | Films",The Dark Knight : Le Chevalier noir (2008)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27865.mkv
 
 # --- Movies | Films - ULTRA HD 4K (23) ---
 #EXTINF:-1 tvg-logo="https://metalunastore.fr/cdn/shop/files/RoboCop4KBlu-ray.jpg?v=1715248236" group-title="Movies | Films - ULTRA HD 4K",RoboCop (2014) - 4K
@@ -4635,7 +4649,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgXFOpfRT6BZeJlUFetFQIf9hh.jpg" group-title="Movies | Films Arabe",Waraqat Gameia - 2020
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5524.mp4
 
-# --- Movies | Films Cultes (283) ---
+# --- Movies | Films Cultes (285) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnR42jxXOWmwrBsn1S9AWRnWNGB.jpg" group-title="Movies | Films Cultes",Opération Portugal - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4052.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUzUir6haXE5dqg5vn6Gyx56g.jpg" group-title="Movies | Films Cultes",Halal police d’État (2011)
@@ -4970,14 +4984,18 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/15144.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5044.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljW8CVhjhoJNrMor6pIQLM3Mhqr.jpg" group-title="Movies | Films Cultes",Mars Attacks! (1996)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/14862.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg" group-title="Movies | Films Cultes",Matrix - 1999
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5393.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/csKNmbZuo8aqPF6hejO3rmaFEqx.jpg" group-title="Movies | Films Cultes",Matrix Reloaded (2003)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27932.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xOCeckuZDzqydvt3vLlzftZkef1.jpg" group-title="Movies | Films Cultes",Matrix Revolutions (2003)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27933.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBzDbxsEiCUCiYcpDLpvbQ6kN2U.jpg" group-title="Movies | Films Cultes",La Cité de la peur - 1994
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1521.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQ7gSJIlF4wG6qcaRmiVGBiTKWW.jpg" group-title="Movies | Films Cultes",Coco - 2009
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/6182.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DwOTHLmwEwGPMBdz4H7SID1kdY.jpg" group-title="Movies | Films Cultes",Danse avec les loups - 1990
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/842.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg" group-title="Movies | Films Cultes",Matrix - 1999
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5393.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6yQFEIzWEymj8L5E4fZ8SMzS7N.jpg" group-title="Movies | Films Cultes",Le proviseur - 1987
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1763.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nWlcqJMxPzUbsDQLBMXUm52z1CV.jpg" group-title="Movies | Films Cultes",Hook ou la Revanche du capitaine Crochet (1991)
@@ -5086,8 +5104,14 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1416.avi
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1194.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ESmsY38eOBcmAkym3hJqOBm7vP.jpg" group-title="Movies | Films Cultes",Shooter, tireur d'élite - 2007
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/813.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7s3ekiDpic8NxDjwdLdOYDIX8Pe.jpg" group-title="Movies | Films Cultes",Sixième Sens (1999)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27509.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iT6XOQySbzOdpPhFwXxlAzE3fta.jpg" group-title="Movies | Films Cultes",Spy game, jeu d'espions (2001)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/20896.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6H6zVgrRBJouPryTllhY8z3gfB.jpg" group-title="Movies | Films Cultes",S.O.S. Fantômes (1984)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27507.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qnOyigDE9FoZpIRLbBEpRUHarv6.jpg" group-title="Movies | Films Cultes",S.O.S. Fantômes II (1989)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27508.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAdHWUSnlpYy1oX31ujqrLcrnEX.jpg" group-title="Movies | Films Cultes",Space Jam - 1996
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1hMYD1Ef8sOiXZLFmMpQw9rxUU.jpg" group-title="Movies | Films Cultes",Speed - 1994
@@ -5134,6 +5158,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1962.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1470.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDctIlugIuDZivzihCAEs7Ofymx.jpg" group-title="Movies | Films Cultes",Training Day (2001)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1218.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Cs5qIYJ6rQQugHVrZ8cS9qzbZD.jpg" group-title="Movies | Films Cultes",Quatre frères (2005)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27510.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/islG1HgQfrOBMqV2viOQHIpKBQn.jpg" group-title="Movies | Films Cultes",The Punisher - 2004
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/951.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7p5MzMb4h0Y2WUn73r4MHKNeh3X.jpg" group-title="Movies | Films Cultes",The Truman Show - 1998
@@ -5194,14 +5220,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2945.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2946.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htc0XxpoFuRvILQOUDJGS13Gmsq.jpg" group-title="Movies | Films Cultes",Le Grinch - 2000
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2950.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6H6zVgrRBJouPryTllhY8z3gfB.jpg" group-title="Movies | Films Cultes",S.O.S. Fantômes (1984)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27507.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qnOyigDE9FoZpIRLbBEpRUHarv6.jpg" group-title="Movies | Films Cultes",S.O.S. Fantômes II (1989)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27508.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7s3ekiDpic8NxDjwdLdOYDIX8Pe.jpg" group-title="Movies | Films Cultes",Sixième Sens (1999)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27509.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4Cs5qIYJ6rQQugHVrZ8cS9qzbZD.jpg" group-title="Movies | Films Cultes",Quatre frères (2005)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27510.mkv
 
 # --- Movies | Films Marocains (2) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kD9Ny1ixmMYYhAV10GSAvyXcQTy.jpg" group-title="Movies | Films Marocains",Animalia - 2023
@@ -5285,7 +5303,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (480) ---
+# --- Movies | NETFLIX (483) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wkI57tUgF4azrXy4QURO0diuDxD.jpg" group-title="Movies | NETFLIX",Ladies First (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27867.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ay12YxITkgfpY107arfcHfuLnQG.jpg" group-title="Movies | NETFLIX",De si remarquables créatures (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27119.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/geFc71rCYM8fErbROLY6n1LfAS6.jpg" group-title="Movies | NETFLIX",La Mariée de l'année (2026)
@@ -6246,6 +6266,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1154.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1155.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",The Boroughs : Retraite rebelle
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1172.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",My Royal Nemesis
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1178.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Ozark
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1181.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -7507,7 +7531,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (307) ---
+# --- Series | Series divers (308) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8122,5 +8146,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1173
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1174
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Yellowstone
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1176
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Suits, avocats sur mesure
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1180
 
-# Total: 4028
+# Total: 4041

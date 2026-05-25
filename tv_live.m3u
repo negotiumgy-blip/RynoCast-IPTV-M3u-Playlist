@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-05-24 19:07:16
+# Generated: 2026-05-25 20:39:51
 # Expires: 2026-05-25
 # Family Safe Edition
 # ==============================================
@@ -6678,7 +6678,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3234.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3174.m3u8
 
 # --- NL - SPORTS (19) ---
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/boxingtv.png" group-title="NL - SPORTS",(NL) DAZN PPV Rico VS Usyk
+#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/boxingtv.png" group-title="NL - SPORTS",(NL) DAZN PPV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/118311.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="NL - SPORTS",(NL) Eurosport 1 HEVC
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/151301.m3u8
@@ -6717,7 +6717,11 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/299915.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL - SPORTS",(NL) PPV Channel 1 (LIVE ON MATCH)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/299914.m3u8
 
-# --- NL - VIAPLAY BUNDESLIGA (8) ---
+# --- NL - VIAPLAY BUNDESLIGA (10) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 10 4K+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329808.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 9 4K+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329807.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 1 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/143809.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 2 4K+
@@ -6847,7 +6851,7 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/300480.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY FORMULE F1",(NL) Viaplay F1 Kids FHD (LIVE ON MATCH)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/300481.m3u8
 
-# --- NL - VIAPLAY PREMIER LEAGUE (8) ---
+# --- NL - VIAPLAY PREMIER LEAGUE (10) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 1 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/143801.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 2 4K+
@@ -6864,6 +6868,10 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/143806.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/143807.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 8 4K+
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/143808.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 9 4K+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329805.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 10 4K+
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/329806.m3u8
 
 # --- NL - VIDEOLAND (9) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) Videoland Events 1 FHD
@@ -11251,4 +11259,4 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/153497.m3u8
 
-# Total: 5457
+# Total: 5461
