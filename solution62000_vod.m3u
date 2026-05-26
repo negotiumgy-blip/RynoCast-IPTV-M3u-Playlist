@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-25 20:46:46
+# Generated: 2026-05-26 20:50:10
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -820,7 +820,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5859.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5870.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6djieHJEPqfYAV2Kyz2fK3QY3Du.jpg" group-title="Movies | Disney+",Il était une fois 2 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5865.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pm9IBLHOClAjlPi8O1bvpU9lUtO.jpg" group-title="Movies | Disney+",Maman, j'ai raté l'avion ! (ça recommence) - 2021
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pm9IBLHOClAjlPi8O1bvpU9lUtO.jpg" group-title="Movies | Disney+",Maman, j’ai raté l’avion ! (Ça recommence) (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5869.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg" group-title="Movies | Disney+",Togo - 2019
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5861.mkv
@@ -1010,7 +1010,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/3807.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/3808.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVKWtkgwCd34wT10v0Bwg1NYYcc.jpg" group-title="Movies | Documentaires",Crack : Cocaïne, corruption et conspiration - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/3809.mkv
-#EXTINF:-1 tvg-logo="https://www.zone-telechargement.rocks/img/autres-videos/c50a79d3d6fecfddbd13fb99b24fa86c.webp" group-title="Movies | Documentaires",Complément d'enquête Zidane l'intouchable
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3KxdCcfakiDG050Qdjs2zqV4Gr8.jpg" group-title="Movies | Documentaires",Complément d'enquête
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7356.mkv
 #EXTINF:-1 tvg-logo="https://media.senscritique.com/media/000006636086/source_big/Algerie_un_peuple_sans_voix.jpg" group-title="Movies | Documentaires",Algérie(s), un Peuple sans voix (1ère partie)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9285.mkv
@@ -4384,7 +4384,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11182.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11406.mkv
 #EXTINF:-1 tvg-logo="https://static.fnac-static.com/multimedia/Images/FR/NR/f8/e2/90/9495288/1507-1/tsp20180322134049/Matrix-Blu-ray-4K-Ultra-HD.jpg" group-title="Movies | Films - ULTRA HD 4K",Matrix (1999) - 4K
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11477.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81qpf9cTkYL._AC_UF1000,1000_QL80_.jpg" group-title="Movies | Films - ULTRA HD 4K",Astérix & Obélix : Mission Cléopâtre (2002) - 4K
+#EXTINF:-1 tvg-logo="http://m.media-amazon.com/images/I/81qpf9cTkYL._AC_UF1000,1000_QL80_.jpg" group-title="Movies | Films - ULTRA HD 4K",Astérix & Obélix : Mission Cléopâtre (2002) - 4K
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11478.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81OTGTCSQdL._AC_UF1000,1000_QL80_.jpg" group-title="Movies | Films - ULTRA HD 4K",First Man - Le Premier Homme sur la Lune (2018) - 4K
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11488.mkv
@@ -4470,7 +4470,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/6220.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5820.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7hBvg6EmQ2I/mqdefault.jpg" group-title="Movies | Films Algerien",khali we télégraphe
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5821.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDDrWP8tL00UM4Z8NMOU2PO5NEN.jpg" group-title="Movies | Films Algerien",Certifiée Halal (2015)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cDDrWP8tL00UM4Z8NMOU2PO5NEN.jpg" group-title="Movies | Films Algerien",Certifiée Halal (2015)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5822.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/myzSLtxng5g/mqdefault.jpg" group-title="Movies | Films Algerien",Le Diamant
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5823.mkv
@@ -4649,10 +4649,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgXFOpfRT6BZeJlUFetFQIf9hh.jpg" group-title="Movies | Films Arabe",Waraqat Gameia - 2020
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5524.mp4
 
-# --- Movies | Films Cultes (285) ---
+# --- Movies | Films Cultes (290) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnR42jxXOWmwrBsn1S9AWRnWNGB.jpg" group-title="Movies | Films Cultes",Opération Portugal - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4052.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUzUir6haXE5dqg5vn6Gyx56g.jpg" group-title="Movies | Films Cultes",Halal police d’État (2011)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUzUir6haXE5dqg5vn6Gyx56g.jpg" group-title="Movies | Films Cultes",Halal police d’État (2011)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4010.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jiIsyK1cGrq3BVuF3iXfLDK8LLB.jpg" group-title="Movies | Films Cultes",Misery (1990)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/3196.mkv
@@ -4670,7 +4670,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2672.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1123.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WrKvIrcP9ADb7uPsTrhrs78kXh.jpg" group-title="Movies | Films Cultes",Dragon, l'histoire de Bruce Lee - 1993
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1639.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14PSgKwuXq1zP1UWF9GDQPbqYtB.jpg" group-title="Movies | Films Cultes",Ace Ventura, détective chiens et chats - 1994
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tquh5DEbgRPFBHukUp9mcPbjEBb.jpg" group-title="Movies | Films Cultes",Ace Ventura, détective chiens et chats (1994)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5572.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwCmneJVTfwW8hRpTNueAuzFPt.jpg" group-title="Movies | Films Cultes",Animal ! L'animal - 2001
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1828.mkv
@@ -4702,7 +4702,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1440.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/836.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIVhzd0RcxwWOxu7VhWD1CXBShP.jpg" group-title="Movies | Films Cultes",Chasse à l'homme (1993)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1596.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jdAWJpSjSsROflDE5e7fgxJu2KW.jpg" group-title="Movies | Films Cultes",Astérix et Obélix : Mission Cléopâtre, le comankonafé (2002)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2lC9lzozlzVxCsSgPjRz5AWcz00.jpg" group-title="Movies | Films Cultes",Astérix & Obélix : Mission Cléopâtre (2002)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1868.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3npygfmEhqnmNTmDWhHLz1LPcbA.jpg" group-title="Movies | Films Cultes",Avatar - 2009
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/831.mkv
@@ -4836,7 +4836,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1752.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1265.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8un3ruICza4PVtB5kqF5jSSxjfz.jpg" group-title="Movies | Films Cultes",In Hell (2003)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9526.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hZnsW4wGz3zuuwu9eniaoKIJnP.jpg" group-title="Movies | Films Cultes",Intouchables - 2011
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i97FM40bOMKvKIo3hjQviETE5yf.jpg" group-title="Movies | Films Cultes",Intouchables (2011)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1784.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5etqdt4ETSeSRhmh8QIuk5P1MR.jpg" group-title="Movies | Films Cultes",Jackie Chan dans le Bronx - 1995
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1480.mkv
@@ -4976,9 +4976,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1048.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1815.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG2dsBiy11m7zHSdwlWymvIjOK.jpg" group-title="Movies | Films Cultes",Limitless (2011)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/10636.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aP9UrDpKS5i5PCiYKDgJvkRz7ne.jpg" group-title="Movies | Films Cultes",Maman, j'ai raté l'avion ! - 1990
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7hvfmQ5zgwoxZZOHQ9uGMdIk43t.jpg" group-title="Movies | Films Cultes",Maman, j'ai raté l'avion ! (1990)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5164.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFhf8NwvEKCbNIOQZxLqj1i5DMy.jpg" group-title="Movies | Films Cultes",Maman, j'ai encore raté l'avion ! (1992)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gFhf8NwvEKCbNIOQZxLqj1i5DMy.jpg" group-title="Movies | Films Cultes",Maman, j'ai encore raté l'avion ! (1992)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/15144.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuaD96cwj7z8cSDm0eYcysfIdUs.jpg" group-title="Movies | Films Cultes",Malcolm X - 1992
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5044.mkv
@@ -5070,8 +5070,18 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1289.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2313.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMiEnmacTUPXsIfRPeC0UGgyZFm.jpg" group-title="Movies | Films Cultes",Retour vers le futur III - 1990
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2667.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8LMpX3an8eHTfU1bNwXeGVkBVrZ.jpg" group-title="Movies | Films Cultes",RoboCop (1987)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28115.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mvF9cXn5SbkmkJGaPMbOiVBJrgh.jpg" group-title="Movies | Films Cultes",RoboCop 2 (1990)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28116.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y1Kt52v15WqNpROR64ivEnnvqtT.jpg" group-title="Movies | Films Cultes",RoboCop 3 (1993)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28117.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sFi6ih90ZuavLbq8xS6AULnhiT.jpg" group-title="Movies | Films Cultes",Rock - 1996
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5190.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qsGU6myn85MfqpNAxzJtxJ3VgrM.jpg" group-title="Movies | Films Cultes",RRRrrrr!!! (2004)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28121.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pfe3WBJzufMawUiQ9agzitTFcei.jpg" group-title="Movies | Films Cultes",Ace Ventura en Afrique (1995)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28118.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qP04x5gJOXFKPeU6Eo5vu9PNgWz.jpg" group-title="Movies | Films Cultes",Running Man - 1987
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1758.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muBpOJcl6nBfPfjmj620xZjGgtL.jpg" group-title="Movies | Films Cultes",Rush Hour 2 (2001)
@@ -5194,7 +5204,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5422.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/965.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWTTHdlpwKQC4hhJM6Qmmhd049p.jpg" group-title="Movies | Films Cultes",Dumb & Dumber - 1994
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1834.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mIIxQJu4vBk8Sfnv9zKeKcWJ2j.jpg" group-title="Movies | Films Cultes",La Grande Vadrouille - 1966
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/835Yw9f0gYyR8RSsDKL34VEgCjL.jpg" group-title="Movies | Films Cultes",La Grande Vadrouille (1966)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/935.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBOCT5d9oZCMN3tFlPSQGx1SjAo.jpg" group-title="Movies | Films Cultes",Wasabi - 2001
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1831.mkv
@@ -7531,7 +7541,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (308) ---
+# --- Series | Series divers (309) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -8148,5 +8158,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1174
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1176
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Suits, avocats sur mesure
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1180
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Les aventures de Nora & Gil
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1182
 
-# Total: 4041
+# Total: 4047

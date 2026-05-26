@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv1.kavkom.tv:8000
-# Generated: 2026-05-26 08:30:45
+# Generated: 2026-05-26 20:50:45
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -50,7 +50,7 @@ http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/1739.m3u8
 http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/16181.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/CHERIE25.png" group-title="LIVE",CHERIE 25
 http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/3800.m3u8
-#EXTINF:-1 tvg-logo="https://www.gentv.be/logos/aplus.png" group-title="LIVE",A+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" group-title="LIVE",Comedy Central
 http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/23626.m3u8
 #EXTINF:-1 tvg-logo="http://iptv1.kavkom.tv:8000/logo/ITV.png" group-title="LIVE",C NEWS
 http://iptv1.kavkom.tv:8000/live/5q7qhjmn/81pwnrmufe/2160.m3u8
