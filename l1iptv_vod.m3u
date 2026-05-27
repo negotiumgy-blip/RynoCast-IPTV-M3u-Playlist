@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2026-05-27 08:42:59
+# Generated: 2026-05-27 20:59:34
 # Expires: 2026-06-02
 # Family Safe Edition
 # ==============================================
@@ -277,7 +277,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6043.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Apple TV+",Maximum Pleasure Guaranteed
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6054.mp4
 
-# --- Movies | DE - Disney+ (149) ---
+# --- Movies | DE - Disney+ (150) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Disney+",Code Black
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/469.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Disney+",Deep State
@@ -576,6 +576,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5941.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5965.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Disney+",Gold Land
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5987.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - Disney+",Spider-Noir
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6057.mp4
 
 # --- Movies | DE - Dokumantar (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Dokumantar",Gottwald – King of the Ring
@@ -595,7 +597,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Dokumantar",Nöthin' but a Good Time: The Uncensored Story of '80s Hair Metal
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4207.mp4
 
-# --- Movies | DE - Dokumentar Films (82) ---
+# --- Movies | DE - Dokumentar Films (83) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0Hi2cTLrz7eFtKNDFZouQoITvW.jpg" group-title="Movies | DE - Dokumentar Films",Ronaldo vs. Messi
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/30782.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20vqLBPkN6Xycdo6pB3VB59R2cc.jpg" group-title="Movies | DE - Dokumentar Films",Tarantino - The Bloody Genius (DE)
@@ -760,6 +762,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154993.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155145.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS1ad6L9ybHYEJLljmTkxn4ORDC.jpg" group-title="Movies | DE - Dokumentar Films",Untold UK: Liverpool's Miracle of lstanbul (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155450.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg" group-title="Movies | DE - Dokumentar Films",Untold UK: Vinnie Jones (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155585.mkv
 
 # --- Movies | DE - HBO Max (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - HBO Max",The Seduction
@@ -8263,7 +8267,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/151391.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvSdkUp9EZPbHj32FJma5zpn9Gv.jpg" group-title="Movies | DE - Kino 2024",Volja Sinovljeva (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154260.mkv
 
-# --- Movies | DE - Kino 2025 (406) ---
+# --- Movies | DE - Kino 2025 (407) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | DE - Kino 2025",Ad Vitam (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/125991.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghLaj5dBrdUsD4wjq3QERcisr5k.jpg" group-title="Movies | DE - Kino 2025",Sunray: Fallen Soldier (DE)
@@ -9076,8 +9080,10 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155255.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSidx9NHKuQIPEQ4yI9b9zkTeh3.jpg" group-title="Movies | DE - Kino 2025",Magazine Dreams (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155259.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9IBYBthwVhrLtepz07JJMnilTf.jpg" group-title="Movies | DE - Kino 2025",No Other Choice (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155587.mkv
 
-# --- Movies | DE - Kino 2026 (80) ---
+# --- Movies | DE - Kino 2026 (85) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EfFRgXde2iFFDfdFDMAOB9RuYJ.jpg" group-title="Movies | DE - Kino 2026",Greenland 2 (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/148653.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzZaU0MN6L9oc1pl0RUXSB7hWwD.jpg" group-title="Movies | DE - Kino 2026",People We Meet on Vacation (DE)
@@ -9104,8 +9110,6 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/150170.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/150171.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKchRMJTliVxllDld3L6KHS6Gya.jpg" group-title="Movies | DE - Kino 2026",Brotherhood: Angstzustand (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/150284.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2izrV8KtqKND5Cy5NmdpXnzITr.jpg" group-title="Movies | DE - Kino 2026",Extrawurst (DE)
-http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/150285.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTyT4StWHYwr4kPCJbhyxcYU0P7.jpg" group-title="Movies | DE - Kino 2026",Misdirection: Rache sitzt tief (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/150429.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QWAPETLYZosiwXQCTMu1KerXxI.jpg" group-title="Movies | DE - Kino 2026",Love Me, Love Me (DE)
@@ -9238,6 +9242,18 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155261.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155453.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjUWJXdd275UYJDzblaNPZp9319.jpg" group-title="Movies | DE - Kino 2026",Tom Clancy's Jack Ryan: Ghost War (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155460.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdXIDJGNHfAjG5bWZfzrooglOh.jpg" group-title="Movies | DE - Kino 2026",Mother Mary (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155507.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PvnAwa0JUo6ATPy15tiBxRwfP6.jpg" group-title="Movies | DE - Kino 2026",Whistle (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155523.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRDOsXJMsii6gBXvnkbp0O2SzxU.jpg" group-title="Movies | DE - Kino 2026",Die drei ??? – Toteninsel (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155524.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDbYz327iY76Y5hGqAweRFN99ol.jpg" group-title="Movies | DE - Kino 2026",How to Lose a Popularity Contest (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155525.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLmcdb6MsKUVi88esD41cCS2KY7.jpg" group-title="Movies | DE - Kino 2026",Extrawurst (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155526.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1riXXIwPNENTeWcxbtS22NiIixD.jpg" group-title="Movies | DE - Kino 2026",Ladies First (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155586.mkv
 
 # --- Movies | DE - MGM+ (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Leben ohne Ende
@@ -9248,7 +9264,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5119.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5317.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Emperor of Ocean Park
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5435.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Der Künstler
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",The Artist
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6002.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",The Capture
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6044.mp4
@@ -9407,7 +9423,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6003.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Magenta TV",Coldwater
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6030.mp4
 
-# --- Movies | DE - Netflix (417) ---
+# --- Movies | DE - Netflix (418) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",Stranger Things
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/84.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",Vikings
@@ -10242,6 +10258,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6029.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6041.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",The WONDERfools
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6042.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",The Boroughs
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6058.mp4
 
 # --- Movies | DE - Netflix filme (19) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU3Z5kgsRzqKWW3xJUtImhkkz8m.jpg" group-title="Movies | DE - Netflix filme",Kevin - Allein zu Haus
@@ -15657,7 +15675,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/3713.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - Docu",ASIA
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4675.mp4
 
-# --- Movies | NL - Documentaire Films (438) ---
+# --- Movies | NL - Documentaire Films (439) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlFKNjO9hjhj3sPBwkrErZrkear.jpg" group-title="Movies | NL - Documentaire Films",Return of the King: The Fall and Rise of Elvis Presley (NL)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/121917.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYMVSRk2n4WpzKMw7V6mKz4Psoh.jpg" group-title="Movies | NL - Documentaire Films",Conor McGregor: Notorious
@@ -16534,8 +16552,10 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155201.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155246.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oS1ad6L9ybHYEJLljmTkxn4ORDC.jpg" group-title="Movies | NL - Documentaire Films",Untold UK: Liverpool's Miracle of Istanbul (NL)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155451.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AilC78z0a3wg0mBpBpurqjWCTxZ.jpg" group-title="Movies | NL - Documentaire Films",Untold UK: Vinnie Jones (NL)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155519.mkv
 
-# --- Movies | NL - Films (1765) ---
+# --- Movies | NL - Films (1766) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWFb5zMazlQiJdpRPJHuY4Wvf2g.jpg" group-title="Movies | NL - Films",2:22
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/25174.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j18021qCeRi3yUBtqd2UFj1c0RQ.jpg" group-title="Movies | NL - Films",12 Strong (NL)
@@ -20064,6 +20084,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155238.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155354.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg" group-title="Movies | NL - Films",Hugo (NL)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155476.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srfg90ModqcMNpfeVxEkn5fAxlp.jpg" group-title="Movies | NL - Films",Verliefd op Ibiza (NL)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155520.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kX6xmEwz0RpEJkeWjXTkxbOCAp.jpg" group-title="Movies | NL - Films",Sunshine (NL)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/51020.mkv
 
@@ -26766,7 +26788,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155365.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155368.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wqoFGTRB2iUnAElxjolw1pP9XJ.jpg" group-title="Movies | NL - Films 2026",Mortal Kombat II (NL)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155391.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXU82DqaebxbrPyJkQt2MRfLhKG.jpg" group-title="Movies | NL - Films 2026",Wanda Sykes: Legacy (NL)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHE1A7YA51xegolfczZShIsO4dc.jpg" group-title="Movies | NL - Films 2026",Wanda Sykes: Legacy (NL)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155452.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2BmcsmpcvZMeyfGJIaocBZPbJN0.jpg" group-title="Movies | NL - Films 2026",Boomers (NL)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155475.mkv
@@ -27207,7 +27229,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6010.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - KIJK",De Staatsloterij Show
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6017.mp4
 
-# --- Movies | NL - NPO Start & Plus (105) ---
+# --- Movies | NL - NPO Start & Plus (106) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Penoza
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/557.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Top Dog
@@ -27418,6 +27440,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5999.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6007.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Oxen
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6008.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Die ochtend in Ede
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6055.mp4
 
 # --- Movies | NL - Netflix (922) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - Netflix",The Blacklist
@@ -33098,7 +33122,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/141452.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/141499.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/2Eo6lbhRgXkjRdiQqwsyLwjG64q.jpg" group-title="Movies | TR - Son Bölüm Diziler",Veliaht (26.Bölüm) FINAL 26.03.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/141901.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR - Son Bölüm Diziler",Cennetin Çocukları (33.Bölüm) 18.05.2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR - Son Bölüm Diziler",Cennetin Çocukları (34.Bölüm) 25.05.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/142190.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | TR - Son Bölüm Diziler",Kıskanmak (33.Bölüm) FINAL 19.05.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/142224.mkv
@@ -36319,7 +36343,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/152830.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg" group-title="Movies | TR - Yabanci/Dublaj 2025",Ballerina (TR)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154421.mkv
 
-# --- Movies | TR - Yabanci/Dublaj 2026 (34) ---
+# --- Movies | TR - Yabanci/Dublaj 2026 (37) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",The Rip (TR)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/148907.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzSEuMeoi5Pnf3PU10ZznPAJ2Ap.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Gerçek Sahtekâr (TR)
@@ -36388,6 +36412,12 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154845.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154847.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxiUMOqjwbcBp2Gzp2s7mySINAB.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",The Punisher: One Last Kill (TR)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155236.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNN0DqB7fwGeX3uNhTfQzzKhgTP.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Motorcu (TR)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155516.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik0PoQSvjBxI2ND3y8mDDG3OYwj.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Gelin! (TR)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155517.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Önce Kadınlar (TR)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155518.mkv
 
 # --- Movies | TR - Yerli (685) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLvUlTSLs93gPkUVJBgcfzf8AkP.jpg" group-title="Movies | TR - Yerli",Ketenpere (TR)
@@ -38491,7 +38521,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154030.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u70yujzv29eekDYOYLqj8ZRL4h.jpg" group-title="Movies | TR - Yerli 2024",Hırçın Kız (TR)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154076.mkv
 
-# --- Movies | TR - Yerli 2025 (38) ---
+# --- Movies | TR - Yerli 2025 (39) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg" group-title="Movies | TR - Yerli 2025",Başka Bir Sen (TR)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/129813.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CF9or2174WFbBbXb5SvREau02H.jpg" group-title="Movies | TR - Yerli 2025",Şımarık (TR)
@@ -38568,6 +38598,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/151607.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154073.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS3QZLD2zwcJYmulMESZnkfNlUD.jpg" group-title="Movies | TR - Yerli 2025",Uykucu (TR)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155165.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIlaVCFJuMrIgAIPyHefHVExL3w.jpg" group-title="Movies | TR - Yerli 2025",Adile Naşit (TR)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/155506.mkv
 
 # --- Movies | TR - Yerli 2026 (3) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | TR - Yerli 2026",Sonunda Sen (TR)
@@ -39039,4 +39071,4 @@ http://l1iptv.xyz/series/saatci/ywnh6ZT5up/5891
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",American Classic
 http://l1iptv.xyz/series/saatci/ywnh6ZT5up/5953
 
-# Total: 19407
+# Total: 19423

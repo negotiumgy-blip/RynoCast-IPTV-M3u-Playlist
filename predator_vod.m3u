@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-25 20:40:21
+# Generated: 2026-05-27 20:59:45
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -337,9 +337,13 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1137) ---
+# --- Movies | Filma me titra Shqip (1139) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huKckuD90OblEHH8MYfekHvCPfp.jpg" group-title="Movies | Filma me titra Shqip",Fuze (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85718.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg" group-title="Movies | Filma me titra Shqip",Over Your Dead Body (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85717.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="Movies | Filma me titra Shqip",Tom Clancy's Jack Ryan: Ghost War (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85683.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg" group-title="Movies | Filma me titra Shqip",Mortal Kombat II (2026)
@@ -9123,4 +9127,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4549
+# Total: 4551

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-25 20:40:21
+# Generated: 2026-05-27 20:59:45
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3776,9 +3776,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2963.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Klan Kosova +6 USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma VIP 1
+#EXTINF:-1 tvg-logo="https://www.ipko.com/wp-content/uploads/elementor/thumbs/Ferma-Vip-1-4-png-rl9dpjlmvpnp0qbmbt8a2d4ira87h596uw7dsncow0.avif" group-title="Shqiptare",AL: Ferma VIP 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84666.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma Vip 2
+#EXTINF:-1 tvg-logo="https://www.ipko.com/wp-content/uploads/elementor/thumbs/Ferma-Vip-2-3-png-rl9dn9tod4jqynmelbvqjfrf2rf9vh8jjng51kpxxc.avif" group-title="Shqiptare",AL: Ferma Vip 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84667.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma Vip 1  Youtube
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85314.m3u8
@@ -8685,11 +8685,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (154) ---
+# --- World Sports (152) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",USYK vs RICO
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85716.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -8734,9 +8732,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81397.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81398.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: RTSH Sport ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67954.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Sports 1 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: SportsNet ᵁᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/10156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Sky Sports F1 ᵁᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: SportsNet One ᵁᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77527.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Ziggo Sport ᵁᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62730.m3u8
@@ -8858,9 +8856,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/82293.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Esport FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82294.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 1 EN HD
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS CA HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80908.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 2 EN HD
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS N HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80909.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 1 Arabic
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80910.m3u8
@@ -8980,19 +8978,17 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/43172.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/43173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: DIGI SPORT 4 RAW
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/43174.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: GolPlay
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Redbull TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2726.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Polsat Sport Fight
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21951.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UFC Fight Pass
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: WWE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/19162.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: NBA USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: NBA Canada
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4467
+# Total: 4465

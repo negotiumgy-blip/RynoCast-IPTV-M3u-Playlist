@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lidns.cc
-# Generated: 2026-05-27 08:44:36
+# Generated: 2026-05-27 21:01:21
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -1592,7 +1592,7 @@ http://lidns.cc/movie/yu3k45/3audeg/5100.mp4
 http://lidns.cc/movie/yu3k45/3audeg/138207.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hj2mUTJktFXNA9cUtFptYiPXhEs.jpg" group-title="Movies | 4K",Xtremo [4K] (2021)
 http://lidns.cc/movie/yu3k45/3audeg/258793.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb7SRErOJtzLRtrjL4Wbg0tFOW1.jpg" group-title="Movies | 4K",Z-O-M-B-I-E-S 3 [4K] (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzdv4nArhuZxd7il0boKaVxQMF.jpg" group-title="Movies | 4K",Z-O-M-B-I-E-S 3 [4K] (2022)
 http://lidns.cc/movie/yu3k45/3audeg/137183.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg" group-title="Movies | 4K",Zona de Combate [4K] (2021)
 http://lidns.cc/movie/yu3k45/3audeg/138686.mp4
@@ -1705,7 +1705,11 @@ http://lidns.cc/movie/yu3k45/3audeg/288297.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hkr3teBIjkgIYXTk0V36CThSVL.jpg" group-title="Movies | 4K",ZOMBIES 4: A Era dos Vampiros [4K] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/297551.mp4
 
-# --- Movies | Amazon Prime Video (1622) ---
+# --- Movies | Amazon Prime Video (1624) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3KQuCGX7ISTQ0EPyieGeH7M4L0.jpg" group-title="Movies | Amazon Prime Video",Um Toque de Sedução (1988)
+http://lidns.cc/movie/yu3k45/3audeg/542299.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18jITPyoE7GF6wPRMpvbslYZn5b.jpg" group-title="Movies | Amazon Prime Video",Um Lutador Lendário (2020)
+http://lidns.cc/movie/yu3k45/3audeg/542293.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg" group-title="Movies | Amazon Prime Video",Match Point (2005)
 http://lidns.cc/movie/yu3k45/3audeg/542124.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrAYM0nP45s9v7Oq7apG4t94KkZ.jpg" group-title="Movies | Amazon Prime Video",Marcelino Pão e Vinho (1955)
@@ -10235,7 +10239,9 @@ http://lidns.cc/movie/yu3k45/3audeg/6003.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Crunchyroll",ZENSHU
 http://lidns.cc/movie/yu3k45/3audeg/6806.mp4
 
-# --- Movies | DC Comics (41) ---
+# --- Movies | DC Comics (42) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujQthWB6c0ojlARk28NSTmqidbF.jpg" group-title="Movies | DC Comics",Mulher-Maravilha [L] (2017)
+http://lidns.cc/movie/yu3k45/3audeg/542292.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZTzxi5aKXua2eIlmaMbxxcoW7v.jpg" group-title="Movies | DC Comics",Adão Negro (2022)
 http://lidns.cc/movie/yu3k45/3audeg/100824.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZTzxi5aKXua2eIlmaMbxxcoW7v.jpg" group-title="Movies | DC Comics",Adão Negro [4K] (2022)
@@ -11930,7 +11936,7 @@ http://lidns.cc/movie/yu3k45/3audeg/4893.mp4
 http://lidns.cc/movie/yu3k45/3audeg/3466.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKseLbYJgnqYXV5saXugeHd3A2W.jpg" group-title="Movies | Disney Plus",Z-O-M-B-I-E-S 2 (2020)
 http://lidns.cc/movie/yu3k45/3audeg/3471.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb7SRErOJtzLRtrjL4Wbg0tFOW1.jpg" group-title="Movies | Disney Plus",Z-O-M-B-I-E-S 3 (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzdv4nArhuZxd7il0boKaVxQMF.jpg" group-title="Movies | Disney Plus",Z-O-M-B-I-E-S 3 (2022)
 http://lidns.cc/movie/yu3k45/3audeg/137131.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajy3ALNpFhC4S1BHoBQq8tWPvlt.jpg" group-title="Movies | Disney Plus",Zack e Cody: O Filme (2011)
 http://lidns.cc/movie/yu3k45/3audeg/305008.mp4
@@ -12659,7 +12665,9 @@ http://lidns.cc/movie/yu3k45/3audeg/6056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Diverso",反恐特战队之猎影
 http://lidns.cc/movie/yu3k45/3audeg/143.mp4
 
-# --- Movies | Documentário (378) ---
+# --- Movies | Documentário (379) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nai8qVSHOO9KFfhlN5wt5qALQls.jpg" group-title="Movies | Documentário",O Resto (2021)
+http://lidns.cc/movie/yu3k45/3audeg/542296.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGDc4O9eQhTD9fcfSECNjAYTJtM.jpg" group-title="Movies | Documentário",Pitanga (2016)
 http://lidns.cc/movie/yu3k45/3audeg/541898.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXkXnyok6Aqxnm0yfmVOgzDge7H.jpg" group-title="Movies | Documentário",Noel Rosa, um Espírito Circulante (2024)
@@ -20075,7 +20083,15 @@ http://lidns.cc/movie/yu3k45/3audeg/8363.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",The Beginning After the End [L]
 http://lidns.cc/movie/yu3k45/3audeg/7298.mp4
 
-# --- Movies | Legendado (4378) ---
+# --- Movies | Legendado (4382) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7jNI1iZ86tj1sCLciM2pbUo3hDV.jpg" group-title="Movies | Legendado",Tempestade [L] (2022)
+http://lidns.cc/movie/yu3k45/3audeg/542297.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCdXagFYR7WwaHuVmZgzw4F0KpP.jpg" group-title="Movies | Legendado",Uma Noite Alucinante: A Morte do Demônio [L] (1981)
+http://lidns.cc/movie/yu3k45/3audeg/542294.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99pfXDBLpsZBJOYsuj2r75h1UwC.jpg" group-title="Movies | Legendado",Eureka [L] (2024)
+http://lidns.cc/movie/yu3k45/3audeg/542288.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfMoDjv8MglnMmxSyrwbTLMwgCC.jpg" group-title="Movies | Legendado",Quando Os Gritos Começam [L] (2021)
+http://lidns.cc/movie/yu3k45/3audeg/542287.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg3KFQFT47tbHPvSjDQ7zDKJM3D.jpg" group-title="Movies | Legendado",Sob o Domínio do Medo [L] (2011)
 http://lidns.cc/movie/yu3k45/3audeg/542174.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dheVE1P3Heut1AjpW0Kgp6L1F0.jpg" group-title="Movies | Legendado",Pesadelo no Inferno [L] (2018)
@@ -22014,7 +22030,7 @@ http://lidns.cc/movie/yu3k45/3audeg/513197.mp4
 http://lidns.cc/movie/yu3k45/3audeg/513192.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xl19he5lcrfbh4m99zx8WAtj1nT.jpg" group-title="Movies | Legendado",Uma Aula de Coragem [L] (2023)
 http://lidns.cc/movie/yu3k45/3audeg/513191.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trXpKcNkuS2MLc2JBi7gpt6MmQM.jpg" group-title="Movies | Legendado",Toxica [L] (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49j8eLmO0uAhbH0ZQIaIlsYEmeP.jpg" group-title="Movies | Legendado",Toxica [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/513190.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwgXyEAhgPjnkgY1uzJQODcIux3.jpg" group-title="Movies | Legendado",Mahavatar Narsimha [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/513183.mp4
@@ -40751,4 +40767,4 @@ http://lidns.cc/movie/yu3k45/3audeg/7542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Turcas",Yargı: Segredos de Família
 http://lidns.cc/movie/yu3k45/3audeg/2553.mp4
 
-# Total: 20322
+# Total: 20330
