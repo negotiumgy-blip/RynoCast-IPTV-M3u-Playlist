@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-05-26 20:48:06
+# Generated: 2026-05-27 08:37:23
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -13833,6 +13833,26 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/500939.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/YEN-BAI.jpeg" group-title="|AS| VIETNAM",VN - YEN BAI
 http://portott.com/live/c4c24c0217/c4b2e86278c6/500941.m3u8
 
+# --- |AU| AFL PPV (9) ---
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV 00 | Collingwood vs Carlton 10.30
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391042.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV 01 | Port Adelaide vs Sydney 10:30
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391041.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV 02 | Gws vs Hawthorn 04:10am Sunday
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391040.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV 03 | Brisbane Lions Brisbane vs Port Adelaide Power Port Adelaide | Gabba - Sat 9th Sep 10:25AM
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391039.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV | No Scheduled Event
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391038.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV | No Scheduled Event
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391037.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV | No Scheduled Event
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391036.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV | No Scheduled Event
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391035.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/AFL.png" group-title="|AU| AFL PPV",AFL TV | No Scheduled Event
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1391034.m3u8
+
 # --- |AU| AU ESPN PLAY PPV (100) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ESPN-PLAY.png" group-title="|AU| AU ESPN PLAY PPV",(AU) ESPN PLAY 1 (D)
 http://portott.com/live/c4c24c0217/c4b2e86278c6/991080.m3u8
@@ -15972,9 +15992,9 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1358331.m3u8
 # --- |DE| DYN NETWORK (62) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",##### DYN PPV EXCLUSIVE #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/985362.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | ALBA BERLIN - RASTA VECHTA | PLAYOFFS – VIERTELFINALE SPIEL 5 | Wed 27 May 18:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331981.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | TELEKOM BASKETS BONN - FITNESS FIRST WÜRZBURG BASKETS | PLAYOFFS – VIERTELFINALE SPIEL 5 | Wed 27 May 20:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331980.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331979.m3u8
@@ -16664,7 +16684,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/750139.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1375568.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",NEXT | PROA HALBFINALE: PHOENIX HAGEN VS. EISBÄREN BREMERHAVEN – SPIEL 3 | Tue 26 May 17:00 CEST (DE) | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",ENDED | PROA HALBFINALE: PHOENIX HAGEN VS. EISBÄREN BREMERHAVEN – SPIEL 3 | Tue 26 May 17:00 CEST (DE) | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1375567.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/SPORTDEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: SPORT DEUTSCHLAND PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1375566.m3u8
@@ -24652,63 +24672,63 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JACOB FEARNLEY - JUAN MANUEL CERÚNDOLO | Tue 26 May 17:46 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | SAN ANTONIO SPURS @ OKLAHOMA CITY THUNDER | Wed 27 May 02:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307815.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MULTIVIEW | Tue 26 May 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | COURTSIDE | Wed 27 May 10:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307814.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | HANNE VANDEWINKEL - MADISON KEYS | Tue 26 May 16:42 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TAMARA KORPATSCH - WANG XINYU | Wed 27 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307813.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | SEBASTIÁN BÁEZ - ROMÁN ANDRÉS BURRUCHAGA | Tue 26 May 14:20 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | CATY MCNALLY - BELINDA BENCIC | Wed 27 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307812.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ALINA KORNEEVA - ELISABETTA COCCIARETTO | Tue 26 May 15:50 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | FEDERICO CINÀ - JESPER DE JONG | Wed 27 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307811.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | J. CRISTIAN / A. POTAPOVA - E. HOZUMI / FH. WU  | Tue 26 May 17:06 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | R. CASH / J. TRACY - M. KOUAME / G. MPETSHI PERRICARD | Wed 27 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307810.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JAIME FARIA - DENIS SHAPOVALOV | Tue 26 May 17:22 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | O. LUZ / R. MATOS - A. GORANSSON / E. KING | Wed 27 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307809.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ANTONIA RUŽIC - ASHLYN KRUEGER | Tue 26 May 15:17 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ALEJANDRO DAVIDOVICH FOKINA - THIAGO AGUSTIN TIRANTE | Wed 27 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307808.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MARTÍN LANDALUCE - JUAN CARLOS PRADO ANGELO | Tue 26 May 13:15 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | K. PITER / R. ZARAZUA - C. BUCSA / N. MELICHAR-MARTINEZ | Wed 27 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307807.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ETHAN QUINN - FRANCISCO COMESAÑA | Tue 26 May 16:50 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | KAREN KHACHANOV - MARCO TRUNGELLITI | Wed 27 May 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307806.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | VÍT KOPRIVA - CORENTIN MOUTET | Tue 26 May 13:57 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MULTIVIEW | Wed 27 May 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307805.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | GIRO D'ITALIA | Tue 26 May 13:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307804.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | CRISTIAN GARÍN - LEARNER TIEN | Tue 26 May 14:52 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307803.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | COCO GAUFF - TAYLOR TOWNSEND | Tue 26 May 15:25 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307802.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | DALMA GÁLFI - MAYAR SHERIF | Tue 26 May 14:36 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307801.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ANHELINA KALININA - DIANE PARRY | Tue 26 May 17:51 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307800.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LINDA FRUHVIRTOVÁ - ELSA JACQUEMOT | Tue 26 May 15:21 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | E. PEREZ / D. SCHUURS - K. BOULTER / Y. PUTINTSEVA  | Tue 26 May 16:41 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LAURA SIEGEMUND - NAOMI OSAKA | Tue 26 May 14:47 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307797.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | H. GUO / K. MLADENOVIC - E. LYS / P. STEARNS | Tue 26 May 16:34 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307796.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | J. OSTAPENKO / E. ROUTLIFFE - K. EFREMOVA / E. INISAN | Tue 26 May 15:02 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307795.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | COURTSIDE | Tue 26 May 17:47 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307794.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307793.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307792.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | M. GRANOLLERS / H. ZEBALLOS - M. FUCSOVICS / M. GIRON | Tue 26 May 15:28 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307791.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ALEXANDER BUBLIK - JAN-LENNARD STRUFF | Tue 26 May 16:10 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307790.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MULTISCREEN | Tue 26 May 13:59 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 27
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307789.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ANNA KALINSKAYA - LOÏS BOISSON | Tue 26 May 17:17 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 28
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 28
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307788.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | N. BARRIENTOS / A. BEHAR - T. DROGUET / H. GASTON | Tue 26 May 17:32 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 29
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 29
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307787.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 30
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307786.m3u8
@@ -33836,31 +33856,31 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/725220.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/552255.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 01 | Cubs x Pirates start:2026-05-25 18:35:00 stop:2026-05-26 01:48:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801199.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 02 | Rays x Orioles start:2026-05-25 18:35:00 stop:2026-05-26 01:48:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 02 | Rays x Orioles start:2026-05-26 23:35:00 stop:2026-05-27 06:48:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801200.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 03 | Twins x White Sox start:2026-05-25 19:10:00 stop:2026-05-26 02:23:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 03 | Angels x Tigers start:2026-05-26 23:40:00 stop:2026-05-27 06:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801201.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 04 | Cardinals x Brewers start:2026-05-25 19:10:00 stop:2026-05-26 02:23:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 04 | Cubs x Pirates start:2026-05-26 23:40:00 stop:2026-05-27 06:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801202.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 05 | Yankees x Royals start:2026-05-25 20:40:00 stop:2026-05-26 03:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 05 | Braves x Red Sox start:2026-05-26 23:45:00 stop:2026-05-27 06:58:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801203.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 06 | Reds x Mets start:2026-05-25 21:10:00 stop:2026-05-26 04:23:20
-http://portott.com/live/c4c24c0217/c4b2e86278c6/801204.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 07 | D-backs x Giants start:2026-05-25 22:05:00 stop:2026-05-26 05:18:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 07 | Reds x Mets start:2026-05-27 00:10:00 stop:2026-05-27 07:23:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801205.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 08 | Nationals x Guardians start:2026-05-25 23:10:00 stop:2026-05-26 06:23:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801206.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 09 | Phillies x Padres start:2026-05-25 23:40:00 stop:2026-05-26 06:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 09 | Yankees x Royals start:2026-05-27 00:40:00 stop:2026-05-27 07:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801207.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 10 | Astros x Rangers start:2026-05-26 00:05:00 stop:2026-05-26 07:18:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 10 | Cardinals x Brewers start:2026-05-27 00:40:00 stop:2026-05-27 07:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801192.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 12 | Rockies x Dodgers start:2026-05-26 02:10:00 stop:2026-05-26 09:23:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 11 | Astros x Rangers start:2026-05-27 01:05:00 stop:2026-05-27 08:18:20
+http://portott.com/live/c4c24c0217/c4b2e86278c6/801193.m3u8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 12 | Mariners x Athletics start:2026-05-27 02:40:00 stop:2026-05-27 09:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801194.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 13 | Mariners x Athletics start:2026-05-26 02:40:00 stop:2026-05-26 09:53:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 13 | Phillies x Padres start:2026-05-27 02:40:00 stop:2026-05-27 09:53:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801195.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 14 | Athletics x Padres start:2026-05-24 21:10:00 stop:2026-05-25 04:23:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 14 | D-backs x Giants start:2026-05-27 02:45:00 stop:2026-05-27 09:58:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801196.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 15 | Nationals x Braves start:2026-05-24 21:10:00 stop:2026-05-25 04:23:20
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 15 | Rockies x Dodgers start:2026-05-27 03:10:00 stop:2026-05-27 10:23:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801197.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/MLB.png" group-title="|NA| USA MLB",MLB 16 | Rangers x Angels start:2026-05-25 00:20:00 stop:2026-05-25 07:33:20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/801198.m3u8
@@ -34264,7 +34284,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/552024.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660708.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA-TV.png" group-title="|NA| USA NBA",USA - NBA TV HD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1009003.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 01 : New York Knicks @ Cleveland Cavaliers // UK Mon 25 May 11:45pm // ET Mon 25 May 6:45pm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 01 : San Antonio Spurs @ Oklahoma City Thunder // UK Wed 27 May 12:15am // ET Tue 26 May 7:15pm
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660707.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NBA.png" group-title="|NA| USA NBA",NBA 02 :
 http://portott.com/live/c4c24c0217/c4b2e86278c6/660706.m3u8
@@ -36732,59 +36752,59 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | GIRO D'ITALIA | 16. ETAP | MULTISCREEN | Tue 26 May 13:59 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | OKLAHOMA CITY THUNDER - SAN ANTONIO SPURS | 5. MECZ | Wed 27 May 02:24 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | BARRIENTOS/BEHAR - DROGUET/GASTON | Tue 26 May 17:32 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | COURTSIDE | Wed 27 May 10:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168964.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | GUO/MLADENOVIC - LYS/STEARNS | Tue 26 May 16:34 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | CATY MCNALLY - BELINDA BENCIC | Wed 27 May 10:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168963.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | DALMA GALFI - MAYAR SHERIF | Tue 26 May 14:36 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ALEJANDRO DAVIDOVICH FOKINA - THIAGO AGUSTIN TIRANTE | Wed 27 May 10:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168962.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | JACOB FEARNLEY - JUAN MANUEL CERÚNDOLO | Tue 26 May 17:46 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | FEDERICO CINÀ - JESPER DE JONG | Wed 27 May 10:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168961.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | JAIME FARIA - DENIS SHAPOVALOV | Tue 26 May 17:22 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | CASH/TRACY - KOUAME/MPETSHI PERRICARD | Wed 27 May 10:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168960.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | LAURA SIEGEMUND - NAOMI OSAKA | Tue 26 May 14:47 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TAMARA KORPATSCH - WANG XINYU | Wed 27 May 10:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168959.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | PEREZ/SCHUURS - BOULTER/PUTINTSEVA  | Tue 26 May 16:43 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | PITER/ZARAZUA - BUCSA/MELICHAR-MARTINEZ | Wed 27 May 10:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168958.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | OSTAPENKO/ROUTLIFFE - EFREMOVA/INISAN | Tue 26 May 15:02 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | O. LUZ / R. MATOS - A. GORANSSON / E. KING | Wed 27 May 10:55 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168957.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | COURTSIDE | Tue 26 May 17:47 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | KAREN CHACZANOW - MARCO TRUNGELLITI | Wed 27 May 11:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168956.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | LINDA FRUHVIRTOVA - ELSA JACQUEMOT | Tue 26 May 15:21 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | IGA ŚWIĄTEK - SARA BEJLEK | Wed 27 May 11:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 11
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168955.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | COCO GAUFF - TAYLOR TOWNSEND | Tue 26 May 15:25 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MAGDA LINETTE - JELENA OSTAPENKO | Wed 27 May 13:30 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168954.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | HANNE VANDEWINKEL - MADISON KEYS | Tue 26 May 16:42 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MAGDALENA FRECH - JIL TEICHMANN | Wed 27 May 18:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 13
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168953.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | CRISTIAN GARÍN - LEARNER TIEN | Tue 26 May 14:52 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TENIS | Wed 27 May 11:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 14
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168952.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | MULTIVIEW | 3. DZIEŃ | Tue 26 May 11:00 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 15
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168951.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | ANTONIA RUŽIC - ASHLYN KRUEGER | Tue 26 May 15:17 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 16
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168950.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | SEBASTIÁN BÁEZ - ROMÁN ANDRÉS BURRUCHAGA | Tue 26 May 14:20 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 17
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168949.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | CRISTIAN/POTAPOVA - HOZUMI/WU  | Tue 26 May 17:06 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 18
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168948.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ETHAN QUINN - FRANCISCO COMESANA | Tue 26 May 16:50 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 19
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168947.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | ALINA KORNIEJEWA - ELISABETTA COCCIARETTO | Tue 26 May 15:50 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 20
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168946.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | MARTÍN LANDALUCE - JUAN CARLOS PRADO ANGELO | Tue 26 May 13:15 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 21
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168945.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | GIRO D'ITALIA | 16. ETAP | Tue 26 May 13:29 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 22
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168944.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ANNA KALINSKAYA - LOÏS BOISSON | Tue 26 May 17:17 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 23
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168943.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | VÍT KOPRIVA - CORENTIN MOUTET | Tue 26 May 13:57 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 24
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 24
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168942.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | GRANOLLERS/ZEBALLOS - FUCSOVICS/GIRON | Tue 26 May 15:28 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 25
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168941.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 26
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168940.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | ALEXANDER BUBLIK - JAN-LENNARD STRUFF | Tue 26 May 16:10 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 27
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 27
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168939.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 28
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168938.m3u8
@@ -41987,4 +42007,4 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/828028.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/828027.m3u8
 
-# Total: 20645
+# Total: 20654

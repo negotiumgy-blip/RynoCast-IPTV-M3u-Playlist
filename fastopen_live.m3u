@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-26 21:00:32
+# Generated: 2026-05-27 08:44:26
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -9210,6 +9210,30 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/114770.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/114769.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Events",MLS 20 VIP SPORTS
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/114768.m3u8
+
+# --- Fifa World Cup 2026 (11) ---
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 01 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135151.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 02 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135152.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 03 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135153.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 04 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135154.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 06 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135155.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 07 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135156.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 08 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135157.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 09 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135158.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",Fifa 10 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135159.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",FIFA FR UHD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135161.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png" group-title="Fifa World Cup 2026",FIFA FR 4K VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135160.m3u8
 
 # --- Finland (63) ---
 #EXTINF:-1 tvg-logo="" group-title="Finland",##########   Finland   ##########
@@ -25119,7 +25143,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74293.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Thailand",True Premiere Football 5 HD TH
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/74292.m3u8
 
-# --- Turkey (360) ---
+# --- Turkey (361) ---
 #EXTINF:-1 tvg-logo="" group-title="Turkey",##########   Turkey   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2527.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ht-spor-buyuk.webp/275px-Ht-spor-buyuk.webp.png" group-title="Turkey",HT Spor HD TR
@@ -25194,6 +25218,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/7229.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/833.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",beIN SPORTS 4 FHD TR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/7230.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUQFeNVDh8-PJHWL3BaC-qM6f9pczlHXJCFQ&s" group-title="Turkey",Bein Sports 5 HD TR
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135162.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",beINSports Max 1 HD TR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/17628.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Turkey",beINSports Max 1 FHD TR
@@ -31703,4 +31729,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15744
+# Total: 15756

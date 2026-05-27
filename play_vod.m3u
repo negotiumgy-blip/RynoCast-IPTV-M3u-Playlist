@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-05-26 20:48:29
+# Generated: 2026-05-27 08:47:46
 # Expires: 2026-06-14
 # Family Safe Edition
 # ==============================================
@@ -33389,7 +33389,7 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5350
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | NBC",Jogo de Titãs
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5351
 
-# --- Series | Series | Netflix (1158) ---
+# --- Series | Series | Netflix (1160) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",13 Reasons Why
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/33
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Narcos
@@ -35706,6 +35706,10 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5793
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5798
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Adeus, Terra
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5805
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",The Eminence in Shadow
+http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5807
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Pro Bono 2025
+http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5808
 
 # --- Series | Series | Outros Streamings (260) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outros Streamings",Six
@@ -36831,4 +36835,4 @@ http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5582
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | STAR+",Food Truck - A Batalha
 http://play.1list.vip/series/8yxHApRgvn/factoryiptv/5584
 
-# Total: 18366
+# Total: 18368

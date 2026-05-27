@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-26 20:50:10
+# Generated: 2026-05-27 08:37:43
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1165,7 +1165,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1593) ---
+# --- Movies | Films (1596) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg" group-title="Movies | Films",The Criminals (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28125.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ujSiTlMQ6KyogNQwiXepPQ9Syqz.jpg" group-title="Movies | Films",Meurtres en porcelaine (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28124.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bT7sMDsvWNeIGgZ6ZsisNdBcHdq.jpg" group-title="Movies | Films",Forgive Us All (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28123.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wV1B6SHK5Ea6hxJVcgICIlgfyPl.jpg" group-title="Movies | Films",The Carpenter's Son (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/27870.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gozKFs2p6nq8BnV6BnLWH7WnDT4.jpg" group-title="Movies | Films",Tapis rouge à Groland (2026)
@@ -4494,7 +4500,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1449.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1448.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gA0DiFwY6Zh9XoHTGop28vMHdo.jpg" group-title="Movies | Films Arabe",Taslim Ahali - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1535.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQl4nx6uCYCG5E2XsoP3KlM09XE.jpg" group-title="Movies | Films Arabe",Le Message (1976)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d3yXtP24wHSbJbGWmiGX5vjGnUA.jpg" group-title="Movies | Films Arabe",Le Message (1976)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/10269.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y92cTW9pIw3K2AX7l9R6GS1FKZ2.jpg" group-title="Movies | Films Arabe",Les Renégats de l’Europe - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1534.mkv
@@ -5886,8 +5892,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/798.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1541.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Star Trek Discovery
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/6.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les voyageurs du temps
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",La casa de papel
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/17.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
@@ -6280,6 +6284,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1172.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1178.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Ozark
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1181.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les voyageurs du temps
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1184.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -7546,8 +7552,6 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/10
-#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Ballers
-http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/14
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vikings
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/16
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Deep State
@@ -8160,5 +8164,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1176
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1180
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Les aventures de Nora & Gil
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1182
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Ballers
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1183
 
-# Total: 4047
+# Total: 4050
