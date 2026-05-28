@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2026-05-27 21:00:01
+# Generated: 2026-05-28 08:20:20
 # Expires: 2027-02-05
 # Family Safe Edition
 # ==============================================
@@ -3869,7 +3869,7 @@ http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/76362.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/50860.jpg" group-title="24/7 KIDS & FAMILY",24/7 Tom and Jerry Tales
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/50860.m3u8
 
-# --- 24/7 MOVIES (223) ---
+# --- 24/7 MOVIES (224) ---
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/705082.jpg" group-title="24/7 MOVIES",24/7 Action Movie 2024
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/705082.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/601052.jpg" group-title="24/7 MOVIES",24/7 Action Movies 2021
@@ -4316,6 +4316,8 @@ http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/551393.m3u8
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/555691.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/561868.jpg" group-title="24/7 MOVIES",24/7 Zombie
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/561868.m3u8
+#EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/560363.jpg" group-title="24/7 MOVIES",24/7 Chicago P.D
+http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/560363.m3u8
 
 # --- 24/7 NEWS (4) ---
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/30800.jpg" group-title="24/7 NEWS",24/7 Full Frontal with Samantha Bee
@@ -19235,4 +19237,4 @@ http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/660965.m3u8
 #EXTINF:-1 tvg-logo="https://static.realiptv.to/snapshots/660966.jpg" group-title="VIETNAM",VN Vietface TV
 http://s.rocketdns.info:8080/live/Lowblowmusic/6322468/660966.m3u8
 
-# Total: 9496
+# Total: 9497

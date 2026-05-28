@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-05-27 20:56:40
+# Generated: 2026-05-28 08:14:05
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -12,85 +12,85 @@
 http://45.139.122.199:8080/live/Martin1/martin1/2405884.m3u8
 
 # --- 24/7 English Action & Adventure (37) ---
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 The Transporter
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Transporter.svg" group-title="24/7 English Action & Adventure",24/7 The Transporter
 http://45.139.122.199:8080/live/Martin1/martin1/2009877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 The Mummy Collection
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Mummy%20Collection.png" group-title="24/7 English Action & Adventure",24/7 The Mummy Collection
 http://45.139.122.199:8080/live/Martin1/martin1/2009855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 The Hunger Games
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Hunger%20Games.svg" group-title="24/7 English Action & Adventure",24/7 The Hunger Games
 http://45.139.122.199:8080/live/Martin1/martin1/2009843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 The Grand Tour
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Grand%20Tour.jpg" group-title="24/7 English Action & Adventure",24/7 The Grand Tour
 http://45.139.122.199:8080/live/Martin1/martin1/2009837.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/790j89s2ZAEwhsBdUiu1wl/c68a89e00f8c4bac1933c18d3fd41fcc/Movies247__1_.png" group-title="24/7 English Action & Adventure",24/7 The Fast And Furious
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Fast%20And%20Furious.jpeg" group-title="24/7 English Action & Adventure",24/7 The Fast And Furious
 http://45.139.122.199:8080/live/Martin1/martin1/2009828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 The Expendables
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Expendables.jpg" group-title="24/7 English Action & Adventure",24/7 The Expendables
 http://45.139.122.199:8080/live/Martin1/martin1/2009826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 The Dukes of Hazzard
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Dukes%20of%20Hazzard.webp" group-title="24/7 English Action & Adventure",24/7 The Dukes of Hazzard
 http://45.139.122.199:8080/live/Martin1/martin1/2009825.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfAGotvZUVOBLHwoHNmWo8nEL7q.jpg" group-title="24/7 English Action & Adventure",24/7 Taken
 http://45.139.122.199:8080/live/Martin1/martin1/2009814.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vDMkZnP3pHruaqwiVfGi29lJOe.jpg" group-title="24/7 English Action & Adventure",24/7 Rush Hour
 http://45.139.122.199:8080/live/Martin1/martin1/2009777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Rocky
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Rocky.png" group-title="24/7 English Action & Adventure",24/7 Rocky
 http://45.139.122.199:8080/live/Martin1/martin1/2009774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Rambo
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Rambo.jpg" group-title="24/7 English Action & Adventure",24/7 Rambo
 http://45.139.122.199:8080/live/Martin1/martin1/2009766.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247piratesofthecaribbean.png" group-title="24/7 English Action & Adventure",24/7 Pirates of the Caribbean
 http://45.139.122.199:8080/live/Martin1/martin1/2009749.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Night at The Museum
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Night%20at%20The%20Museum.png" group-title="24/7 English Action & Adventure",24/7 Night at The Museum
 http://45.139.122.199:8080/live/Martin1/martin1/2009732.m3u8
-#EXTINF:-1 tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="24/7 English Action & Adventure",24/7 Mission Impossible
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Mission%20Impossible.png" group-title="24/7 English Action & Adventure",24/7 Mission Impossible
 http://45.139.122.199:8080/live/Martin1/martin1/2009716.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Mad Max
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Mad%20Max.png" group-title="24/7 English Action & Adventure",24/7 Mad Max
 http://45.139.122.199:8080/live/Martin1/martin1/2009697.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247lethalweapon.png" group-title="24/7 English Action & Adventure",24/7 Lethal Weapon
 http://45.139.122.199:8080/live/Martin1/martin1/2009687.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247jurassicpark.png" group-title="24/7 English Action & Adventure",24/7 Jurassic Park
 http://45.139.122.199:8080/live/Martin1/martin1/2009674.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 John Wick
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/John%20Wick.png" group-title="24/7 English Action & Adventure",24/7 John Wick
 http://45.139.122.199:8080/live/Martin1/martin1/2009669.m3u8
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/bd5zurrrnk1g/790j89s2ZAEwhsBdUiu1wl/c68a89e00f8c4bac1933c18d3fd41fcc/Movies247__1_.png" group-title="24/7 English Action & Adventure",24/7 James Bond 1
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/James-bond-Logo.png" group-title="24/7 English Action & Adventure",24/7 James Bond 1
 http://45.139.122.199:8080/live/Martin1/martin1/2009665.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Jackie Chan Movies
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Jackie%20Chan%20Movies.png" group-title="24/7 English Action & Adventure",24/7 Jackie Chan Movies
 http://45.139.122.199:8080/live/Martin1/martin1/2009664.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Indiana Jones
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Indiana%20Jones.jpg" group-title="24/7 English Action & Adventure",24/7 Indiana Jones
 http://45.139.122.199:8080/live/Martin1/martin1/2009659.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Honey I Shrunk the Kids
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Honey%20I%20Shrunk%20the%20Kids.jpg" group-title="24/7 English Action & Adventure",24/7 Honey I Shrunk the Kids
 http://45.139.122.199:8080/live/Martin1/martin1/2009646.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Home Alone
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Home%20Alone.png" group-title="24/7 English Action & Adventure",24/7 Home Alone
 http://45.139.122.199:8080/live/Martin1/martin1/2009644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Grease
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Grease.jpg" group-title="24/7 English Action & Adventure",24/7 Grease
 http://45.139.122.199:8080/live/Martin1/martin1/2009630.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Die Hard
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Die%20Hard.jpg" group-title="24/7 English Action & Adventure",24/7 Die Hard
 http://45.139.122.199:8080/live/Martin1/martin1/2009558.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247denzelwashington.png" group-title="24/7 English Action & Adventure",24/7 Denzel Washington
 http://45.139.122.199:8080/live/Martin1/martin1/2009553.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Cobra Kai
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Cobra%20Kai.png" group-title="24/7 English Action & Adventure",24/7 Cobra Kai
 http://45.139.122.199:8080/live/Martin1/martin1/2009532.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Bruce Lee Movies
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Bruce%20Lee%20Movies.png" group-title="24/7 English Action & Adventure",24/7 Bruce Lee Movies
 http://45.139.122.199:8080/live/Martin1/martin1/2009518.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Bad Boys
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Bad%20Boys.png" group-title="24/7 English Action & Adventure",24/7 Bad Boys
 http://45.139.122.199:8080/live/Martin1/martin1/2009484.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247arnoldschwarzenegger.png" group-title="24/7 English Action & Adventure",24/7 Arnold Schwarzenegger
 http://45.139.122.199:8080/live/Martin1/martin1/2009476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 21 Jump Street
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/21%20Jump%20Street.png" group-title="24/7 English Action & Adventure",24/7 21 Jump Street
 http://45.139.122.199:8080/live/Martin1/martin1/2009455.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247lethalweapon.png" group-title="24/7 English Action & Adventure",24/7 Lethal Weapon FHD
 http://45.139.122.199:8080/live/Martin1/martin1/1650697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Baywatch
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Baywatch.svg" group-title="24/7 English Action & Adventure",24/7 Baywatch
 http://45.139.122.199:8080/live/Martin1/martin1/1650688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Police Academy FHD
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Police%20Academy%20FHD.png" group-title="24/7 English Action & Adventure",24/7 Police Academy FHD
 http://45.139.122.199:8080/live/Martin1/martin1/1650679.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247piratesofthecaribbean.png" group-title="24/7 English Action & Adventure",24/7 Pirates of the Caribbean HD
 http://45.139.122.199:8080/live/Martin1/martin1/1650678.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 Home Alone HD
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Home%20Alone.png" group-title="24/7 English Action & Adventure",24/7 Home Alone HD
 http://45.139.122.199:8080/live/Martin1/martin1/1650677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Action & Adventure",24/7 John Wick FHD
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/John%20Wick.png" group-title="24/7 English Action & Adventure",24/7 John Wick FHD
 http://45.139.122.199:8080/live/Martin1/martin1/1650675.m3u8
 
 # --- 24/7 English Animation & Kids (34) ---
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 X-MCartoon
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/X-MCartoon.png" group-title="24/7 English Animation & Kids",24/7 X-MCartoon
 http://45.139.122.199:8080/live/Martin1/martin1/2009920.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Transformers: Rescue Bots
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Transformers_%20Rescue%20Bots.png" group-title="24/7 English Animation & Kids",24/7 Transformers: Rescue Bots
 http://45.139.122.199:8080/live/Martin1/martin1/2009899.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247tomandjerry.png" group-title="24/7 English Animation & Kids",24/7 Tom And Jerry
 http://45.139.122.199:8080/live/Martin1/martin1/2009894.m3u8
@@ -100,29 +100,29 @@ http://45.139.122.199:8080/live/Martin1/martin1/2009892.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2009873.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247thesimpsons.png" group-title="24/7 English Animation & Kids",24/7 The Simpsons
 http://45.139.122.199:8080/live/Martin1/martin1/2009870.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 The Garfield Show
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Garfield%20Show.webp" group-title="24/7 English Animation & Kids",24/7 The Garfield Show
 http://45.139.122.199:8080/live/Martin1/martin1/2009832.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247theflintstones.png" group-title="24/7 English Animation & Kids",24/7 The Flintstones
 http://45.139.122.199:8080/live/Martin1/martin1/2009831.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 TeTitans Go
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/TeTitans%20Go.png" group-title="24/7 English Animation & Kids",24/7 TeTitans Go
 http://45.139.122.199:8080/live/Martin1/martin1/2009817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 StevUniverse
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/StevUniverse.jpg" group-title="24/7 English Animation & Kids",24/7 StevUniverse
 http://45.139.122.199:8080/live/Martin1/martin1/2009807.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZMqzWQF/TOTOOO2.png" group-title="24/7 English Animation & Kids",24/7 SpongeBob Square Pants
 http://45.139.122.199:8080/live/Martin1/martin1/2009799.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247southpark.png" group-title="24/7 English Animation & Kids",24/7 South Park
 http://45.139.122.199:8080/live/Martin1/martin1/2009796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Sofia the First
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Sofia%20the%20First.webp" group-title="24/7 English Animation & Kids",24/7 Sofia the First
 http://45.139.122.199:8080/live/Martin1/martin1/2009794.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247scoobydoo.png" group-title="24/7 English Animation & Kids",24/7 Scooby Doo
 http://45.139.122.199:8080/live/Martin1/martin1/2009781.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Rugrats
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Rugrats.png" group-title="24/7 English Animation & Kids",24/7 Rugrats
 http://45.139.122.199:8080/live/Martin1/martin1/2009776.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247rickandmorty.png" group-title="24/7 English Animation & Kids",24/7 Rick and Morty
 http://45.139.122.199:8080/live/Martin1/martin1/2009771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Recess
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Recess.svg" group-title="24/7 English Animation & Kids",24/7 Recess
 http://45.139.122.199:8080/live/Martin1/martin1/2009767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Pokemon
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Pokemon.png" group-title="24/7 English Animation & Kids",24/7 Pokemon
 http://45.139.122.199:8080/live/Martin1/martin1/2009753.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247peppapig.png" group-title="24/7 English Animation & Kids",24/7 Peppa Pig
 http://45.139.122.199:8080/live/Martin1/martin1/2009744.m3u8
@@ -132,65 +132,65 @@ http://45.139.122.199:8080/live/Martin1/martin1/2009741.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2009723.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247mashaandthebear.png" group-title="24/7 English Animation & Kids",24/7 Masha and the Bear
 http://45.139.122.199:8080/live/Martin1/martin1/2009702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Madagascar
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Madagascar.png" group-title="24/7 English Animation & Kids",24/7 Madagascar
 http://45.139.122.199:8080/live/Martin1/martin1/2009698.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247looneytunes.png" group-title="24/7 English Animation & Kids",24/7 Looney Tunes
 http://45.139.122.199:8080/live/Martin1/martin1/2009691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Kung Fu Panda
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Kung%20Fu%20Panda.png" group-title="24/7 English Animation & Kids",24/7 Kung Fu Panda
 http://45.139.122.199:8080/live/Martin1/martin1/2009682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Ice Age
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Ice%20Age.png" group-title="24/7 English Animation & Kids",24/7 Ice Age
 http://45.139.122.199:8080/live/Martin1/martin1/2009655.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Gravity Falls
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Gravity%20Falls.svg" group-title="24/7 English Animation & Kids",24/7 Gravity Falls
 http://45.139.122.199:8080/live/Martin1/martin1/2009628.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3E71oY6qgAEiw6YZIHDlHSLwer.jpg" group-title="24/7 English Animation & Kids",24/7 Family Guy
 http://45.139.122.199:8080/live/Martin1/martin1/2009583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Dragon Ball Z
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Dragon%20Ball%20Z.png" group-title="24/7 English Animation & Kids",24/7 Dragon Ball Z
 http://45.139.122.199:8080/live/Martin1/martin1/2009570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Disney Movies 4
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Disney%20Movies.png" group-title="24/7 English Animation & Kids",24/7 Disney Movies 4
 http://45.139.122.199:8080/live/Martin1/martin1/2009564.m3u8
-#EXTINF:-1 tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="24/7 English Animation & Kids",24/7 Disney Movies 2
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Disney%20Movies.png" group-title="24/7 English Animation & Kids",24/7 Disney Movies 2
 http://45.139.122.199:8080/live/Martin1/martin1/2009562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Disney Movies 1
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Disney%20Movies.png" group-title="24/7 English Animation & Kids",24/7 Disney Movies 1
 http://45.139.122.199:8080/live/Martin1/martin1/2009561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Arthur
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Arthur.png" group-title="24/7 English Animation & Kids",24/7 Arthur
 http://45.139.122.199:8080/live/Martin1/martin1/2009479.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Animation & Kids",24/7 Batman - The Animated Series
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Batman%20-%20The%20Animated%20Series.webp" group-title="24/7 English Animation & Kids",24/7 Batman - The Animated Series
 http://45.139.122.199:8080/live/Martin1/martin1/1805888.m3u8
 
 # --- 24/7 English Classics & Retro (17) ---
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 English Classics & Retro",24/7 Different World
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Different%20World.jpg" group-title="24/7 English Classics & Retro",24/7 Different World
 http://45.139.122.199:8080/live/Martin1/martin1/2012219.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 English Classics & Retro",24/7 Good Times
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Good%20Times.png" group-title="24/7 English Classics & Retro",24/7 Good Times
 http://45.139.122.199:8080/live/Martin1/martin1/2010900.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/c316295e9b3307bc00d479b3ee8652c4.png" group-title="24/7 English Classics & Retro",24/7 The Cosby Show
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Cosby%20Show.png" group-title="24/7 English Classics & Retro",24/7 The Cosby Show
 http://45.139.122.199:8080/live/Martin1/martin1/2010899.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247thejeffersons.png" group-title="24/7 English Classics & Retro",24/7 The Jeffersons
 http://45.139.122.199:8080/live/Martin1/martin1/2010896.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIGPWBFjfnOzqsMxZeQ4UmuPggQ.jpg" group-title="24/7 English Classics & Retro",24/7 Sanford and Son
 http://45.139.122.199:8080/live/Martin1/martin1/2010895.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Laurel and Hardy
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Laurel%20and%20Hardy.jpg" group-title="24/7 English Classics & Retro",24/7 Laurel and Hardy
 http://45.139.122.199:8080/live/Martin1/martin1/2009928.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247themunsters.png" group-title="24/7 English Classics & Retro",24/7 The Munsters
 http://45.139.122.199:8080/live/Martin1/martin1/2009856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 The Facts of Life
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Facts%20of%20Life.png" group-title="24/7 English Classics & Retro",24/7 The Facts of Life
 http://45.139.122.199:8080/live/Martin1/martin1/2009827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Rising Damp
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Rising%20Damp.png" group-title="24/7 English Classics & Retro",24/7 Rising Damp
 http://45.139.122.199:8080/live/Martin1/martin1/2009772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Porridge
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Porridge.jpg" group-title="24/7 English Classics & Retro",24/7 Porridge
 http://45.139.122.199:8080/live/Martin1/martin1/2009756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Only Fools And Horses
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Only%20Fools%20And%20Horses.jpg" group-title="24/7 English Classics & Retro",24/7 Only Fools And Horses
 http://45.139.122.199:8080/live/Martin1/martin1/2009738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 On The Buses
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/On%20The%20Buses.png" group-title="24/7 English Classics & Retro",24/7 On The Buses
 http://45.139.122.199:8080/live/Martin1/martin1/2009735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Last of the Summer Wine
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Last%20of%20the%20Summer%20Wine.webp" group-title="24/7 English Classics & Retro",24/7 Last of the Summer Wine
 http://45.139.122.199:8080/live/Martin1/martin1/2009684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Keeping up Appearances
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Keeping%20up%20Appearances.png" group-title="24/7 English Classics & Retro",24/7 Keeping up Appearances
 http://45.139.122.199:8080/live/Martin1/martin1/2009677.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Good Times
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Good%20Times.png" group-title="24/7 English Classics & Retro",24/7 Good Times
 http://45.139.122.199:8080/live/Martin1/martin1/2009621.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfHR7QJf/TOTO3.png" group-title="24/7 English Classics & Retro",24/7 Diff'rent Strokes
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Diff'rent%20Strokes.svg" group-title="24/7 English Classics & Retro",24/7 Diff'rent Strokes
 http://45.139.122.199:8080/live/Martin1/martin1/2009559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Classics & Retro",24/7 Car 54, Where are you!
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Car%2054,%20Where%20are%20you!.jpg" group-title="24/7 English Classics & Retro",24/7 Car 54, Where are you!
 http://45.139.122.199:8080/live/Martin1/martin1/2009523.m3u8
 
 # --- 24/7 English Comedy (95) ---
@@ -386,17 +386,17 @@ http://45.139.122.199:8080/live/Martin1/martin1/1650680.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/331403.m3u8
 
 # --- 24/7 English Documentary & TrueCrime (9) ---
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Documentary & TrueCrime",24/7 Unsolved Mysteries
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Unsolved%20Mysteries.png" group-title="24/7 English Documentary & TrueCrime",24/7 Unsolved Mysteries
 http://45.139.122.199:8080/live/Martin1/martin1/2009907.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Documentary & TrueCrime",24/7 Gangland Undercover
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Gangland%20Undercover.jpg" group-title="24/7 English Documentary & TrueCrime",24/7 Gangland Undercover
 http://45.139.122.199:8080/live/Martin1/martin1/2009609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Documentary & TrueCrime",24/7 David Attenborough
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/David%20Attenborough.png" group-title="24/7 English Documentary & TrueCrime",24/7 David Attenborough
 http://45.139.122.199:8080/live/Martin1/martin1/2009549.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247coldcase.png" group-title="24/7 English Documentary & TrueCrime",24/7 Cold Case
 http://45.139.122.199:8080/live/Martin1/martin1/2009534.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Documentary & TrueCrime",24/7 Cold Case 2
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247coldcase.png" group-title="24/7 English Documentary & TrueCrime",24/7 Cold Case 2
 http://45.139.122.199:8080/live/Martin1/martin1/2009533.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Documentary & TrueCrime",24/7 60 Days In
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/60%20Days%20In.png" group-title="24/7 English Documentary & TrueCrime",24/7 60 Days In
 http://45.139.122.199:8080/live/Martin1/martin1/2009458.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/History%20channel.png" group-title="24/7 English Documentary & TrueCrime",N1 Play History HD US
 http://45.139.122.199:8080/live/Martin1/martin1/331444.m3u8
@@ -554,65 +554,65 @@ http://45.139.122.199:8080/live/Martin1/martin1/1650689.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/1650686.m3u8
 
 # --- 24/7 English Horror & Thriller (13) ---
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 Underworld
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Underworld.png" group-title="24/7 English Horror & Thriller",24/7 Underworld
 http://45.139.122.199:8080/live/Martin1/martin1/2009906.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247trueblood.png" group-title="24/7 English Horror & Thriller",24/7 True Blood
 http://45.139.122.199:8080/live/Martin1/martin1/2009901.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZMb3R3e5vqukPbeDMeyYGf2ZNG.jpg" group-title="24/7 English Horror & Thriller",24/7 The Walking Dead
 http://45.139.122.199:8080/live/Martin1/martin1/2009883.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 Scream Queens
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Scream%20Queens.png" group-title="24/7 English Horror & Thriller",24/7 Scream Queens
 http://45.139.122.199:8080/live/Martin1/martin1/2009782.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 Psycho
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Psycho.png" group-title="24/7 English Horror & Thriller",24/7 Psycho
 http://45.139.122.199:8080/live/Martin1/martin1/2009763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 Insidious Movies
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Insidious%20Movies.jpg" group-title="24/7 English Horror & Thriller",24/7 Insidious Movies
 http://45.139.122.199:8080/live/Martin1/martin1/2009661.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 Horror
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Horror.png" group-title="24/7 English Horror & Thriller",24/7 Horror
 http://45.139.122.199:8080/live/Martin1/martin1/2009647.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247halloween.png" group-title="24/7 English Horror & Thriller",24/7 Halloween
 http://45.139.122.199:8080/live/Martin1/martin1/2009636.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247fridaythe13th.png" group-title="24/7 English Horror & Thriller",24/7 Friday The 13th
 http://45.139.122.199:8080/live/Martin1/martin1/2009604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 Final Destination
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Final%20Destination.svg" group-title="24/7 English Horror & Thriller",24/7 Final Destination
 http://45.139.122.199:8080/live/Martin1/martin1/2009594.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 Fifty Shades
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Fifty%20Shades.png" group-title="24/7 English Horror & Thriller",24/7 Fifty Shades
 http://45.139.122.199:8080/live/Martin1/martin1/2009592.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247anightmareonelmstreet.png" group-title="24/7 English Horror & Thriller",24/7 A Nightmare on Elm Street
 http://45.139.122.199:8080/live/Martin1/martin1/2009463.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Horror & Thriller",24/7 A Haunting
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/A%20Haunting.jpg" group-title="24/7 English Horror & Thriller",24/7 A Haunting
 http://45.139.122.199:8080/live/Martin1/martin1/2009462.m3u8
 
 # --- 24/7 English Reality & Lifestyle (18) ---
 #EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/Mr-Beast-Logo-700x394-1.png" group-title="24/7 English Reality & Lifestyle",24/7 Mr. Beast
 http://45.139.122.199:8080/live/Martin1/martin1/2215369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Wrestlemania
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/WrestleMania.svg" group-title="24/7 English Reality & Lifestyle",24/7 Wrestlemania
 http://45.139.122.199:8080/live/Martin1/martin1/2009919.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247topgear.png" group-title="24/7 English Reality & Lifestyle",24/7 Top Gear
 http://45.139.122.199:8080/live/Martin1/martin1/2009896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 River Monsters
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/River%20Monsters.webp" group-title="24/7 English Reality & Lifestyle",24/7 River Monsters
 http://45.139.122.199:8080/live/Martin1/martin1/2009773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Pit Bulls and Parolees
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Pit%20Bulls%20and%20Parolees.jpg" group-title="24/7 English Reality & Lifestyle",24/7 Pit Bulls and Parolees
 http://45.139.122.199:8080/live/Martin1/martin1/2009750.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Pimp my Ride
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Pimp%20my%20Ride.png" group-title="24/7 English Reality & Lifestyle",24/7 Pimp my Ride
 http://45.139.122.199:8080/live/Martin1/martin1/2009747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Moonshiners
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Moonshiners.png" group-title="24/7 English Reality & Lifestyle",24/7 Moonshiners
 http://45.139.122.199:8080/live/Martin1/martin1/2009719.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247hardcorepawn.png" group-title="24/7 English Reality & Lifestyle",24/7 Hardcore Pawn
 http://45.139.122.199:8080/live/Martin1/martin1/2009638.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Gordon Ramsay's 24 Hours to Hell and Back
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Gordon%20Ramsay's%2024%20Hours%20to%20Hell%20and%20Back.png" group-title="24/7 English Reality & Lifestyle",24/7 Gordon Ramsay's 24 Hours to Hell and Back
 http://45.139.122.199:8080/live/Martin1/martin1/2009624.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Gold Rush
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Gold%20Rush.png" group-title="24/7 English Reality & Lifestyle",24/7 Gold Rush
 http://45.139.122.199:8080/live/Martin1/martin1/2009619.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Deadliest Catch
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Deadliest%20Catch.png" group-title="24/7 English Reality & Lifestyle",24/7 Deadliest Catch
 http://45.139.122.199:8080/live/Martin1/martin1/2009550.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Da Ali G Show
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Da%20Ali%20G%20Show.png" group-title="24/7 English Reality & Lifestyle",24/7 Da Ali G Show
 http://45.139.122.199:8080/live/Martin1/martin1/2009544.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 An Idiot Abroad
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/An%20Idiot%20Abroad.png" group-title="24/7 English Reality & Lifestyle",24/7 An Idiot Abroad
 http://45.139.122.199:8080/live/Martin1/martin1/2009475.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPyNXnz4/shows.png" group-title="24/7 English Reality & Lifestyle",24/7 American Pickers
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/American%20Pickers.webp" group-title="24/7 English Reality & Lifestyle",24/7 American Pickers
 http://45.139.122.199:8080/live/Martin1/martin1/2009473.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247ridiculousness.png" group-title="24/7 English Reality & Lifestyle",24/7 Ridiculousness HD
 http://45.139.122.199:8080/live/Martin1/martin1/1650703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English Reality & Lifestyle",24/7 Richard Hammond's Big HD
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Richard%20Hammond's%20Big%20HD.png" group-title="24/7 English Reality & Lifestyle",24/7 Richard Hammond's Big HD
 http://45.139.122.199:8080/live/Martin1/martin1/1650702.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foodtv.png" group-title="24/7 English Reality & Lifestyle",Food TV HD US
 http://45.139.122.199:8080/live/Martin1/martin1/331424.m3u8
@@ -620,17 +620,17 @@ http://45.139.122.199:8080/live/Martin1/martin1/331424.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/331380.m3u8
 
 # --- 24/7 English SciFi & Fantasy (32) ---
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 The X-Files
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20X-Files.png" group-title="24/7 English SciFi & Fantasy",24/7 The X-Files
 http://45.139.122.199:8080/live/Martin1/martin1/2009887.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247thevampirediaries.png" group-title="24/7 English SciFi & Fantasy",24/7 The Vampire Diaries
 http://45.139.122.199:8080/live/Martin1/martin1/2009881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 The Twilight Zone
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Twilight%20Zone.png" group-title="24/7 English SciFi & Fantasy",24/7 The Twilight Zone
 http://45.139.122.199:8080/live/Martin1/martin1/2009878.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 The Terminator
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Terminator.svg" group-title="24/7 English SciFi & Fantasy",24/7 The Terminator
 http://45.139.122.199:8080/live/Martin1/martin1/2009875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 The Mandalorian
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Mandalorian.jpeg" group-title="24/7 English SciFi & Fantasy",24/7 The Mandalorian
 http://45.139.122.199:8080/live/Martin1/martin1/2009854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 The Hobbit Movies
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Hobbit%20Movies.jpg" group-title="24/7 English SciFi & Fantasy",24/7 The Hobbit Movies
 http://45.139.122.199:8080/live/Martin1/martin1/2009841.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247strangerthings.png" group-title="24/7 English SciFi & Fantasy",24/7 Stranger Things
 http://45.139.122.199:8080/live/Martin1/martin1/2009808.m3u8
@@ -648,37 +648,37 @@ http://45.139.122.199:8080/live/Martin1/martin1/2009800.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2009798.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247smallville.png" group-title="24/7 English SciFi & Fantasy",24/7 Smallville
 http://45.139.122.199:8080/live/Martin1/martin1/2009792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Planet Of The Apes
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Planet%20Of%20The%20Apes.png" group-title="24/7 English SciFi & Fantasy",24/7 Planet Of The Apes
 http://45.139.122.199:8080/live/Martin1/martin1/2009752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Matrix
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Matrix.png" group-title="24/7 English SciFi & Fantasy",24/7 Matrix
 http://45.139.122.199:8080/live/Martin1/martin1/2009704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Lord of the Rings
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Lord%20of%20the%20Rings.jpg" group-title="24/7 English SciFi & Fantasy",24/7 Lord of the Rings
 http://45.139.122.199:8080/live/Martin1/martin1/2009692.m3u8
-#EXTINF:-1 tvg-logo="http://logos.ti7an.net/logos/otros/24_7.png" group-title="24/7 English SciFi & Fantasy",24/7 Harry Potter
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247harrypotter.png" group-title="24/7 English SciFi & Fantasy",24/7 Harry Potter
 http://45.139.122.199:8080/live/Martin1/martin1/2009639.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZMqzWQF/TOTOOO2.png" group-title="24/7 English SciFi & Fantasy",24/7 Goosebumps
 http://45.139.122.199:8080/live/Martin1/martin1/2009623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Eureka
 http://45.139.122.199:8080/live/Martin1/martin1/2009577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Dr Who
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Dr%20Who.png" group-title="24/7 English SciFi & Fantasy",24/7 Dr Who
 http://45.139.122.199:8080/live/Martin1/martin1/2009569.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Charmed
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Charmed.svg" group-title="24/7 English SciFi & Fantasy",24/7 Charmed
 http://45.139.122.199:8080/live/Martin1/martin1/2009525.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41jsOEYsh9lJBc6AZqGpR1ETpx5.jpg" group-title="24/7 English SciFi & Fantasy",24/7 Buffy the Vampire Slayer
 http://45.139.122.199:8080/live/Martin1/martin1/2009519.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Batman Movies
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Batman.png" group-title="24/7 English SciFi & Fantasy",24/7 Batman Movies
 http://45.139.122.199:8080/live/Martin1/martin1/2009491.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Batman 1966
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Batman.png" group-title="24/7 English SciFi & Fantasy",24/7 Batman 1966
 http://45.139.122.199:8080/live/Martin1/martin1/2009489.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247backtothefuture.png" group-title="24/7 English SciFi & Fantasy",24/7 Back to the Future
 http://45.139.122.199:8080/live/Martin1/martin1/2009483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Avenger Movies
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/the-avengers-logo-png_seeklogo-199629.png" group-title="24/7 English SciFi & Fantasy",24/7 Avenger Movies
 http://45.139.122.199:8080/live/Martin1/martin1/2009482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Avatar
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Avatar.png" group-title="24/7 English SciFi & Fantasy",24/7 Avatar
 http://45.139.122.199:8080/live/Martin1/martin1/2009481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 Altered Carbon
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/Altered%20Carbon.jpg" group-title="24/7 English SciFi & Fantasy",24/7 Altered Carbon
 http://45.139.122.199:8080/live/Martin1/martin1/2009471.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7 English SciFi & Fantasy",24/7 The Hobbit HD
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/TwentyFourSeven/The%20Hobbit%20Movies.jpg" group-title="24/7 English SciFi & Fantasy",24/7 The Hobbit HD
 http://45.139.122.199:8080/live/Martin1/martin1/1650706.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/247thelordoftherings.png" group-title="24/7 English SciFi & Fantasy",24/7 The Lord of the Rings HD
 http://45.139.122.199:8080/live/Martin1/martin1/1650681.m3u8
@@ -936,27 +936,27 @@ http://45.139.122.199:8080/live/Martin1/martin1/52596.m3u8
 # --- Amazon Prime US (68) ---
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Zvonareva/Siegemund vs. Li/Tauson | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125766.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Hurricanes at Canadiens | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Hurricanes at Canadiens | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125765.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Cubs at Pirates | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Cubs at Pirates | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125764.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | T'd Up with Pierre Andresen: 5.27.26 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | T'd Up with Pierre Andresen: 5.27.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125762.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Club Cienciano vs. CA Juventud de Las Piedras | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Club Cienciano vs. CA Juventud de Las Piedras | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125761.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Chris Simms Unbuttoned: 5.27.26 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chris Simms Unbuttoned: 5.27.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125760.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Phillies at Padres | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Phillies at Padres | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125759.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Crystal Palace vs. Vallecano | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Crystal Palace vs. Vallecano | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125758.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Paolini vs. Sierra | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Paolini vs. Sierra | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125753.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Svitolina vs. Quevedo | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125751.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | $100K PLO Main Event: Montenegro | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125750.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Starodubtseva vs. Rybakina | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Starodubtseva vs. Rybakina | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125749.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kostyuk vs. Volynets | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125748.m3u8
@@ -970,33 +970,33 @@ http://45.139.122.199:8080/live/Martin1/martin1/2125745.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2125744.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | PFT Live: 5.27.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125743.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Crystal Palace vs. Vallecano | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Crystal Palace vs. Vallecano | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125734.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Roland-Garros in Spanish | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Roland-Garros in Spanish | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125733.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | The Dan Le Batard Show with Stugotz: 5.27.26 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | The Dan Le Batard Show with Stugotz: 5.27.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125732.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Rakhimova vs. Muchová | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Rakhimova vs. Muchová | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125790.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Mariners at Athletics | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Mariners at Athletics | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125789.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Diamondbacks at Giants | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Diamondbacks at Giants | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125788.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | I. Buse / M. Kiger - R. Ho / H. Jebens | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Eva Lys - Sorana Cîrstea | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125787.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | R. Cash / J. Tracy - M. Kouame / G. Mpetshi Perricard | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125786.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | D. Hidalgo / P. Trhac - F. Romboli / JP. Smith | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125785.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125784.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Eala/Mboko vs. Fernandez/Shnaider | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chan/Alexandrova vs. Eikeri/Gleason | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125783.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | E. Cascino / L. Sanchez - K. Mladenovic / M. Guinard | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125782.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | SW. Hsieh / M. Wallner - A. Klepac / L. Glasspool | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125781.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | R. Hijikata / R. Seggerman - A. Erler / L. Miedler | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | R. Hijikata / R. Seggerman - A. Erler / L. Miedler | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125780.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Zakharova/Selekhmeteva vs. Fernandez/Shnaider | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125779.m3u8
@@ -1010,13 +1010,13 @@ http://45.139.122.199:8080/live/Martin1/martin1/2125776.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2125775.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | D. Krawczyk / N. Skupski - H. Tan / G. Jacq | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125774.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Chan/Alexandrova vs. Eikeri/Gleason | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chan/Alexandrova vs. Eikeri/Gleason | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125773.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Tang/Pridankina vs. Noskova/Valentova | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125772.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | C. Moutet / L. Van Assche - V. Kirkov / B. Stevens | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | C. Moutet / L. Van Assche - V. Kirkov / B. Stevens | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125771.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Arango/Jovic vs. Birrell/Gibson | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Arango/Jovic vs. Birrell/Gibson | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125770.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | H. Nys / E. Roger-Vasselin - V. Kopriva / F. Pieczonka | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125769.m3u8
@@ -1024,21 +1024,21 @@ http://45.139.122.199:8080/live/Martin1/martin1/2125769.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2125768.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | S. Kenin / A. Krueger - S. Errani / L. Tagger | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125767.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Rays at Orioles | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Rays at Orioles | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125763.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Nationals at Guardians | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Nationals at Guardians | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125757.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Edwards vs. Nqothole: Press Conference | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Edwards vs. Nqothole: Press Conference | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125756.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Jones vs. Bouzková | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125755.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Baptiste vs. Wang | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Baptiste vs. Wang | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125754.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | The Dan Patrick Show: 5.27.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125752.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Multiscreen, Stage 17 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125742.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | New Zealand tour of Ireland 2026 - Only Test - Ireland vs New Zealand | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 28:05 (GMT) | New Zealand tour of Ireland 2026 - Only Test - Ireland vs New Zealand | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125740.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Ireland vs New Zealand - Only Test - Day 1 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125739.m3u8
@@ -1050,25 +1050,25 @@ http://45.139.122.199:8080/live/Martin1/martin1/2125737.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2125736.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Indian Premier League 2026 - Eliminator - Sunrisers Hyderabad vs Rajasthan Royals | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125735.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | MLB According to CC: 5.27.26 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | MLB According to CC: 5.27.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125731.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Andreeva vs. Bassols Ribera | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Andreeva vs. Bassols Ribera | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125730.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | FC Barcelona vs. Real Sociedad | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | FC Barcelona vs. Real Sociedad | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125729.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Real Madrid vs. Baskonia | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Real Madrid vs. Baskonia | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125728.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Leicestershire Foxes vs. Derbyshire Falcons | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Leicestershire Foxes vs. Derbyshire Falcons | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125727.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Lys vs. Cîrstea | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Rakhimova vs. Muchová | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125726.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | T20 Blast 2026 - Leicestershire vs Derbyshire | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | T20 Blast 2026 - Leicestershire vs Derbyshire | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125725.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Cardinals at Brewers | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Cardinals at Brewers | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125724.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Barcelona vs. Real Sociedad | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Barcelona vs. Real Sociedad | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125723.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 27:05 (GMT) | Teichmann vs. Fręch | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Teichmann vs. Fręch | all | PRIME-US
 http://45.139.122.199:8080/live/Martin1/martin1/2125722.m3u8
 
 # --- Apple+ US (11) ---
@@ -2073,13 +2073,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1351423.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/College%20Baseball.png" group-title="College Baseball US",College Baseball 15 :
 http://45.139.122.199:8080/live/Martin1/martin1/1351424.m3u8
 
-# --- DAZN SE (3) ---
+# --- DAZN SE (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/dazn-us.png" group-title="DAZN SE",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/1304294.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1d45az0b8enp51jz7famecfpkl_image-header_pRow_1779283291000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",18:00 Edwards vs. Nqothole: Press Conference 5/27 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416085.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ds2jzrszmsgdhorsj6qokkzr2_image-header_pRow_1776324640000/fill/none/top/none/85/334/187/webp/image" group-title="DAZN SE",19:00 Barcelona vs. Real Sociedad 5/27 [DAZN SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416084.m3u8
 
 # --- DAZN UK (25) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nyy4iusn0w2zfua4ls31flkw_image-header_pRow_1738859605000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 001) | Edwards vs. Nqothole: Press Conference (2026-05-27 17:00:00)
@@ -2568,7 +2564,7 @@ http://45.139.122.199:8080/live/Martin1/martin1/686202.m3u8
 # --- Dirtvision US (11) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",DIRTVISION 01 : Millbridge Speedway 6:15 pm
 http://45.139.122.199:8080/live/Martin1/martin1/1351578.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",DIRTVISION 02 :
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",DIRTVISION 02 : Marion Center Raceway 6:15 pm
 http://45.139.122.199:8080/live/Martin1/martin1/1351579.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",DIRTVISION 03 :
 http://45.139.122.199:8080/live/Martin1/martin1/1351580.m3u8
@@ -2589,151 +2585,17 @@ http://45.139.122.199:8080/live/Martin1/martin1/1351587.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",Dirtvision 24/7
 http://45.139.122.199:8080/live/Martin1/martin1/1351588.m3u8
 
-# --- Discovery+ Sport SE (67) ---
+# --- Discovery+ Sport SE (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/discovery-plus.png" group-title="Discovery+ Sport SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2274289.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="Discovery+ Sport SE",11:00 Multiview | Roland-Garros tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="Discovery+ Sport SE",11:00 Multiview | Roland-Garros tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416275.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yvZsG/pFzR_h0cZA_HMPsFA.png?f=webp&w=400" group-title="Discovery+ Sport SE",12:00 Giro d'Italia | Huvudsändning cykel FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416274.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yvZsG/pFzR_h0cZA_HMPsFA.png?f=webp&w=400" group-title="Discovery+ Sport SE",12:00 Giro d'Italia | Huvudsändning cykel 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416272.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yqQ8O/a7JyLHmFB_WZUxH8A.png?f=webp&w=400" group-title="Discovery+ Sport SE",12:20 Giro d'Italia | Etapp 17 cykel FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416270.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yqQ8O/a7JyLHmFB_WZUxH8A.png?f=webp&w=400" group-title="Discovery+ Sport SE",12:20 Giro d'Italia | Etapp 17 cykel 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416269.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fatr7/MyHqatoiR6VITl1sg.png?f=webp&w=400" group-title="Discovery+ Sport SE",13:18 Mariano Navone - Jakub Menšík tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416262.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fatr7/MyHqatoiR6VITl1sg.png?f=webp&w=400" group-title="Discovery+ Sport SE",13:18 Mariano Navone - Jakub Menšík tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416254.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",14:08 H. Nys / E. Roger-Vasselin - V. Kopriva / F. Pieczonka  tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416575.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",14:08 H. Nys / E. Roger-Vasselin - V. Kopriva / F. Pieczonka  tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416564.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x1_nY/4VQPzkAE764GkVhwQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",14:12 Marta Kostyuk - Katie Volynets tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416266.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x1_nY/4VQPzkAE764GkVhwQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",14:12 Marta Kostyuk - Katie Volynets tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416258.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/07_pg/cjkCbPPEKqr0K6uBA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:07 C. Moutet / L. Van Assche - V. Kirkov / B. Stevens  tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416577.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/07_pg/cjkCbPPEKqr0K6uBA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:07 C. Moutet / L. Van Assche - V. Kirkov / B. Stevens  tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416566.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:13 Yuliia Starodubtseva - Elena Rybakina tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416261.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:13 Yuliia Starodubtseva - Elena Rybakina tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416253.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LpvUD/LZBLInTdDdTOonpsg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:14 S. Hsieh / M. Wallner - A. Klepac / L. Glasspool tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416660.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LpvUD/LZBLInTdDdTOonpsg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:14 S. Hsieh / M. Wallner - A. Klepac / L. Glasspool tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416659.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u6Tml/O40A9G213OQz2A-XA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:17 Thanasi Kokkinakis - Pablo Carreño Busta tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416248.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u6Tml/O40A9G213OQz2A-XA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:17 Thanasi Kokkinakis - Pablo Carreño Busta tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416240.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Eak4M/zl26SnNs9kyCKGk2g.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:21 Nuno Borges - Miomir Kecmanovic tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416250.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Eak4M/zl26SnNs9kyCKGk2g.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:21 Nuno Borges - Miomir Kecmanovic tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416242.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nZuJl/vMEVFyHIQI072MMCA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:37 E. Arango / I. Jovic - K. Birrell / T. Gibson tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416583.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nZuJl/vMEVFyHIQI072MMCA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:37 E. Arango / I. Jovic - K. Birrell / T. Gibson tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416571.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7ZsMG/0T-SEZv3Q4J-TXXmg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:45 Valentin Royer - Novak Djokovic tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416234.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7ZsMG/0T-SEZv3Q4J-TXXmg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:45 Valentin Royer - Novak Djokovic tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416233.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/tFt26/ZOMwQFzcboriozAXA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:04 James Duckworth - Rafael Jódar tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416244.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/tFt26/ZOMwQFzcboriozAXA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:04 James Duckworth - Rafael Jódar tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416236.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/t-eYF/zCMkfo29U4oP1eV7g.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:06 E. Cascino / L. Sanchez - K. Mladenovic / M. Guinard  tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416560.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/t-eYF/zCMkfo29U4oP1eV7g.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:06 E. Cascino / L. Sanchez - K. Mladenovic / M. Guinard  tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416552.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7KzBM/guCpYSdvmdBgLkFHQ.png?f=webp&w=400" group-title="Discovery+ Sport SE",15:38 Ugo Humbert - Quentin Halys tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416246.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7KzBM/guCpYSdvmdBgLkFHQ.png?f=webp&w=400" group-title="Discovery+ Sport SE",15:38 Ugo Humbert - Quentin Halys tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416238.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vF8HQ/0lY0BlaP6aNOzj2Vw.png?f=webp&w=400" group-title="Discovery+ Sport SE",16:27 Nishesh Basavareddy - Alex Michelsen tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416230.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vF8HQ/0lY0BlaP6aNOzj2Vw.png?f=webp&w=400" group-title="Discovery+ Sport SE",16:27 Nishesh Basavareddy - Alex Michelsen tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416222.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yP20F/fP2CboMAdRkqc7GQw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:56 Hailey Baptiste - Wang Xiyu tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416247.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yP20F/fP2CboMAdRkqc7GQw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",15:56 Hailey Baptiste - Wang Xiyu tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416239.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:43 R. Hijikata / R. Seggerman - A. Erler / L. Miedler  tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416632.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:43 R. Hijikata / R. Seggerman - A. Erler / L. Miedler  tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416631.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/spsnV/t6Vb-bhWTbDa3NcOw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:53 João Fonseca - Dino Prižmic tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416245.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/spsnV/t6Vb-bhWTbDa3NcOw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:53 João Fonseca - Dino Prižmic tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416237.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i1Ksg/0q6U-SM7kvTBUy-tg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:34 E. Alexandrova / HC. Chan - U. Eikeri / Q. Gleason  tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416835.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i1Ksg/0q6U-SM7kvTBUy-tg.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",16:34 E. Alexandrova / HC. Chan - U. Eikeri / Q. Gleason  tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416834.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:37 C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416556.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:37 C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416548.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/4sFty/yh27i_K1BEdeZNVcA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:39 Jasmine Paolini - Solana Sierra tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416249.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/4sFty/yh27i_K1BEdeZNVcA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:39 Jasmine Paolini - Solana Sierra tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416241.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:47 I. Buse / M. Kiger - R. Ho / H. Jebens  tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416228.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:47 I. Buse / M. Kiger - R. Ho / H. Jebens  tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416220.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:49 Jil Teichmann - Magdalena Frech tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416645.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",17:49 Jil Teichmann - Magdalena Frech tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416644.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7Aezh/2jKal4aEZMLqBHZCw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",18:34 Lorenzo Sonego - Tommy Paul tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416231.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7Aezh/2jKal4aEZMLqBHZCw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",18:34 Lorenzo Sonego - Tommy Paul tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416223.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vQgB4/MhBdPRd4ZwzPb5T7g.png?f=webp&w=400" group-title="Discovery+ Sport SE",18:45 Courtside | Roland-Garros tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416671.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vQgB4/MhBdPRd4ZwzPb5T7g.png?f=webp&w=400" group-title="Discovery+ Sport SE",18:45 Courtside | Roland-Garros tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416670.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CZs4f/9eZTvNmGRJizCK28Q.png?f=webp&w=400" group-title="Discovery+ Sport SE",18:48 Mirra Andreeva - Marina Bassols tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416634.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CZs4f/9eZTvNmGRJizCK28Q.png?f=webp&w=400" group-title="Discovery+ Sport SE",18:48 Mirra Andreeva - Marina Bassols tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416633.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NQk7S/hpdQcMCrwI0bvvD3w.png?f=webp&w=400" group-title="Discovery+ Sport SE",19:23 Eva Lys - Sorana Cîrstea tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416232.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NQk7S/hpdQcMCrwI0bvvD3w.png?f=webp&w=400" group-title="Discovery+ Sport SE",19:23 Eva Lys - Sorana Cîrstea tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416224.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",19:23 Kamilla Rakhimova - Karolína Muchová tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416226.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",19:23 Kamilla Rakhimova - Karolína Muchová tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416218.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",19:15 Tomáš Machác - Alexander Zverev tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416690.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",19:15 Tomáš Machác - Alexander Zverev tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416689.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kX1o6/mroMJYdPlK1q6eI1A.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:09 Casper Ruud - Hamad Medjedovic tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416673.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kX1o6/mroMJYdPlK1q6eI1A.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",20:09 Casper Ruud - Hamad Medjedovic tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416672.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lOngr/DR20PAgyNke2xRhrw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",22:15 Courtside | Roland-Garros tennis FHD 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416696.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lOngr/DR20PAgyNke2xRhrw.jpeg?f=webp&w=400" group-title="Discovery+ Sport SE",22:15 Courtside | Roland-Garros tennis 5/27 [D+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416695.m3u8
 
 # --- Disney Plus DK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1340808.m3u8
 
-# --- Disney Plus SE (2) ---
+# --- Disney Plus SE (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/995342.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e04ad-bd3c-7ebf-9f5b-5b8900686782/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus SE",20:50 Crystal Palace - Rayo Vallecano [Disney+ SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416347.m3u8
 
 # --- Disney+ US (13) ---
 #EXTINF:-1 tvg-logo="https://iili.io/wvqAu9.md.png" group-title="Disney+ US",Disney+ Premiere 1
@@ -3041,61 +2903,21 @@ http://45.139.122.199:8080/live/Martin1/martin1/1414650.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/EPL%20/Wolverhampton_Wanderers.png" group-title="EPL Teams UK",EPL Wolverhampton Wanderers
 http://45.139.122.199:8080/live/Martin1/martin1/1414649.m3u8
 
-# --- ESPN+ Events US (27) ---
+# --- ESPN+ Events US (7) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/2yb4OEL.png" group-title="ESPN+ Events US",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Martin1/martin1/101275.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="ESPN+ Events US",UFC Fight Pass 24/7 FHD US
 http://45.139.122.199:8080/live/Martin1/martin1/101217.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9d14ad07-474b-48dd-bddf-194ab5693759/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",10:00 AM EDT ESPN Radio 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416403.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5cf2358d-d276-446c-8ea5-0403fd7c732e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",10:00 AM EDT NJCAA Softball Tournament (Elimination Game - Championship Field) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416402.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4d42056c-943f-44a4-b3a2-996ddd8d60d7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",10:00 AM EDT NJCAA Softball Tournament (Elimination Game - Field 2) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416401.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/41d247d6-b7e6-4599-9967-c283528c51e9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",12:00 PM EDT The Pat McAfee Show 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416400.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/aea1f1b0-1618-4e70-a565-987bb625f1e8/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",12:00 PM EDT Wed, 5/27 - The Rich Eisen Show 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416399.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/59ac3751-214d-4fe4-ada9-1918310b9dd7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",12:15 PM EDT McCook vs. McLennan Community College (Elimination Game) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416398.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a5b67459-90b6-43c5-96f7-c9e3ee01385e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",12:15 PM EDT Gaston vs. Santa Fe Community College (Elimination Game) 5/27
 http://45.139.122.199:8080/live/Martin1/martin1/2416397.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/54333812-9187-4d3c-a7f0-a4781d1f758a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605202121" group-title="ESPN+ Events US",2:00 PM EDT 2026 NCAA Division I Outdoor Track and Field West First Round (West First Round) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416396.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4b2f1cf2-7da3-440c-8922-3bb6b66a42c6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",2:30 PM EDT NJCAA Softball Tournament (Winners Bracket - Championship Field) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416395.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7a6d0b2a-217f-4663-a685-1ea3a900f05a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",2:30 PM EDT NJCAA Softball Tournament (Winners Bracket - Field 2) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416394.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/82673379-5b03-4c40-8acd-83430dfe3ac0/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",3:00 PM EDT Freddie & Harry 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416393.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9734c882-53b3-4312-aa6e-7dcc7aace8e9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",4:00 PM EDT NJCAA Baseball Tournament (Elimination Game) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416392.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f2f7f52c-dfed-4170-96bd-9471430e1b24/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",4:45 PM EDT NJCAA Softball Tournament (Winners Bracket - Field 2) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416391.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/37610a03-9dd9-4b97-8efd-1f0010a298b5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",4:45 PM EDT NJCAA Softball Tournament (Winners Bracket - Championship Field) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416390.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c2a29499-ebc8-4953-a9cf-ead190452c95/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605200230" group-title="ESPN+ Events US",5:00 PM EDT Wed, 5/27 - ESPN FC 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416389.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8de91098-919f-47b9-b86b-011b64519fc2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605202120" group-title="ESPN+ Events US",6:00 PM EDT 2026 NCAA Division I Outdoor Track and Field East First Round (East First Round) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416388.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/79024d85-8db5-442e-a205-9c392abcf805/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",7:00 PM EDT NJCAA Softball Tournament (Elimination Game - Field 2) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416387.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fb5cb441-bd63-4e59-a34b-13db34f06313/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090113" group-title="ESPN+ Events US",7:00 PM EDT New York Cosmos vs. Union Omaha 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416386.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3b9a27b1-9663-49f4-88c7-530301265516/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",7:00 PM EDT NJCAA Softball Tournament (Elimination Game - Championship Field) 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416385.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/62111277-a3c0-40f6-8137-31fffafbc916/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605261740" group-title="ESPN+ Events US",7:00 PM EDT Chattanooga Red Wolves SC vs. Richmond Kickers 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416384.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/13ebeede-242d-48b1-923c-2967ad922092/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",9:00 PM EDT NJCAA Baseball (Winners Bracket) 5/28
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/13ebeede-242d-48b1-923c-2967ad922092/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",9:00 PM EDT Miami Dade College vs. Johnson County Community College (Winners Bracket) 5/28
 http://45.139.122.199:8080/live/Martin1/martin1/2416383.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b8090800-70b9-4503-a9b9-0882ade52686/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605062301" group-title="ESPN+ Events US",9:00 PM EDT El Paso Locomotive FC vs. AV Alta FC 5/28
 http://45.139.122.199:8080/live/Martin1/martin1/2416382.m3u8
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/59ea5803-55ad-4a80-a6bd-c0605b086b60/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090109" group-title="ESPN+ Events US",9:00 PM EDT Athletic Club Boise vs. Sarasota Paradise 5/28
 http://45.139.122.199:8080/live/Martin1/martin1/2416381.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dd7602a8-46f3-4a39-b903-01bc8a09656d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",9:15 PM EDT NJCAA Softball Tournament (Elimination Game - Championship Field) 5/28
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dd7602a8-46f3-4a39-b903-01bc8a09656d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605272143" group-title="ESPN+ Events US",8:15 PM EDT McCook vs. McLennan Community College (Elimination Game) 5/28
 http://45.139.122.199:8080/live/Martin1/martin1/2416380.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b902ace7-bda2-4bd8-8d2b-df9363316238/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",9:15 PM EDT NJCAA Softball Tournament (Elimination Game - Field 2) 5/28
-http://45.139.122.199:8080/live/Martin1/martin1/2416379.m3u8
 
 # --- Elitserien Live SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/elitserien-live.png" group-title="Elitserien Live SE",-= Reload your playlist =-
@@ -4183,146 +4005,68 @@ http://45.139.122.199:8080/live/Martin1/martin1/1351516.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/6GDGuR.md.png" group-title="HBO Max Original US",HBOMax Original 17
 http://45.139.122.199:8080/live/Martin1/martin1/1351517.m3u8
 
-# --- HBO Max Sports DK (40) ---
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="HBO Max Sports DK",11:00 Multiview tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415818.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/AK0f1/AZYDgy_Qf9FCBWbYg.png?f=webp&w=400" group-title="HBO Max Sports DK",11:45 Giro d'Italia | Studie cykling FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415816.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yvZsG/pFzR_h0cZA_HMPsFA.png?f=webp&w=400" group-title="HBO Max Sports DK",12:00 Giro d'Italia cykling FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415814.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yqQ8O/a7JyLHmFB_WZUxH8A.png?f=webp&w=400" group-title="HBO Max Sports DK",12:20 Giro d'Italia | Multiscreen cykling FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415810.m3u8
+# --- HBO Max Sports DK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2191277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x1_nY/4VQPzkAE764GkVhwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",13:30 Marta Kostyuk - Katie Volynets tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415811.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="HBO Max Sports DK",11:00 Multiview tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415825.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/AK0f1/AZYDgy_Qf9FCBWbYg.png?f=webp&w=400" group-title="HBO Max Sports DK",11:45 Giro d'Italia | Studie cykling FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415823.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yvZsG/pFzR_h0cZA_HMPsFA.png?f=webp&w=400" group-title="HBO Max Sports DK",12:00 Giro d'Italia cykling FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415821.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yqQ8O/a7JyLHmFB_WZUxH8A.png?f=webp&w=400" group-title="HBO Max Sports DK",12:20 Giro d'Italia | Multiscreen cykling FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415817.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fatr7/MyHqatoiR6VITl1sg.png?f=webp&w=400" group-title="HBO Max Sports DK",13:18 Mariano Navone - Jakub Menšík tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415801.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/AuSDb/SBPQ9n1NiZUNr5rWQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:44 H. Nys / E. Roger-Vasselin - V. Kopriva / F. Pieczonka  tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416512.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x1_nY/4VQPzkAE764GkVhwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:15 Marta Kostyuk - Katie Volynets tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415805.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/fC84K/wu8QLpPg2_hXL7YyA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:11 C. Moutet / L. Van Assche - V. Kirkov / B. Stevens  tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416513.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oaKJo/I3KdObL7U2K0fR-mQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:11 Yuliia Starodubtseva - Elena Rybakina tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415800.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MWXg_/bmQp4Gyt6wfhc90gw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:20 S. Hsieh / M. Wallner - A. Klepac / L. Glasspool tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416662.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u6Tml/O40A9G213OQz2A-XA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:17 Thanasi Kokkinakis - Pablo Carreño Busta tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415796.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/FbTFh/wPvAOnm2iyRdrrIpQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:21 Nuno Borges - Miomir Kecmanovic tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415798.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nZuJl/vMEVFyHIQI072MMCA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:45 E. Arango / I. Jovic - K. Birrell / T. Gibson tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416516.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/HyFel/8ekhocPIR_eAhqwZg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:31 Valentin Royer - Novak Djokovic tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415790.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kbebY/-kV2nQVsFLxv_W03Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:18 James Duckworth - Rafael Jódar tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415792.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Yki3p/dFrYiRaztEAthQHRw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:11 E. Cascino / L. Sanchez - K. Mladenovic / M. Guinard  tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416510.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/30/3bdbf869-33ed-40d1-8285-15eee6e2c948.png?f=webp&w=400" group-title="HBO Max Sports DK",15:54 Ugo Humbert - Quentin Halys tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415794.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kX1o6/mroMJYdPlK1q6eI1A.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:00 Nishesh Basavareddy - Alex Michelsen tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415787.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yP20F/fP2CboMAdRkqc7GQw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:56 Hailey Baptiste - Wang Xiyu tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415795.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1KJqz/JDbN9VdZPjaR_zJeg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:40 R. Hijikata / R. Seggerman - A. Erler / L. Miedler  tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416624.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/spsnV/t6Vb-bhWTbDa3NcOw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:51 João Fonseca - Dino Prižmic tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415793.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/c1ndu/GWsuXtRrxrlAH-kSw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:19 A. Eala / V. Mboko - L. Fernandez / D. Shnaider  tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416842.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/oaKJo/I3KdObL7U2K0fR-mQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:37 C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416508.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pyz0s/8Pp205wAMGQCNWXhQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:39 Jasmine Paolini - Solana Sierra tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415797.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:47 I. Buse / M. Kiger - R. Ho / H. Jebens  tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416643.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:49 Jil Teichmann - Magdalena Frech tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416654.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PPXna/gm45bt7ZN0z8db2tA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:34 Lorenzo Sonego - Tommy Paul tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415788.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1nEGA/1BLbPnfZ8DgoNLOxQ.png?f=webp&w=400" group-title="HBO Max Sports DK",18:45 Courtside tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416684.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lkaV_/EeEQ8KQ0QRFfzw81w.png?f=webp&w=400" group-title="HBO Max Sports DK",18:48 Mirra Andreeva - Marina Bassols tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416625.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NQk7S/hpdQcMCrwI0bvvD3w.png?f=webp&w=400" group-title="HBO Max Sports DK",19:21 Eva Lys - Sorana Cîrstea tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415789.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/aq23I/XzBaaKqeOmjNG0fZQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:21 Kamilla Rakhimova - Karolína Muchová tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416626.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:15 Tomáš Machác - Alexander Zverev tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416705.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qgFQu/c48pUtFnppzagqleg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:09 Casper Ruud - Hamad Medjedovic tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416678.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Yki3p/dFrYiRaztEAthQHRw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:15 Courtside tennis FHD 5/27 [HBO Max DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416704.m3u8
 
 # --- HBO Max Sports DK [B] (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | C. MOUTET / L. VAN ASSCHE - V. KIRKOV / B. STEVENS  | Wed 27 May 15:07 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TENNIS | Thu 28 May 10:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
 http://45.139.122.199:8080/live/Martin1/martin1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | E. ALEXANDROVA / HC. CHAN - U. EIKERI / Q. GLEASON  | Wed 27 May 16:34 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | J. PAUL / M. WILLIS - A. CHANDRASEKAR / T. YUZUKI | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Martin1/martin1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JOÃO FONSECA - DINO PRIŽMIC | Wed 27 May 16:44 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | M. KOZYREVA / I. SHYMANOVICH - A. DETIUC / I. KHROMACHEVA  | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Martin1/martin1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | VALENTIN ROYER - NOVAK DJOKOVIC | Wed 27 May 15:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | J. MALECKOVÁ / M. ŠKOCH - A. DANILINA / A. KRUNIC | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Martin1/martin1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | THANASI KOKKINAKIS - PABLO CARREÑO BUSTA | Wed 27 May 15:17 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FLAVIO COBOLLI - WU YIBING | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Martin1/martin1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | NISHESH BASAVAREDDY - ALEX MICHELSEN | Wed 27 May 16:27 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | FACUNDO DÍAZ - LEARNER TIEN | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Martin1/martin1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | R. HIJIKATA / R. SEGGERMAN - A. ERLER / L. MIEDLER  | Wed 27 May 16:39 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | IVA JOVIC - EMMA NAVARRO | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Martin1/martin1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GIRO D'ITALIA | MULTISCREEN | Wed 27 May 12:19 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | L. SIEGEMUND / E. ROGER-VASSELIN - D. SCHUURS / J. CASH | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Martin1/martin1/987415.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | I. BUSE / M. KIGER - R. HO / H. JEBENS  | Wed 27 May 17:47 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | P. NOUZA / N. OBERLEITNER - T. ARRIBAGE / A. OLIVETTI  | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Martin1/martin1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | E. ARANGO / I. JOVIC - K. BIRRELL / T. GIBSON | Wed 27 May 15:43 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | DONNA VEKIC - NAOMI OSAKA | Thu 28 May 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Martin1/martin1/987417.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | YULIIA STARODUBTSEVA - ELENA RYBAKINA | Wed 27 May 15:09 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Martin1/martin1/987418.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | COURTSIDE | Wed 27 May 18:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 12
 http://45.139.122.199:8080/live/Martin1/martin1/987419.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | JAMES DUCKWORTH - RAFAEL JÓDAR | Wed 27 May 16:04 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 13
 http://45.139.122.199:8080/live/Martin1/martin1/987420.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | KAMILLA RAKHIMOVA - KAROLÍNA MUCHOVÁ | Wed 27 May 19:14 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 14
 http://45.139.122.199:8080/live/Martin1/martin1/987421.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | MULTIVIEW | Wed 27 May 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 15
 http://45.139.122.199:8080/live/Martin1/martin1/987422.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JASMINE PAOLINI - SOLANA SIERRA | Wed 27 May 17:39 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 16
 http://45.139.122.199:8080/live/Martin1/martin1/987423.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GIRO D'ITALIA | STUDIE | Wed 27 May 11:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 17
 http://45.139.122.199:8080/live/Martin1/martin1/987424.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GIRO D'ITALIA | Wed 27 May 11:59 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 18
 http://45.139.122.199:8080/live/Martin1/martin1/987425.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 19
 http://45.139.122.199:8080/live/Martin1/martin1/987426.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | LORENZO SONEGO - TOMMY PAUL | Wed 27 May 18:34 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 20
 http://45.139.122.199:8080/live/Martin1/martin1/987427.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | MARIANO NAVONE - JAKUB MENŠÍK | Wed 27 May 13:18 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 21
 http://45.139.122.199:8080/live/Martin1/martin1/987428.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | JIL TEICHMANN - MAGDALENA FRECH | Wed 27 May 17:49 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 22
 http://45.139.122.199:8080/live/Martin1/martin1/987429.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | MARTA KOSTYUK - KATIE VOLYNETS | Wed 27 May 14:12 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 23
 http://45.139.122.199:8080/live/Martin1/martin1/987430.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MIRRA ANDREEVA - MARINA BASSOLS | Wed 27 May 18:48 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 24
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 24
 http://45.139.122.199:8080/live/Martin1/martin1/987431.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | E. CASCINO / L. SANCHEZ - K. MLADENOVIC / M. GUINARD  | Wed 27 May 16:09 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 25
 http://45.139.122.199:8080/live/Martin1/martin1/987432.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | UGO HUMBERT - QUENTIN HALYS | Wed 27 May 16:18 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 26
 http://45.139.122.199:8080/live/Martin1/martin1/987433.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | NUNO BORGES - MIOMIR KECMANOVIC | Wed 27 May 15:19 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 27
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 27
 http://45.139.122.199:8080/live/Martin1/martin1/987434.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | HAILEY BAPTISTE - WANG XIYU | Wed 27 May 16:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 28
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 28
 http://45.139.122.199:8080/live/Martin1/martin1/987435.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | C. BUREL / H. GASTON - L. JEANJEAN / G. BLANCANEAUX | Wed 27 May 17:37 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 29
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 29
 http://45.139.122.199:8080/live/Martin1/martin1/987436.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 30
 http://45.139.122.199:8080/live/Martin1/martin1/987437.m3u8
@@ -4367,141 +4111,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 50
 http://45.139.122.199:8080/live/Martin1/martin1/987457.m3u8
 
-# --- HBO Max Sports SE (67) ---
+# --- HBO Max Sports SE (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2274285.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="HBO Max Sports SE",11:00 Multiview | Roland-Garros tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416034.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="HBO Max Sports SE",11:00 Multiview | Roland-Garros tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416028.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yvZsG/pFzR_h0cZA_HMPsFA.png?f=webp&w=400" group-title="HBO Max Sports SE",12:00 Giro d'Italia | Huvudsändning cykel FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416025.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yvZsG/pFzR_h0cZA_HMPsFA.png?f=webp&w=400" group-title="HBO Max Sports SE",12:00 Giro d'Italia | Huvudsändning cykel 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416019.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yqQ8O/a7JyLHmFB_WZUxH8A.png?f=webp&w=400" group-title="HBO Max Sports SE",12:20 Giro d'Italia | Etapp 17 cykel FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416013.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yqQ8O/a7JyLHmFB_WZUxH8A.png?f=webp&w=400" group-title="HBO Max Sports SE",12:20 Giro d'Italia | Etapp 17 cykel 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416010.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fatr7/MyHqatoiR6VITl1sg.png?f=webp&w=400" group-title="HBO Max Sports SE",13:18 Mariano Navone - Jakub Menšík tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415989.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fatr7/MyHqatoiR6VITl1sg.png?f=webp&w=400" group-title="HBO Max Sports SE",13:18 Mariano Navone - Jakub Menšík tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415965.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:08 H. Nys / E. Roger-Vasselin - V. Kopriva / F. Pieczonka  tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416544.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:08 H. Nys / E. Roger-Vasselin - V. Kopriva / F. Pieczonka  tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416538.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x1_nY/4VQPzkAE764GkVhwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:12 Marta Kostyuk - Katie Volynets tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416001.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x1_nY/4VQPzkAE764GkVhwQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",14:12 Marta Kostyuk - Katie Volynets tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415977.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/07_pg/cjkCbPPEKqr0K6uBA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:07 C. Moutet / L. Van Assche - V. Kirkov / B. Stevens  tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416545.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/07_pg/cjkCbPPEKqr0K6uBA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:07 C. Moutet / L. Van Assche - V. Kirkov / B. Stevens  tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416539.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:13 Yuliia Starodubtseva - Elena Rybakina tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415986.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:13 Yuliia Starodubtseva - Elena Rybakina tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415962.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LpvUD/LZBLInTdDdTOonpsg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:14 S. Hsieh / M. Wallner - A. Klepac / L. Glasspool tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416658.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LpvUD/LZBLInTdDdTOonpsg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:14 S. Hsieh / M. Wallner - A. Klepac / L. Glasspool tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416657.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u6Tml/O40A9G213OQz2A-XA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:17 Thanasi Kokkinakis - Pablo Carreño Busta tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415947.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/u6Tml/O40A9G213OQz2A-XA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:17 Thanasi Kokkinakis - Pablo Carreño Busta tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415926.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Eak4M/zl26SnNs9kyCKGk2g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:21 Nuno Borges - Miomir Kecmanovic tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415953.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Eak4M/zl26SnNs9kyCKGk2g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:21 Nuno Borges - Miomir Kecmanovic tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415930.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nZuJl/vMEVFyHIQI072MMCA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:37 E. Arango / I. Jovic - K. Birrell / T. Gibson tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416551.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nZuJl/vMEVFyHIQI072MMCA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:37 E. Arango / I. Jovic - K. Birrell / T. Gibson tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416542.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7ZsMG/0T-SEZv3Q4J-TXXmg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:45 Valentin Royer - Novak Djokovic tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415912.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7ZsMG/0T-SEZv3Q4J-TXXmg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:45 Valentin Royer - Novak Djokovic tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415909.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/tFt26/ZOMwQFzcboriozAXA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:04 James Duckworth - Rafael Jódar tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415935.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/tFt26/ZOMwQFzcboriozAXA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:04 James Duckworth - Rafael Jódar tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415918.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/t-eYF/zCMkfo29U4oP1eV7g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:06 E. Cascino / L. Sanchez - K. Mladenovic / M. Guinard  tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416536.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/t-eYF/zCMkfo29U4oP1eV7g.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:06 E. Cascino / L. Sanchez - K. Mladenovic / M. Guinard  tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416532.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7KzBM/guCpYSdvmdBgLkFHQ.png?f=webp&w=400" group-title="HBO Max Sports SE",15:38 Ugo Humbert - Quentin Halys tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415941.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7KzBM/guCpYSdvmdBgLkFHQ.png?f=webp&w=400" group-title="HBO Max Sports SE",15:38 Ugo Humbert - Quentin Halys tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415922.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vF8HQ/0lY0BlaP6aNOzj2Vw.png?f=webp&w=400" group-title="HBO Max Sports SE",16:27 Nishesh Basavareddy - Alex Michelsen tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415900.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vF8HQ/0lY0BlaP6aNOzj2Vw.png?f=webp&w=400" group-title="HBO Max Sports SE",16:27 Nishesh Basavareddy - Alex Michelsen tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415881.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yP20F/fP2CboMAdRkqc7GQw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:56 Hailey Baptiste - Wang Xiyu tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415944.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yP20F/fP2CboMAdRkqc7GQw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",15:56 Hailey Baptiste - Wang Xiyu tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415924.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:43 R. Hijikata / R. Seggerman - A. Erler / L. Miedler  tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416636.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:43 R. Hijikata / R. Seggerman - A. Erler / L. Miedler  tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416635.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/spsnV/t6Vb-bhWTbDa3NcOw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:53 João Fonseca - Dino Prižmic tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415938.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/spsnV/t6Vb-bhWTbDa3NcOw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:53 João Fonseca - Dino Prižmic tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415920.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i1Ksg/0q6U-SM7kvTBUy-tg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:34 E. Alexandrova / HC. Chan - U. Eikeri / Q. Gleason  tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416837.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i1Ksg/0q6U-SM7kvTBUy-tg.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",16:34 E. Alexandrova / HC. Chan - U. Eikeri / Q. Gleason  tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416836.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:37 C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416534.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:37 C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416530.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/4sFty/yh27i_K1BEdeZNVcA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:39 Jasmine Paolini - Solana Sierra tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415950.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/4sFty/yh27i_K1BEdeZNVcA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:39 Jasmine Paolini - Solana Sierra tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415928.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:47 I. Buse / M. Kiger - R. Ho / H. Jebens  tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415894.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:47 I. Buse / M. Kiger - R. Ho / H. Jebens  tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415877.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:49 Jil Teichmann - Magdalena Frech tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416647.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/60pi1/OCza4BZgW0OQO1Gjw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",17:49 Jil Teichmann - Magdalena Frech tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416646.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7Aezh/2jKal4aEZMLqBHZCw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:34 Lorenzo Sonego - Tommy Paul tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415903.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7Aezh/2jKal4aEZMLqBHZCw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",18:34 Lorenzo Sonego - Tommy Paul tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415883.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vQgB4/MhBdPRd4ZwzPb5T7g.png?f=webp&w=400" group-title="HBO Max Sports SE",18:45 Courtside | Roland-Garros tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416675.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vQgB4/MhBdPRd4ZwzPb5T7g.png?f=webp&w=400" group-title="HBO Max Sports SE",18:45 Courtside | Roland-Garros tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416674.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CZs4f/9eZTvNmGRJizCK28Q.png?f=webp&w=400" group-title="HBO Max Sports SE",18:48 Mirra Andreeva - Marina Bassols tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416638.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CZs4f/9eZTvNmGRJizCK28Q.png?f=webp&w=400" group-title="HBO Max Sports SE",18:48 Mirra Andreeva - Marina Bassols tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416637.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NQk7S/hpdQcMCrwI0bvvD3w.png?f=webp&w=400" group-title="HBO Max Sports SE",19:23 Eva Lys - Sorana Cîrstea tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415906.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/NQk7S/hpdQcMCrwI0bvvD3w.png?f=webp&w=400" group-title="HBO Max Sports SE",19:23 Eva Lys - Sorana Cîrstea tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415885.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",19:23 Kamilla Rakhimova - Karolína Muchová tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415889.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yD5Dn/j6Talo7DLz_XOKsAQ.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",19:23 Kamilla Rakhimova - Karolína Muchová tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2415873.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",19:15 Tomáš Machác - Alexander Zverev tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416692.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Z93u9/rzGbuNT6zHPT5D-CA.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",19:15 Tomáš Machác - Alexander Zverev tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416691.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kX1o6/mroMJYdPlK1q6eI1A.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:09 Casper Ruud - Hamad Medjedovic tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416677.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kX1o6/mroMJYdPlK1q6eI1A.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",20:09 Casper Ruud - Hamad Medjedovic tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416676.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lOngr/DR20PAgyNke2xRhrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",22:15 Courtside | Roland-Garros tennis FHD 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416698.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lOngr/DR20PAgyNke2xRhrw.jpeg?f=webp&w=400" group-title="HBO Max Sports SE",22:15 Courtside | Roland-Garros tennis 5/27 [HBO Max SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416697.m3u8
 
 # --- HBO Max Sports SE [B] (108) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 1 FHD SE
@@ -4520,61 +4132,61 @@ http://45.139.122.199:8080/live/Martin1/martin1/1299648.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/1299649.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",MAX Extra 8 FHD SE
 http://45.139.122.199:8080/live/Martin1/martin1/1299650.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | UGO HUMBERT - QUENTIN HALYS | Wed 27 May 16:18 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | COURTSIDE | Thu 28 May 10:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://45.139.122.199:8080/live/Martin1/martin1/1122820.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | E. ALEXANDROVA / HC. CHAN - U. EIKERI / Q. GLEASON  | Wed 27 May 16:34 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | J. PAUL / M. WILLIS - A. CHANDRASEKAR / T. YUZUKI | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://45.139.122.199:8080/live/Martin1/martin1/1122821.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | THANASI KOKKINAKIS - PABLO CARREÑO BUSTA | Wed 27 May 15:17 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | M. KOZYREVA / I. SHYMANOVICH - A. DETIUC / I. KHROMACHEVA  | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 http://45.139.122.199:8080/live/Martin1/martin1/1122822.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | C. MOUTET / L. VAN ASSCHE - V. KIRKOV / B. STEVENS  | Wed 27 May 15:07 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | J. MALECKOVÁ / M. ŠKOCH - A. DANILINA / A. KRUNIC  | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 http://45.139.122.199:8080/live/Martin1/martin1/1122823.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | TOMÁŠ MACHÁC - ALEXANDER ZVEREV | Wed 27 May 19:15 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | FLAVIO COBOLLI - WU YIBING | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 http://45.139.122.199:8080/live/Martin1/martin1/1122824.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | NISHESH BASAVAREDDY - ALEX MICHELSEN | Wed 27 May 16:27 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | FACUNDO DÍAZ - LEARNER TIEN | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 http://45.139.122.199:8080/live/Martin1/martin1/1122825.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | C. BUREL / H. GASTON - L. JEANJEAN / G. BLANCANEAUX | Wed 27 May 17:37 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | IVA JOVIC - EMMA NAVARRO | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 http://45.139.122.199:8080/live/Martin1/martin1/1122826.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | E. ARANGO / I. JOVIC - K. BIRRELL / T. GIBSON | Wed 27 May 15:43 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | L. SIEGEMUND / E. ROGER-VASSELIN - D. SCHUURS / J. CASH | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 http://45.139.122.199:8080/live/Martin1/martin1/1122827.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | JASMINE PAOLINI - SOLANA SIERRA | Wed 27 May 17:39 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | P. NOUZA / N. OBERLEITNER - T. ARRIBAGE / A. OLIVETTI  | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 http://45.139.122.199:8080/live/Martin1/martin1/1122828.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | VALENTIN ROYER - NOVAK DJOKOVIC | Wed 27 May 15:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | DONNA VEKIC - NAOMI OSAKA | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 http://45.139.122.199:8080/live/Martin1/martin1/1122829.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | YULIIA STARODUBTSEVA - ELENA RYBAKINA | Wed 27 May 15:09 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 11
 http://45.139.122.199:8080/live/Martin1/martin1/1122830.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12
 http://45.139.122.199:8080/live/Martin1/martin1/1122831.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | JOÃO FONSECA - DINO PRIŽMIC | Wed 27 May 16:47 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13
 http://45.139.122.199:8080/live/Martin1/martin1/1122832.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | COURTSIDE | Wed 27 May 18:45 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 14
 http://45.139.122.199:8080/live/Martin1/martin1/1122833.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | MULTIVIEW | Wed 27 May 11:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 15
 http://45.139.122.199:8080/live/Martin1/martin1/1122834.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | R. HIJIKATA / R. SEGGERMAN - A. ERLER / L. MIEDLER  | Wed 27 May 16:39 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 16
 http://45.139.122.199:8080/live/Martin1/martin1/1122835.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | GIRO D'ITALIA | Wed 27 May 11:59 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 17
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 17
 http://45.139.122.199:8080/live/Martin1/martin1/1122836.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | JAMES DUCKWORTH - RAFAEL JÓDAR | Wed 27 May 16:04 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 18
 http://45.139.122.199:8080/live/Martin1/martin1/1122837.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | MARIANO NAVONE - JAKUB MENŠÍK | Wed 27 May 13:18 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 19
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 19
 http://45.139.122.199:8080/live/Martin1/martin1/1122838.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | MIRRA ANDREEVA - MARINA BASSOLS RIBERA | Wed 27 May 18:48 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 20
 http://45.139.122.199:8080/live/Martin1/martin1/1122839.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | I. BUSE / M. KIGER - R. HO / H. JEBENS  | Wed 27 May 17:47 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 21
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 21
 http://45.139.122.199:8080/live/Martin1/martin1/1122840.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | JIL TEICHMANN - MAGDALENA FRECH | Wed 27 May 17:49 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 22
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 22
 http://45.139.122.199:8080/live/Martin1/martin1/1122841.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | MARTA KOSTYUK - KATIE VOLYNETS | Wed 27 May 14:12 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 23
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 23
 http://45.139.122.199:8080/live/Martin1/martin1/1122842.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | E. CASCINO / L. SANCHEZ - K. MLADENOVIC / M. GUINARD  | Wed 27 May 16:09 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 24
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 24
 http://45.139.122.199:8080/live/Martin1/martin1/1122843.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | LORENZO SONEGO - TOMMY PAUL | Wed 27 May 18:34 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 25
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 25
 http://45.139.122.199:8080/live/Martin1/martin1/1122844.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | NUNO BORGES - MIOMIR KECMANOVIC | Wed 27 May 15:19 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 26
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 26
 http://45.139.122.199:8080/live/Martin1/martin1/1122845.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",NEXT | HAILEY BAPTISTE - WANG XIYU | Wed 27 May 16:47 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 27
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 27
 http://45.139.122.199:8080/live/Martin1/martin1/1122846.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",LIVE | MULTISCREEN | Wed 27 May 12:19 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 28
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 28
 http://45.139.122.199:8080/live/Martin1/martin1/1122847.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 29
 http://45.139.122.199:8080/live/Martin1/martin1/1122848.m3u8
@@ -4721,93 +4333,13 @@ http://45.139.122.199:8080/live/Martin1/martin1/1122918.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HBO Max Sports SE [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 100
 http://45.139.122.199:8080/live/Martin1/martin1/1122919.m3u8
 
-# --- HBO Max Sports UK (43) ---
+# --- HBO Max Sports UK (3) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1452150.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bF990/SwJoxxXUibupADQqg.png?f=webp&w=400" group-title="HBO Max Sports UK",09:30 Roland-Garros 360  tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416183.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bF990/SwJoxxXUibupADQqg.png?f=webp&w=400" group-title="HBO Max Sports UK",09:30 Roland-Garros 360 tennis UHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416181.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="HBO Max Sports UK",10:00 Multiview tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416162.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/hDiPl/iKy7ryaA64p4ynAtA.png?f=webp&w=400" group-title="HBO Max Sports UK",10:45 Ireland - New Zealand cricket FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416158.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/WC1GW/-ik-JYup56ZRt-WyQ.png?f=webp&w=400" group-title="HBO Max Sports UK",10:45 Giro d'Italia cycling FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416160.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/61335/QCU_QlgHvl9Z0Dy-Q.png?f=webp&w=400" group-title="HBO Max Sports UK",11:20 Multiscreen  cycling FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416154.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/YbJld/8DN0QIEFv8YN0GBDA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",12:18 Mariano Navone - Jakub Menšík tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416138.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/0vb7Q/_Ji_pkKDqcdDgxkig.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",13:09 H. Nys / E. Roger-Vasselin - V. Kopriva / F. Pieczonka tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416494.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/rNzsI/C6HjNzDedfw818C4A.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",13:17 Marta Kostyuk - Katie Volynets tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416146.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JrGtg/CVra11ULz8WyyjB_w.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:11 C. Moutet / L. Van Assche - V. Kirkov / B. Stevens tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416488.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/uGurF/XihWAwoRU5A9Ri-1Q.png?f=webp&w=400" group-title="HBO Max Sports UK",13:46 Yuliia Starodubtseva - Elena Rybakina tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416152.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lJzUZ/qwWHrDVEgkvRkeh4A.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:20 SW. Hsieh / M. Wallner - A. Klepac / L. Glasspool tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416663.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/if7Tt/L6USVOcFk3Sxnkcxg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:21 Thanasi Kokkinakis - Pablo Carreño Busta tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416132.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/rNzsI/C6HjNzDedfw818C4A.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:20 Nuno Borges - Miomir Kecmanovic tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416124.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/jLWL_/mFCYC23DlQ8J6p54g.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:43 Valentin Royer - Novak Djokovic tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416118.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PoNtC/JIxSPs_tmoOEyPUoA.png?f=webp&w=400" group-title="HBO Max Sports UK",14:46 E. Arango / I. Jovic - K. Birrell / T. Gibson tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416492.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/JfH_n/gOVo7DxoWIzCccCrQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:05 James Duckworth - Rafael Jódar tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416126.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/t57E_/1lQEswZulMa5Q_09g.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:11 E. Cascino / L. Sanchez - K. Mladenovic / M. Guinard tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416482.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/HXZq1/hoHhsUv4Ckx5AZTXA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:55 Nishesh Basavareddy - Alex Michelsen tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416114.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/0tv1C/aYkQjzqTdC3IJc4yQ.png?f=webp&w=400" group-title="HBO Max Sports UK",14:54 Ugo Humbert - Quentin Halys tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416128.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Y276m/F9NKSaXYVurzPc2ow.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:51 Hailey Baptiste - Wang Xiyu tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416130.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/aNSM-/7J5yrQGyxcAP3EA1w.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:41 R. Hijikata / R. Seggerman - A. Erler / L. Miedler tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416480.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PoNtC/JIxSPs_tmoOEyPUoA.png?f=webp&w=400" group-title="HBO Max Sports UK",15:52 João Fonseca - Dino Prižmic tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416122.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ytpNb/jZaDY7LkLAyd_imzQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:35 A. Eala / V. Mboko - L. Fernandez / D. Shnaider tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416833.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/BskHJ/w0t04XHr-yzS8ix0A.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:37 C. Burel / H. Gaston - L. Jeanjean / G. Blancaneaux tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416664.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/RB-ZT/VbVSQaj36E9S4aHSQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:45 Jasmine Paolini - Solana Sierra tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416120.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/q0KRD/MOPUdzwlZc9iqmpyA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:49 Jil Teichmann - Magdalena Frech tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416653.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lZiEO/fXBOYvTLojX_nB4mg.png?f=webp&w=400" group-title="HBO Max Sports UK",16:51 I. Buse / M. Kiger - R. Ho / H. Jebens tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416630.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/DagGq/TnZHi9v9KtQ25ynHA.png?f=webp&w=400" group-title="HBO Max Sports UK",17:35 Lorenzo Sonego - Tommy Paul tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416112.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/N6LPU/LwR_gkMR3zJESQTGQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:47 Mirra Andreeva - Marina Bassols Ribera tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416679.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2026/03/10/0b3571d0-7301-46aa-963c-604f1be3b06a.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",18:18 Eva Lys - Sorana Cîrstea tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416111.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/MWVdo/eJzmf7tWT-qY8R0XQ.png?f=webp&w=400" group-title="HBO Max Sports UK",18:00 Roland-Garros 360 tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416699.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LwwPb/J-yhqNYbCp5B6b22w.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",18:19 Kamilla Rakhimova - Karolína Muchová tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416617.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/bF990/SwJoxxXUibupADQqg.png?f=webp&w=400" group-title="HBO Max Sports UK",18:30 Crystal Palace - Rayo Vallecano football UHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416710.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/nNL04/vKTyJZbqpnpGtfzeg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",18:30 Crystal Palace - Rayo Vallecano football FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416717.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/vw2lt/mzsvElpf1b64Q91mg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:00 Roland Garros 360  tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416721.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/U4yV-/oa-zH1We99m_Nj0bQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:15 Casper Ruud - Hamad Medjedovic tennis FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416700.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/qB2eL/QPxh_m46gjgIHF13g.png?f=webp&w=400" group-title="HBO Max Sports UK",21:00 Philadelphia Phillies @ San Diego Padres baseball FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416726.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/kb__y/eNhFE4vdiWgQdgU6g.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",00:00 WRC rally FHD 5/27 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416730.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/7yD7Q/hydm_qkNz-tx4bbjQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",01:00 Houston Astros @ Texas Rangers baseball FHD 5/28 [HBO Max UK]
 http://45.139.122.199:8080/live/Martin1/martin1/2416750.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/RQtyo/_fmk6CCO_oWlaYfsA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",04:30 LIV Golf Korea | Round 1 golf FHD 5/28 [HBO Max UK]
 http://45.139.122.199:8080/live/Martin1/martin1/2416756.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ZWwcG/Fbq8dO-T3LOOElTzA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",06:00 LIV Golf Korea | Round 1 golf FHD 5/28 [HBO Max UK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416755.m3u8
 
 # --- HBO Max Sports US (15) ---
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Alejandro Davidovich Fokina vs Thiago Agustin Tirante @ May 27 04:55 AM :MAX US 03
@@ -8422,9 +7954,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1350932.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/1350934.m3u8
 
 # --- PPV Events US (79) ---
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 01 ⓧ| WWE | NXT | Tue 26th May 1:00AM UK/8:00PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 01 ⓧ| AEW | Dynamite | Wed 27th May 1:00AM UK/8:00PM ET
 http://45.139.122.199:8080/live/Martin1/martin1/2378261.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="PPV Events US",PPV 01:  WWE Monday Night RAW 8:00 pm
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="PPV Events US",PPV 01:
 http://45.139.122.199:8080/live/Martin1/martin1/2155786.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 02 :  Xhoxhaj v Seifkhani 12:30 pm
 http://45.139.122.199:8080/live/Martin1/martin1/2131417.m3u8
@@ -8432,7 +7964,7 @@ http://45.139.122.199:8080/live/Martin1/martin1/2131417.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/2378260.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 03 ⓧ| No Scheduled Event
 http://45.139.122.199:8080/live/Martin1/martin1/2378259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 03:  Isle of Man TT
+#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 03:
 http://45.139.122.199:8080/live/Martin1/martin1/2131418.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 04 ⓧ| No Scheduled Event
 http://45.139.122.199:8080/live/Martin1/martin1/2378258.m3u8
@@ -8581,13 +8113,11 @@ http://45.139.122.199:8080/live/Martin1/martin1/2131473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV Events US",USA PPV59:
 http://45.139.122.199:8080/live/Martin1/martin1/2131474.m3u8
 
-# --- Paramount+ Original US (3) ---
+# --- Paramount+ Original US (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Paramount+ Original US",TEST CBS NEWS
 http://45.139.122.199:8080/live/Martin1/martin1/2409458.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/250px-Paramount_Plus.svg.png" group-title="Paramount+ Original US",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/2380061.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/1b0dfe75-23ce-44da-b7a7-5a4169a96e2b/UCNFL_THMB_26_CrystalPalace_Main_RayoVallecano_Main_59om1.jpg?format=webp" group-title="Paramount+ Original US",2:00 PM EDT Crystal Palace vs. Rayo Vallecano UEFA Conference League 5/27
-http://45.139.122.199:8080/live/Martin1/martin1/2416210.m3u8
 
 # --- Peacock / DAZN US (44) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cc8c0x1vqmlngpzugxcbimc35_image-header_pUs_1738622991000/fill/center/top/none/85/800/600/png/image" group-title="Peacock / DAZN US",US-DAZN 1
@@ -8679,23 +8209,15 @@ http://45.139.122.199:8080/live/Martin1/martin1/1160451.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  19
 http://45.139.122.199:8080/live/Martin1/martin1/1160452.m3u8
 
-# --- Prime Sports DK (4) ---
+# --- Prime Sports DK (2) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1340807.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.605f8c0d-3601-4810-a64c-58eb5c74f231/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",09:00 May 27 - PTT La Nucia [Amazon Prime DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416072.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec816bc6-17d5-435e-a94b-abc690cc6834/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",09:00 May 27 - PTT Skopje [Amazon Prime DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416071.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de666dd6-fe3f-4501-831c-5e7f1e323672/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",20:00 May 27 - PTT San Luis Obispo [Amazon Prime DK]
 http://45.139.122.199:8080/live/Martin1/martin1/2416070.m3u8
 
-# --- Prime Sports SE (4) ---
+# --- Prime Sports SE (2) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/1167636.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.605f8c0d-3601-4810-a64c-58eb5c74f231/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports SE",09:00 May 27 - PTT La Nucia [Amazon Prime SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416088.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ec816bc6-17d5-435e-a94b-abc690cc6834/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports SE",09:00 May 27 - PTT Skopje [Amazon Prime SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416087.m3u8
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.de666dd6-fe3f-4501-831c-5e7f1e323672/4/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports SE",20:00 May 27 - PTT San Luis Obispo [Amazon Prime SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2416086.m3u8
 
@@ -8885,19 +8407,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1160246.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/ess-logo.png" group-title="Speedway - ESS Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/573022.m3u8
 
-# --- SportExpressen/Aftonbladet SE (6) ---
+# --- SportExpressen/Aftonbladet SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/expressen-aftonbladet-play.png" group-title="SportExpressen/Aftonbladet SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/287676.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/r1kca.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:20 Gimonäs Umeå IF - Själevads IK 5/27 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2416091.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/27zqgn.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 Eslövs BK - Bosnien Hercegovinas SK 5/27 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2416092.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/9tviuo.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IK Huge - IK Brage 5/27 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2416093.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/axjb4k.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",18:50 IK Sturehov - IF Karlstad Fotboll 5/27 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2416094.m3u8
-#EXTINF:-1 tvg-logo="https://livestream-images-cdn.staylive.tv/streams/qbsyil.jpg?width=320" group-title="SportExpressen/Aftonbladet SE",19:20 Svärtinge SK - Älvsjö AIK FF 5/27 [S.Expressen]
-http://45.139.122.199:8080/live/Martin1/martin1/2416095.m3u8
 
 # --- Sports Extra US (111) ---
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nbaleaguepass.png" group-title="Sports Extra US",=== NBA League Pass ===
@@ -9347,7 +8859,7 @@ http://45.139.122.199:8080/live/Martin1/martin1/2251811.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/swedish-hockey.png" group-title="Svensk Hockey SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/668954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svensk Hockey SE",15:55 : SHTV Studio | Slutspelet i U19 Nationell  4/21 [SVENSKHOCKEY]
-http://45.139.122.199:8080/live/Martin1/martin1/2411537.m3u8
+http://45.139.122.199:8080/live/Martin1/martin1/2416880.m3u8
 
 # --- Svenskbil Sport / Folkrace SE (2) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Svensk-Bilsport.png" group-title="Svenskbil Sport / Folkrace SE",-= Reload Your Playlist =-
@@ -10105,62 +9617,62 @@ http://45.139.122.199:8080/live/Martin1/martin1/1233605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE | STAR 90s
 http://45.139.122.199:8080/live/Martin1/martin1/1233604.m3u8
 
-# --- TV2 Sport DK (4) ---
+# --- TV2 Sport DK (5) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/527426.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/27c8cf78-e246-379e-a655-c33482a44a54.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",18:00 Kvindeligaen: Nykøbing F.-Ikast, 1. bronzekamp  5/27 [TV2 DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416303.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/75001148-6b6e-3e94-a4cd-ca95a736cbf2.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",20:05 Kvindeligaen: Team Esbjerg-Odense, 1. finale  5/27 [TV2 DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416302.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/9e8082bc-8de9-3c90-8d31-3d96f5fb1d13.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",03:55 Badminton: Kvartfinaler, Singapore Open (bane 2)  5/28 [TV2 DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2417085.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/fe356947-77ab-37a8-bb80-d0c448f2ada2.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",04:00 Badminton: Singapore Open  5/28 [TV2 DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416301.m3u8
+http://45.139.122.199:8080/live/Martin1/martin1/2417083.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/f0b8a51c-3f7d-3d6e-9577-9f47c889b72b.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",04:00 Badminton: Kvartfinaler, Singapore Open (bane 1)  5/28 [TV2 DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2417084.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/e41bc088-108d-3e68-a143-7c159e4a115f.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",05:30 Badminton: Christophersen-Wang, Singapore Open  5/28 [TV2 DK]
+http://45.139.122.199:8080/live/Martin1/martin1/2416916.m3u8
 
-# --- TV4 Play SE (2) ---
+# --- TV4 Play SE (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/Tv4_play_2009_flat.png" group-title="TV4 Play SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/109998.m3u8
-#EXTINF:-1 tvg-logo="https://imageproxy.a2d.tv/?source=https:%2F%2Fimg.tv4.incomet.io%2Fc09010c7-9a09-4b6f-afc2-adcf13b5d868%2Fcrop16x9.jpg&width=450" group-title="TV4 Play SE",17:00 Bollklubben Bollklubben 5/27 [TV4 Play]
-http://45.139.122.199:8080/live/Martin1/martin1/2416296.m3u8
 
 # --- Telia Play Events SE (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",NEXT | BOLLKLUBBEN | Wed 27 May 17:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | BOLLKLUBBEN | Wed 27 May 17:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 1
 http://45.139.122.199:8080/live/Martin1/martin1/2303841.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",NEXT | AIK-HÄCKEN | Wed 27 May 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | AIK-HÄCKEN | Wed 27 May 18:50 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 2
 http://45.139.122.199:8080/live/Martin1/martin1/2303842.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",NEXT | V86 DIREKT | Wed 27 May 20:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | V86 DIREKT | Wed 27 May 20:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 3
 http://45.139.122.199:8080/live/Martin1/martin1/2303843.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",NEXT | UEFA CONFERENCE LEAGUE FINAL: CRYSTAL PALACE - RAYO VALLECANO | Wed 27 May 20:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | UEFA CONFERENCE LEAGUE FINAL: CRYSTAL PALACE - RAYO VALLECANO | Wed 27 May 20:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 4
 http://45.139.122.199:8080/live/Martin1/martin1/2303844.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13788.png?ver=74295" group-title="Telia Play Events SE",ENDED | SPORT DIREKT: EXTRASÄNDNING INFÖR FOTBOLLS-VM: PRESSKONFERENS GRAHAM POTTER | Wed 27 May 10:57 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 5
 http://45.139.122.199:8080/live/Martin1/martin1/2303845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 6
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",LIVE | MONTREAL CANADIENS-CAROLINA HURRICANES 4:7 | Thu 28 May 02:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 6
 http://45.139.122.199:8080/live/Martin1/martin1/2303846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 7
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | SOUTH KOREA - DAY 1 | Thu 28 May 06:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 7
 http://45.139.122.199:8080/live/Martin1/martin1/2303847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 8
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | BEACHVOLLEYBOLL: BEACH PRO TOUR | Thu 28 May 10:55 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 8
 http://45.139.122.199:8080/live/Martin1/martin1/2303848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 9
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | TEST AV KRYPTERING | Thu 28 May 11:05 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 9
 http://45.139.122.199:8080/live/Martin1/martin1/2303849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 10
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | AUSTRIAN ALPINE OPEN - DAY 1 | Thu 28 May 13:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 10
 http://45.139.122.199:8080/live/Martin1/martin1/2303850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 11
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FÖRSTUDIO: FINLAND-TJECKIEN | Thu 28 May 16:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 11
 http://45.139.122.199:8080/live/Martin1/martin1/2303851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 12
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | KVARTSFINAL: KANADA - USA | Thu 28 May 16:10 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 12
 http://45.139.122.199:8080/live/Martin1/martin1/2303852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 13
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | KVARTSFINAL: FINLAND - TJECKIEN | Thu 28 May 16:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 13
 http://45.139.122.199:8080/live/Martin1/martin1/2303853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 14
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | BOLLKLUBBEN | Thu 28 May 17:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 14
 http://45.139.122.199:8080/live/Martin1/martin1/2303854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 15
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | ORIENTERING: VÄRLDSCUPEN | Thu 28 May 18:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 15
 http://45.139.122.199:8080/live/Martin1/martin1/2303855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 16
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | FÖRSTUDIO | Thu 28 May 19:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 16
 http://45.139.122.199:8080/live/Martin1/martin1/2303856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 17
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | PREMIER LEAGUE DARTS - LONDON | Thu 28 May 20:00 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 17
 http://45.139.122.199:8080/live/Martin1/martin1/2303857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 18
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | KVARTSFINAL: SCHWEIZ - SVERIGE | Thu 28 May 20:15 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 18
 http://45.139.122.199:8080/live/Martin1/martin1/2303858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 19
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | IRLAND-QATAR | Thu 28 May 20:38 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 19
 http://45.139.122.199:8080/live/Martin1/martin1/2303859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 20
+#EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",NEXT | EFTERSTUDIO | Thu 28 May 22:45 CEST (SE) | 8K EXCLUSIVE | SE: PLAY+ PPV 20
 http://45.139.122.199:8080/live/Martin1/martin1/2303860.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Telia Play Events SE",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: PLAY+ PPV 21
 http://45.139.122.199:8080/live/Martin1/martin1/2303861.m3u8
@@ -11707,7 +11219,7 @@ http://45.139.122.199:8080/live/Martin1/martin1/202701.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/NHK_World.png" group-title="UK News",NHK FHD UK
 http://45.139.122.199:8080/live/Martin1/martin1/2113617.m3u8
 
-# --- UK Sports (97) ---
+# --- UK Sports (96) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/countries/united-kingdom/--United-Kingdom-Sports--.png" group-title="UK Sports",-= United Kingdom Sports =-
 http://45.139.122.199:8080/live/Martin1/martin1/1433590.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-main-event-icon-uk.png" group-title="UK Sports",Sky Sports Main Event UK
@@ -11728,8 +11240,6 @@ http://45.139.122.199:8080/live/Martin1/martin1/127990.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/24460.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK Sports",Sky Sports F1 FHD UK
 http://45.139.122.199:8080/live/Martin1/martin1/37068.m3u8
-#EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK Sports",Sky Sports F1 FHD UK [50FPS]
-http://45.139.122.199:8080/live/Martin1/martin1/1434785.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-f1-icon-uk.png" group-title="UK Sports",Sky Sports F1 4K UHD UK [Only On 4K Devices]
 http://45.139.122.199:8080/live/Martin1/martin1/1186321.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-cricket-icon-uk.png" group-title="UK Sports",Sky Sports Cricket UK
@@ -12239,32 +11749,16 @@ http://45.139.122.199:8080/live/Martin1/martin1/2121934.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg/revision/latest?cb=20200718174253" group-title="United States",YES Network US
 http://45.139.122.199:8080/live/Martin1/martin1/2121935.m3u8
 
-# --- Viaplay Sport DK (13) ---
+# --- Viaplay Sport DK (5) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/744/208/logo_VolleyballWorldBeachProTour.png?width=320&height=320" group-title="Viaplay Sport DK",09:00 Elite16 Ostrava | FIVB Volleyball World Beach Pro Tour 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415773.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/744/208/logo_VolleyballWorldBeachProTour.png?width=320&height=320" group-title="Viaplay Sport DK",09:00 Elite16 Ostrava | FIVB Volleyball World Beach Pro Tour 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2415772.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/491/604/logo_MatchroomPool.png?width=320&height=320" group-title="Viaplay Sport DK",12:00 UK Open Pool Championship | Pool 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416345.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Hylder Schmeichel efter karrierestop | Viaplay Sport News 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416341.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Lodtrækning | Champions Hockey League 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416340.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/706/952/logo_OBOSDamallsvenskan.png?width=320&height=320" group-title="Viaplay Sport DK",18:50 Eskilstuna - Hammarby | OBOS Damallsvenskan 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416339.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/706/952/logo_OBOSDamallsvenskan.png?width=320&height=320" group-title="Viaplay Sport DK",18:50 AIK - Häcken | OBOS Damallsvenskan 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416338.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Sport News | Viaplay Sport News 5/27 [Viaplay DK]
-http://45.139.122.199:8080/live/Martin1/martin1/2416337.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",01:00 Mets - Reds | Major League Baseball 5/27 [Viaplay DK]
 http://45.139.122.199:8080/live/Martin1/martin1/2416335.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",02:05 Montreal - Carolina | NHL 5/28 [Viaplay DK]
 http://45.139.122.199:8080/live/Martin1/martin1/2416334.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/709/564/logo_LivGolf.png?width=320&height=320" group-title="Viaplay Sport DK",06:00 LIV Golf South Korea | LIV Golf 5/28 [Viaplay DK]
 http://45.139.122.199:8080/live/Martin1/martin1/2416800.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",07:00 Sport News | Viaplay Sport News 5/28 [Viaplay DK]
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",07:00 Jakob Poulsen deler sine fremtidstanker | Viaplay Sport News 5/28 [Viaplay DK]
 http://45.139.122.199:8080/live/Martin1/martin1/2416816.m3u8
 
 # --- Viaplay Sport DK [B] (70) ---
@@ -12409,17 +11903,9 @@ http://45.139.122.199:8080/live/Martin1/martin1/1132454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",:Viaplay DK  71
 http://45.139.122.199:8080/live/Martin1/martin1/1132455.m3u8
 
-# --- Viaplay Sport SE (9) ---
+# --- Viaplay Sport SE (5) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport SE",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/55760.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/491/604/logo_MatchroomPool.png?width=320&height=320" group-title="Viaplay Sport SE",12:00 UK Open Pool Championship | Pool 5/27 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416317.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/840/684/Logo_ChampionsHockeyLeague.png?width=320&height=320" group-title="Viaplay Sport SE",16:00 Lottning | Champions Hockey League 5/27 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416316.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/706/952/logo_OBOSDamallsvenskan.png?width=320&height=320" group-title="Viaplay Sport SE",18:50 AIK - Häcken | OBOS Damallsvenskan 5/27 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416315.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/706/952/logo_OBOSDamallsvenskan.png?width=320&height=320" group-title="Viaplay Sport SE",18:50 Eskilstuna - Hammarby | OBOS Damallsvenskan 5/27 [Viaplay SE]
-http://45.139.122.199:8080/live/Martin1/martin1/2416314.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport SE",01:00 Mets - Reds | Major League Baseball 5/27 [Viaplay SE]
 http://45.139.122.199:8080/live/Martin1/martin1/2416312.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport SE",02:05 Montreal - Carolina | NHL 5/28 [Viaplay SE]
@@ -12646,21 +12132,21 @@ http://45.139.122.199:8080/live/Martin1/martin1/1835432.m3u8
 http://45.139.122.199:8080/live/Martin1/martin1/1835433.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="World Football Events",Bundesliga 10ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Martin1/martin1/1835434.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 01ⓧ: Italy, Serie C | Brescia vs. Salernitana | Wednesday, 27 May 2026 19:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 01ⓧ: Bulgaria, First Professional League | FK Septemvri Sofia vs. FC Yantra Gabrovo | Thursday, 28 May 2026 15:30
 http://45.139.122.199:8080/live/Martin1/martin1/1835436.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 02ⓧ: Italy, Serie C | Catania vs. Ascoli | Wednesday, 27 May 2026 20:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 02ⓧ: Azerbaijan, Premier League | FK Qabala vs. FK Energetik Mingəcevir | Thursday, 28 May 2026 15:30
 http://45.139.122.199:8080/live/Martin1/martin1/1835437.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 03ⓧ: UEFA, Conference League, FINAL | Crystal Palace vs. Rayo Vallecano | Wednesday, 27 May 2026 20:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 03ⓧ: Poland, 1. Liga, Promotion Playoffs | Chrobry Glogow vs. LKS Lodz | Thursday, 28 May 2026 16:00
 http://45.139.122.199:8080/live/Martin1/martin1/1835438.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 04ⓧ: No Scheduled Event
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 04ⓧ: Denmark, A Liga | Kolding IF vs. DBK Fortuna Hjorring | Thursday, 28 May 2026 18:00
 http://45.139.122.199:8080/live/Martin1/martin1/1835439.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 05ⓧ: No Scheduled Event
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 05ⓧ: Poland, 1. Liga, Promotion Playoffs | Wieczysta Krakow vs. KSP Polonia Warszawa | Thursday, 28 May 2026 19:00
 http://45.139.122.199:8080/live/Martin1/martin1/1835440.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 06ⓧ: No Scheduled Event
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 06ⓧ: International, Friendly | Egypt vs. Russia | Thursday, 28 May 2026 19:00
 http://45.139.122.199:8080/live/Martin1/martin1/1835441.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 07ⓧ: No Scheduled Event
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 07ⓧ: International, Friendly | Republic of Ireland vs. Qatar | Thursday, 28 May 2026 19:45
 http://45.139.122.199:8080/live/Martin1/martin1/1835442.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 08ⓧ: No Scheduled Event
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 08ⓧ: Portugal, Primeira Liga, Relegation/Promotion | Casa Pia Lisbon vs. SCU Torreense | Thursday, 28 May 2026 20:00
 http://45.139.122.199:8080/live/Martin1/martin1/1835443.m3u8
 #EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 09ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Martin1/martin1/1835444.m3u8
@@ -12817,4 +12303,4 @@ http://45.139.122.199:8080/live/Martin1/martin1/1835488.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TrxqEC8.png" group-title="World Padel Tour TV",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Martin1/martin1/395508.m3u8
 
-# Total: 6276
+# Total: 6019
