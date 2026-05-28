@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-05-28 08:15:53
+# Generated: 2026-05-28 21:37:55
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -425,7 +425,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada",CA: YES TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13765.m3u8
 
-# --- Chile (53) ---
+# --- Chile (52) ---
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14878.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C
@@ -520,8 +520,6 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14893.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13455.m3u8
 #EXTINF:-1 tvg-logo="https://logos.iptv.wtf/chile/viax.png" group-title="Chile",CL: Via X
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13888.m3u8
-#EXTINF:-1 tvg-logo="https://logos.iptv.wtf/chile/viax2.png" group-title="Chile",CL: Via X 2
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13889.m3u8
 #EXTINF:-1 tvg-logo="https://ninafm.cl/wp-content/uploads/2023/01/1234.png" group-title="Chile",CL: Nina FM
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15296.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplustv.cl/img/programas/logo.png" group-title="Chile",CL: Visión Plus TV
@@ -1719,4 +1717,4 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",VE: Promar TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15187.m3u8
 
-# Total: 832
+# Total: 831

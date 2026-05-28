@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-05-28 08:23:41
+# Generated: 2026-05-28 21:32:45
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -3675,7 +3675,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/152627.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MKD: MACEDONIA",MKD: Roma TV
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/152628.m3u8
 
-# --- NL: NETHERLANDS (65) ---
+# --- NL: NETHERLANDS (62) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/Netherlands.png" group-title="NL: NETHERLANDS",##### NETHERLANDS #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36637.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: NPO 1 HD
@@ -3724,18 +3724,12 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/7878.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/19825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/19826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Voetbal HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/33687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport Select HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/7873.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport Extra HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/7875.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport Docu HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/7874.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Racing HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/33688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Golf HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/33689.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/49968.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL: NETHERLANDS",NL: Ziggo Sport 2
@@ -6729,4 +6723,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3304
+# Total: 3301

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2026-05-28 08:18:44
+# Generated: 2026-05-28 21:34:30
 # Expires: 2026-12-08
 # Family Safe Edition
 # ==============================================
@@ -11267,7 +11267,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/741.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - Cocuk",Gabby'nin Hayal Evi
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/747.mp4
 
-# --- Movies | TR - Cocuk/Animasyon (147) ---
+# --- Movies | TR - Cocuk/Animasyon (148) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufcYhMgXtdL3OQBdR3G3p23pBni.jpg" group-title="Movies | TR - Cocuk/Animasyon",Karlar Prensi Elliot
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/33498.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuPr1aWJU9A9jeGxjFzPczHov2S.jpg" group-title="Movies | TR - Cocuk/Animasyon",Canavar Ev (TR)
@@ -11562,6 +11562,8 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/153708.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154846.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOGVmgnIO71nIffkGmGtGmhHLdN.jpg" group-title="Movies | TR - Cocuk/Animasyon",Yerime Geç (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155126.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoA55UeOCYnO2EkX93EFa2e6g1i.jpg" group-title="Movies | TR - Cocuk/Animasyon",Süper Mario Galaksi Filmi (TR)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155630.mkv
 
 # --- Movies | TR - Cuma Dizileri (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - Cuma Dizileri",Kırmızı Oda
@@ -17005,7 +17007,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/152830.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg" group-title="Movies | TR - Yabanci/Dublaj 2025",Ballerina (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154421.mkv
 
-# --- Movies | TR - Yabanci/Dublaj 2026 (37) ---
+# --- Movies | TR - Yabanci/Dublaj 2026 (38) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",The Rip (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/148907.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzSEuMeoi5Pnf3PU10ZznPAJ2Ap.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Gerçek Sahtekâr (TR)
@@ -17080,6 +17082,8 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155516.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjR56Yv17pbjTVBTMjqepvcus4f.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Önce Kadınlar (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155518.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Kartavya (TR)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155631.mkv
 
 # --- Movies | TR - Yerli (685) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLvUlTSLs93gPkUVJBgcfzf8AkP.jpg" group-title="Movies | TR - Yerli",Ketenpere (TR)
@@ -19287,4 +19291,4 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/4372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",The Good Lord Bird
 http://l1iptv.xyz/series/ibrahimtopal/rP8DwDMPgG/686
 
-# Total: 9556
+# Total: 9558

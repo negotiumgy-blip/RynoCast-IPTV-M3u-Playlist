@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-28 08:23:07
+# Generated: 2026-05-28 21:37:47
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -315,159 +315,205 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85289.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: SPORTDIGITAL FUSSBALL HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85150.m3u8
 
-# --- Belgique (76) ---
+# --- Belgique (99) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/1024px-Flag_of_Belgium.svg.png" group-title="Belgique",=========Belgium=========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/66400.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 01
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81652.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 02
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81651.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 03
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81650.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 04
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81649.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 05
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81648.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 06
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81647.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 07
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81646.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 08
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81645.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 09
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 10
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 11
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81642.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",DAZN BE | Event 12
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81641.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",ELEVEN SPORTS 1 | BE NL (Temporer closed)
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79325.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",ELEVEN SPORTS 2 | BE NL (Temporer closed)
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",ELEVEN SPORTS 3 | BE NL (Temporer closed)
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79323.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Ziggo Sport 5 | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79322.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Ziggo Sport 4 | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",OLYMPIA TV | FR
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79314.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",FIGHTBOX | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Eclips TV | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79384.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Film1 Action | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Film1 Drama | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Film1 Family | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Film1 Premiere HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Filmbox HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Ketnet | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Love Nature HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",MENT TV | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",NET5 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",NPO1 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",NPO2 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",NPO3 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",National Geographic HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",National Geographic Wild HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Nautical HD | FR
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Nick Jr | (Multilanguage)
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Nickelodeon | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Play4 | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Play5 | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Play6 | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79355.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Play7 | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",RTL Z | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",RTL4 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",RTL5 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",RTL7 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",RTL8 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",SBS6 HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",SBS9 | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Sport 10 HD | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Stingray CMusic | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Stingray Classica HD |DE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",TVV Infokanaal | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79343.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Travel XP HD | CZ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79342.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",VTM 2 HD | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",VTM 3 | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79340.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",VTM 4 | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79339.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",VTM Gold | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79338.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",VTM HD | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",VTM NON-STOP DOKTERS | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79336.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Veronica/DisneyXD HD | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Ziggo Sport 6 | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",een HD | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",iConcert | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",History | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79331.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Omroep Brabant Televisie | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79330.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Omrop Fryslan Televisie | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Travel XP HD  | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79328.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",duck TV | NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Museum 4K (Multilanguage)
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79326.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",TF1 HD | BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79320.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",6TER | FR
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Play More Black | BE NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Play More Cinema | BE NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79317.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",Play More Kicks | BE NL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79316.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgique",FRANCEINFO | FR
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: LA UNE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85803.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: LA TROIS
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85802.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TF1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85834.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: France 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85794.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: France 3
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85796.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: FRANCE 4
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85797.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: FRANCE 5
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85798.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: FRANCE 24
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85795.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VTM
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VTM 4
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: CLUB RTL
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85779.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: BX 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85772.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Bruzz
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85771.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Bouké
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: CNN
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85783.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: CNews
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85782.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: LN24
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85805.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: LCI
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85804.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Warner TV Next
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85851.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Warner TV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85850.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Vedia
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85846.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TV5 MONDE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TV LUX
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Tipik
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TV COM
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TV BREIZH
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Trends Z
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Trek
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TMC
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TCM CINEMA HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: SYFY
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85829.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TF1 Séries
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TELESAMBRE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85832.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TELEMB
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85831.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Science et vie tv
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85828.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: RTL-TVI
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85827.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: RTL District
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85826.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Qu4tre
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85825.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: PLUG RTL
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VTM GOLD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85746.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: PLANETE+
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85819.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: PIWI+
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85818.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: OCS
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85817.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: NOTELE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85816.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: NickJr
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85815.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Planète+ Crime
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85821.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Planète+ Aventure
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85820.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: USHUAIA TV HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: NICKELODEON
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85814.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: NAT GEO WILD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85813.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Nat Geo
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85812.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: MTV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85811.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: MGG TV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85810.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: MEZZO
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85809.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: MCM
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85808.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: MATELE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85807.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: MANGAS
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85806.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Histoire TV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85800.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: GULLI
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: EURONEWS
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85793.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Divertissez VOO
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85792.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Comedy Central
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85785.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: CINE+ F
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: CINE+ C
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85777.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: COMEDIE+
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85784.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Clubbing TV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: DISNEY JUNIOR
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85791.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: DISNEY CHANNEL
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85790.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: BOOMERANG
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Cartoonito
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: CARTOON NETWORK
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85775.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TIJI
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: TELETOON+
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85833.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: BFM TV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85768.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: BE Series
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: BE CINE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85766.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: BE 1+1H
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85765.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: BE 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85764.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: AutoMoto
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: ARTE BELGIQUE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: ANIMAUX
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: ACTV
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: AB3
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: AB Xplore
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85758.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: 13E RUE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: NRJ HITS BELGIQUE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Canvas HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85739.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: XITE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85751.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: KETNET
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: InfoSport+
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85801.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Play Sports 1 FR
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85822.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: Play Sports 2 FR
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VSW 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85847.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VSW 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85848.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VSW 3
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85849.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VTM 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: VTM 3
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgique",BE: DAZN 1 FR
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85786.m3u8
 
 # --- De Filme Und Serien (112) ---
 #EXTINF:-1 tvg-logo="https://a-9.1fichier.com/d1048710850" group-title="De Filme Und Serien",24/7 Queen of the South DE
@@ -8685,7 +8731,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (152) ---
+# --- World Sports (151) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
@@ -8856,6 +8902,12 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/82293.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Esport FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82294.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 1 FR
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 2 FR
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/74279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 3 FR
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/78990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS CA HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80908.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS N HD
@@ -8878,10 +8930,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/80916.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80917.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: beIN SPORTS 9 Arabic
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80918.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sports Pro League 1 BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sports Pro League 2 BE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/74280.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Dazn F1  ES
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/43177.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: DAZN 1 ES FHD
@@ -8892,8 +8940,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10168.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2223.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: ARRYADIA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82166.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: MAX Sport 1 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/77534.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Diema Sport 1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Diema Sport 2 HD
@@ -8954,8 +9000,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/21953.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21952.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sports 4 HD PL
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Auto Motor Sport HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: CT sport HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78985.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: JOJ Sport HD
@@ -8991,4 +9035,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4465
+# Total: 4487

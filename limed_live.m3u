@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: limed.cc:80
-# Generated: 2026-05-28 08:16:12
+# Generated: 2026-05-28 21:36:53
 # Expires: 2026-05-28
 # Family Safe Edition
 # ==============================================
@@ -3230,19 +3230,19 @@ http://limed.cc:80/live/ZWsDKE/XZu7nP/90441.m3u8
 http://limed.cc:80/live/ZWsDKE/XZu7nP/90442.m3u8
 
 # --- EVENTOS (27) ---
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Atlético-MG x Puerto Cabello FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:45] Irlanda x Catar FHD
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506922.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Caracas x Botafogo FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Palmeiras x Junior FHD
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506923.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Vasco x Barracas Central FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:00] Nacional-AM x Paysandu FHD
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506924.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] Corinthians x Platense FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] Cruzeiro x Barcelona-EQU FHD
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506925.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] ABC x Vitória FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506928.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://limed.cc:80/live/ZWsDKE/XZu7nP/89806.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] Sport x Fotaleza FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506929.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506930.m3u8
@@ -3280,9 +3280,9 @@ http://limed.cc:80/live/ZWsDKE/XZu7nP/506945.m3u8
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506946.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506947.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] RB Bragantino x Carabobo FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506927.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] Fluminense x La Guaira FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://limed.cc:80/live/ZWsDKE/XZu7nP/506926.m3u8
 
 # Total: 1610
