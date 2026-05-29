@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lidns.cc
-# Generated: 2026-05-28 21:37:41
-# Expires: 2026-05-28
+# Generated: 2026-05-29 20:50:33
+# Expires: 2026-05-29
 # Family Safe Edition
 # ==============================================
 
@@ -3234,13 +3234,13 @@ http://lidns.cc/live/yu3k45/3audeg/90442.m3u8
 # --- EVENTOS (27) ---
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/PLAY-LOGO.png" group-title="EVENTOS",JOGOS DO DIA
 http://lidns.cc/live/yu3k45/3audeg/89806.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:45] Irlanda x Catar FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[15:30] Bósnia x Macedônia do Norte FHD
 http://lidns.cc/live/yu3k45/3audeg/506922.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[19:00] Palmeiras x Junior FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:00] Juventude x América-MG FHD
 http://lidns.cc/live/yu3k45/3audeg/506923.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:00] Nacional-AM x Paysandu FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lidns.cc/live/yu3k45/3audeg/506924.m3u8
-#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",[21:30] Cruzeiro x Barcelona-EQU FHD
+#EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lidns.cc/live/yu3k45/3audeg/506925.m3u8
 #EXTINF:-1 tvg-logo="http://stolm.live/lives/WEBPLAYER/bola.png" group-title="EVENTOS",Informações em Breve
 http://lidns.cc/live/yu3k45/3audeg/506926.m3u8

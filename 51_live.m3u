@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-05-28 21:32:45
+# Generated: 2026-05-29 20:50:15
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1579,34 +1579,10 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (45) ---
+# --- DE-DAZN EVENT (33) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bdsmhwm3jlfptyrkhb75wamz9_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",French Open | Tag 3 (2026-05-26 10:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183827.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4jepsfru3mg12tp5xfmnc862e_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 16 | Bellinzona - Cari (2026-05-26 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183828.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a0w4i2lsdi1x1qb5h5hz6yqh3_image-header_pDach_1778671795000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Unistars vs. Jong Aruba (2026-05-27 02:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183829.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3w4z7lsf6rwk100f5b4pqzdzy_image-header_pDach_1778673381000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",UWI Blackbirds vs. St. Andrew Lions FC (2026-05-27 03:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183830.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/40imkge2pw9y4v1k0yqbjsvvb_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",French Open | Tag 4 (2026-05-27 10:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183831.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9pdxxngd8cg93k8pfiuo0wjyw_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 17 | Cassano d’Adda - Andalo (2026-05-27 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183832.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jesnuy3b36y11r4fm8j6znkd2_image-header_pDach_1778671564000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Atlantico Deportivo vs. Nacional (2026-05-28 02:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183833.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cc14fncf9so81ohwubs4hw5ic_image-header_pDach_1777290547000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",LIV Golf Korea - May 28-31 (2026-05-28 06:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183834.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2bkryer39h6ewxf71245vsqrc_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",French Open | Tag 5 (2026-05-28 10:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183835.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2tzne596n9bx6na62endm0hp8_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 18 | Fai della Paganella - Pieve di Soligo (2026-05-28 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183836.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e2p9zztgp9fpo9lwddcjp0mq0_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Premier League Darts | Finals in London (2026-05-28 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183837.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8v0bn5l334d9dot4pzhz5rjmt_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Premier League Darts | Finals in London (Originalkommentar) (2026-05-28 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183838.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9se7480f8fext5krxmv7d3w60_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",French Open | Tag 6 (2026-05-29 10:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9se7480f8fext5krxmv7d3w60_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",LIV Golf South Korea - Day 2
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183839.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ewgofoxt2h771rcevgm1y8781_image-header_pDach_1773927592000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Baltic Sea Darts Open | Tag 1 (Session 1) (2026-05-29 13:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183840.m3u8
@@ -6723,4 +6699,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3301
+# Total: 3289
