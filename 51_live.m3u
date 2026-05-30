@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-05-29 20:50:15
+# Generated: 2026-05-30 19:20:34
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1579,44 +1579,14 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (33) ---
+# --- DE-DAZN EVENT (18) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9se7480f8fext5krxmv7d3w60_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",LIV Golf South Korea - Day 2
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183839.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ewgofoxt2h771rcevgm1y8781_image-header_pDach_1773927592000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Baltic Sea Darts Open | Tag 1 (Session 1) (2026-05-29 13:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183840.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4k8q1v5nb5sygextuqfebpfb3_image-header_pDach_1778140479000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 19 | Feltre - Alleghe (Piani di Pezzè) (2026-05-29 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183841.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/110ymmxs197sl1d27y1tnifmb1_image-header_pDach_1778672458000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al Orooba vs. Masfut (2026-05-29 16:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183842.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1e2b5o7mzgcf1hbzjcdonk9p2_image-header_pDach_1778673188000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al Thaid vs. Emirates Club (2026-05-29 16:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183843.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/s1hgb1t349081hmlpqj2jy1wm_image-header_pDach_1778672427000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al Hamriyah vs. Dubai United (2026-05-29 16:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183844.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1drfh389aeo4d16s7spb3w8zc0_image-header_pDach_1778672719000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al Jazira Al Hamra vs. Fujairah (2026-05-29 16:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183845.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/afc0fatyp163nwcdwv3lzx65t_image-header_pDach_1776171337000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Freestyle Friday | 29. Mai (2026-05-29 16:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183846.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sidqmqi91y7o1vgxsapwelu6g_image-header_pDach_1778671951000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",FK Babrungas vs. FK Minija (2026-05-29 17:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183847.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1e5vesa9r62t11wmdaguvmctua_image-header_pDach_1778672565000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Majd vs. Hatta (2026-05-29 18:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183848.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1048uqtekxiwu1r90anj1j7dsp_image-header_pDach_1778671933000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Dubai City vs. Dibba Al Hisn (2026-05-29 18:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183849.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1u3ta923o62h31tsc1zyvuvoky_image-header_pDach_1778672957000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Diamond Stars FC vs. Bullom Stars FC (2026-05-29 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183850.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kv5w08u6mtpx1l3uovu6sxv0t_image-header_pDach_1778673128000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Luawa FC vs. Bo Rangers FC (2026-05-29 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183851.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ecp4fd70aspa10l2sfgffxeh1_image-header_pDach_1778672850000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",SLIFA FC vs. East End Lions FC (2026-05-29 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183852.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bc5tvcfs4irbdqj405q6tp093_image-header_pDach_1773927732000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Baltic Sea Darts Open | Tag 1 (Session 2) (2026-05-29 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183853.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/wllkgr9fr9ri1nrklzdcjqvhl_image-header_pDach_1776153108000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Edwards vs. Nqothole (2026-05-29 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183854.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/169nne83slbk11frhqfoaaoxx8_image-header_pDach_1778671746000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Middleham United FC vs. Harlem United SC (2026-05-30 00:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/169nne83slbk11frhqfoaaoxx8_image-header_pDach_1778671746000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Jeonbuk Motors II vs. Busan Transportation
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183855.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8ggj46xvgvjzw62pcfgiiiuva_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",French Open | Tag 7 (2026-05-30 10:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8ggj46xvgvjzw62pcfgiiiuva_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Gangneung Citizen vs. Changwon FC
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183856.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4h40zkchwts7okr4otld8cy3m_image-header_pDach_1773927935000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Baltic Sea Darts Open | Tag 2 (Session 1) (2026-05-30 13:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/183857.m3u8
@@ -6699,4 +6669,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3289
+# Total: 3274

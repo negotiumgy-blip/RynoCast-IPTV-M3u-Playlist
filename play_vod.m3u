@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-05-29 20:50:59
+# Generated: 2026-05-30 19:05:43
 # Expires: 2026-06-24
 # Family Safe Edition
 # ==============================================
@@ -3165,7 +3165,7 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1013937.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qd3it6YwCa199m7nYwelAqeB1G6.jpg" group-title="Movies | Filmes | Acao",Operação Fox Hunt (2025)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1013981.mp4
 
-# --- Movies | Filmes | Aventura (380) ---
+# --- Movies | Filmes | Aventura (381) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocZj2eTuSyylC5I9Rnm5Jk9yJNn.jpg" group-title="Movies | Filmes | Aventura",Festa da Salsicha (2016)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/48231.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAFHzqf9jtvG6HbxykBCSQLUNWF.jpg" group-title="Movies | Filmes | Aventura",Piratas do Caribe: A Vingança de Salazar (2017)
@@ -3926,6 +3926,8 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1006029.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1006995.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg" group-title="Movies | Filmes | Aventura",A Bailarina (2016)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1013671.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cStiqpPNuzvjCzzI8voKhtsxjoL.jpg" group-title="Movies | Filmes | Aventura",Grand Prix: A Toda Velocidade (2025)
+http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014153.mp4
 
 # --- Movies | Filmes | Comedia (1487) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MMff1YtsR8ynuB5KXZYKLZA3Xo.jpg" group-title="Movies | Filmes | Comedia",A Morte Te Dá Parabéns (2017)
@@ -27439,7 +27441,7 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5812
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Spider-Noir
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5815
 
-# --- Series | Series | Apple TV (188) ---
+# --- Series | Series | Apple TV (189) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV",A Nova Super Máquina
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/287
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV",See
@@ -27816,6 +27818,8 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5755
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5756
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV",Prazer Máximo Garantido
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5809
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV",Cidade das Estrelas
+http://play.1list.vip/series/8gZav5kQe2/duoiptv/5816
 
 # --- Series | Series | Brasil Paralelo (25) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Brasil Paralelo",Entre Lobos
@@ -31257,7 +31261,7 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5350
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | NBC",Jogo de Titãs
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5351
 
-# --- Series | Series | Netflix (1159) ---
+# --- Series | Series | Netflix (1160) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",13 Reasons Why
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/33
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Narcos
@@ -33576,6 +33580,8 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5807
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5808
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Personas
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5810
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Brasil 70: A Saga do Tri
+http://play.1list.vip/series/8gZav5kQe2/duoiptv/5817
 
 # --- Series | Series | Outros Streamings (261) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outros Streamings",Six
@@ -34705,4 +34711,4 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5582
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | STAR+",Food Truck - A Batalha
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5584
 
-# Total: 17303
+# Total: 17306

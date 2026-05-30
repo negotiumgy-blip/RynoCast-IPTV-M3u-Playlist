@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-29 20:45:09
+# Generated: 2026-05-30 19:12:26
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -4758,7 +4758,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128364.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128363.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",E! ENTERTAINMENT HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",NAT GEO CHANNEL BE
+#EXTINF:-1 tvg-logo="" group-title="Belgium",GEO CHANNEL BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128361.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",NAT GEO WILD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128360.m3u8
