@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-30 19:12:26
+# Generated: 2026-05-31 08:42:39
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -4711,7 +4711,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/102565.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ba/RTRSPlus.ba.png" group-title="BOSNA-Bosnia",RTRS Plus HD ex-Yu
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/72557.m3u8
 
-# --- Belgium (205) ---
+# --- Belgium (204) ---
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/belgium.png" group-title="Belgium",##########   Belgium   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2540.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",========== BE Vlaanderen ==========
@@ -4746,8 +4746,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128370.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128369.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",VTM LIFE BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",PLAY MORE CINEMA BE
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128367.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",PLAY MORE KICKS BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128366.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",PLAY MORE BLACK BE
@@ -4770,13 +4768,13 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128358.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128357.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",CRIME + INVESTIGATION BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",ANIMAL PLANET HD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/animalplanetnew.png" group-title="Belgium",Animal Planet HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",TLC HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128354.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",MTV HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",BABY TV HD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/babytv.png" group-title="Belgium",Baby TV HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128352.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",NICK JR. HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128351.m3u8
@@ -4814,7 +4812,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128336.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128335.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",PLUG RTL FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",AB1 BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ab1new.png" group-title="Belgium",AB1 BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128333.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",LN24 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128332.m3u8
@@ -4824,13 +4822,13 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128331.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128330.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",BE1 +1 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128329.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",AB XPLORE FHD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/abx.png" group-title="Belgium",AB Xplore FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128328.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",PLUG RTL HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",AB3 FHD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ab3new.png" group-title="Belgium",AB3 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128326.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",ACTION BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/actionfr.png" group-title="Belgium",Action BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128325.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",TRACEURBAN BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128324.m3u8
@@ -4848,7 +4846,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128318.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128317.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",SERIES FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128316.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",CINE FHD BE
+#EXTINF:-1 tvg-logo="" group-title="Belgium",Be Cine FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",RTC TELE LIEGE FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128314.m3u8
@@ -4870,9 +4868,9 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128307.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128306.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",FRANCE 3 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",ARTE BELGIQUE FHD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/arte.png" group-title="Belgium",Arte FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128304.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",13E RUE FHD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/13emeruefr.png" group-title="Belgium",13ème Rue FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128303.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",TV5 MONDE FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128302.m3u8
@@ -4880,13 +4878,13 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128302.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",TMC FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",CINE+P FHD BE
+#EXTINF:-1 tvg-logo="" group-title="Belgium",Cine+Premier FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",CINE+ F FHD BE
+#EXTINF:-1 tvg-logo="" group-title="Belgium",Cine+ Frisson FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128298.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",CINE+ C FHD BE
+#EXTINF:-1 tvg-logo="" group-title="Belgium",Cine+ Classic FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128297.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",AUTOMOTO FHD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/automotolachaine.png" group-title="Belgium",Automoto FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128296.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",FRANCE 4 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128295.m3u8
@@ -4894,7 +4892,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128295.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128294.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",TELEMB FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128293.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",ACTV FHD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/actv.png" group-title="Belgium",ACTV FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128292.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",GULLI FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128291.m3u8
@@ -4912,6 +4910,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128286.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128285.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",FRANCE 24 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Belgium",Trends Z FHD BE
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128283.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",NICKELODEON FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",BOOMERANG FHD BE
@@ -4990,15 +4990,13 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128253.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128252.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",DIVERTISSEZ VOO FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium",ABXplore BE
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/113642.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eleven-sports-pro-league-3-fr-be.png" group-title="Belgium",Eleven Pro League 3 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/90910.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eleven-sports-pro-league-2-fr-be.png" group-title="Belgium",Eleven Pro League 2 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/90909.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eleven-sports-pro-league-1-fr-be.png" group-title="Belgium",Eleven Pro League 1 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/90908.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Pick_2013.svg" group-title="Belgium",Pickx+ Sports 1 [FR] HD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ab3new.png" group-title="Belgium",AB3 Family FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/101855.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Pick_2013.svg" group-title="Belgium",Notele FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/101854.m3u8
@@ -5078,7 +5076,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/8792.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2505.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",========== BE Anders ==========
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/48362.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/192_TV_logo.svg/1200px-192_TV_logo.svg.png" group-title="Belgium",192 TV BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/192tv.png" group-title="Belgium",192 TV BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2515.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/eclips-tv-be.png" group-title="Belgium",EClips TV BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2508.m3u8
@@ -5106,7 +5104,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/80146.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/80147.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/be1-be.png" group-title="Belgium",Play 4 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/89992.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/be-cine-be.png" group-title="Belgium",BE CINE FHD BE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/be-cine-be.png" group-title="Belgium",Tele Cine Fun FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/89993.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium",Play 7 FHD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/95215.m3u8
@@ -5120,7 +5118,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/95212.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/101562.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/belgium/play7-be.png" group-title="Belgium",Play 7 HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/101561.m3u8
-#EXTINF:-1 tvg-logo="https://cache.atv.be/atvbe/atvbe/meta/atv.e06e2b17.png" group-title="Belgium",ATV Antwerpen HD BE
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/atvbe.png" group-title="Belgium",ATV Antwerpen HD BE
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/101560.m3u8
 
 # --- Brazil (339) ---
@@ -18643,7 +18641,9 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 11 FHD NL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105343.m3u8
 
-# --- Norway (110) ---
+# --- Norway (111) ---
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTse0C_FZ9k7l6p2LxKKfsQOUerqDdSVzAnmw&s" group-title="Norway",TV2 Direkte NO
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135163.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Norway",TV2 Play NO
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/127998.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Norway",##########   Norway   ##########
@@ -18949,7 +18949,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/119527.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Norway VIP",Viaplay Xtra 18 VIP NO
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/120038.m3u8
 
-# --- PPV VIP Sports (25) ---
+# --- PPV VIP Sports (26) ---
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PPV VIP Sports",UFC MMa PPV 1 VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133789.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PPV VIP Sports",UFC MMa PPV 2 VIP Sports
@@ -18978,6 +18978,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133800.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133778.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/glory-kickboxing-vod.png?raw=true" group-title="PPV VIP Sports",Glory KickBoxing VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134866.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TWr1PBE5FngZdHuAWeHemuJfdkxSZosKdL9dBpq9P9UIhdd3aKLO_QyDDF6vbWuHhyc" group-title="PPV VIP Sports",BKFC PPV - VIP SPORTS
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135164.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/boxing-vod.png?raw=true" group-title="PPV VIP Sports",Boxing PPV 1 VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133779.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/boxing-vod.png?raw=true" group-title="PPV VIP Sports",Boxing PPV 2 VIP Sports
@@ -31729,4 +31731,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15756
+# Total: 15757

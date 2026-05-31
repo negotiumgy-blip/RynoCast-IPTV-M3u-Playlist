@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-05-30 19:08:13
+# Generated: 2026-05-31 08:48:35
 # Expires: 2026-06-22
 # Family Safe Edition
 # ==============================================
@@ -16991,7 +16991,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/257850.mp4
 #EXTINF:-1 tvg-logo="https://alpha.uscreencdn.com/assets%2Ftmp%2F1920x1080-2.1746803032.jpg" group-title="Movies | VOD HUMOR",TVM: ley de Murphy desde Antofagasta 25
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/262231.mp4
 
-# --- Movies | VOD INFANTIL (931) ---
+# --- Movies | VOD INFANTIL (932) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oDaWFIrBuOaFrTmBpAlMfmsa81N.jpg" group-title="Movies | VOD INFANTIL",Zootopia 2 (2025) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/297542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Y8o3RpFg54gmQQ8GVaxVroFmY.jpg" group-title="Movies | VOD INFANTIL",GOAT: Como cabras (2026) Final (dual)
@@ -18854,6 +18854,8 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348230.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/348229.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyr0rbQYyoIp1AnBrQivs6YQlK3.jpg" group-title="Movies | VOD INFANTIL",Los supersónicos: La película (1990)
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/352559.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAGTQgOJbXG4L3qIlWQl1KFu90t.jpg" group-title="Movies | VOD INFANTIL",Animal Farm (2026) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/360744.mkv
 
 # --- Movies | VOD MUSICALES (261) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgflb0u8gW8ohjtXoTT52ra3Lhr.jpg" group-title="Movies | VOD MUSICALES",VOD | Kneecap música y libertad  (2024) dual
@@ -25801,7 +25803,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/340752.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLQQMO77ohibggTKV6wmFs5LHYf.jpg" group-title="Movies | ☆ VOD EN CARTELERA ☆",Super Mario Galaxy la película (2026) FINAL dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/328353.mkv
 
-# --- Movies | ☆ VOD ESTRENOS 2026 ☆ (726) ---
+# --- Movies | ☆ VOD ESTRENOS 2026 ☆ (731) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEWgfP5EQG7DWTN3LKuEan7AgiX.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Loco Por Ella (2025) lat
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/264696.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1eqHRxfIxfgtDgfjWcpEESeEvF.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",The Punisher: One Last Kill (2026) dual
@@ -27238,6 +27240,16 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357074.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357075.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ppRx5V7j2X7kmVsPmLeH9JycOS.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Resurrection (2025) sub
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/357258.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kG1FfRD3rONR1PCPPaSl1f5V8I.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Ven a volar conmigo (2026) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/360732.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDbFSN7Jj0K4a7YFSV4OXQ4Lqhy.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Dibu Martínez: El pibe que ataja el tiempo (2026)
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/360740.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nXkeQHSHPccTMllRZMURs790fR.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Foggy Tale  (2025) SUB
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/360745.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UCqZj1Eki00mJUf8oyq5Vyo6QT.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Room to Move (2025) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/360746.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Over Your Dead Body (2026) SUB
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/360748.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdCiVGBmk9IVMT0BPf030hkQB41.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Turbulencia Pánico en el aire  (2026) SUB
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/322032.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="Movies | ☆ VOD ESTRENOS 2026 ☆",Shelter: El Protector (2026) final dual
@@ -27329,7 +27341,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3797
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES  - HISTORIA",Los Forsytes (PBS -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3915
 
-# --- Series | SERIES -  EN ESTRENO (34) ---
+# --- Series | SERIES -  EN ESTRENO (35) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",9-1-1: Nashville (HULU -DUAL CAST)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3972
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Memoria de un asesino (FOX-DUAL)
@@ -27398,6 +27410,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4270
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4274
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",CIA (PRMT -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4289
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Ciudad de las estrellas (APPLE+ DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4306
 
 # --- Series | SERIES - 4K (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - 4K",4K Loki (DSNY+ DUAL)
@@ -29047,7 +29061,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4115
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CIENCIA FICCIÓN",The Boroughs: Jubilación rebelde (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4269
 
-# --- Series | SERIES - COMEDIAS (285) ---
+# --- Series | SERIES - COMEDIAS (286) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Atípico (NTFX - DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/41
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Big Bang
@@ -29618,6 +29632,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4285
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4288
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Equipo Danger (PRMT- DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4296
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - COMEDIAS",Malcolm
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4303
 
 # --- Series | SERIES - CRIMEN (312) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CRIMEN",Elite
@@ -33605,4 +33621,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 16731
+# Total: 16739

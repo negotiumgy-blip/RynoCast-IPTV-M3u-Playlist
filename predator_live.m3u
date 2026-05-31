@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-28 21:37:47
+# Generated: 2026-05-31 08:39:50
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3799,7 +3799,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (448) ---
+# --- Shqiptare (444) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -4510,14 +4510,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81925.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76861.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: MTV Live FHD ♫
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/20155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: MTV Club ♫
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/20159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: MTV 80s ♫
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63270.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: MTV 90s ♫
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63271.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: MTV 00s ♫
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/63272.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Dance TV Mainstage ♫
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67307.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Dance TV Best Of Dance ♫
@@ -4951,7 +4943,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/73912.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sr Local",SR: Eurosport 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/73911.m3u8
 
-# --- Sweden (62) ---
+# --- Sweden (55) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1920px-Flag_of_Sweden.svg.png" group-title="Sweden",========Sweden========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: SVT1 HD
@@ -4990,10 +4982,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58840.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58839.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: TV4 Film
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: MTV 80
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: MTV
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58831.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: TV4 Hits
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: TV4 Stars
@@ -5024,16 +5012,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58819.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58818.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Viasat Explore
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58817.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: CNN Int
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58816.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: DW English
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58815.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: CNN
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: BBC Nordic
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: CNBC
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Nickelodeon
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58810.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Cartoon Network
@@ -5042,8 +5022,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58808.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58807.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Nick Jr
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Moonbug
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: V Sport Motor
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58800.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: V Sport Winter
@@ -8731,9 +8709,19 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (151) ---
+# --- World Sports (155) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL Finale  PSG vs ARSENAL  RTK
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL Finale PSG vs ARSENAL  Vizion+
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85857.m3u8
+#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-1_light.png" group-title="World Sports",SPORT: Tring Sport 1  PSG vs ARSENAL ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/67972.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL PSG vs ARSENAL   Dazn DE
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85859.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL PSG vs ARSENAL  Sky ita
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85858.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -8762,8 +8750,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/67975.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67974.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-news_light.png" group-title="World Sports",SPORT: Tring Sport News
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67973.m3u8
-#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-1_light.png" group-title="World Sports",SPORT: Tring Sport 1 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/67972.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-2_light.png" group-title="World Sports",SPORT: Tring Sport 2 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67970.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-3_light.png" group-title="World Sports",SPORT: Tring Sport 3 ⁴ᴷ
@@ -9035,4 +9021,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4487
+# Total: 4480
