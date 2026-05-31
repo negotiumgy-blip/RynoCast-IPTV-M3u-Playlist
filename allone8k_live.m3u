@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-05-31 08:44:54
+# Generated: 2026-05-31 19:20:23
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -18329,4 +18329,58 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
-# Total: 8954
+# --- كأس العالم FIFA World Cup 2026™ (26) ---
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (4K)
+http://allone8k.info:8080/live/hany/hany1234/314992.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (F)
+http://allone8k.info:8080/live/hany/hany1234/314984.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (G)
+http://allone8k.info:8080/live/hany/hany1234/314988.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 2 (4K)
+http://allone8k.info:8080/live/hany/hany1234/314993.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 2 (F)
+http://allone8k.info:8080/live/hany/hany1234/314985.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 2 (G)
+http://allone8k.info:8080/live/hany/hany1234/314989.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX EN 3 (4K)
+http://allone8k.info:8080/live/hany/hany1234/314994.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX EN 3 (F)
+http://allone8k.info:8080/live/hany/hany1234/314986.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX EN 3 (G)
+http://allone8k.info:8080/live/hany/hany1234/314990.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 4 (4K)
+http://allone8k.info:8080/live/hany/hany1234/314995.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 4 (F)
+http://allone8k.info:8080/live/hany/hany1234/314987.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 4 (G)
+http://allone8k.info:8080/live/hany/hany1234/314991.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  FR
+http://allone8k.info:8080/live/hany/hany1234/618319.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  PT
+http://allone8k.info:8080/live/hany/hany1234/618318.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ AF
+http://allone8k.info:8080/live/hany/hany1234/618315.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ BG
+http://allone8k.info:8080/live/hany/hany1234/618316.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ DE
+http://allone8k.info:8080/live/hany/hany1234/619072.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ EN
+http://allone8k.info:8080/live/hany/hany1234/618317.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ ES
+http://allone8k.info:8080/live/hany/hany1234/619070.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ FR
+http://allone8k.info:8080/live/hany/hany1234/619068.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ IT
+http://allone8k.info:8080/live/hany/hany1234/618320.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ LAT
+http://allone8k.info:8080/live/hany/hany1234/639394.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ MA
+http://allone8k.info:8080/live/hany/hany1234/619074.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ NL
+http://allone8k.info:8080/live/hany/hany1234/619067.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ PT
+http://allone8k.info:8080/live/hany/hany1234/619069.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ US
+http://allone8k.info:8080/live/hany/hany1234/619076.m3u8
+
+# Total: 8980

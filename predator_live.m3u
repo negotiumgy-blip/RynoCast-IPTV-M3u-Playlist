@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-31 08:39:50
+# Generated: 2026-05-31 19:20:00
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3799,7 +3799,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (444) ---
+# --- Shqiptare (443) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3998,8 +3998,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2964.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/10315.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-21.png" group-title="Shqiptare",AL: Syri Vizion
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/3199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Syri TV
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81935.m3u8
 #EXTINF:-1 tvg-logo="http://www.albepg.com/tvlogi/tv%20LIRIA.png" group-title="Shqiptare",AL: TV Liria
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv Festina HD
@@ -8712,12 +8710,10 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 # --- World Sports (155) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL Finale  PSG vs ARSENAL  RTK
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Friendlies  çeki vs Kosova  RTK
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL Finale PSG vs ARSENAL  Vizion+
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Friendlies çeki vs Kosova SS-2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85857.m3u8
-#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-1_light.png" group-title="World Sports",SPORT: Tring Sport 1  PSG vs ARSENAL ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/67972.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL PSG vs ARSENAL   Dazn DE
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85859.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL PSG vs ARSENAL  Sky ita
@@ -8750,6 +8746,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/67975.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67974.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-news_light.png" group-title="World Sports",SPORT: Tring Sport News
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67973.m3u8
+#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-1_light.png" group-title="World Sports",SPORT: Tring Sport 1 ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/67972.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-2_light.png" group-title="World Sports",SPORT: Tring Sport 2 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67970.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-3_light.png" group-title="World Sports",SPORT: Tring Sport 3 ⁴ᴷ
@@ -9021,4 +9019,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4480
+# Total: 4479
