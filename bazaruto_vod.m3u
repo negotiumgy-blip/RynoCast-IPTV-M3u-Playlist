@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-06-01 08:54:20
+# Generated: 2026-06-01 23:24:59
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -769,7 +769,7 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/59445.avi
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bing.com%2Fth%3Fid%3DOIP.ulJIsyLbX1IsZwN-6UonswHaJZ%26w%3D120%26h%3D120%26c%3D1%26pid%3D5.1&f=1&nofb=1" group-title="Movies | DECJI FILMOVI",Bozicna vila 2006
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/59446.avi
 
-# --- Movies | DOMACE SERIJE (148) ---
+# --- Movies | DOMACE SERIJE (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Sutnja-The Silence (TV Serija 2021)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Crna Svadba (TV Serija 2021)
@@ -856,8 +856,6 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/110.mp4
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/111.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Lako je Raletu (TV Series 2023)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/113.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Dream Team (TV Series 2021)
-http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/117.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Crno-bijeli svijet (TV Series 2015-2021)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/118.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Advokado (TV Series 2021)
@@ -1066,6 +1064,10 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/494.mp4
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/528.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Moja Generacija Z (TV Series 2019)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/534.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Kriza (TV Series 2013–2014)
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/535.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DOMACE SERIJE",Konak kod Hilmije (TV Series 2018)
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/538.mp4
 
 # --- Movies | EVROPSKI FILMOVI (352) ---
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMmQzZWQxMzItNGFhZS00OGExLThmYTQtZDI2YjgwMjA1NGYwXkEyXkFqcGc%40._V1__SX500&f=1&h=500" group-title="Movies | EVROPSKI FILMOVI",Dzvon 2024 #sf
@@ -16251,4 +16253,4 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40524.mkv
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/8b4d7c7d.jpg" group-title="Movies | WESTERN FILMOVI",The Power of the Dog 2021 |wst
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40523.mkv
 
-# Total: 8111
+# Total: 8112

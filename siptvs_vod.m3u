@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-06-01 08:51:10
+# Generated: 2026-06-01 23:25:46
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -17913,7 +17913,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2496.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| DOMACE SERIJE",Sumpor (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2497.mp4
 
-# --- Movies | |EXYU| DOMACI FILMOVI (691) ---
+# --- Movies | |EXYU| DOMACI FILMOVI (692) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ITGg0QV9oMxpbboV49C657i6v0.jpg" group-title="Movies | |EXYU| DOMACI FILMOVI",1 na 1 (2002)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/18608.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgLYQqFt1IzhILDur67TnPRQlCA.jpg" group-title="Movies | |EXYU| DOMACI FILMOVI",Pakleni otok (1979)
@@ -19296,6 +19296,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/202302.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202484.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c5FWrJC1jCycZlY1cEf5YVv6yQj.jpg" group-title="Movies | |EXYU| DOMACI FILMOVI",I u Dobru i u Zlu (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/203042.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7fWwVOpVS1G0vzbtwlrhK1s76F5.jpg" group-title="Movies | |EXYU| DOMACI FILMOVI",Testament “Amanet 2” (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/203240.mkv
 
 # --- Movies | |EXYU| DOMACI REMASTERED (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgj0wvJUjzQqFy7aUnfg1oMwzko.jpg" group-title="Movies | |EXYU| DOMACI REMASTERED",Banovic Strahinja (1983)
@@ -34951,4 +34953,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 17409
+# Total: 17410

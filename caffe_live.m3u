@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-06-01 08:51:10
+# Generated: 2026-06-01 23:23:28
 # Expires: 2026-06-29
 # Family Safe Edition
 # ==============================================
@@ -1077,7 +1077,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3719.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hbo-logo.png" group-title="Slovenija",Slovenija | HBO 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14517.m3u8
 
-# --- Sport (196) ---
+# --- Sport (195) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="Sport",SK HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4731.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_HR_logo.png" group-title="Sport",SK 1
@@ -1342,8 +1342,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118750.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1475.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 2
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1474.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sport",Bein Sports 3
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1473.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bein-sports-HD4.png" group-title="Sport",Bein Sports 4
@@ -1701,4 +1699,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/79256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 824
+# Total: 823

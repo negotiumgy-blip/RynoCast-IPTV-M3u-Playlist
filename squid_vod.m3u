@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-01 08:58:13
+# Generated: 2026-06-01 23:28:32
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -1402,6 +1402,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/56.mp4
 # --- Movies | DTF St Louis (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DTF St Louis",DTF St. Louis (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1230.mp4
+
+# --- Movies | Daha 17 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Daha 17",Daha 17 (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1284.mp4
 
 # --- Movies | Dahmer (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dahmer",DAHMER - Monster: The Jeffrey Dahmer Story (2022)
@@ -14361,7 +14365,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/27275.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/euq3YhkXJgsDlUxid5cTInsxnqh.jpg" group-title="Movies | Filme Retro (Nou)",La Traversée de Paris (1956)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/47508.mp4
 
-# --- Movies | Filme Romanesti (422) ---
+# --- Movies | Filme Romanesti (423) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msmjEUOXH05AI5c6p3oQubJ282I.jpg" group-title="Movies | Filme Romanesti",Băieți de oraș: Golden Boyz (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70695.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1fvzlZ2l4fSfgtDOsYgOzIEIqS.jpg" group-title="Movies | Filme Romanesti",Dragoste la țară (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70263.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSMQCaQgGQRanGkFd0MhjWbBMHW.jpg" group-title="Movies | Filme Romanesti",Hirtia va fi albastrã (2006)
@@ -20715,4 +20721,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9047
+# Total: 9049
