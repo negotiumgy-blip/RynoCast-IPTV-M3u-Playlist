@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-05-31 19:20:23
+# Generated: 2026-06-01 08:53:21
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -2529,79 +2529,59 @@ http://allone8k.info:8080/live/hany/hany1234/429801.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (G)",beIN9 SPORTS 4K (G)
 http://allone8k.info:8080/live/hany/hany1234/429802.m3u8
 
-# --- AR | BEIN SPORTS Full (◉) (36) ---
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 1 HD (◉)
+# --- AR | BEIN SPORTS Full (SS) (26) ---
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 1 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319655.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 2 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 2 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319656.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 3 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 3 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319657.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 4 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 4 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319658.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 5 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 5 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319659.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 6 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 6 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319660.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 7 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 7 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319661.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 8 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 8 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319662.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 9 HD (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 9 HD (SS)
 http://allone8k.info:8080/live/hany/hany1234/319663.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS HD XTRA 1 (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS HD XTRA 1 (◉)
 http://allone8k.info:8080/live/hany/hany1234/463276.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS HD XTRA 2 (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS HD XTRA 2 (◉)
 http://allone8k.info:8080/live/hany/hany1234/463277.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS HD XTRA 3 (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS HD XTRA 3 (◉)
 http://allone8k.info:8080/live/hany/hany1234/463278.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/461725.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS NEWS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS NEWS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/461727.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN1 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN1 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319643.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN2 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS2_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN2 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319644.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN3 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN3 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319645.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN4 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN4 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319646.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN5 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN5 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319647.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN6 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/beIN_SPORTS6_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN6 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319648.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN7 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN7 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319649.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="AR | BEIN SPORTS Full (◉)",beIN8 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="AR | BEIN SPORTS Full (SS)",beIN8 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319650.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="AR | BEIN SPORTS Full (◉)",beIN9 SPORTS 4K (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="AR | BEIN SPORTS Full (SS)",beIN9 SPORTS 4K (◉)
 http://allone8k.info:8080/live/hany/hany1234/319651.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 4K XTRA 1 (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 4K XTRA 1 (◉)
 http://allone8k.info:8080/live/hany/hany1234/319654.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 4K XTRA 2 (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 4K XTRA 2 (◉)
 http://allone8k.info:8080/live/hany/hany1234/319653.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS 4K XTRA 3 (◉)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTSXTRA3.png" group-title="AR | BEIN SPORTS Full (SS)",beIN SPORTS 4K XTRA 3 (◉)
 http://allone8k.info:8080/live/hany/hany1234/319652.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png" group-title="AR | BEIN SPORTS Full (◉)",beIN 1 SPORTS AFC 4K (◉)
-http://allone8k.info:8080/live/hany/hany1234/319513.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png" group-title="AR | BEIN SPORTS Full (◉)",beIN 2 SPORTS AFC 4K (◉)
-http://allone8k.info:8080/live/hany/hany1234/319514.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png" group-title="AR | BEIN SPORTS Full (◉)",beIN 3 SPORTS AFC 4K (◉)
-http://allone8k.info:8080/live/hany/hany1234/319515.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/AFC_4-650a85e3eda5d.png" group-title="AR | BEIN SPORTS Full (◉)",beIN 4 SPORTS AFC 4K (◉)
-http://allone8k.info:8080/live/hany/hany1234/319516.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/AFC_5-650a85e9ee944.png" group-title="AR | BEIN SPORTS Full (◉)",beIN 5 SPORTS AFC 4K (◉)
-http://allone8k.info:8080/live/hany/hany1234/319517.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS AFC HD 1 (◉)
-http://allone8k.info:8080/live/hany/hany1234/309997.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS AFC HD 2 (◉)
-http://allone8k.info:8080/live/hany/hany1234/309988.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS AFC HD 3 (◉)
-http://allone8k.info:8080/live/hany/hany1234/309990.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/AFC_4-650a85e3eda5d.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS AFC HD 4 (◉)
-http://allone8k.info:8080/live/hany/hany1234/309994.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/AFC_5-650a85e9ee944.png" group-title="AR | BEIN SPORTS Full (◉)",beIN SPORTS AFC HD 5 (◉)
-http://allone8k.info:8080/live/hany/hany1234/309993.m3u8
 
 # --- AR | BOX-OFFICE (20) ---
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Channels/Box-Office/Box-Office.gif" group-title="AR | BOX-OFFICE",✪ Box Office ✪ 01
@@ -18330,30 +18310,30 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
 # --- كأس العالم FIFA World Cup 2026™ (26) ---
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (4K)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (SS)
 http://allone8k.info:8080/live/hany/hany1234/314992.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (F)
 http://allone8k.info:8080/live/hany/hany1234/314984.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (G)
 http://allone8k.info:8080/live/hany/hany1234/314988.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 2 (4K)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 2 (SS)
 http://allone8k.info:8080/live/hany/hany1234/314993.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 2 (F)
 http://allone8k.info:8080/live/hany/hany1234/314985.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 2 (G)
 http://allone8k.info:8080/live/hany/hany1234/314989.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX EN 3 (4K)
-http://allone8k.info:8080/live/hany/hany1234/314994.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX EN 3 (F)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 3 (F)
 http://allone8k.info:8080/live/hany/hany1234/314986.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX EN 3 (G)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 3 (G)
 http://allone8k.info:8080/live/hany/hany1234/314990.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 4 (4K)
-http://allone8k.info:8080/live/hany/hany1234/314995.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 4 (F)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 4 (F)
 http://allone8k.info:8080/live/hany/hany1234/314987.m3u8
-#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 4 (G)
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 4 (G)
 http://allone8k.info:8080/live/hany/hany1234/314991.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-05.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX EN 5 (F)
+http://allone8k.info:8080/live/hany/hany1234/314994.m3u8
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 6 (F)
+http://allone8k.info:8080/live/hany/hany1234/314995.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  FR
 http://allone8k.info:8080/live/hany/hany1234/618319.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  PT
@@ -18383,4 +18363,4 @@ http://allone8k.info:8080/live/hany/hany1234/619069.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ US
 http://allone8k.info:8080/live/hany/hany1234/619076.m3u8
 
-# Total: 8980
+# Total: 8970

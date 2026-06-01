@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-05-31 19:26:18
+# Generated: 2026-06-01 08:51:12
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -7283,7 +7283,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443119.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/INDIA-NEWS-GUJARAT.jpeg" group-title="ASIA| GUJARATI/ASSAM",GUJARATI: INDIA NEWS GUJARAT
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443118.m3u8
 
-# --- ASIA| HINDI (197) ---
+# --- ASIA| HINDI (196) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/cartoonnetwork.png" group-title="ASIA| HINDI",HINDI: CARTOON NETWORK
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440503.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/MAX-TV.png" group-title="ASIA| HINDI",HINDI: MAX
@@ -7304,8 +7304,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440485.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440482.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/LOK-SABHA.jpg" group-title="ASIA| HINDI",HINDI: LOK SABHA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440481.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/NATION-FIRST.png" group-title="ASIA| HINDI",HINDI: NATION FIRST
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440479.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SHEMAROO-TV.jpg" group-title="ASIA| HINDI",HINDI: SHEMAROO TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440477.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/THEQ-.png" group-title="ASIA| HINDI",HINDI: SONY MARATHI
@@ -7458,7 +7456,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440377.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440376.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SHUBH-TV.jpg" group-title="ASIA| HINDI",HINDI: SHUBH TV USA
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440374.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DD-BHARTI.png" group-title="ASIA| HINDI",HINDI: DD BHARTI
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/10112.jpg?57957" group-title="ASIA| HINDI",HINDI: JIO
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440371.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/DD-KISAN.jpg" group-title="ASIA| HINDI",HINDI: DD KISAN
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/440369.m3u8
@@ -17949,4 +17947,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8726
+# Total: 8725
