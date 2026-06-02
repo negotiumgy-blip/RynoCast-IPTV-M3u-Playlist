@@ -1,370 +1,370 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastrunner.live:8080
-# Generated: 2026-06-01 23:25:18
+# Generated: 2026-06-02 22:15:35
 # Expires: 2026-06-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Netherland (179) ---
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/netherlands.png" group-title="Netherland",##########   Netherland   ##########
+# --- Netherlands (179) ---
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/netherlands.png" group-title="Netherlands",##########   Netherland   ##########
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/2523.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",Big Brother 1 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",Big Brother 1 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/124285.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1.png" group-title="Netherland",NPO 1 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1.png" group-title="Netherlands",NPO 1 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/75413.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1hdnl.png" group-title="Netherland",NPO 1 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1hdnl.png" group-title="Netherlands",NPO 1 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/305.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1hdnl.png" group-title="Netherland",NPO 1 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1hdnl.png" group-title="Netherlands",NPO 1 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/364.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1extra.png" group-title="Netherland",NPO 1 Extra NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo1extra.png" group-title="Netherlands",NPO 1 Extra NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4516.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2.png" group-title="Netherland",NPO 2 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2.png" group-title="Netherlands",NPO 2 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/75414.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2hdnl.png" group-title="Netherland",NPO 2 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2hdnl.png" group-title="Netherlands",NPO 2 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/304.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2hdnl.png" group-title="Netherland",NPO 2 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2hdnl.png" group-title="Netherlands",NPO 2 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/363.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2extra.png" group-title="Netherland",NPO 2 Extra NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo2extra.png" group-title="Netherlands",NPO 2 Extra NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/41542.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo3.png" group-title="Netherland",NPO 3 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo3.png" group-title="Netherlands",NPO 3 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/75415.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo3hdnl.png" group-title="Netherland",NPO 3 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo3hdnl.png" group-title="Netherlands",NPO 3 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/303.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo3hdnl.png" group-title="Netherland",NPO 3 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npo3hdnl.png" group-title="Netherlands",NPO 3 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/362.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl4hdnl.png" group-title="Netherland",RTL 4 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl4hdnl.png" group-title="Netherlands",RTL 4 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/295.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl4hdnl.png" group-title="Netherland",RTL 4 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl4hdnl.png" group-title="Netherlands",RTL 4 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/361.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl5hdnl.png" group-title="Netherland",RTL 5 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl5hdnl.png" group-title="Netherlands",RTL 5 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/294.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl5hdnl.png" group-title="Netherland",RTL 5 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl5hdnl.png" group-title="Netherlands",RTL 5 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/360.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/sbs6hdnl.png" group-title="Netherland",SBS6 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/sbs6hdnl.png" group-title="Netherlands",SBS6 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/288.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/sbs6hdnl.png" group-title="Netherland",SBS6 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/sbs6hdnl.png" group-title="Netherlands",SBS6 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/357.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl7hdnl.png" group-title="Netherland",RTL 7 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl7hdnl.png" group-title="Netherlands",RTL 7 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/293.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl7hdnl.png" group-title="Netherland",RTL 7 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl7hdnl.png" group-title="Netherlands",RTL 7 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/359.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl8hdnl.png" group-title="Netherland",RTL 8 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl8hdnl.png" group-title="Netherlands",RTL 8 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/292.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl8hdnl.png" group-title="Netherland",RTL 8 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtl8hdnl.png" group-title="Netherlands",RTL 8 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/358.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/sbs9nl.png" group-title="Netherland",SBS 9 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/sbs9nl.png" group-title="Netherlands",SBS 9 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/289.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtlznl.png" group-title="Netherland",RTL Z NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtlznl.png" group-title="Netherlands",RTL Z NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/290.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/veronicadisneyxdhdnl.png" group-title="Netherland",Veronica / DisneyXD HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/veronicadisneyxdhdnl.png" group-title="Netherlands",Veronica / DisneyXD HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/249.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/veronicadisneyxdhdnl.png" group-title="Netherland",Veronica / Disney XD FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/veronicadisneyxdhdnl.png" group-title="Netherlands",Veronica / Disney XD FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6513.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/net5hdnl.png" group-title="Netherland",Net5 HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/net5hdnl.png" group-title="Netherlands",Net5 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/355.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/net5hdnl.png" group-title="Netherland",NET5 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/net5hdnl.png" group-title="Netherlands",NET5 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/260.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtlcrimenl.png" group-title="Netherland",RTL Crime NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtlcrimenl.png" group-title="Netherlands",RTL Crime NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/297.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtlloungenl.png" group-title="Netherland",RTL Lounge NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtlloungenl.png" group-title="Netherlands",RTL Lounge NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/291.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="Netherland",TLC NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="Netherlands",TLC NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/286.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tlchd.png" group-title="Netherland",TLC HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tlchd.png" group-title="Netherlands",TLC HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/11090.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tlchdnl.png" group-title="Netherland",TLC FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tlchdnl.png" group-title="Netherlands",TLC FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6811.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tvoranjenl.png" group-title="Netherland",TV Oranje NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tvoranjenl.png" group-title="Netherlands",TV Oranje NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/285.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/stingrayiconcertsnl.png" group-title="Netherland",Stingray LiteTV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/stingrayiconcertsnl.png" group-title="Netherlands",Stingray LiteTV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/229.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npopolitieknl.png" group-title="Netherland",NPO Politiek NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npopolitieknl.png" group-title="Netherlands",NPO Politiek NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/302.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npozappxtranl.png" group-title="Netherland",NPO Best/Zapp Xtra NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/npozappxtranl.png" group-title="Netherlands",NPO Best/Zapp Xtra NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/301.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nationalgeographichdnl.png" group-title="Netherland",National Geographic HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nationalgeographichdnl.png" group-title="Netherlands",National Geographic HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/258.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nationalgeographichdnl.png" group-title="Netherland",National Geographic FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nationalgeographichdnl.png" group-title="Netherlands",National Geographic FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6849.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/natgeowildhdnl.png" group-title="Netherland",Nat Geo Wild HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/natgeowildhdnl.png" group-title="Netherlands",Nat Geo Wild HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/257.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/natgeowildhdnl.png" group-title="Netherland",Nat Geo Wild FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/natgeowildhdnl.png" group-title="Netherlands",Nat Geo Wild FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4393.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/babytvnl.png" group-title="Netherland",Baby TV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/babytvnl.png" group-title="Netherlands",Baby TV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/247.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/babytv.png" group-title="Netherland",Baby TV [Multi-Audio] NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/babytv.png" group-title="Netherlands",Baby TV [Multi-Audio] NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/22363.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nickjrnl.png" group-title="Netherland",Nick Jr. NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nickjrnl.png" group-title="Netherlands",Nick Jr. NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/256.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nicktoonsnl.png" group-title="Netherland",Nick Toons NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nicktoonsnl.png" group-title="Netherlands",Nick Toons NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/255.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nickelodeonspikechannelnl.png" group-title="Netherland",Nickelodeon / Spike Channel HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nickelodeonspikechannelnl.png" group-title="Netherlands",Nickelodeon / Spike Channel HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/251.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/cartoonnetworknl.png" group-title="Netherland",Cartoon Network NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/cartoonnetworknl.png" group-title="Netherlands",Cartoon Network NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/253.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="Netherland",Boomerang NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="Netherlands",Boomerang NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/252.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/disneychannelnl.png" group-title="Netherland",Disney Channel NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/disneychannelnl.png" group-title="Netherlands",Disney Channel NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/254.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/disneyjuniornl.png" group-title="Netherland",Disney Junior NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/disneyjuniornl.png" group-title="Netherlands",Disney Junior NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4521.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvslingelandnl.png" group-title="Netherland",Pebble HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvslingelandnl.png" group-title="Netherlands",Pebble HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4501.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtltelekidsnl.png" group-title="Netherland",RTL Telekids NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtltelekidsnl.png" group-title="Netherlands",RTL Telekids NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4522.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/comedycentralnl.png" group-title="Netherland",Comedy Central NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/comedycentralnl.png" group-title="Netherlands",Comedy Central NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/270.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/comedycentralextranl.png" group-title="Netherland",Comedy Central Extra NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/comedycentralextranl.png" group-title="Netherlands",Comedy Central Extra NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/271.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/pebbletv.png" group-title="Netherland",Pebble TV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/pebbletv.png" group-title="Netherlands",Pebble TV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/8577.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/onsnl.png" group-title="Netherland",ONS NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/onsnl.png" group-title="Netherlands",ONS NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/296.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/foxnl.png" group-title="Netherland",FOX NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/foxnl.png" group-title="Netherlands",FOX NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/275.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/historyhd.png" group-title="Netherland",History HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/historyhd.png" group-title="Netherlands",History HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/265.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/historyhd.png" group-title="Netherland",History FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/historyhd.png" group-title="Netherlands",History FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4519.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/investigationdiscoverynl.png" group-title="Netherland",Investigation Discovery NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/investigationdiscoverynl.png" group-title="Netherlands",Investigation Discovery NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/263.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/l1tvnl.png" group-title="Netherland",L1 TV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/l1tvnl.png" group-title="Netherlands",L1 TV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/268.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/vicelandhdnl.png" group-title="Netherland",Viceland HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/vicelandhdnl.png" group-title="Netherlands",Viceland HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/287.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/192tvnl.png" group-title="Netherland",192TV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/192tvnl.png" group-title="Netherlands",192TV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/230.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/24kitchennl.png" group-title="Netherland",24 Kitchen NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/24kitchennl.png" group-title="Netherlands",24 Kitchen NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/267.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/at5nl.png" group-title="Netherland",AT5 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/at5nl.png" group-title="Netherlands",AT5 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/283.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="Netherland",Animal Planet NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/animalplanetnl.png" group-title="Netherlands",Animal Planet NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/266.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/crimeplusinvestigationnl.png" group-title="Netherland",Crime+Investigation NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/crimeplusinvestigationnl.png" group-title="Netherlands",Crime+Investigation NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/262.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/discoverychannelnl.png" group-title="Netherland",Discovery Channel NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/discoverychannelnl.png" group-title="Netherlands",Discovery Channel NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/264.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/discoverychannelhdnl.png" group-title="Netherland",Discovery Channel HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/discoverychannelhdnl.png" group-title="Netherlands",Discovery Channel HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6812.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/investigationdiscoveryhdnl.png" group-title="Netherland",Investigation Discovery FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/investigationdiscoveryhdnl.png" group-title="Netherlands",Investigation Discovery FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6512.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/stingraydjazzhdnl.png" group-title="Netherland",Stingray Djazz FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/stingraydjazzhdnl.png" group-title="Netherlands",Stingray Djazz FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/228.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ducktvnl.png" group-title="Netherland",Duck TV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ducktvnl.png" group-title="Netherlands",Duck TV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/248.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/enl.png" group-title="Netherland",E! NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/enl.png" group-title="Netherlands",E! NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/282.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1actionnl.png" group-title="Netherland",Film1 Action NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1actionnl.png" group-title="Netherlands",Film1 Action NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/280.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1familynl.png" group-title="Netherland",Film1 Family NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1familynl.png" group-title="Netherlands",Film1 Family NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/279.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1premierehdnl.png" group-title="Netherland",Film1 Premiere HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1premierehdnl.png" group-title="Netherlands",Film1 Premiere HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/278.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1premierehdnl.png" group-title="Netherland",Film1 Premiere FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1premierehdnl.png" group-title="Netherlands",Film1 Premiere FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/356.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1dramahdnl.png" group-title="Netherland",Film1 Drama HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1dramahdnl.png" group-title="Netherlands",Film1 Drama HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/277.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1familyhdnl.png" group-title="Netherland",Film1 Family HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/film1familyhdnl.png" group-title="Netherlands",Film1 Family HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4529.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/animalplanethdnl.png" group-title="Netherland",Animal Planet HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/animalplanethdnl.png" group-title="Netherlands",Animal Planet HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4518.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/animalplanethdnl.png" group-title="Netherland",Animal Planet FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/animalplanethdnl.png" group-title="Netherlands",Animal Planet FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6813.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/bbcentertainmentnl.png" group-title="Netherland",BBC Entertainment NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/bbcentertainmentnl.png" group-title="Netherlands",BBC Entertainment NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4517.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nickmusic.png" group-title="Netherland",Nick Music NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nickmusic.png" group-title="Netherlands",Nick Music NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4510.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepflevolandnl.png" group-title="Netherland",Omroep Flevoland NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepflevolandnl.png" group-title="Netherlands",Omroep Flevoland NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4488.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omropfryslannl.png" group-title="Netherland",Omrop Fryslân NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omropfryslannl.png" group-title="Netherlands",Omrop Fryslân NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4489.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvrijnmond.png" group-title="Netherland",RTV Rijnmond NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvrijnmond.png" group-title="Netherlands",RTV Rijnmond NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4490.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/mtvnl.png" group-title="Netherland",MTV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/mtvnl.png" group-title="Netherlands",MTV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4527.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/mtvhdnl.png" group-title="Netherland",MTV HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/mtvhdnl.png" group-title="Netherlands",MTV HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4526.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvdordrechtnl.png" group-title="Netherland",Out TV HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvdordrechtnl.png" group-title="Netherlands",Out TV HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4496.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvutrecht.png" group-title="Netherland",RTV Utrecht NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvutrecht.png" group-title="Netherlands",RTV Utrecht NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4494.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepbrabantnl.png" group-title="Netherland",Omroep Brabant NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepbrabantnl.png" group-title="Netherlands",Omroep Brabant NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4507.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepgelderlandnl.png" group-title="Netherland",Omroep Gelderland NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepgelderlandnl.png" group-title="Netherlands",Omroep Gelderland NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4508.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepzeelandnl.png" group-title="Netherland",Omroep Zeeland NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepzeelandnl.png" group-title="Netherlands",Omroep Zeeland NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4509.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepzeelandhdnl.png" group-title="Netherland",Omroep Zeeland HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/omroepzeelandhdnl.png" group-title="Netherlands",Omroep Zeeland HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4506.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvdrenthenl.png" group-title="Netherland",RTV Drenthe NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvdrenthenl.png" group-title="Netherlands",RTV Drenthe NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4511.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvoostnl.png" group-title="Netherland",RTV Ooost NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rtvoostnl.png" group-title="Netherlands",RTV Ooost NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4512.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/salto1nl.png" group-title="Netherland",Salto 1 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/salto1nl.png" group-title="Netherlands",Salto 1 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4514.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/klipkartvnl.png" group-title="Netherland",Klipkar TV NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/klipkartvnl.png" group-title="Netherlands",Klipkar TV NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4515.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/slamnl.png" group-title="Netherland",Slam! NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/slamnl.png" group-title="Netherlands",Slam! NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4523.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/spikenl.png" group-title="Netherland",Spike NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/spikenl.png" group-title="Netherlands",Spike NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4528.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv538nl.png" group-title="Netherland",TV538 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv538nl.png" group-title="Netherlands",TV538 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4524.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-nl.png" group-title="Netherland",ESPN 1 HD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-nl.png" group-title="Netherlands",ESPN 1 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/244.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-nl.png" group-title="Netherland",ESPN 1 FHD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-nl.png" group-title="Netherlands",ESPN 1 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/354.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-2-nl.png" group-title="Netherland",ESPN 2 HD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-2-nl.png" group-title="Netherlands",ESPN 2 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/12632.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-2-nl.png" group-title="Netherland",ESPN 2 FHD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-2-nl.png" group-title="Netherlands",ESPN 2 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/12633.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-3-nl.png" group-title="Netherland",ESPN 3 HD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-3-nl.png" group-title="Netherlands",ESPN 3 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/242.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-3-nl.png" group-title="Netherland",ESPN 3 FHD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-3-nl.png" group-title="Netherlands",ESPN 3 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6510.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-4-nl.png" group-title="Netherland",ESPN 4 HD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/espn-4-nl.png" group-title="Netherlands",ESPN 4 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/241.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-nl.png?raw=true" group-title="Netherland",Ziggo Sport 1 HD NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-nl.png?raw=true" group-title="Netherlands",Ziggo Sport 1 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130190.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-2-nl.png?raw=true" group-title="Netherland",Ziggo Sport 2 HD NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-2-nl.png?raw=true" group-title="Netherlands",Ziggo Sport 2 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130191.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-3-nl.png?raw=true" group-title="Netherland",Ziggo Sport 3 HD NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-3-nl.png?raw=true" group-title="Netherlands",Ziggo Sport 3 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130192.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-4-nl.png?raw=true" group-title="Netherland",Ziggo Sport 4 HD NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-4-nl.png?raw=true" group-title="Netherlands",Ziggo Sport 4 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130193.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-5-nl.png?raw=true" group-title="Netherland",Ziggo Sport 5 HD NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-5-nl.png?raw=true" group-title="Netherlands",Ziggo Sport 5 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130194.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-6-nl.png?raw=true" group-title="Netherland",Ziggo Sport 6 HD NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/ziggo-sport-6-nl.png?raw=true" group-title="Netherlands",Ziggo Sport 6 HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130195.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportextra1nl.png" group-title="Netherland",Ziggo Sport Extra 1 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportextra1nl.png" group-title="Netherlands",Ziggo Sport Extra 1 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/238.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportextra2nl.png" group-title="Netherland",Ziggo Sport Extra 2 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportextra2nl.png" group-title="Netherlands",Ziggo Sport Extra 2 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/237.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportgolfnl.png" group-title="Netherland",Ziggo Sport Golf NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportgolfnl.png" group-title="Netherlands",Ziggo Sport Golf NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/236.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportracingnl.png" group-title="Netherland",Ziggo Sport Racing NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportracingnl.png" group-title="Netherlands",Ziggo Sport Racing NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/235.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportselectnl.png" group-title="Netherland",Ziggo Sport Select NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportselectnl.png" group-title="Netherlands",Ziggo Sport Select NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6112.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportselecthdnl.png" group-title="Netherland",Ziggo Sport Select HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportselecthdnl.png" group-title="Netherlands",Ziggo Sport Select HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/234.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportselecthdnl.png" group-title="Netherland",Ziggo Sport Select FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportselecthdnl.png" group-title="Netherlands",Ziggo Sport Select FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6514.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportvoetbalnl.png" group-title="Netherland",Ziggo Sport Voetbal NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/ziggosportvoetbalnl.png" group-title="Netherlands",Ziggo Sport Voetbal NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/233.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport1hdnl.png" group-title="Netherland",Eurosport 1 FHD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport1hdnl.png" group-title="Netherlands",Eurosport 1 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/246.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport2nl.png" group-title="Netherland",Eurosport 2 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport2nl.png" group-title="Netherlands",Eurosport 2 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/245.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/extremesportsnl.png" group-title="Netherland",Extreme Sports NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/extremesportsnl.png" group-title="Netherlands",Extreme Sports NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/232.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/edgesporthdnl.png" group-title="Netherland",EDGE Sport HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/edgesporthdnl.png" group-title="Netherlands",EDGE Sport HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4531.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/family7.png" group-title="Netherland",Family7 NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/family7.png" group-title="Netherlands",Family7 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/40216.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/denhaagfmtv.png" group-title="Netherland",Den Haag FM TV HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/denhaagfmtv.png" group-title="Netherlands",Den Haag FM TV HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/41480.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/npo-nieuws-nl.png" group-title="Netherland",NPO Nieuws NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/npo-nieuws-nl.png" group-title="Netherlands",NPO Nieuws NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/78591.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/dance-television-nl.png" group-title="Netherland",DANCE TRIPPIN FHD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/dance-television-nl.png" group-title="Netherlands",DANCE TRIPPIN FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/80956.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/bbc-first-nl.png" group-title="Netherland",BBC First HD NL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/netherlands/bbc-first-nl.png" group-title="Netherlands",BBC First HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/82811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",RTV Noord FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",RTV Noord FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/104709.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/filmeuropehd.png" group-title="Netherland",Film Europe HD NL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/filmeuropehd.png" group-title="Netherlands",Film Europe HD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/83205.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 1 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 1 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130196.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 2 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 2 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130197.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 3 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 3 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130198.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 4 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 4 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130199.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 5 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 5 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130200.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 6 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 6 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130201.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 7 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 7 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130202.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 8 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 8 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130203.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 9 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 9 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130204.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherland",Max Events 10 NL
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/media/hbo-max-hz.png?raw=true" group-title="Netherlands",Max Events 10 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/130205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 1 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 1 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 2 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 2 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 3 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 3 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105375.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 4 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 4 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 5 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 5 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 6 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 6 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 7 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 7 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 8 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 8 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 9 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 9 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105369.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 10 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 10 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 11 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 11 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105367.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 12 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 12 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105366.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 13 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 13 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105365.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 14 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 14 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105364.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 15 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 15 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 16 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 16 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105362.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 17 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 17 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 18 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 18 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ViaPlay Xtra 19 NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ViaPlay Xtra 19 NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105359.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",DAZN 1 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",DAZN 1 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105358.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",DAZN 2 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",DAZN 2 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",DAZN 3 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",DAZN 3 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",DAZN 4 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",DAZN 4 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105355.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",DAZN 5 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",DAZN 5 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 1 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 1 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 2 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 2 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 3 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 3 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 4 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 4 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 5 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 5 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 6 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 6 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 7 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 7 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 8 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 8 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 9 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 9 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105345.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 10 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 10 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105344.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 11 FHD NL
+#EXTINF:-1 tvg-logo="" group-title="Netherlands",ESPN Play 11 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105343.m3u8
 
 # --- Poland (399) ---

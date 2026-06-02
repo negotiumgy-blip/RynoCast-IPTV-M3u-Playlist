@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-06-01 23:24:59
+# Generated: 2026-06-02 22:14:38
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -1775,7 +1775,7 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40150.mkv
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fabandomedia%2Fdb%2Ffoto%2Fdb_31857_8.jpg&f=1&nofb=1" group-title="Movies | EVROPSKI FILMOVI",PT: The Portuguese Falcon 2015 |ef
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40149.mkv
 
-# --- Movies | EXYU FILMOVI (872) ---
+# --- Movies | EXYU FILMOVI (873) ---
 #EXTINF:-1 tvg-logo="http://support-realtv.eu:8080/images/hKhGMMba9OspayEBMnWLzBaFAdQA0SVEnQYAaiov7PqkCbWSRXi1K5ztnODvOpuv3kA0UK2Uyy5i6yuW7F7NIE4xdq9s13O7xKW94ysElSE.jpg" group-title="Movies | EXYU FILMOVI",Svadba (2026)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/64791.mp4
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMGJiZGNjZjAtZTRjNC00MTY4LWI0ZTEtOWJjNGNjODRlNmFjXkEyXkFqcGc%40._V1__SX500&f=1&h=500" group-title="Movies | EXYU FILMOVI",Volja.Sinovljeva.2024 #df
@@ -3514,6 +3514,8 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/64050.mkv
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/64881.mkv
 #EXTINF:-1 tvg-logo="https://media.myshows.me/movies/normal/1/5f/15f4441b816fef6319935d2a5a9581c7.jpg" group-title="Movies | EXYU FILMOVI",I u dobru i u zlu 2026 #df
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65261.mkv
+#EXTINF:-1 tvg-logo="https://d3c3ws7andfulm.cloudfront.net/posters/c9ed22f3-d824-43db-b9a9-39d0ae66a225.jpg" group-title="Movies | EXYU FILMOVI",Amanet.2.Testament.2025 #df
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65537.mkv
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYjVlOGQwMTEtNjRlMy00ODBjLWI2NTktYWRhY2MxOGEyM2VhXkEyXkFqcGc%40._V1__SX500&f=1&h=500" group-title="Movies | EXYU FILMOVI",Esalon Doktora M 1955 #df
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/58066.mkv
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNzUzOGM2NDgtMTZmMS00NTI2LTk0OGMtZTg2ZWRlNDNjYTJmXkEyXkFqcGc%40._V1__SX500&f=1&h=500" group-title="Movies | EXYU FILMOVI",DJ Ahmet 2025 #sf
@@ -16253,4 +16255,4 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40524.mkv
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/8b4d7c7d.jpg" group-title="Movies | WESTERN FILMOVI",The Power of the Dog 2021 |wst
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40523.mkv
 
-# Total: 8112
+# Total: 8113

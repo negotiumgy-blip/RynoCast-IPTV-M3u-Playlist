@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-06-01 23:29:24
+# Generated: 2026-06-02 22:12:03
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -1515,6 +1515,76 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1998494.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX F ⚽",FM: beIN SP⚽RTS MAX 6 FR ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1998493.m3u8
 
+# --- AR| BEIN SPORTS MAX ᴮᴱ ⚽ (34) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",##### beIN SP⚽RTS MAX ᴮᴱ #####
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016988.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016987.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016986.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 3 EN ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016985.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 4 EN ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016984.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 5 FR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016983.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 6 FR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016982.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016981.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016980.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 3 EN SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016979.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 4 EN SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016978.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 5 FR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016977.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 6 FR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016976.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016975.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016974.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 3 EN ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016973.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 4 EN ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016972.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 5 FR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016971.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 6 FR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016970.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016969.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016968.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 3 EN ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016967.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 4 EN ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016966.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 5 FR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016965.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 6 FR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016964.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",### beIN SP⚽RTS MAX ᴮᴱ (BK) ###
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016963.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 (BK) AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016962.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 (BK) AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016961.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 (BK) AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016960.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 (BK) AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016959.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 (BK) AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016958.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 (BK) AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016957.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 1 (BK) AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016956.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",BE: beIN SP⚽RTS MAX 2 (BK) AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016955.m3u8
+
 # --- AR| BEIN SPORTS MAX ᴺᴹ ⚽ (25) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS MAX ᴺᴹ ⚽",##### beIN SP⚽RTS MAX ᴺᴹ #####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1997526.m3u8
@@ -1618,6 +1688,80 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1997473.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1997472.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ⁸ᴷ ⚽",8K: beIN SP⚽RTS MAX 6 FR ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1997471.m3u8
+
+# --- AR| BEIN SPORTS MAX ◉ ⚽ (36) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS MAX ◉ ⚽",##### beIN SP⚽RTS MAX ◉ #####
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017029.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017028.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017027.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 EN ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017026.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 EN ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017025.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 5 FR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017024.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 6 FR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017023.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: ARRYADIA TNT AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017022.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: MAKAN AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017021.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017020.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017019.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 EN SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017018.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 EN SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017017.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 5 FR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017016.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 6 FR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017015.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017014.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017013.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 EN ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017012.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 EN ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017011.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 5 FR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017010.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 6 FR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017009.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017008.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017007.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 EN ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017006.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 EN ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017005.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 5 FR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017004.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 6 FR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017003.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS MAX ◉ ⚽",### beIN SP⚽RTS MAX (BK) ◉ ###
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017002.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 (BK) AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017001.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 (BK) AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017000.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 (BK) AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016999.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 (BK) AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016998.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 (BK) AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016997.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 (BK) AR ʰᵉᵛᶜ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016996.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 (BK) AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016995.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 (BK) AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2016994.m3u8
 
 # --- AR| BEIN SPORTS SA ⚽ (37) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS SA ⚽",### SA beIN SP⚽RTS ᴴᴰ ###
@@ -17947,4 +18091,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8725
+# Total: 8795
