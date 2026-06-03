@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-06-03 08:55:38
+# Generated: 2026-06-03 22:25:06
 # Expires: 2026-06-29
 # Family Safe Edition
 # ==============================================
@@ -5865,7 +5865,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9356.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="Movies | Novi filmovi 2026",Sudar (2026)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9355.ts
 
-# --- Movies | Strane serije (326) ---
+# --- Movies | Strane serije (327) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Kakvi frajeri! (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/40.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Vera (2025)
@@ -6518,6 +6518,8 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/703.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/704.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Ubojstva u Valhali (2020)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/647.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Tabu (2017)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/711.mp4
 
 # --- Movies | Strani filmovi (2951) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uRy6fpVNrxtjt03YgO2YdY4yoje.jpg" group-title="Movies | Strani filmovi",Blizanci (2025
@@ -12423,4 +12425,4 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9049.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/meKYRGK9oDAGHkB0mI7KIcWRMxU.jpg" group-title="Movies | Strani filmovi",The Match (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9056.ts
 
-# Total: 6198
+# Total: 6199

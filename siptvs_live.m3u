@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-06-03 09:07:45
+# Generated: 2026-06-03 22:23:32
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -3039,7 +3039,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/103123.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",BIH: RADIO POSUSJE
 http://siptvs.com:8080/live/Biljana12/Biljana12/103124.m3u8
 
-# --- WORLD SPORT (110) ---
+# --- WORLD SPORT (91) ---
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/images/team-logo/football_241968.png" group-title="WORLD SPORT",AL: ART SPORT 1 ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35207.m3u8
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/images/team-logo/football_241968.png" group-title="WORLD SPORT",AL: ART SPORT 2 ᴴᴰ
@@ -3216,44 +3216,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/99380.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/99381.m3u8
 #EXTINF:-1 tvg-logo="http://proservers.club:80/images/TQKTBG1IyaQtQxzZCY2ODGqjjGyq1bbVoGgKq5g_KCGkY9SMglDolBr774SR79ed.png" group-title="WORLD SPORT",AR: BEIN SPORTS MAX 3 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/99382.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport1.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 1
-http://siptvs.com:8080/live/Biljana12/Biljana12/86184.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport2.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 2
-http://siptvs.com:8080/live/Biljana12/Biljana12/86185.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport3.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 3
-http://siptvs.com:8080/live/Biljana12/Biljana12/86186.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport4.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 4
-http://siptvs.com:8080/live/Biljana12/Biljana12/86187.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport5.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 5
-http://siptvs.com:8080/live/Biljana12/Biljana12/86188.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport7.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 7
-http://siptvs.com:8080/live/Biljana12/Biljana12/86189.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport8.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 8
-http://siptvs.com:8080/live/Biljana12/Biljana12/86190.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/cosmotesport9.png" group-title="WORLD SPORT",GR: COSMOTE SPORT 9
-http://siptvs.com:8080/live/Biljana12/Biljana12/86191.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/ertsports.png" group-title="WORLD SPORT",GR: ERT Sports
-http://siptvs.com:8080/live/Biljana12/Biljana12/86204.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/ertsports2.png" group-title="WORLD SPORT",GR: ERT Sports 2
-http://siptvs.com:8080/live/Biljana12/Biljana12/86205.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/ertsports3.png" group-title="WORLD SPORT",GR: ERT Sports 3
-http://siptvs.com:8080/live/Biljana12/Biljana12/86206.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/eurosport1.png" group-title="WORLD SPORT",GR: EUROSPORT 1
-http://siptvs.com:8080/live/Biljana12/Biljana12/86209.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/eurosport2.png" group-title="WORLD SPORT",GR: EUROSPORT 2
-http://siptvs.com:8080/live/Biljana12/Biljana12/86210.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/novasports1.png" group-title="WORLD SPORT",GR: Nova Sports 1
-http://siptvs.com:8080/live/Biljana12/Biljana12/86246.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/novasports2.png" group-title="WORLD SPORT",GR: Nova sports 2
-http://siptvs.com:8080/live/Biljana12/Biljana12/86247.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/novasports3.png" group-title="WORLD SPORT",GR: Nova Sports 3
-http://siptvs.com:8080/live/Biljana12/Biljana12/86248.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/novasports4.png" group-title="WORLD SPORT",GR: Nova Sports 4
-http://siptvs.com:8080/live/Biljana12/Biljana12/86249.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/novasports5.png" group-title="WORLD SPORT",GR: Nova Sports 5
-http://siptvs.com:8080/live/Biljana12/Biljana12/86250.m3u8
-#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/novasportsprime.png" group-title="WORLD SPORT",GR: Nova sports Prime
-http://siptvs.com:8080/live/Biljana12/Biljana12/86251.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORT",WORLD FISHING NETWORK
 http://siptvs.com:8080/live/Biljana12/Biljana12/103127.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8e45359930ad5c87fae491800f570fb8.png" group-title="WORLD SPORT",US: MLB Network
@@ -3261,4 +3223,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1597
+# Total: 1578

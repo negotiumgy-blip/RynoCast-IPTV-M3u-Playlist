@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-06-03 08:59:25
+# Generated: 2026-06-03 22:22:41
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -803,144 +803,142 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1160370.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="AFC Champions League UK",US (P+) AFC Champions League 20
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160371.m3u8
 
-# --- Amazon Prime US (69) ---
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Oda vs. Reid | all | PRIME-US
+# --- Amazon Prime US (68) ---
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Valencia vs. Bilbao | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125766.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Preston vs. Zoldakova | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Costa de Marfil Sub-20 vs. Venezuela Sub-23 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125765.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Safarova/Parmentier vs. Schiavone/Kerber | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | America's Day at the Races | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125764.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Sesko vs. Neimanis | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Womens Tri-Series in Ireland 2026 - 5th Match - Pakistan Women v West Indies Women | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125762.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Roland-Garros in Spanish | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Deroulede/Fairbank vs. de Greef/Bos | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125761.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Montjane vs. Fairbank | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Montjane/Guo vs. Li/Wang | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125760.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Season 2026 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Barros/Pinera Celorio vs. Dotsenko/Pistola | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125759.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | China Sub-20 vs. República Democrática del Congo Sub-20 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Schroder vs. Lazarte | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125758.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Dabrowski/Stefani vs. Zvonareva/Siegemund | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Zhang/Sun vs. Traynor/Clarke | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125753.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Svitolina vs. Kostyuk | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Mercan'Tour Classic | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125751.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Quilter Cheviot British Open 2026 - Glass Court - June 02 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End |  PFT Live: 6.3.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125750.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | PFT Live: 6.2.26 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Quilter Cheviot British Open 2026 - Glass Court - June 03 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125749.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Lin vs. Sun | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Sesko vs. Doig | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125748.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Pushkareva vs. Burcescu | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Dotsenko vs. Thamm | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125747.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Baena/Chavez vs. Abe/Chelemen | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Oktiabreva vs. Larraya Guidi | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125746.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Alvarez vs. Storck Franca | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Fernandez/Oda vs. Ji/Lysov | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125745.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Esquiva Banuls vs. Mpetshi Perricard | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Antonius vs. Alexandrescou | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125744.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Jeong vs. Thamm | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Makarova vs. Lee | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125743.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | The Dan Patrick Show: 6.2.26 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Domenc/Jade vs. Johnson/Konduri | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125734.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kovackova/Zajickova vs. Inisan/Langlais | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Thamm/Skliar vs. Kovackova/Zajickova | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125733.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Doig/Kisimov vs. Clerc/Martin | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Wei/Shao vs. Frodin/Cvetkovic | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125732.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Giurescu/Vukovic vs. Chabalgoity/Bolivar Idarraga | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Jovanovski/Sik vs. Azam/Brand | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125790.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Tour de Wallonie, Stage 2 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Chen/Behrmann vs. Ciurnelli/Sloboda | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125789.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chen/Behrmann vs. Geldof/Pradat | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Larraya Guidi/Zhenikhova vs. Cinalli/Lee | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125788.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Thamm/Skliar vs. Ye/Hoo | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Guardians at Yankees | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125787.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Tanaka vs. Wang | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Albania vs. Israel | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125786.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | A. Lacinova / GS. Popa - SA. Larraya Guidi / S. Zhenikova | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Schuurs/Perez vs. Krunić/Danilina | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125785.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | The Dan Le Batard Show with Stugotz: 6.2.26 | all | PRIME-US
-http://45.139.122.199:8080/live/Susanne1/susanne1/2125784.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | L. Chang / J. Preston - LM. Cinalli / HE. Lee | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Tigers at Rays | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125783.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Barros/Pinera Celorio vs. Dotsenko/Pistola | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | 2026 Roland-Garros Tennis-Women's Singles: Quarter-Final | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125782.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Croatia vs. Belgium | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Zoldakova vs. Barros | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125781.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | M. Bastianelli / C. Cedillo-Vayson De Pradenne - C. Esquiva Banuls / NV. Leme Da Silva | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Cvetkovic vs. Pinera Celorio | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125780.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Majdandzic/Thies vs. Domenc/Jade | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kennedy vs. Paparkar | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125779.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Roland Garros 2026-Day 10 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Marlins at Nationals | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125778.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Roland-Garros Women's Quarterfinal: Mirra Andreeva vs. Sorana Cirstea | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Sesko vs. Doig | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125777.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Roland-Garros Doubles Whip-Around Show | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Miguel vs. Baena | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125776.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | K. Siniakova / T. Townsend - M. Kempen / A. Klepac | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Thomas/Storck Franca vs. Hance/Kennedy | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125775.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | de Groot vs. de Greef | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Gabet/Kaouk vs. Mackenzie/Reisach | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125774.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Shao vs. Leme Da Silva | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kovackova vs. Dorofeeva-Rybas | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125773.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Caverzaschi vs. Fernandez | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Baena/Chavez vs. Doig/Kisimov | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125772.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Egberink vs. Lysov | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Hantuchova/Cornet vs. M./Kerber | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125771.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Cinalli vs. Barros | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Miguel/Sesko vs. Paparkar/Pantaratorn | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125770.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kosaner vs. Tabata | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Sasson vs. Woodman | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125769.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Doig vs. Kisimov | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Men's International Soccer Friendlies | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125768.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Ciurnelli vs. Domenc | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | T./Forget vs. Simon/Parmentier | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125767.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Hance vs. Chabalgoity | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | The Dan Le Batard Show with Stugotz: 6.3.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125763.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Lizunova/Qu vs. Frodin/Cvetkovic | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | 2026 Roland-Garros Tennis-Men's Singles: Quarter-Final | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125757.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Svitolina vs. Kostyuk | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Thomas vs. Mackenzie | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125756.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | O'Leary vs. Chamberlain: Launch Press Conference | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | van Koot/de Groot vs. Tanaka/Chasteau | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125755.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Australia tour of Pakistan 2026 - 2nd ODI - Pakistan vs Australia | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Ratzlaff/Egberink vs. Laget/Miki | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125754.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kennedy vs. Jade | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kaplan vs. Slade | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125752.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Deroulede vs. Zhu | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Domenc vs. Behrmann | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125742.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Bos vs. Guo | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Lapthorne vs. Vink | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125741.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Kamiji vs. Griffioen | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Esquiva Banuls vs. Leme Da Silva | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125740.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Dotsenko vs. PoPa | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Reid/Hewett vs. Cattaneo/Rodrigues | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125739.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Miguel vs. Cozad | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Maria vs. Fruhvirtova | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125738.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Ratzlaff vs. Rodrigues | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Warsaw: Day 3, Session 1 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125737.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Stojsavljevic, Mika vs Jones, Emerson | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Houdet/de la Puente vs. Caverzaschi/Spaargaren | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125736.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Stage 4 | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Hance vs. Kosaner | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125735.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | de la Puente vs. Houdet | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Nilsson/Smart vs. Esquiva Banuls/Leme Da Silva | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125731.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | J. Kovackova / K. Zajickova - E. Inisan / C. Langlais | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chabalgoity/Bolivar Idarraga vs. Secord/Alvarez | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125730.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Nilsson/Smart vs. Tupitsyna/Makarova | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Tour de Wallonie, Stage 3 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125729.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Roland-Garros Men's Quarterfinal: Alexander Zverev vs. Rafael Jodar | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Lin/Lin vs. Dorofeeva-Rybas/Pushkareva | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125728.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Lawlor/Antonius vs. Ciurnelli/Sloboda | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Sri Lanka tour of West Indies 2026 - 1st ODI - West Indies vs Sri Lanka | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125727.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chasteau vs. van Koot | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Rivoli/Jeong vs. Newman/Hazelitt | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125726.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Tayuka Miki - Ruben Spaargaren | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",Next | 03:06 (GMT) | Giro d'Italia Women (Stage 5) | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125725.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Bernal vs. Li | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Pioline/Bahrami vs. Clement/Santoro | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125724.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Lauva/Wobker vs. Wei/Shao | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Japón Sub-20 vs. Portugal Sub-20 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125723.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Ji vs. Cattaneo | all | PRIME-US
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | The Dan Patrick Show: 6.3.26 | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125722.m3u8
 
 # --- Apple+ US (11) ---
@@ -1946,53 +1944,53 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351423.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351424.m3u8
 
 # --- DAZN UK (24) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nyy4iusn0w2zfua4ls31flkw_image-header_pRow_1738859605000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 001) | O`Leary vs. Chamberlain: Launch Press Conference (2026-06-02 13:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1nyy4iusn0w2zfua4ls31flkw_image-header_pRow_1738859605000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 001) | Valencia vs. Bilbao (2026-06-03 18:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161141.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7nxqg3mithgjcw976wb73vcm3_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 003) | Paris vs. Cholet (2026-06-02 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6hm401vwdgxowt44heu41l9ed_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 002) | Monaco vs. Nanterre 92 (2026-06-03 19:00:00)
+http://45.139.122.199:8080/live/Susanne1/susanne1/1161142.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7nxqg3mithgjcw976wb73vcm3_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 003) | Baskonia vs. Joventut (2026-06-03 20:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161143.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2cx05e0il2v2t6naskpsklh2e_image-header_pRow_1738857653000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 004) | Real Madrid vs. Tenerife (2026-06-02 20:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2cx05e0il2v2t6naskpsklh2e_image-header_pRow_1738857653000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 004) | Padley vs. Fiaz: Press Conference (2026-06-04 14:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161144.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amvlue4uhg9wm1huwjb834s6i_image-header_pRow_1739958648000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 005) | Stanley Cup Final _ Game 1: Golden Knights @ Hurricanes (2026-06-03 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amvlue4uhg9wm1huwjb834s6i_image-header_pRow_1739958648000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 005) | EFC 134: Lino vs. Chukwu (2026-06-04 14:00:05)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161145.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2dd33ifrtghiut8326uav89eg_image-header_pRow_1739529678000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 006) | Valencia vs. Bilbao (2026-06-03 18:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2dd33ifrtghiut8326uav89eg_image-header_pRow_1739529678000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 006) | Cannes _ GCL Round 1 (2026-06-04 17:45:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161146.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c5ikpbccd0iinhqabq2xqb4qi_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 007) | Monaco vs. Nanterre 92 (2026-06-03 19:00:00)
-http://45.139.122.199:8080/live/Susanne1/susanne1/1161147.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7lwwjoipa331se6sq05k5ntxc_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 008) | Baskonia vs. Joventut (2026-06-03 20:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7lwwjoipa331se6sq05k5ntxc_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 008) | Paris vs. Cholet (2026-06-04 19:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161148.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2594z7nuvsdz4s38nu214imiz_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",GB-DAZN 9: NHL.TV| Red Wings @ Sabres (Away Broadcast)| Thu 23 Oct 12:30 AM
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161149.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4o9gc0ipe3h418uxruw4i23i2_image-header_pRow_1739179987000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 009) | Padley vs. Fiaz: Press Conference (2026-06-04 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4o9gc0ipe3h418uxruw4i23i2_image-header_pRow_1739179987000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 009) | Tenerife vs. Real Madrid (2026-06-04 20:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161150.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vbnjqj02y6z211eeor75dglhb_image-header_pRow_1739888977000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 010) | EFC 134: Lino vs. Chukwu (2026-06-04 14:00:05)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vbnjqj02y6z211eeor75dglhb_image-header_pRow_1739888977000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 010) | Cannes _ GCL Round 2 (2026-06-04 20:30:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161151.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mdd827pmfbw51dfqcxniog67f_image-header_pRow_1739888027000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 012) | Paris vs. Cholet (2026-06-04 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1mdd827pmfbw51dfqcxniog67f_image-header_pRow_1739888027000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 012) | Padley vs. Fiaz: Weigh_In (2026-06-05 13:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161152.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/z1kaaliyi9b010jl6yhb11a8p_image-header_pRow_1739809015000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 012) | Paris vs. Cholet (2026-06-04 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/z1kaaliyi9b010jl6yhb11a8p_image-header_pRow_1739809015000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 012) | Padley vs. Fiaz: Weigh_In (2026-06-05 13:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161153.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/61muifdz45g9y29ufegtrnn5r_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 013) | Tenerife vs. Real Madrid (2026-06-04 20:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/61muifdz45g9y29ufegtrnn5r_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 013) | Freestyle Friday #12 (2026-06-05 15:45:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161154.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ph915b3w34jyzyhy4z5r9p21_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 014) | Stanley Cup Final _ Game 2: Golden Knights @ Hurricanes (2026-06-05 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ph915b3w34jyzyhy4z5r9p21_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 014) | Liechtenstein vs. Estonia (2026-06-05 18:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161155.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bz5tsd0l1qjn19pmsum1eg1rl_image-header_pRow_1740127354000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 015) | Padley vs. Fiaz: Weigh_In (2026-06-05 13:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bz5tsd0l1qjn19pmsum1eg1rl_image-header_pRow_1740127354000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 015) | Bilbao vs. Valencia (2026-06-05 18:00:05)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161156.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15tlwglmhzdgj1i9sspbzelv2o_image-header_pRow_1739957048000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 016) | Freestyle Friday #12 (2026-06-05 15:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15tlwglmhzdgj1i9sspbzelv2o_image-header_pRow_1739957048000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 016) | Germany vs. Norway (2026-06-05 19:35:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161157.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/48nez5nnpane1qb0d2l8i9ohb_image-header_pRow_1739966386000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 017) | Liechtenstein vs. Estonia (2026-06-05 18:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/48nez5nnpane1qb0d2l8i9ohb_image-header_pRow_1739966386000/fill/center/top/none/85/800/600/jpg/image" group-title="DAZN UK",(UK) (Dazn 017) | Joventut vs. Baskonia (2026-06-05 20:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161158.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8jlvy1sw48c1hjgew62xbkw0k_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 017) | Liechtenstein vs. Estonia (2026-06-05 18:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8jlvy1sw48c1hjgew62xbkw0k_image-header_pRow_1737727578000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 017) | Joventut vs. Baskonia (2026-06-05 20:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161159.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/52waizfkvw167aybsio42lca0_image-header_pRow_1737372861000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 018) | Bilbao vs. Valencia (2026-06-05 18:00:05)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/52waizfkvw167aybsio42lca0_image-header_pRow_1737372861000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 018) | Brown vs. Vieira (2026-06-06 01:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161160.m3u8
-#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="DAZN UK",(UK) (Dazn 019) | Germany vs. Norway (2026-06-05 19:35:00)
+#EXTINF:-1 tvg-logo="https://logotyp.us/files/dazn.svg" group-title="DAZN UK",(UK) (Dazn 019) | Brown vs. Vieira (2026-06-06 01:00:05)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161161.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9130dycyw218e208o60v9wh6g_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 020) | Joventut vs. Baskonia (2026-06-05 20:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9130dycyw218e208o60v9wh6g_image-header_pRow_1737727579000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 020) | Portimao _ Race 1 (2026-06-06 11:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161162.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/58v43gaahxsbtdgii8ytipmpl_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 021) | Brown vs. Vieira (2026-06-06 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/58v43gaahxsbtdgii8ytipmpl_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 021) | Portimao _ Race 1 (2026-06-06 11:55:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161163.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c1zf782md0ejdgwwjtryeogh4_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 022) | Brown vs. Vieira (2026-06-06 01:00:05)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c1zf782md0ejdgwwjtryeogh4_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 022) | RWS: Samingdet vs. Flukenoi (2026-06-06 13:10:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161164.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ifi02ann9rkl9kwrv24dambi_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 023) | RWS: Samingdet vs. Flukenoi (2026-06-06 13:10:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ifi02ann9rkl9kwrv24dambi_image-header_pRow_1738219184000/fill/center/top/none/85/800/600/png/image" group-title="DAZN UK",(UK) (Dazn 023) | Portimao _ Race 2 (2026-06-06 13:50:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161165.m3u8
 
 # --- Denmark (213) ---
@@ -2423,9 +2421,17 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/41317.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-nature-no.png" group-title="Denmark",Viasat Nature FHD DK [Multi-Sub]
 http://45.139.122.199:8080/live/Susanne1/susanne1/774461.m3u8
 
-# --- DirekteSport Events DK (1) ---
+# --- DirekteSport Events DK (5) ---
 #EXTINF:-1 tvg-logo="https://direktesport.dk/assets/1768306695/kodus/jfm-brands/brands/direktesport/favicons/android-icon-192x192.png" group-title="DirekteSport Events DK",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/686202.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-47b2b9f9-9536-43ee-90f5-7017f543934d.jpg" group-title="DirekteSport Events DK",18:20 Nordjysk Elite Speedway - GSK Liga (Speedwayligaen) 6/3 [Direktesport DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426494.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-e3ad6308-63c3-4649-837d-14f98373b29f.jpg" group-title="DirekteSport Events DK",18:20 Slangerup Speedway - Esbjerg Vikings (Speedwayligaen) 6/3 [Direktesport DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426493.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-318ce0bc-c95a-41f2-b63e-8197e0921efc.jpg" group-title="DirekteSport Events DK",18:20 Team Fjelsted - Holsted Tigers (Speedwayligaen) 6/3 [Direktesport DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426492.m3u8
+#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-dc67ad29-e566-4098-a1b4-4900bc0c61d6.jpg" group-title="DirekteSport Events DK",18:50 Sønderjylland Elite Speedway - Region Varde Elitesport (Speedwayligaen) 6/3 [Direktesport DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426491.m3u8
 
 # --- Dirtvision US (11) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",DIRTVISION 01 :
@@ -2761,13 +2767,25 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1414650.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/EPL%20/Wolverhampton_Wanderers.png" group-title="EPL Teams UK",EPL Wolverhampton Wanderers
 http://45.139.122.199:8080/live/Susanne1/susanne1/1414649.m3u8
 
-# --- ESPN+ Events US (3) ---
+# --- ESPN+ Events US (9) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/2yb4OEL.png" group-title="ESPN+ Events US",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/101275.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="ESPN+ Events US",UFC Fight Pass 24/7 FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/101217.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e7155aa6-c9bb-4c59-822f-56e742d30920/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",11:00 PM EDT Tue, 6/2 - In the Crease 6/3
-http://45.139.122.199:8080/live/Susanne1/susanne1/2424952.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/90a201ef-9627-46f3-8f33-325a2c1f6e59/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202606031428" group-title="ESPN+ Events US",11:59 AM EDT Wed, 6/3 - The Rich Eisen Show 6/3
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426568.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d805d15d-e685-4226-8e1b-4c0b20c35fd1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605272121" group-title="ESPN+ Events US",12:00 PM EDT The Pat McAfee Show 6/3
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426567.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c5758398-1e2e-46b1-8b6f-1f2420b262cc/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",3:00 PM EDT Freddie & Harry 6/3
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426566.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/dad673ba-fad3-40ef-9731-e977f01923e8/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605200230" group-title="ESPN+ Events US",5:00 PM EDT Wed, 6/3 - ESPN FC 6/3
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426565.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/73bd3417-aa9f-4e8c-8a8f-4d8b7ef06496/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605202039" group-title="ESPN+ Events US",7:30 PM EDT FC Naples vs. Charlotte Independence 6/3
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426564.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b1002571-8375-4be1-8204-66a66d13c3bf/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605202038" group-title="ESPN+ Events US",7:30 PM EDT Greenville Triumph SC vs. Forward Madison FC 6/3
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426563.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e17b9705-0601-4928-9a4c-2d25be75167c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605202041" group-title="ESPN+ Events US",8:30 PM EDT Corpus Christi FC vs. Portland Hearts of Pine 6/4
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426562.m3u8
 
 # --- Entertainment US (180) ---
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" group-title="Entertainment US",HGTV West US
@@ -3274,11 +3292,11 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1162290.m3u8
 # --- Flo Hockey US (50) ---
 #EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",FloHockey 24/7 :Flo Hockey  01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1222923.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",AHL: Colorado vs Chicago @ Jun 2 8:00 PM :Flo Hockey  02
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",AHL: W B Scranton vs Toronto @ Jun 3 7:00 PM :Flo Hockey  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1222924.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",ECHL: Fort Wayne vs Kansas City @ Jun 2 8:05 PM :Flo Hockey  03
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",AHL: Colorado vs Chicago @ Jun 3 8:00 PM :Flo Hockey  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1222925.m3u8
-#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",:Flo Hockey  04
+#EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",ECHL: Fort Wayne vs Kansas City @ Jun 3 8:05 PM :Flo Hockey  04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1222926.m3u8
 #EXTINF:-1 tvg-logo="https://www.icevault.com/images/Generic/Flo/FloHockey575.png" group-title="Flo Hockey US",:Flo Hockey  05
 http://45.139.122.199:8080/live/Susanne1/susanne1/1222927.m3u8
@@ -3392,11 +3410,11 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1350498.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350487.m3u8
 #EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",FloRacing 24/7 :Flo Racing  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350488.m3u8
-#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",:Flo Racing  03
+#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",FloRacing Night in America at Eldora @ Jun 3 4:45 PM :Flo Racing  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350489.m3u8
-#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",:Flo Racing  04
+#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",Race for the Million at Owosso Speedway @ Jun 3 5:15 PM :Flo Racing  04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350490.m3u8
-#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",:Flo Racing  05
+#EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",High Limit Racing at Red Cedar @ Jun 3 6:45 PM :Flo Racing  05
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350491.m3u8
 #EXTINF:-1 tvg-logo="https://gotrialpro.com/wp-content/uploads/edd/2024/08/Floracing-Free-Trial-2048x946.png" group-title="Flo Racing US",:Flo Racing  06
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350492.m3u8
@@ -3847,34 +3865,78 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351516.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/6GDGuR.md.png" group-title="HBO Max Original US",HBOMax Original 17
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351517.m3u8
 
-# --- HBO Max Sports DK (1) ---
+# --- HBO Max Sports DK (23) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2191277.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/PCfxy/Q3w9RZUKJxODvlJvQ.png?f=webp&w=400" group-title="HBO Max Sports DK",11:00 Multiview tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425855.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/WKLMQ/9PqneNWqgdjwkBvGQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:30 Giro d'Italia Women cykling FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425830.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Zo1L1/k4_yct66Cymz-Q9rA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:48 VL. Barros / P. Pinera Celorio - E. Dotsenko / I. Pistola tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425824.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/lkMur/3MnQRvJTqsTZVsGrA.png?f=webp&w=400" group-title="HBO Max Sports DK",15:56 Félix Auger-Aliassime - Flavio Cobolli tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425826.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/YMJuh/7yaA4ecwcOJxzuBsA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:33 SA. Larraya Guidi / S. Zhenikhova - LM. Cinalli / HE. Lee tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425831.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/1fisJ/Bmc0Id9-RUh6Bed7w.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:31 Tennis tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426752.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/KoX0V/05VPQtBFYX89I4Qqw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:52 L. Guo / K. Montjane - X. Li / Z. Wang tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425825.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/VFPTA/WjPK-fOJalBOFiGSw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:16 P. Skliar / M. Thamm - J. Kovackova / K. Zajickova tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425816.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/SpKEU/qi5u-nocCAKAvHIvQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:17 LG. Miguel / Z. Sesko - K. Pantaratorn / AV. Paparkar tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426790.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/w3LlV/_QuYuh2J6OSI6AR-w.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:56 A. Gabet / M. Kaouk - J. Mackenzie / VJ. Reisach tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425811.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/s53-x/4Db1AKR9So2Sz_8zA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:26 N. Baena / T. Chavez - C. Doig / D. Kisimov tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426572.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sv-lO/8BJLAbuz5VuuoptUw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:30 The Memorial Tournament | On the Range golf FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425815.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5DXnK/L6pIrCkvxCJhxz19Q.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:04 E. Perez / D. Schuurs - A. Danilina / A. Krunic tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426615.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LKAkM/O8yr82PPmweXyIaLQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:12 T. Behrmann / KS. Chen - R. Ciurnelli / L. Sloboda tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425818.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/q1hDu/aa7BopRIirnCXVj0A.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:15 L. Storck Franca / F. Thomas - K. Hance / J. Kennedy tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426794.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LxxyI/B5ak5MQYhW1nrZYCg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:29 L. Nilsson / H. Smart - C. Esquiva Banuls / NV. Leme Da Silva tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2425820.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/x8Mue/HpnMiH5jK9SNYkmvw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",17:45 S. Aoyama / ES. Liang - H. Guo / K. Mladenovic tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426630.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/D0lus/ELuFKwAhHy-jV0sBg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",18:55 Courtside tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426618.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/LKAkM/O8yr82PPmweXyIaLQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:25 Matteo Berrettini - Matteo Arnaldi tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426645.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/w3LlV/_QuYuh2J6OSI6AR-w.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",20:29 L. Storck Franca / F. Thomas - K. Hance / J. Kennedy tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426594.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/if7Tt/L6USVOcFk3Sxnkcxg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:25 Courtside tennis FHD 6/3 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426654.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Eyj6N/7BAo-kI7DLrh-mw6g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",02:30 New York Knicks - San Antonio Spurs  basketball FHD 6/4 [HBO Max DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426653.m3u8
 
 # --- HBO Max Sports DK [B] (50) ---
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | COURTSIDE | Wed 03 Jun 10:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | LG. MIGUEL / Z. SESKO - K. PANTARATORN / AV. PAPARKAR | Wed 03 Jun 17:17 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 1
 http://45.139.122.199:8080/live/Susanne1/susanne1/987408.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | GUY SASSON - JIN WOODMAN | Wed 03 Jun 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Susanne1/susanne1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | COURTSIDE | Tue 02 Jun 23:26 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | S. AOYAMA / ES. LIANG - H. GUO / K. MLADENOVIC | Wed 03 Jun 17:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Susanne1/susanne1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | A. CORNET / D. HANTUCHOVA - M. HINGIS / A. KERBER | Wed 03 Jun 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | L. STORCK FRANCA / F. THOMAS - K. HANCE / J. KENNEDY | Wed 03 Jun 18:15 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Susanne1/susanne1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | T. GOLOVIN / G. FORGET - P. PARMENTIER / G. SIMON | Wed 03 Jun 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Susanne1/susanne1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | Y. KAMIJI / Z. ZHU - A. BERNAL / J. GRIFFIOEN | Wed 03 Jun 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | L. GUO / K. MONTJANE - X. LI / Z. WANG | Wed 03 Jun 16:48 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Susanne1/susanne1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | M. DE LA PUENTE / S. HOUDET - D. CAVERZASCHI / R. SPAARGAREN | Wed 03 Jun 10:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | FÉLIX AUGER-ALIASSIME - FLAVIO COBOLLI | Wed 03 Jun 15:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Susanne1/susanne1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ANNA KALINSKAYA - MAJA CHWALINSKA | Wed 03 Jun 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | MULTIVIEW | Wed 03 Jun 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Susanne1/susanne1/987415.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MULTIVIEW | Wed 03 Jun 11:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | THE MEMORIAL TOURNAMENT | ON THE RANGE | Wed 03 Jun 17:29 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Susanne1/susanne1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | G. FERNANDEZ / T. ODA - Z. JI / S. LYSOV | Wed 03 Jun 13:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | COURTSIDE | Wed 03 Jun 18:55 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Susanne1/susanne1/987417.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | ANDY LAPTHORNE - NIELS VINK | Wed 03 Jun 13:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | E. PEREZ / D. SCHUURS - A. DANILINA / A. KRUNIC | Wed 03 Jun 17:56 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Susanne1/susanne1/987418.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GIRO D'ITALIA WOMEN | Wed 03 Jun 15:29 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
 http://45.139.122.199:8080/live/Susanne1/susanne1/987419.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 13
 http://45.139.122.199:8080/live/Susanne1/susanne1/987420.m3u8
@@ -3886,11 +3948,11 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/987422.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/987423.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 17
 http://45.139.122.199:8080/live/Susanne1/susanne1/987424.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | P. DÉROULÈDE / C. FAIRBANK - J. BOS / L. DE GREEF | Wed 03 Jun 16:37 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 18
 http://45.139.122.199:8080/live/Susanne1/susanne1/987425.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 19
 http://45.139.122.199:8080/live/Susanne1/susanne1/987426.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 20
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MATTEO BERRETTINI - MATTEO ARNALDI | Wed 03 Jun 19:25 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 20
 http://45.139.122.199:8080/live/Susanne1/susanne1/987427.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 21
 http://45.139.122.199:8080/live/Susanne1/susanne1/987428.m3u8
@@ -3953,40 +4015,84 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 50
 http://45.139.122.199:8080/live/Susanne1/susanne1/987457.m3u8
 
-# --- HBO Max Sports UK (1) ---
+# --- HBO Max Sports UK (23) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1452150.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/zPyJK/tYIoMvOX9TBqrPjug.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:30 Giro d'Italia Women cycling FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426247.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2Ua-B/2yZvB-IGtu1KU5P6w.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:58 VL. Barros / P. Pinera Celorio - E. Dotsenko / I. Pistola tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426240.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/aY_Fj/2DtcpfFxZZqWLhJ7A.png?f=webp&w=400" group-title="HBO Max Sports UK",15:00 Félix Auger-Aliassime - Flavio Cobolli tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426261.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/B3TUo/wC7AtAxBTNkYYnJ2A.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:00 Félix Auger-Aliassime - Flavio Cobolli tennis UHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426271.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/i9U0o/6fD4Dy2WOJQRWEmkQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:15 West Indies - Sri Lanka cricket FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426243.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2tEz2/chh5CdD4aPepFQNVw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:33 SA. Larraya Guidi / S. Zhenikhova - LM. Cinalli / HE. Lee tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426263.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/C0_0T/WrYKl-OmnERnSqxtg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:38 P. Deroulede / C. Fairbank - J. Bos / L. De Greef tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426755.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/KoX0V/05VPQtBFYX89I4Qqw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",15:52 L. Guo / K. Montjane - X. Li / Z. Wang tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426241.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2026/03/10/84670b78-cdfd-424a-b53c-619de8dbbff8.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:16 P. Skliar / M. Thamm - J. Kovackova / K. Zajickova  tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426237.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/QJiaS/zXMlhEstvPdFWdcXg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:18 LG. Miguel / Z. Sesko - K. Pantaratorn / AV. Paparkar tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426780.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/wjvsC/ImNEIP3uVlI5jEUbw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:57 A. Gabet / M. Kaouk - J. Mackenzie / VJ. Reisach tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426619.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/E4OmA/m32jZB3Nk7iRP4u8A.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:26 N. Baena / T. Chavez - C. Doig / D. Kisimov tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426596.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/hBcxR/XZPvYuvJyLk_zttjw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:15 L. Storck Franca / F. Thomas - K. Hance / J. Kennedy tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426795.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Dc549/Lq4yRI2l82UtMxFng.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:01 E. Perez / D. Schuurs - A. Danilina - A. Krunic tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426628.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/8l0Jd/P3uHhHYxW-etyWu6Q.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:04 T. Behrmann / KS. Chen - R. Ciurnelli / L. Sloboda tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426235.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2026/03/10/653177a0-79cc-470c-aa31-c712e5977952.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:30 L. Nilsson / H. Smart - C. Esquiva Banuls / NV. Leme Da Silva tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426227.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/OqxSJ/DlG35P3ETYj4UMcIg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:31 S. Aoyama / ES. Liang - H. Guo / K. Mladenovic tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426637.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Ku3gO/-LFzl561IDI5q_-mg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:00 Matteo Berrettini - Matteo Arnaldi tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426647.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/r6_ft/dFHKfRfSVE4dNOPIQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:30 Matteo Berrettini - Matteo Arnaldi tennis UHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426656.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5Raam/bmM-dxlCGiw8h8Dug.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:30 L. Storck Franca / F. Thomas - K. Hance / J. Kennedy tennis FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426606.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/mLTWb/Lve6bOTKyzrgRsf-Q.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",20:30 New York Mets @ Seattle Mariners baseball FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426655.m3u8
+#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Gc8l_/05P5ENQAjRpmt--vA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",23:30 San Diego Padres @ Philadelphia Phillies baseball FHD 6/3 [HBO Max UK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426676.m3u8
 
 # --- HBO Max Sports US (15) ---
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Ziga Sesko vs Rihards Neimanis @ Jun 2 04:55 AM :MAX US 03
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: A Cornet D Hantuchova vs M Hingis A Kerber @ Jun 3 04:55 AM :MAX US 03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350054.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Tennis @ Jun 2 04:55 AM :MAX US 04
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Y Kamiji Z Zhu vs A Bernal J Griffioen @ Jun 3 04:55 AM :MAX US 04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350055.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: K Siniakova T Townsend vs M Kempen A Klepac @ Jun 2 04:55 AM :MAX US 05
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Maia Ilinca Burcescu vs Sun Xinran @ Jun 3 04:55 AM :MAX US 05
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350056.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: M Bartoli S Safarova vs A Kerber F Schiavone @ Jun 2 04:55 AM :MAX US 06
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Luis Guto Miguel vs Nicolas Baena @ Jun 3 04:55 AM :MAX US 06
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350057.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Luna Maria Cinalli vs Victoria Luiza Barros @ Jun 2 04:55 AM :MAX US 07
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Leonardo Storck Franca vs Zangar Nurlanuly @ Jun 3 04:55 AM :MAX US 07
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350058.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Kaan Isik Kosaner vs Ryo Tabata @ Jun 2 04:55 AM :MAX US 08
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Anastasija Cvetkovic vs Paola Pinera Celorio @ Jun 3 04:55 AM :MAX US 08
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350059.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Tokito Oda vs Gordon Reid @ Jun 2 04:55 AM :MAX US 09
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Jack Kennedy vs Arnav Vijay Paparkar @ Jun 3 04:55 AM :MAX US 09
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350060.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Yushan Shao vs Nauhany Vitoria Leme Da Silva @ Jun 2 04:55 AM :MAX US 10
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Guy Sasson vs Jin Woodman @ Jun 3 04:55 AM :MAX US 10
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350061.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Raffaele Ciurnelli vs Mathys Domenc @ Jun 2 04:55 AM :MAX US 11
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Denisa Zoldakova vs Victoria Luiza Barros @ Jun 3 04:55 AM :MAX US 11
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350062.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Connor Doig vs Dimitar Kisimov @ Jun 2 04:55 AM :MAX US 12
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: T Golovin G Forget vs P Parmentier G Simon @ Jun 3 04:55 AM :MAX US 12
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350063.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Mirra Andreeva 8 vs Sorana Cirstea 18 @ Jun 2 05:00 AM :MAX US 13
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",The Rally at Roland Garros @ Jun 3 05:00 AM :MAX US 13
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350064.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Roland Garros Multiview @ Jun 2 05:00 AM :MAX US 14
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Anna Kalinskaya 22 vs Maja Chwalinska @ Jun 3 05:00 AM :MAX US 14
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350065.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",The Rally at Roland Garros @ Jun 2 05:00 AM :MAX US 15
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Multiview @ Jun 3 05:00 AM :MAX US 15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350066.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Janae Preston vs Denisa Zoldakova @ Jun 2 04:55 AM :MAX US 02
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Alana Kovackova vs Felitsata Dorofeeva Rybas @ Jun 3 04:55 AM :MAX US 02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350053.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: Keaton Hance vs Pedro Henrique Chabalgoity @ Jun 2 04:55 AM :MAX US 01
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2025/03/Max-New-Logo.jpg" group-title="HBO Max Sports US",Tennis: M De La Puente S Houdet vs D Caverzaschi R Spaargaren @ Jun 3 04:55 AM :MAX US 01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350052.m3u8
 
 # --- Hub Premier (EPL) UK (12) ---
@@ -4174,33 +4280,33 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1159993.m3u8
 # --- MLB US (52) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/25806e599128fb697cb9c9753300a9d2.png" group-title="MLB US",MLB Network
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357867.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 00: Detroit Tigers vs Tampa Bay Rays | Tue 2nd Jun 6:40 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 00: Miami Marlins vs Washington Nationals | Wed 3rd Jun 1:05 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357865.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 01: San Diego Padres vs Philadelphia Phillies | Tue 2nd Jun 6:40 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 01: Detroit Tigers vs Tampa Bay Rays | Wed 3rd Jun 1:10 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357864.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 02 : Baltimore Orioles vs Boston Red Sox | Tue 2nd Jun 6:45 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 02 : Chicago White Sox vs Minnesota Twins | Wed 3rd Jun 1:40 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357863.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 03:  Miami Marlins vs Washington Nationals | Tue 2nd Jun 6:45 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 03:  New York Mets vs Seattle Mariners | Wed 3rd Jun 3:40 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357862.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 04: Cleveland Guardians vs New York Yankees | Tue 2nd Jun 7:05 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 04: San Diego Padres vs Philadelphia Phillies | Wed 3rd Jun 6:40 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357861.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 05: Kansas City Royals vs Cincinnati Reds | Tue 2nd Jun 7:10 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 05: Baltimore Orioles vs Boston Red Sox | Wed 3rd Jun 6:45 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357860.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 07: Chicago White Sox vs Minnesota Twins | Tue 2nd Jun 7:40 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 06: Cleveland Guardians vs New York Yankees | Wed 3rd Jun 7:05 PM ET
+http://45.139.122.199:8080/live/Susanne1/susanne1/2357859.m3u8
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 07: Kansas City Royals vs Cincinnati Reds | Wed 3rd Jun 7:10 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357858.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 08: San Francisco Giants vs Milwaukee Brewers | Tue 2nd Jun 7:40 PM ET
-http://45.139.122.199:8080/live/Susanne1/susanne1/2357857.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 09: Texas Rangers vs St. Louis Cardinals | Tue 2nd Jun 7:45 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 09: San Francisco Giants vs Milwaukee Brewers | Wed 3rd Jun 7:40 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357856.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 10: Athletics vs Chicago Cubs | Tue 2nd Jun 8:05 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 10: Texas Rangers vs St. Louis Cardinals | Wed 3rd Jun 7:45 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357855.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 11: Pittsburgh Pirates vs Houston Astros | Tue 2nd Jun 8:10 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 11: Athletics vs Chicago Cubs | Wed 3rd Jun 8:05 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357854.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 12: Colorado Rockies vs Los Angeles Angels | Tue 2nd Jun 9:38 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 12: Pittsburgh Pirates vs Houston Astros | Wed 3rd Jun 8:10 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357853.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 13: Los Angeles Dodgers vs Arizona Diamondbacks | Tue 2nd Jun 9:40 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 13: Colorado Rockies vs Los Angeles Angels | Wed 3rd Jun 9:38 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357852.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 14:  New York Mets vs Seattle Mariners | Tue 2nd Jun 9:40 PM ET
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 14:  Los Angeles Dodgers vs Arizona Diamondbacks | Wed 3rd Jun 9:40 PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357851.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/4d69edb154fdba49fd652e6d51d7bffd.png" group-title="MLB US",MLB 15: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/2357850.m3u8
@@ -4394,119 +4500,119 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1160350.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350046.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",:Milb  68
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350047.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Frisco RoughRiders vs Springfield Cardinals @ Jun 2 1:05 PM :Milb  01
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Binghamton Rumble Ponies vs Reading Fightin Phils @ Jun 3 11:00 AM :Milb  01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349980.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Portland Sea Dogs vs Hartford Yard Goats @ Jun 2 6:00 PM :Milb  02
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Worcester Red Sox vs Buffalo Bisons @ Jun 3 11:05 AM :Milb  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349981.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",New Hampshire Fisher Cats vs Altoona Curve @ Jun 2 6:03 PM :Milb  03
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fayetteville Woodpeckers vs Columbia Fireflies @ Jun 3 11:05 AM :Milb  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349982.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Worcester Red Sox vs Buffalo Bisons @ Jun 2 6:05 PM :Milb  04
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Rome Emperors vs Greenville Drive @ Jun 3 12:00 PM :Milb  04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349983.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fayetteville Woodpeckers vs Columbia Fireflies @ Jun 2 6:05 PM :Milb  05
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Gwinnett Stripers vs Norfolk Tides @ Jun 3 12:05 PM :Milb  05
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349984.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Binghamton Rumble Ponies vs Reading Fightin Phils @ Jun 2 6:07 PM :Milb  06
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Memphis Redbirds vs Louisville Bats @ Jun 3 1:05 PM :Milb  06
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349985.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",St. Lucie Mets vs Clearwater Threshers @ Jun 2 6:10 PM :Milb  07
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Cedar Rapids Kernels vs Wisconsin Timber Rattlers @ Jun 3 1:05 PM :Milb  07
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349986.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Lakeland Flying Tigers vs Fort Myers Mighty Mussels @ Jun 2 6:30 PM :Milb  09
-http://45.139.122.199:8080/live/Susanne1/susanne1/1349988.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Tampa Tarpons vs Palm Beach Cardinals @ Jun 2 6:30 PM :Milb  10
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Iowa Cubs vs Toledo Mud Hens @ Jun 3 1:08 PM :Milb  08
+http://45.139.122.199:8080/live/Susanne1/susanne1/1349987.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",St. Paul Saints vs Indianapolis Indians @ Jun 3 2:07 PM :Milb  10
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349989.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Harrisburg Senators vs Somerset Patriots @ Jun 2 6:30 PM :Milb  11
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",San Jose Giants vs Inland Empire 66ers @ Jun 3 4:00 PM :Milb  11
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349990.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Jupiter Hammerheads vs Bradenton Marauders @ Jun 2 6:30 PM :Milb  12
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",St. Lucie Mets vs Clearwater Threshers @ Jun 3 4:00 PM :Milb  12
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349991.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Winston-Salem Dash vs Hub City Spartanburgers @ Jun 2 6:30 PM :Milb  13
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Syracuse Mets vs Scranton-Wilkes-Barre RailRiders @ Jun 3 4:05 PM :Milb  13
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349992.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Chesapeake Baysox vs Akron RubberDucks @ Jun 2 6:35 PM :Milb  14
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",St. Lucie Mets vs Clearwater Threshers @ Jun 3 4:05 PM :Milb  14
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349993.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fredericksburg Nationals vs Hill City Howlers @ Jun 2 6:35 PM :Milb  16
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Syracuse Mets vs Scranton-Wilkes-Barre RailRiders @ Jun 3 4:10 PM :Milb  15
+http://45.139.122.199:8080/live/Susanne1/susanne1/1349994.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Tampa Tarpons vs Palm Beach Cardinals @ Jun 3 5:00 PM :Milb  16
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349995.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Syracuse Mets vs Scranton-Wilkes-Barre RailRiders @ Jun 2 6:35 PM :Milb  17
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Portland Sea Dogs vs Hartford Yard Goats @ Jun 3 6:00 PM :Milb  17
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349996.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Gwinnett Stripers vs Norfolk Tides @ Jun 2 6:35 PM :Milb  18
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",New Hampshire Fisher Cats vs Altoona Curve @ Jun 3 6:03 PM :Milb  18
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349997.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Asheville Tourists vs Greensboro Grasshoppers @ Jun 2 6:35 PM :Milb  19
-http://45.139.122.199:8080/live/Susanne1/susanne1/1349998.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",West Michigan Whitecaps vs Dayton Dragons @ Jun 2 6:35 PM :Milb  20
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Lakeland Flying Tigers vs Fort Myers Mighty Mussels @ Jun 3 6:30 PM :Milb  20
 http://45.139.122.199:8080/live/Susanne1/susanne1/1349999.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Rome Emperors vs Greenville Drive @ Jun 2 6:45 PM :Milb  22
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Harrisburg Senators vs Somerset Patriots @ Jun 3 6:30 PM :Milb  21
+http://45.139.122.199:8080/live/Susanne1/susanne1/1350000.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Jupiter Hammerheads vs Bradenton Marauders @ Jun 3 6:30 PM :Milb  22
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350001.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Durham Bulls vs Charlotte Knights @ Jun 2 6:45 PM :Milb  23
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Winston-Salem Dash vs Hub City Spartanburgers @ Jun 3 6:30 PM :Milb  23
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350002.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Lehigh Valley IronPigs vs Rochester Red Wings @ Jun 2 6:45 PM :Milb  24
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Chesapeake Baysox vs Akron RubberDucks @ Jun 3 6:35 PM :Milb  24
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350003.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Hickory Crawdads vs Kannapolis Cannon Ballers @ Jun 2 7:00 PM :Milb  25
-http://45.139.122.199:8080/live/Susanne1/susanne1/1350004.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Frederick Keys vs Hudson Valley Renegades @ Jun 2 7:00 PM :Milb  26
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fredericksburg Nationals vs Hill City Howlers @ Jun 3 6:35 PM :Milb  26
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350005.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Knoxville Smokies vs Birmingham Barons @ Jun 2 7:00 PM :Milb  27
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Asheville Tourists vs Greensboro Grasshoppers @ Jun 3 6:35 PM :Milb  27
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350006.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Wilson Warbirds vs Salem RidgeYaks @ Jun 2 7:05 PM :Milb  28
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",West Michigan Whitecaps vs Dayton Dragons @ Jun 3 6:35 PM :Milb  28
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350007.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Great Lakes Loons vs Lansing Lugnuts @ Jun 2 7:05 PM :Milb  29
-http://45.139.122.199:8080/live/Susanne1/susanne1/1350008.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Charleston RiverDogs vs Myrtle Beach Pelicans @ Jun 2 7:05 PM :Milb  30
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Durham Bulls vs Charlotte Knights @ Jun 3 6:45 PM :Milb  30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350009.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Columbus Clippers vs Omaha Storm Chasers @ Jun 2 7:05 PM :Milb  31
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Lehigh Valley IronPigs vs Rochester Red Wings @ Jun 3 6:45 PM :Milb  31
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350010.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Augusta GreenJackets vs Delmarva Shorebirds @ Jun 2 7:05 PM :Milb  32
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Hickory Crawdads vs Kannapolis Cannon Ballers @ Jun 3 7:00 PM :Milb  32
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350011.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Jacksonville Jumbo Shrimp vs Nashville Sounds @ Jun 2 7:05 PM :Milb  33
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Frederick Keys vs Hudson Valley Renegades @ Jun 3 7:00 PM :Milb  33
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350012.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fort Wayne TinCaps vs Lake County Captains @ Jun 2 7:05 PM :Milb  34
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Knoxville Smokies vs Birmingham Barons @ Jun 3 7:00 PM :Milb  34
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350013.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Richmond Flying Squirrels vs Erie SeaWolves @ Jun 2 7:05 PM :Milb  35
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Wilson Warbirds vs Salem RidgeYaks @ Jun 3 7:05 PM :Milb  35
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350014.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Quad Cities River Bandits vs South Bend Cubs @ Jun 2 7:30 PM :Milb  37
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Great Lakes Loons vs Lansing Lugnuts @ Jun 3 7:05 PM :Milb  36
+http://45.139.122.199:8080/live/Susanne1/susanne1/1350015.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Charleston RiverDogs vs Myrtle Beach Pelicans @ Jun 3 7:05 PM :Milb  37
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350016.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Peoria Chiefs vs Beloit Sky Carp @ Jun 2 7:35 PM :Milb  38
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Columbus Clippers vs Omaha Storm Chasers @ Jun 3 7:05 PM :Milb  38
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350017.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Cedar Rapids Kernels vs Wisconsin Timber Rattlers @ Jun 2 7:35 PM :Milb  39
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Augusta GreenJackets vs Delmarva Shorebirds @ Jun 3 7:05 PM :Milb  39
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350018.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Corpus Christi Hooks vs Arkansas Travelers @ Jun 2 7:35 PM :Milb  40
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Jacksonville Jumbo Shrimp vs Nashville Sounds @ Jun 3 7:05 PM :Milb  40
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350019.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Wichita Wind Surge vs San Antonio Missions @ Jun 2 7:35 PM :Milb  41
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fort Wayne TinCaps vs Lake County Captains @ Jun 3 7:05 PM :Milb  41
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350020.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Biloxi Shuckers vs Montgomery Biscuits @ Jun 2 7:35 PM :Milb  42
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Richmond Flying Squirrels vs Erie SeaWolves @ Jun 3 7:05 PM :Milb  42
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350021.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Rocket City Trash Pandas vs Columbus Clingstones @ Jun 2 7:35 PM :Milb  43
-http://45.139.122.199:8080/live/Susanne1/susanne1/1350022.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Iowa Cubs vs Toledo Mud Hens @ Jun 2 7:38 PM :Milb  44
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Quad Cities River Bandits vs South Bend Cubs @ Jun 3 7:30 PM :Milb  44
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350023.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Oklahoma City Comets vs Round Rock Express @ Jun 2 8:05 PM :Milb  45
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Peoria Chiefs vs Beloit Sky Carp @ Jun 3 7:35 PM :Milb  45
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350024.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Memphis Redbirds vs Louisville Bats @ Jun 2 8:05 PM :Milb  46
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Corpus Christi Hooks vs Arkansas Travelers @ Jun 3 7:35 PM :Milb  46
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350025.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Northwest Arkansas Naturals vs Midland RockHounds @ Jun 2 8:05 PM :Milb  47
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Wichita Wind Surge vs San Antonio Missions @ Jun 3 7:35 PM :Milb  47
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350026.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Amarillo Sod Poodles vs Tulsa Drillers @ Jun 2 8:05 PM :Milb  48
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Biloxi Shuckers vs Montgomery Biscuits @ Jun 3 7:35 PM :Milb  48
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350027.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",St. Paul Saints vs Indianapolis Indians @ Jun 2 8:07 PM :Milb  49
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Rocket City Trash Pandas vs Columbus Clingstones @ Jun 3 7:35 PM :Milb  49
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350028.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Salt Lake Bees vs Albuquerque Isotopes @ Jun 2 8:35 PM :Milb  50
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Oklahoma City Comets vs Round Rock Express @ Jun 3 8:05 PM :Milb  50
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350029.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",El Paso Chihuahuas vs Sugar Land Space Cowboys @ Jun 2 8:35 PM :Milb  51
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Frisco RoughRiders vs Springfield Cardinals @ Jun 3 8:05 PM :Milb  51
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350030.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Tri-City Dust Devils vs Vancouver Canadians @ Jun 2 9:30 PM :Milb  53
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Northwest Arkansas Naturals vs Midland RockHounds @ Jun 3 8:05 PM :Milb  52
+http://45.139.122.199:8080/live/Susanne1/susanne1/1350031.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Amarillo Sod Poodles vs Tulsa Drillers @ Jun 3 8:05 PM :Milb  53
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350032.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",San Jose Giants vs Inland Empire 66ers @ Jun 2 9:30 PM :Milb  54
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Salt Lake Bees vs Albuquerque Isotopes @ Jun 3 8:35 PM :Milb  54
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350033.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Spokane Indians vs Hillsboro Hops @ Jun 2 9:35 PM :Milb  55
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",El Paso Chihuahuas vs Sugar Land Space Cowboys @ Jun 3 8:35 PM :Milb  55
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350034.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Ontario Tower Buzzers vs Stockton Ports @ Jun 2 9:35 PM :Milb  56
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Tri-City Dust Devils vs Vancouver Canadians @ Jun 3 9:30 PM :Milb  56
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350035.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Sacramento River Cats vs Tacoma Rainiers @ Jun 2 9:45 PM :Milb  57
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Spokane Indians vs Hillsboro Hops @ Jun 3 9:35 PM :Milb  57
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350036.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fresno Grizzlies vs Lake Elsinore Storm @ Jun 2 9:50 PM :Milb  58
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Ontario Tower Buzzers vs Stockton Ports @ Jun 3 9:35 PM :Milb  58
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350037.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Everett AquaSox vs Eugene Emeralds @ Jun 2 10:05 PM :Milb  59
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Sacramento River Cats vs Tacoma Rainiers @ Jun 3 9:45 PM :Milb  59
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350038.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Las Vegas Aviators vs Reno Aces @ Jun 2 10:05 PM :Milb  60
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Fresno Grizzlies vs Lake Elsinore Storm @ Jun 3 9:50 PM :Milb  60
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350039.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",:Milb  61
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Everett AquaSox vs Eugene Emeralds @ Jun 3 10:05 PM :Milb  61
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350040.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",:Milb  62
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",Las Vegas Aviators vs Reno Aces @ Jun 3 10:05 PM :Milb  62
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350041.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.baseballamerica.com/wp-content/uploads/2023/09/New_MiLBLogo.png" group-title="MiLB  US",:Milb  63
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350042.m3u8
@@ -5016,7 +5122,7 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2116197.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2116203.m3u8
 
 # --- NBA Games US (2) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA Games US",Oklahoma City Thunder vs San Antonio Spurs :NBA  02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA Games US",:NBA  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1194510.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="NBA Games US",:NBA  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1194511.m3u8
@@ -6551,9 +6657,19 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1350717.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1920px-PBS_logo_2019.svg.png" group-title="PBS LOCAL US",WY | Riverton | PBS KCWC
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350617.m3u8
 
-# --- PDC UK (1) ---
+# --- PDC UK (6) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKlc9g5mefyJl_3BpKCdfdzvPauRz6uDFPQ&s" group-title="PDC UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2380082.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="PDC UK",13:00 2026 Players Championship 20 - Players Championship - Board 1 6/3 [PDC TV]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426175.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="PDC UK",13:00 2026 Players Championship 20 - Players Championship - Board 2 6/3 [PDC TV]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426174.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="PDC UK",13:00 2026 Players Championship 20 - Players Championship - Board 3 6/3 [PDC TV]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426173.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="PDC UK",13:00 2026 Players Championship 20 - Players Championship - Board 4 6/3 [PDC TV]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426172.m3u8
+#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c1d09c0-bc10-11f0-b726-e9ef4a128834.jpg" group-title="PDC UK",13:00 2026 Players Championship 20 - Players Championship Board 1 - German 6/3 [PDC TV]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426171.m3u8
 
 # --- PLEX US (501) ---
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b23f4f8eacf2433bf8ac6cf851477a97.png" group-title="PLEX US",4Emergency FHD US
@@ -7774,9 +7890,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1160475.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160476.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1tl0wnv6fkp8w1r6jv5hnizjts_image-header_pUs_1738116530000/fill/center/top/none/85/800/600/png/image" group-title="Peacock / DAZN US",US-DAZN 25
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Away Feed NYM at SEA @ Jun 2 21:30 PM :Peacock Event  01
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Away Feed BAL at BOS @ Jun 3 18:30 PM :Peacock Event  01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Home Feed NYM at SEA @ Jun 2 21:30 PM :Peacock Event  02
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Home Feed BAL at BOS @ Jun 3 18:30 PM :Peacock Event  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160435.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160436.m3u8
@@ -7813,11 +7929,13 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1160451.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  19
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160452.m3u8
 
-# --- Prime Sports DK (2) ---
+# --- Prime Sports DK (3) ---
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="Prime Sports DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1340807.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2e2a9015-5ac9-42f9-aec3-0fac40a8f3aa/5/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",19:30 Jun 2 - PTT Newport Beach [Amazon Prime DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2424881.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c41aa794-f8f3-4b03-aded-b31e77341df6/2/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",17:00 Jun 3 - PTT Philadelphia [Amazon Prime DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426186.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2a65dee-ef28-451a-991d-cc56530e8447/3/BOXART-16X9/en-US._UR1920%2C1080_.png" group-title="Prime Sports DK",19:30 Jun 3 - PTT Newport Beach [Amazon Prime DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426185.m3u8
 
 # --- PrimeVideo Series US (11) ---
 #EXTINF:-1 tvg-logo="https://iili.io/wajkCb.md.png" group-title="PrimeVideo Series US",PrimeVideo Serie info
@@ -8403,36 +8521,48 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2251847.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/WDAY-TV_2021.svg/200px-WDAY-TV_2021.svg.png" group-title="Sports US",WDAY FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2251811.m3u8
 
-# --- TV2 Sport DK (4) ---
+# --- TV2 Sport DK (10) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/527426.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/3d7e8f2b-82e6-3151-9276-cd1b839f5e7b.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",03:55 Badminton: Indonesia Open (Bane 1)  6/3 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2425747.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/c52e55b7-fd2a-311d-b0b2-06827145880b.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",03:55 Badminton: Indonesia Open (Bane 2)  6/3 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2425746.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/75ecb7f9-8561-3a9c-8114-54e61337207a.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=600" group-title="TV2 Sport DK",04:00 Badminton: Indonesia Open  6/3 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2425745.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/705690db-bda7-3e4a-b628-9a0e230fbb72.jpg?ar=16%3A9&auto=format&fit=crop&rect=869%2C26%2C1038%2C584&w=1200" group-title="TV2 Sport DK",18:50 Testkamp: Gibraltar-Britiske Jomfruøer  6/3 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426504.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/e2e2f2c0-c70d-35cf-9863-c5f8fbe67c78.jpg?ar=16%3A9&auto=format&fit=crop&rect=264%2C0%2C3576%2C2011&w=1200" group-title="TV2 Sport DK",19:10 Testkamp: DR Congo-Danmark  6/3 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426503.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/9ff67102-ce8f-3083-9bc9-f762838fb73b.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C91%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",19:50 Testkamp: Albanien-Israel  6/3 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426502.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/4ddbc47b-7c61-399a-8171-938fb8a05961.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C24%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",20:35 Testkamp: Polen-Nigeria  6/3 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426501.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/0ee5056a-95ba-322a-b9a5-c2fdf8cb84c3.jpg?ar=16%3A9&auto=format&fit=crop&rect=193%2C42%2C1479%2C832&w=1200" group-title="TV2 Sport DK",20:35 Testkamp: Luxembourg-Italien  6/3 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426500.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/039081ff-e012-3cb8-80cc-e530fdacf39e.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C141%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",20:40 Testkamp: Holland-Algeriet  6/3 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426499.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/086b1e89-8b76-37ac-8f7c-90795169459c.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",03:55 Badminton: Indonesia Open (bane 2)  6/4 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426498.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/2a2f77d3-0c50-3a6f-ac99-2218d6104e15.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",03:55 Badminton: Indonesia Open (bane 1)  6/4 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426497.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/3117e8ed-8946-33b5-b30e-2004d5cc0259.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",04:00 Badminton: Indonesia Open  6/4 [TV2 DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426496.m3u8
 
 # --- Tennis Channel Plus US (100) ---
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 01) |  ATP/WTA Birmingham: Fearnley_ Jacob _ Hijikata_ Rinky (2026-06-02 12:00:00)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 01) |  ATP/WTA Birmingham: Stojsavljevic_ Mika _ Kalieva_ Elvina (2026-06-03 09:30:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161036.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 02) |  ATP/WTA Birmingham: Pinnington Jones_ Jack _ Vukic_ Aleksandar (2026-06-02 13:10:00)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 02) |  ATP/WTA Birmingham: Maria_ Tatjana _ Fruhvirtova_ Linda (2026-06-03 10:40:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161037.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 03) |  ATP/WTA Birmingham: Zhang_ Zhizhen _ Virtanen_ Otto (2026-06-02 14:20:00)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 03) |  ATP/WTA Birmingham: Mcdonald_ Mackenzie _ Hijikata_ Rinky (2026-06-03 12:50:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161038.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 04) | TC Live | Live & On Demand: TC Live at Roland Garros 6/2 (2026-06-03 00:00:00)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 04) |  ATP/WTA Birmingham: Bolt_ Alex _ Fery_ Arthur (2026-06-03 14:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161039.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 05) |  (2098-12-31 13:00:01)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 05) | TC Live | Live & On Demand: TC Live at Roland Garros 6/3 (2026-06-04 00:00:00)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161040.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 06) |  (2098-12-31 13:00:02)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 06) |  (2098-12-31 13:00:01)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161041.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 07) |  (2098-12-31 13:00:03)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 07) |  (2098-12-31 13:00:02)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161042.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 08) |  (2098-12-31 13:00:04)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 08) |  (2098-12-31 13:00:03)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161043.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 09) |  (2098-12-31 13:00:05)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 09) |  (2098-12-31 13:00:04)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161044.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 10) |  (2098-12-31 13:00:06)
+#EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 10) |  (2098-12-31 13:00:05)
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161045.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",TC+ 11:
 http://45.139.122.199:8080/live/Susanne1/susanne1/1161046.m3u8
@@ -10427,30 +10557,44 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2121934.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg/revision/latest?cb=20200718174253" group-title="United States",YES Network US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2121935.m3u8
 
-# --- Viaplay Sport DK (4) ---
+# --- Viaplay Sport DK (11) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",02:05 Carolina - Vegas | NHL 6/3 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2424928.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",03:30 Diamondbacks - Dodgers | Major League Baseball 6/3 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2424927.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",07:00 Sport News | Viaplay Sport News 6/3 [Viaplay DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2424926.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",10:00 Watt the F1!? | Viaplay Sport News 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426535.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",12:00 NHL Tonight | NHL 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426534.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",13:00 Sport News | Viaplay Sport News 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426533.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Sport News | Viaplay Sport News 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426532.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Sport News | Viaplay Sport News 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426531.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Rays - Tigers | Major League Baseball 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426530.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/790/1020/logo_HandballBundesligaLive.png?width=320&height=320" group-title="Viaplay Sport DK",19:55 Magdeburg - Gummersbach | Bundesliga 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426529.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",01:00 Yankees - Guardians | Major League Baseball 6/3 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426528.m3u8
+#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/436/80/logo_ViaplaySNC.png?width=320&height=320" group-title="Viaplay Sport DK",07:00 Sport News | Viaplay Sport News 6/4 [Viaplay DK]
+http://45.139.122.199:8080/live/Susanne1/susanne1/2426527.m3u8
 
 # --- Viaplay Sport DK [B] (71) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Graver Liverpool bør ikke vælge Iraola @ Jun 2 7:00 AM :Viaplay DK  01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Liverpool enige med Iraola @ Jun 3 7:00 AM :Viaplay DK  01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132385.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",NHL Tonight @ Jun 2 12:00 PM :Viaplay DK  02
+#EXTINF:-1 tvg-logo="" group-title="Viaplay Sport DK [B]",Watt the F1!? @ Jun 3 10:00 AM :Viaplay DK  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132386.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sport News @ Jun 2 4:00 PM :Viaplay DK  03
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",NHL Tonight @ Jun 3 12:00 PM :Viaplay DK  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132387.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Live Pressemøde med landstræneren @ Jun 2 6:00 PM :Viaplay DK  04
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Sport News @ Jun 3 7:00 PM :Viaplay DK  04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132388.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Red Sox vs Orioles @ Jun 3 12:30 AM :Viaplay DK  05
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Rays vs Tigers @ Jun 3 7:00 PM :Viaplay DK  05
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132389.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Carolina vs Vegas @ Jun 3 2:05 AM :Viaplay DK  06
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Magdeburg vs Gummersbach @ Jun 3 7:55 PM :Viaplay DK  06
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132390.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Diamondbacks vs Dodgers @ Jun 3 3:30 AM :Viaplay DK  07
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",Yankees vs Guardians @ Jun 4 1:00 AM :Viaplay DK  07
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132391.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png" group-title="Viaplay Sport DK [B]",:Viaplay DK  08
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132392.m3u8
@@ -10582,13 +10726,13 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1132454.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1132455.m3u8
 
 # --- WNBA US (15) ---
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",Atlanta Dream vs Connecticut Sun @ Jun 2 19:30 :WNBA  01
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",New York Liberty vs Toronto Tempo @ Jun 3 19:30 :WNBA  01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351589.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",Washington Mystics vs Chicago Sky @ Jun 2 19:30 :WNBA  02
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",Seattle Storm vs Phoenix Mercury  @ Jun 3 22:00 :WNBA  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351590.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",Golden State Valkyries vs Portland Fire @ Jun 2 22:00 :WNBA  03
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",:WNBA  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351591.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",Los Angeles Sparks vs Las Vegas Aces @ Jun 2 22:00 :WNBA  04
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",:WNBA  04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351592.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/926ef0e8c42a7dfadd366facbaba5688.png" group-title="WNBA US",:WNBA  05
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351593.m3u8
@@ -10809,4 +10953,4 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1835487.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="World Football Events",USA | MLS 14ⓧ: LA Galaxy vs New York City | Sun 22nd Feb 7:00PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835488.m3u8
 
-# Total: 5295
+# Total: 5367

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-06-03 08:59:26
+# Generated: 2026-06-03 22:22:42
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -1437,7 +1437,9 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2160326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="Movies | Kids Movies",Ternet Ninja 2 [DK] [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/135645.mkv
 
-# --- Movies | Old Popular Movies [Multi-Sub] (7638) ---
+# --- Movies | Old Popular Movies [Multi-Sub] (7639) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Xn0CBDAGADHc62MEGmFYcbhU1E.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Surf Ninjas [1993]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2426362.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXvAlIo4DPLBiraC2KLu4977Wo2.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",The Battle at Lake Changjin [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2409333.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6qWcpqRfUEFrbKdDvB7tg7h1oXz.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Madea's Big Happy Family [2011]
@@ -28363,4 +28365,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 14167
+# Total: 14168

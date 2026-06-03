@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-06-03 08:55:44
+# Generated: 2026-06-03 22:20:37
 # Expires: 2026-08-10
 # Family Safe Edition
 # ==============================================
@@ -5104,6 +5104,10 @@ http://lunar.pm:8080/live/Stephanie/time44/133500.m3u8
 http://lunar.pm:8080/live/Stephanie/time44/133501.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a3ace6d8be7c4c3bd522a2cc40f820ea.png" group-title="F-1 (LIVE FOR EVENTS ONLY)",F1 TV: 23 | Alex Albon | Williams
 http://lunar.pm:8080/live/Stephanie/time44/133502.m3u8
+
+# --- FIFA 2026 (1) ---
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/fifa26-guide.png" group-title="FIFA 2026",***FIFA 2026 Channel Guide***
+http://lunar.pm:8080/live/Stephanie/time44/134555.m3u8
 
 # --- Finland (54) ---
 #EXTINF:-1 tvg-logo="s:1:/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIfhKRjD24bXut1HnSpTAW7.png" group-title="Finland",FI: C MORE FIRST
@@ -11351,4 +11355,4 @@ http://lunar.pm:8080/live/Stephanie/time44/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Stephanie/time44/120491.m3u8
 
-# Total: 5605
+# Total: 5606

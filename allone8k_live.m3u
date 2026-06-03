@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-03 08:59:54
+# Generated: 2026-06-03 22:33:38
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -9503,32 +9503,6 @@ http://allone8k.info:8080/live/hany/hany1234/453918.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/dk.png" group-title="DK | SCANDINAV",DK: Eurosport 1 FHD
 http://allone8k.info:8080/live/hany/hany1234/453919.m3u8
 
-# --- ED: ☆ عيد مبارك ☆ (12) ---
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: اغاني العيد
-http://allone8k.info:8080/live/hany/hany1234/502515.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: افلام العيد 1
-http://allone8k.info:8080/live/hany/hany1234/649905.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: افلام العيد 2
-http://allone8k.info:8080/live/hany/hany1234/503051.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: افلام العيد 3
-http://allone8k.info:8080/live/hany/hany1234/503052.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: افلام العيد 4
-http://allone8k.info:8080/live/hany/hany1234/503053.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: افلام العيد 5
-http://allone8k.info:8080/live/hany/hany1234/503054.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: افلام العيد 6
-http://allone8k.info:8080/live/hany/hany1234/503055.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: مسرحيات العيد
-http://allone8k.info:8080/live/hany/hany1234/503090.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: تكبيرات العيد 1
-http://allone8k.info:8080/live/hany/hany1234/502723.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: تكبيرات العيد 2
-http://allone8k.info:8080/live/hany/hany1234/520252.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: تكبيرات العيد 3
-http://allone8k.info:8080/live/hany/hany1234/520254.m3u8
-#EXTINF:-1 tvg-logo="https://img12.pixhost.to/images/1265/581362033_eid.png" group-title="ED: ☆ عيد مبارك ☆",EID: تكبيرات العيد 4
-http://allone8k.info:8080/live/hany/hany1234/520256.m3u8
-
 # --- EN | AMAZON PRIME ORIGINALS 4K (20) ---
 #EXTINF:-1 tvg-logo="" group-title="EN | AMAZON PRIME ORIGINALS 4K",Amazon Prime EN Audio  - 1
 http://allone8k.info:8080/live/hany/hany1234/639659.m3u8
@@ -18309,7 +18283,7 @@ http://allone8k.info:8080/live/hany/hany1234/650315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[AR] LEBANON 4K_HD",Sawt Alhoda
 http://allone8k.info:8080/live/hany/hany1234/650316.m3u8
 
-# --- كأس العالم FIFA World Cup 2026™ (26) ---
+# --- كأس العالم FIFA World Cup 2026™ (27) ---
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (SS)
 http://allone8k.info:8080/live/hany/hany1234/314992.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX 1 (F)
@@ -18334,6 +18308,8 @@ http://allone8k.info:8080/live/hany/hany1234/314991.m3u8
 http://allone8k.info:8080/live/hany/hany1234/314994.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2021/02/NEW_beIN-SPORTS-MAX-06.png" group-title="كأس العالم FIFA World Cup 2026™",beIN SPORTS MAX FR 6 (F)
 http://allone8k.info:8080/live/hany/hany1234/314995.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ AR
+http://allone8k.info:8080/live/hany/hany1234/656986.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ MA
 http://allone8k.info:8080/live/hany/hany1234/619074.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  FR
@@ -18342,8 +18318,10 @@ http://allone8k.info:8080/live/hany/hany1234/618319.m3u8
 http://allone8k.info:8080/live/hany/hany1234/619068.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ ES
 http://allone8k.info:8080/live/hany/hany1234/619070.m3u8
-#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  PT
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  ES
 http://allone8k.info:8080/live/hany/hany1234/618318.m3u8
+#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™  ES
+http://allone8k.info:8080/live/hany/hany1234/639394.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ PT
 http://allone8k.info:8080/live/hany/hany1234/619069.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ NL
@@ -18356,11 +18334,9 @@ http://allone8k.info:8080/live/hany/hany1234/619072.m3u8
 http://allone8k.info:8080/live/hany/hany1234/618317.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ US
 http://allone8k.info:8080/live/hany/hany1234/619076.m3u8
-#EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ LT
-http://allone8k.info:8080/live/hany/hany1234/639394.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ CA
 http://allone8k.info:8080/live/hany/hany1234/618315.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ CH
 http://allone8k.info:8080/live/hany/hany1234/618316.m3u8
 
-# Total: 8970
+# Total: 8959

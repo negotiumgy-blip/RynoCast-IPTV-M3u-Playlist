@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-03 08:56:55
+# Generated: 2026-06-03 22:27:22
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1579,27 +1579,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (99) ---
+# --- DE-DAZN EVENT (90) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ey2ugm65lyg6kl52quxhnlg0i_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | Viertelfinale 1 & 2 (2026-06-02 10:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184534.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d8u8f89ys3wtcxzeii39u2yvd_image-header_pDach_1779115633000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kroatien - Belgien (2026-06-02 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184535.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xhph611uvrtt1fjvtysuowt9l_image-header_pDach_1779808761000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Djoliba AC vs. Binga FC (2026-06-02 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184536.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/notw2w32amum1qgg6714qpj0t_image-header_pDach_1779808816000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Afrique Football Elite vs. FC Diarra (2026-06-02 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184537.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bsvhr1i5e6o1c5tqcv2d1zify_image-header_pDach_1778415345000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Georgien - Rumänien (2026-06-02 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184538.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a75lv9xpivuns8cpams2e6knp_image-header_pDach_1780307927000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Paris - Cholet | Halbfinale (Spiel 1) (2026-06-02 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184539.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/604m3gnv5y1ozco5i8hlj18em_image-header_pDach_1779894720000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wales - Ghana (2026-06-02 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184540.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/35p7c4zqzghn1naxtajjli6ci_image-header_pDach_1778671600000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pointe Michel FC vs. Middleham United FC (2026-06-03 01:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184541.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mf78yz5pieeu13ek9til6xsjt_image-header_pDach_1778732638000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC San Nicolas vs. Real Koyari (2026-06-03 02:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184542.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8k4k7m2lfpnyyi748bqub5hju_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | Viertelfinale 3 & 4 (2026-06-03 10:45:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184543.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18g4o8h44aoh11f64l1f4ihln1_image-header_pDach_1779183059000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS FAN vs. AS Police (2026-06-03 17:45:00)
@@ -6831,4 +6813,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3355
+# Total: 3346

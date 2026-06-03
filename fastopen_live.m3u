@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-06-03 09:02:43
+# Generated: 2026-06-03 22:28:56
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -9291,7 +9291,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105921.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",V Sport Urheilu HD FI
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105920.m3u8
 
-# --- France (398) ---
+# --- France (393) ---
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/mtvmusicfr.png" group-title="France",MTV Music FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4058.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/france.png" group-title="France",##########   France   ##########
@@ -9504,25 +9504,25 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4087.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/7536.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsportsmax8hd.png" group-title="France",beIN SPORTS MAX 8 HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/7537.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 1
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 1
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 2
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 2
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122865.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 3
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 3
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122864.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 4
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 4
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122863.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 5
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 5
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122862.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 6
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 6
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122861.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 7
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 7
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122860.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 9
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 9
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",DAZN FR | Event 10
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN FR | Event 10
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/122857.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/equidia.png" group-title="France",Equidia HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1402.m3u8
@@ -9676,7 +9676,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/83212.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/83571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",WARNER TV HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/83572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",CGTN Français FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/cgtnfr.png" group-title="France",CGTN Français FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/83573.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",MEZZO FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/89977.m3u8
@@ -9690,21 +9690,15 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/89987.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/89988.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",Clubbing TV FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/89989.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Dazn 1 FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN 1 FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118779.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Dazn 1 FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/dazn.png" group-title="France",DAZN 1 HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118778.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",01TV FHD FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118777.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",TV Tours FHD FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118776.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",TV2Com FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",TV8 Moselle EST FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv8moselle.png" group-title="France",TV8 Moselle Est FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",TV78 FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tv78.png" group-title="France",TV78 FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Men's UP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/mensuptv.png" group-title="France",Men's Up FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",Zouk TV FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118810.m3u8
@@ -9740,27 +9734,27 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118795.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118794.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",MAISON & TRAVAUX TV FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Imearth FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/imearth.png" group-title="France",Imearth FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Homicide FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/homicide.png" group-title="France",Homicide FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Genration FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/generationstv.png" group-title="France",Generations TV FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Drive In Movie Channel FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/rugbyzone.tv.png" group-title="France",RugbyZone.TV FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Cine Western FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/cinepluswestern.png" group-title="France",Ciné+ Western FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118788.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",Cine Nanar FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/cineplusnanar.png" group-title="France",Ciné+ Nanar FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118786.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",CGTN HD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/cgtnfr.png" group-title="France",CGTN Français FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118785.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",BIP TV FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/biptv.png" group-title="France",Bip TV FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118784.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",SQOOL FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/sqooltv.png" group-title="France",SQOOL TV FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118783.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",MGG FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/mggtv.png" group-title="France",MGG TV FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118782.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",TV PITCHOUN FHD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tvpitchoun.png" group-title="France",TV Pitchoun FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/118780.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",ES1 FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/89991.m3u8
@@ -9952,25 +9946,21 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/8905.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/15987.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/tf1seriesfilms.png" group-title="France",TF1 Séries Films HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/15983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 1 VIP FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96053.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 2 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 2 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96052.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 3 VIP FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96051.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 4 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 4 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96050.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 5 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 5 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96049.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 6 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 6 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96048.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 7 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 7 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96047.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 8 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 8 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96046.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 9 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 9 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96045.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",A la Carte 10 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 10 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CINE+ FAMIZ HD VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96031.m3u8
@@ -19842,7 +19832,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/901.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/858.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/fightboxhd.png" group-title="Poland",Fightbox PL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/6877.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nsportplus.png" group-title="Poland",nSport+ FHD PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nsportplus.png" group-title="Poland",Sportowa.TV FHD PL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/842.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/sportklub.png" group-title="Poland",Sport Klub FHD PL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4539.m3u8
@@ -31657,4 +31647,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15720
+# Total: 15715

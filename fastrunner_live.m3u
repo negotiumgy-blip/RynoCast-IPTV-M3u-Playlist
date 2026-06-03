@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastrunner.live:8080
-# Generated: 2026-06-03 09:02:41
+# Generated: 2026-06-03 22:27:45
 # Expires: 2026-06-11
 # Family Safe Edition
 # ==============================================
@@ -682,7 +682,7 @@ http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/901.m3u8
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/858.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/fightboxhd.png" group-title="Poland",Fightbox PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/6877.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nsportplus.png" group-title="Poland",nSport+ FHD PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/nsportplus.png" group-title="Poland",Sportowa.TV FHD PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/842.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/sportklub.png" group-title="Poland",Sport Klub FHD PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/4539.m3u8

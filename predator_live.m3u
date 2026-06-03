@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-06-03 08:55:59
+# Generated: 2026-06-03 22:20:34
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -8709,17 +8709,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (155) ---
+# --- World Sports (151) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Friendlies  çeki vs Kosova  RTK
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Friendlies çeki vs Kosova SS-2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL PSG vs ARSENAL   Dazn DE
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: UCL PSG vs ARSENAL  Sky ita
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85858.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -9021,4 +9013,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4480
+# Total: 4476
