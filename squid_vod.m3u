@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-02 22:16:48
+# Generated: 2026-06-03 08:54:46
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -17185,6 +17185,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/558.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Gabby's Dollhouse",Gabby's Dollhouse (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/954.mp4
 
+# --- Movies | Gachiakuta (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Gachiakuta",Gachiakuta (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1285.mp4
+
 # --- Movies | Gaddar - Nemilosul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Gaddar - Nemilosul",Gaddar (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1024.mp4
@@ -17513,6 +17517,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1223.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Homeland",Homeland (2011)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1137.mp4
 
+# --- Movies | Hope Valley 1874 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Hope Valley 1874",Hope Valley: 1874 (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1287.mp4
+
 # --- Movies | House M.D. (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | House M.D.",House
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/180.mp4
@@ -17576,6 +17584,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/337.mp4
 # --- Movies | Humans (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Humans",Humans
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/632.mp4
+
+# --- Movies | Hunter x Hunter (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Hunter x Hunter",Hunter x Hunter (2011)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1289.mp4
 
 # --- Movies | I Am Georgina (Reality) (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | I Am Georgina (Reality)",I Am Georgina
@@ -19235,6 +19247,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1122.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Special Ops Lioness",Special Ops: Lioness
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/500.mp4
 
+# --- Movies | Spider-Noir (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Spider-Noir",Spider-Noir (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1288.mp4
+
 # --- Movies | Spitalul de Dementa (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Spitalul de Dementa",Spitalul de Dementa
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/750.mp4
@@ -20089,6 +20105,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1058.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Terror",The Terror (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1246.mp4
 
+# --- Movies | The Testaments (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Testaments",The Testaments (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1290.mp4
+
 # --- Movies | The Thorn Birds (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Thorn Birds",The Thorn Birds (1983)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1037.mp4
@@ -20721,4 +20741,8 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9049
+# --- Series | Malibu Rescue The Series (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
+http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
+
+# Total: 9055

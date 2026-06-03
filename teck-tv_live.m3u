@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-06-02 22:19:05
+# Generated: 2026-06-03 08:55:31
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -15321,7 +15321,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1278621.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 70 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278622.m3u8
 
-# --- AM | USA | MLB (54) ---
+# --- AM | USA | MLB (52) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | MLB",#### MLB PPV ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/79689.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB NETWORK HD
@@ -15336,35 +15336,31 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/302488.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388877.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - THE MLB CHANNEL HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388886.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 : DETROIT TIGERS @ TAMPA BAY RAYS JUN 1 – 07:40 PM ET / 12:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 : TIGERS @ RAYS JUN 02 – 07:40 PM ET / 12:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233018.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 : MIAMI MARLINS @ WASHINGTON NATIONALS JUN 1 – 07:45 PM ET / 12:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 : PADRES @ PHILLIES JUN 02 – 07:40 PM ET / 12:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233019.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 : KANSAS CITY ROYALS @ CINCINNATI REDS JUN 1 – 08:10 PM ET / 01:10 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 : ORIOLES @ RED SOX JUN 02 – 07:45 PM ET / 12:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233020.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 : CHICAGO WHITE SOX @ MINNESOTA TWINS JUN 1 – 08:40 PM ET / 01:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 : MARLINS @ NATIONALS JUN 02 – 07:45 PM ET / 12:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233021.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 : SAN FRANCISCO GIANTS @ MILWAUKEE BREWERS JUN 1 – 08:40 PM ET / 01:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 : GUARDIANS @ YANKEES JUN 02 – 08:05 PM ET / 01:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232804.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 06 : TEXAS RANGERS @ ST. LOUIS CARDINALS JUN 1 – 08:45 PM ET / 01:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 06 : ROYALS @ REDS JUN 02 – 08:10 PM ET / 01:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233022.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 07 : COLORADO ROCKIES @ LOS ANGELES ANGELS JUN 1 – 10:38 PM ET / 03:38 AM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/232803.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 08 : LOS ANGELES DODGERS @ ARIZONA DIAMONDBACKS JUN 1 – 10:40 PM ET / 03:40 AM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/232801.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 09 : NEW YORK METS @ SEATTLE MARINERS JUN 1 – 10:40 PM ET / 03:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 09 : GIANTS @ BREWERS JUN 02 – 08:40 PM ET / 01:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232807.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 : RANGERS @ CARDINALS JUN 02 – 08:45 PM ET / 01:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232806.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 : ATHLETICS @ CUBS JUN 02 – 09:05 PM ET / 02:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232802.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 : PIRATES @ ASTROS JUN 02 – 09:10 PM ET / 02:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233023.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 13 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 13 : ROCKIES @ ANGELS JUN 02 – 10:38 PM ET / 03:38 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233024.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 : DODGERS @ D-BACKS JUN 02 – 10:40 PM ET / 03:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233025.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 15 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 15 : METS @ MARINERS JUN 02 – 10:40 PM ET / 03:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232808.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 16 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/236409.m3u8
@@ -17668,7 +17664,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/71866.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/83135.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="AM | USA | PREMIUM",US - HBO SIGNATURE HD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/71865.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PREMIUM",US - PARAMOUNT+ WITH SHOWTIME EAST FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PREMIUM",US - PARAMOUNT+ WITH SHOWTIME EAST FHD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/1427912.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/para.png" group-title="AM | USA | PREMIUM",US - PARAMOUNT+ WITH SHOWTIME WEST FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1427913.m3u8
@@ -29087,7 +29083,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1272282.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/GOLDEN-RELAX589.png" group-title="VIP | 4 GOLDEN RELAX",RX - RELAX TROPICAL BEACH 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/1272283.m3u8
 
-# --- VIP | 4K ULTRA HD (61) ---
+# --- VIP | 4K ULTRA HD (62) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/VIP_logo.png" group-title="VIP | 4K ULTRA HD",##### 4K SPORTS CHANNELS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1299328.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - ELEVEN SPORTS 4K
@@ -29102,6 +29098,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1281430.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1417564.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - SPORTSNET ONE 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/1417565.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - TSN WEST 4K
+http://teck-tv.com/live/2605201443100597/C655BF416768/1431827.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - SKY SPORT 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/1281068.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - SKY SPORTS 1 4K
@@ -30721,4 +30719,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/317165.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/317166.m3u8
 
-# Total: 15182
+# Total: 15181

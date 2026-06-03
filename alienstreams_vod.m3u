@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-06-02 22:05:04
+# Generated: 2026-06-03 09:00:18
 # Expires: 2027-03-22
 # Family Safe Edition
 # ==============================================
@@ -19346,6 +19346,8 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/405122
 http://alienstreams.fi:8080/series/hellhell/hellhell/403526
 
 # --- Series | Svenska Serier [Series] (306) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Welcome to Sweden
+http://alienstreams.fi:8080/series/hellhell/hellhell/501508
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Ex on the Beach Sverige
 http://alienstreams.fi:8080/series/hellhell/hellhell/499974
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husjakt i Solen
@@ -19360,8 +19362,6 @@ http://alienstreams.fi:8080/series/hellhell/hellhell/499469
 http://alienstreams.fi:8080/series/hellhell/hellhell/403381
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Ondskan
 http://alienstreams.fi:8080/series/hellhell/hellhell/501469
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Welcome to Sweden
-http://alienstreams.fi:8080/series/hellhell/hellhell/501455
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gift vid första ögonkastet
 http://alienstreams.fi:8080/series/hellhell/hellhell/487947
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson

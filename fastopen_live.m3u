@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-06-02 22:12:09
+# Generated: 2026-06-03 09:02:43
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -9291,7 +9291,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105921.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",V Sport Urheilu HD FI
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105920.m3u8
 
-# --- France (401) ---
+# --- France (398) ---
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/mtvmusicfr.png" group-title="France",MTV Music FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4058.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/france.png" group-title="France",##########   France   ##########
@@ -9318,7 +9318,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/435.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/434.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/m6fr.png" group-title="France",M6 FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/431.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/m6hdfr.png" group-title="France",M6 HD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/m6fr.png" group-title="France",M6 HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/432.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/syfyfr.png" group-title="France",Syfy FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1447.m3u8
@@ -9480,8 +9480,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4057.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4059.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/traceurbanfr.png" group-title="France",Trace Urban FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4075.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsports1fr.png" group-title="France",beIN SPORTS 1 FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/417.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsports1fr.png" group-title="France",beIN SPORTS 1 SD+ FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/7538.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsports1hdfr.png" group-title="France",beIN SPORTS 1 HD FR
@@ -9494,8 +9492,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/416.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/413.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsports3hdfr.png" group-title="France",beIN SPORTS 3 HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",beIN Sports 4K Ultra (BackUP) FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110712.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsportsmax4hdfr.png" group-title="France",beIN SPORTS MAX 4 HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4090.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsportsmax5hdfr.png" group-title="France",beIN SPORTS MAX 5 HD FR
@@ -9538,6 +9534,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/105425.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1389.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport2fr.png" group-title="France",Eurosport 2 HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1388.m3u8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/eurosport1hd.png" group-title="France",Eurosport 1 4K Ultra FR
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110713.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/golfplushd.png" group-title="France",GOLF+ HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/8786.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/infosportplusfr.png" group-title="France",InfoSport+ HD FR
@@ -10086,14 +10084,10 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/15966.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/80161.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",TRACE LATINA HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/80169.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",M6 4K Ultra FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/m6hd.png" group-title="France",M6 4K Ultra FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",TF1 4K Ultra FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/tf1.png" group-title="France",TF1 4K Ultra FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110708.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",beIN Sports 4K Ultra FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",beIN Sports 1 4K Ultra FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/110701.m3u8
 
 # --- France HEVC (90) ---
 #EXTINF:-1 tvg-logo="" group-title="France HEVC",MCM HEVC FR
@@ -31663,4 +31657,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15723
+# Total: 15720

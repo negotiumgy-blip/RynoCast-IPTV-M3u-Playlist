@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-06-02 22:12:03
+# Generated: 2026-06-03 08:59:52
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -3739,7 +3739,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/636075.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10009.png?ver=39266" group-title="AR| IRAQ 4K ▶ العراق",AR: Fursan Al Iraq
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/498894.m3u8
 
-# --- AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي (37) ---
+# --- AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي (38) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/359.jpg" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Al Naeem HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4319.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/398.jpg" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Al Awhad HD
@@ -3808,10 +3808,12 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/498898.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/4339.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/143.jpg" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Al Forat
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3199.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/141.png" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Al Ghadeer TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3233.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12928.jfif?53948" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: OM-AlBaneen TV
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2017934.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/187.jpg" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Iraq Future TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3207.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/141.png" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Al Ghadeer TV
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/3233.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9351.png?10326" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Safeer TV 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/669064.m3u8
 
@@ -18091,4 +18093,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8795
+# Total: 8796
