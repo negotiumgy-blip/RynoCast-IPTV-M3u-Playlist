@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-06-03 22:20:59
+# Generated: 2026-06-04 08:54:16
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -7381,7 +7381,7 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/302.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURSKE SERIJE",Gülperi (TV Series 2018-2019)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/304.mp4
 
-# --- Movies | VIDEOTEKA (4260) ---
+# --- Movies | VIDEOTEKA (4262) ---
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYjAzMzQxNmUtYmIzNy00MWYzLWJmMTAtOTI5OTg0OGRjN2MxXkEyXkFqcGc%40._V1__SX500&f=1&h=500" group-title="Movies | VIDEOTEKA",Slatka Simona 2024 #df
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/57867.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Prisoner_of_War_%282025_film%29_poster.jpg/250px-Prisoner_of_War_%282025_film%29_poster.jpg" group-title="Movies | VIDEOTEKA",Prisoner of War 2025 #sf
@@ -15902,6 +15902,10 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65456.mp4
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65539.mp4
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/UFazGHtNHvmDMyeI6JIGvbgrdLQ=/206x305/v2/https://resizing.flixster.com/YCspB4Ik470ap3C3FG6Cc_ew8v8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBjMTVkOTM4LTI2ZDAtNDdjMS1iNzkxLWU2NzQ1YjU1YjlmMy5qcGc=" group-title="Movies | VIDEOTEKA",Case.137.2025 #sf
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65540.mp4
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/HFCzDQJJ1Oi54_1WzkO7qv1Xcl8=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29629757_p_v8_aa.jpg" group-title="Movies | VIDEOTEKA",Kalevala Kullervon tarina 2026 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65542.mkv
+#EXTINF:-1 tvg-logo="https://resizing.flixster.com/vYOuQi-szkwXqIPziWYBko-r5Ss=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32423306_v_v8_aa.jpg" group-title="Movies | VIDEOTEKA",Strangers in the Park 2026 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65543.mkv
 
 # --- Movies | WESTERN FILMOVI (176) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | WESTERN FILMOVI",Western Union 1941 |wst
@@ -16257,4 +16261,4 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40524.mkv
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/8b4d7c7d.jpg" group-title="Movies | WESTERN FILMOVI",The Power of the Dog 2021 |wst
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40523.mkv
 
-# Total: 8114
+# Total: 8116

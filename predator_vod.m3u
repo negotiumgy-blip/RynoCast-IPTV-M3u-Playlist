@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-06-03 22:20:34
+# Generated: 2026-06-04 08:59:18
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -339,9 +339,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1139) ---
+# --- Movies | Filma me titra Shqip (1140) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg" group-title="Movies | Filma me titra Shqip",In the Grey (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85881.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huKckuD90OblEHH8MYfekHvCPfp.jpg" group-title="Movies | Filma me titra Shqip",Fuze (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85718.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jEVBMKeLbOkp1wEKrpSItFJuul.jpg" group-title="Movies | Filma me titra Shqip",Over Your Dead Body (2026)
@@ -6409,7 +6411,7 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85705.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjcPbV53ovhlogVFYdmkTDBooqg.jpg" group-title="Movies | Vod de",A Marvel Television Special Presentation - The Punisher: One Last Kill (2026) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85514.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hJdqwEDES96CRZCaiOVuqWLJFX.jpg" group-title="Movies | Vod de",Der Astronaut – Project Hail Mary (2026)
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85472.mkv
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85472.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqLU7RryfNffMPXQwJFghqzAYa9.jpg" group-title="Movies | Vod de",Thrash (2026) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/85471.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HqXgrCDKLNX9Wxs5ZhsJx6fgoe.jpg" group-title="Movies | Vod de",Peaky Blinders – The Immortal Man (2026)
@@ -9129,4 +9131,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4552
+# Total: 4553

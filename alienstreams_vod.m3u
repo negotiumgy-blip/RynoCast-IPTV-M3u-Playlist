@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-06-03 22:20:48
+# Generated: 2026-06-04 08:49:55
 # Expires: 2026-12-27
 # Family Safe Edition
 # ==============================================
@@ -43,7 +43,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/382977.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPTGh2OXuIv6d7cwuoPkw8govp.jpg" group-title="Movies | 4K [VOD]",A Minecraft Movie
 http://alienstreams.fi:8080/movie/nicknick/nicknick/398367.mkv
 
-# --- Movies | Action [VOD] (1019) ---
+# --- Movies | Action [VOD] (1020) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nl6GQZCjr2Ln5gkYzFXRIvWEdH.jpg" group-title="Movies | Action [VOD]",Doom
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328061.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdBUjfbdr1ymS0kycAT7qguOmWA.jpg" group-title="Movies | Action [VOD]",One Fast Move
@@ -2082,6 +2082,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/501281.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg" group-title="Movies | Action [VOD]",The Lego Ninjago Movie (2017)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501475.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/eKdz5i9gbzJthAxUZBBj5SVbzKR.jpg" group-title="Movies | Action [VOD]",Heist (2015)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/501570.mkv
 
 # --- Movies | Adventure [VOD] (278) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg" group-title="Movies | Adventure [VOD]",Pocahontas
@@ -5817,7 +5819,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/500310.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cDkoUFDMOUrD7TPqF1YMkiAelOx.jpg" group-title="Movies | Danish [VOD]",Børnene fra Sølvgade
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501021.mkv
 
-# --- Movies | Documentaries [VOD] (460) ---
+# --- Movies | Documentaries [VOD] (461) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dF54PxZjeuN2vJb11VQBSPfVFgP.jpg" group-title="Movies | Documentaries [VOD]",The Mountain Within Me
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLMT7t4DG6SdnQxdc5XBgN6CGY4.jpg" group-title="Movies | Documentaries [VOD]",Untold: Hope Solo vs. U.S. Soccer
@@ -6738,8 +6740,10 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/500833.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501158.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DCbJY2POpmVnQ8wXBGT1tKrUQL.jpg" group-title="Movies | Documentaries [VOD]",Filmen om Siw
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501205.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/veskdPx4YUTmkrFrTs6zRJ8VV4E.jpg" group-title="Movies | Documentaries [VOD]",The Crash (2026)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/501578.mkv
 
-# --- Movies | Drama [VOD] (970) ---
+# --- Movies | Drama [VOD] (971) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc24joXS49iMQR648GwDRKt6fh8.jpg" group-title="Movies | Drama [VOD]",Mitt liv som hund
 http://alienstreams.fi:8080/movie/nicknick/nicknick/260102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="Movies | Drama [VOD]",Luckiest Girl Alive
@@ -8538,10 +8542,10 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/494508.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/494510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/y5EyBB1FIjDAtsIgwNuxEC9caVF.jpg" group-title="Movies | Drama [VOD]",The Swedish Connection (2026)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/494807.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
-http://alienstreams.fi:8080/movie/nicknick/nicknick/494856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/tt9pBPoXjFu36rPqObwrgkYCY3t.jpg" group-title="Movies | Drama [VOD]",Welcome to the Rileys (2010)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/494855.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/8DPGG400FgaFWaqcv11n8mRd2NG.jpg" group-title="Movies | Drama [VOD]",Spotlight (2015)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/494856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movies | Drama [VOD]",47 Ronin (2013)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/495081.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/mMA1qhBFgZX8O36qPPTC016kQl1.jpg" group-title="Movies | Drama [VOD]",War for the Planet of the Apes (2017)
@@ -8680,6 +8684,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/501253.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501323.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2HJ9Q9fygrbin9HYQ0iXkKhazj5.jpg" group-title="Movies | Drama [VOD]",Grannfejden
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501433.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/85EYON4oXVYTPdMuW5q5ELQLU88.jpg" group-title="Movies | Drama [VOD]",The Wizard of the Kremlin (2026)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/501573.mkv
 
 # --- Movies | Falk  [VOD] (5) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el0EbbBsh8zWKYiiuANQxznELr5.jpg" group-title="Movies | Falk  [VOD]",Johan Falk 06: De fredlösa
@@ -9133,7 +9139,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/500419.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | History [VOD]",Hitler's Entourage
 http://alienstreams.fi:8080/movie/nicknick/nicknick/481997.mp4
 
-# --- Movies | Horror [VOD] (569) ---
+# --- Movies | Horror [VOD] (570) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7rep7SCqiy4COUsq2cOcdQwzU0.jpg" group-title="Movies | Horror [VOD]",Wishmaster
 http://alienstreams.fi:8080/movie/nicknick/nicknick/328060.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg" group-title="Movies | Horror [VOD]",Imaginary
@@ -10272,6 +10278,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/501161.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501280.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ydsLYdSiPSIL1LOWWYu7VCvDTT8.jpg" group-title="Movies | Horror [VOD]",The Loved Ones (2010)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501324.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg" group-title="Movies | Horror [VOD]",Hellraiser (2022)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/501572.mkv
 
 # --- Movies | Irene Huss [VOD] (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Quwa6xntlw5kOfo5PZvBSctKb9.jpg" group-title="Movies | Irene Huss [VOD]",Irene Huss 2: Den krossade tanghästen
@@ -10727,7 +10735,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/489797.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nHHrZkTVFGveqxIFeTY6yWnQ1iT.jpg" group-title="Movies | Julfilmer [VOD]",Snekker Andersen og Julenissen - Den vesle bygda som glømte at det var jul (2019)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/489808.mkv
 
-# --- Movies | Kids [VOD] (248) ---
+# --- Movies | Kids [VOD] (249) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olOdJplnhgCdaStB0qXJyONRp0q.jpg" group-title="Movies | Kids [VOD]",Rabbit Academy
 http://alienstreams.fi:8080/movie/nicknick/nicknick/258018.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn5azMHukX8JD5uuld5imTjecA8.jpg" group-title="Movies | Kids [VOD]",Nicke Nyfiken 3 - Tillbaka till djungeln
@@ -11224,6 +11232,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/501476.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501477.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9Yq33EXs9YpgrwGXJlJL73OTpt1.jpg" group-title="Movies | Kids [VOD]",Barbie: Star Light Adventure (2016)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501478.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/4iHnGlmOjAj2k5zUftYDIzSITCf.jpg" group-title="Movies | Kids [VOD]",The Nut Job (2014)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/501576.mkv
 
 # --- Movies | Music [VOD] (74) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/co1vNGvNa8iCt249FZ4ZKN96NXv.jpg" group-title="Movies | Music [VOD]",Beck 49 - Inferno
@@ -11611,7 +11621,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/404251.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Needssorting",Kylie Kwong: Heart and Soul
 http://alienstreams.fi:8080/movie/nicknick/nicknick/404396.mp4
 
-# --- Movies | Norwegian [VOD] (90) ---
+# --- Movies | Norwegian [VOD] (91) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypvirp46oqO5ZkeUdxeTgbO4Uv8.jpg" group-title="Movies | Norwegian [VOD]",Krigsvarsleren
 http://alienstreams.fi:8080/movie/nicknick/nicknick/329436.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XlHOx0JQNgYjuJ4YQKbrt4Gd4d.jpg" group-title="Movies | Norwegian [VOD]",Handling the Undead
@@ -11792,6 +11802,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/498387.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/498388.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5BpDO9gb5Slt2fklDaNH0Jxq91J.jpg" group-title="Movies | Norwegian [VOD]",Jentetur (2022)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/501014.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/9TTMqr3n3qIbZXLlrPmE1VAncI5.jpg" group-title="Movies | Norwegian [VOD]",Team Havnaa (2024)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/501577.mkv
 
 # --- Movies | Romance (VOD) (145) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CbJ3HTb6SFbMeguYH52UQSHOwY.jpg" group-title="Movies | Romance (VOD)",Safe Haven
@@ -12085,7 +12097,7 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/402031.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrAYdezO3h1mjdYTaQyTXoj8IZ4.jpg" group-title="Movies | Romance (VOD)",The Perfect Date
 http://alienstreams.fi:8080/movie/nicknick/nicknick/402718.mkv
 
-# --- Movies | Romantic [VOD] (85) ---
+# --- Movies | Romantic [VOD] (86) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg" group-title="Movies | Romantic [VOD]",Good Luck to You, Leo Grande (2022)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/443530.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/AvpZ3pBQiX3UNHQIh39G3IR7u93.jpg" group-title="Movies | Romantic [VOD]",A Sunday Affair (2023)
@@ -12256,6 +12268,8 @@ http://alienstreams.fi:8080/movie/nicknick/nicknick/499899.mkv
 http://alienstreams.fi:8080/movie/nicknick/nicknick/499900.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg" group-title="Movies | Romantic [VOD]",Along for the Ride (2022)
 http://alienstreams.fi:8080/movie/nicknick/nicknick/500292.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/89Dw1ujPlIPRLddhzNuJM4F401D.jpg" group-title="Movies | Romantic [VOD]",The Drama (2026)
+http://alienstreams.fi:8080/movie/nicknick/nicknick/501571.mkv
 
 # --- Movies | Sci-Fi & Fantasy [VOD] (320) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3FXNYaCDFoQILCbYqFdv6V01ep.jpg" group-title="Movies | Sci-Fi & Fantasy [VOD]",Wishmaster 2: Evil Never Dies
@@ -14710,14 +14724,14 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404390
 http://alienstreams.fi:8080/series/nicknick/nicknick/404431
 
 # --- Series | Comedy [Series] (273) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Maximum Pleasure Guaranteed
+http://alienstreams.fi:8080/series/nicknick/nicknick/501080
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Good Omens
 http://alienstreams.fi:8080/series/nicknick/nicknick/501432
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Ghosts
 http://alienstreams.fi:8080/series/nicknick/nicknick/476627
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Georgie & Mandy's First Marriage
 http://alienstreams.fi:8080/series/nicknick/nicknick/474818
-#EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Maximum Pleasure Guaranteed
-http://alienstreams.fi:8080/series/nicknick/nicknick/501080
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Bad Thoughts
 http://alienstreams.fi:8080/series/nicknick/nicknick/501285
 #EXTINF:-1 tvg-logo="" group-title="Series | Comedy [Series]",Never Have I Ever
@@ -15258,6 +15272,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404444
 http://alienstreams.fi:8080/series/nicknick/nicknick/404456
 
 # --- Series | Crime [Series] (204) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Criminal Record
+http://alienstreams.fi:8080/series/nicknick/nicknick/499288
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Reykjavík Fusion
 http://alienstreams.fi:8080/series/nicknick/nicknick/501412
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Criminal Minds
@@ -15266,8 +15282,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/501393
 http://alienstreams.fi:8080/series/nicknick/nicknick/501313
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Prisoner
 http://alienstreams.fi:8080/series/nicknick/nicknick/500666
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Criminal Record
-http://alienstreams.fi:8080/series/nicknick/nicknick/499288
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Vera
 http://alienstreams.fi:8080/series/nicknick/nicknick/404148
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Shetland
@@ -16374,6 +16388,12 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404464
 http://alienstreams.fi:8080/series/nicknick/nicknick/404467
 
 # --- Series | Drama [Series] (661) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Chi
+http://alienstreams.fi:8080/series/nicknick/nicknick/471161
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Widow's Bay
+http://alienstreams.fi:8080/series/nicknick/nicknick/500308
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Tracker
+http://alienstreams.fi:8080/series/nicknick/nicknick/487163
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",After the Flood
 http://alienstreams.fi:8080/series/nicknick/nicknick/501486
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Euphoria
@@ -16392,12 +16412,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/493332
 http://alienstreams.fi:8080/series/nicknick/nicknick/499978
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Deli Boys
 http://alienstreams.fi:8080/series/nicknick/nicknick/404802
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Widow's Bay
-http://alienstreams.fi:8080/series/nicknick/nicknick/500308
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Testaments
 http://alienstreams.fi:8080/series/nicknick/nicknick/498971
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Tracker
-http://alienstreams.fi:8080/series/nicknick/nicknick/487163
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doc
 http://alienstreams.fi:8080/series/nicknick/nicknick/494352
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Serpent Queen
@@ -16756,8 +16772,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/471792
 http://alienstreams.fi:8080/series/nicknick/nicknick/471757
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",American Horror Story
 http://alienstreams.fi:8080/series/nicknick/nicknick/475107
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Chi
-http://alienstreams.fi:8080/series/nicknick/nicknick/471161
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Under the Bridge
 http://alienstreams.fi:8080/series/nicknick/nicknick/474400
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",One Day
@@ -16800,10 +16814,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/445249
 http://alienstreams.fi:8080/series/nicknick/nicknick/403275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Devils
 http://alienstreams.fi:8080/series/nicknick/nicknick/403287
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",See
-http://alienstreams.fi:8080/series/nicknick/nicknick/404478
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Under the Dome
-http://alienstreams.fi:8080/series/nicknick/nicknick/404479
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Defiance
 http://alienstreams.fi:8080/series/nicknick/nicknick/404487
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Firefly
@@ -17696,6 +17706,10 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404471
 http://alienstreams.fi:8080/series/nicknick/nicknick/404472
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Copycat Killer
 http://alienstreams.fi:8080/series/nicknick/nicknick/404477
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",See
+http://alienstreams.fi:8080/series/nicknick/nicknick/404478
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Under the Dome
+http://alienstreams.fi:8080/series/nicknick/nicknick/404479
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -17736,6 +17750,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404397
 http://alienstreams.fi:8080/series/nicknick/nicknick/404412
 
 # --- Series | Kids [Series] (116) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Sonic Prime
+http://alienstreams.fi:8080/series/nicknick/nicknick/403800
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",The Worst Witch
 http://alienstreams.fi:8080/series/nicknick/nicknick/494515
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",The Magic School Bus Rides Again
@@ -17900,8 +17916,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/403777
 http://alienstreams.fi:8080/series/nicknick/nicknick/403778
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Fast & Furious Spy Racers
 http://alienstreams.fi:8080/series/nicknick/nicknick/403799
-#EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Sonic Prime
-http://alienstreams.fi:8080/series/nicknick/nicknick/403800
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Meet Spidey and His Amazing Friends
 http://alienstreams.fi:8080/series/nicknick/nicknick/403801
 #EXTINF:-1 tvg-logo="" group-title="Series | Kids [Series]",Bunnicula
@@ -19346,6 +19360,10 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405122
 http://alienstreams.fi:8080/series/nicknick/nicknick/403526
 
 # --- Series | Svenska Serier [Series] (306) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson Exit
+http://alienstreams.fi:8080/series/nicknick/nicknick/488853
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
+http://alienstreams.fi:8080/series/nicknick/nicknick/489940
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Welcome to Sweden
 http://alienstreams.fi:8080/series/nicknick/nicknick/501508
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Ex on the Beach Sverige
@@ -19374,8 +19392,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/486778
 http://alienstreams.fi:8080/series/nicknick/nicknick/499341
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Förrädarna
 http://alienstreams.fi:8080/series/nicknick/nicknick/489667
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
-http://alienstreams.fi:8080/series/nicknick/nicknick/489940
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Högspänning
 http://alienstreams.fi:8080/series/nicknick/nicknick/497940
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
@@ -19528,8 +19544,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/490143
 http://alienstreams.fi:8080/series/nicknick/nicknick/489465
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kompani Svan
 http://alienstreams.fi:8080/series/nicknick/nicknick/477254
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson Exit
-http://alienstreams.fi:8080/series/nicknick/nicknick/488853
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fartblinda
 http://alienstreams.fi:8080/series/nicknick/nicknick/489643
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Idol
@@ -20015,4 +20029,4 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/nicknick/nicknick/459987
 
-# Total: 9948
+# Total: 9955

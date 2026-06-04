@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-03 09:03:34
+# Generated: 2026-06-04 08:55:53
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1179,7 +1179,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1607) ---
+# --- Movies | Films (1609) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gk4boaamflMqJyzQ5hGdxupQ3Qp.jpg" group-title="Movies | Films",Honey Don't! (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28330.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/if89AFL35EqJIkZeXfSezwwngTo.jpg" group-title="Movies | Films",Mexicali (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28329.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kfA90SVM17WbJRMV8kC5k7IRFZz.jpg" group-title="Movies | Films",Hokum (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28315.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vX9Epvo4OmAem64RTJO0535ucbv.jpg" group-title="Movies | Films",Miss You, Love You (2026)
@@ -7397,7 +7401,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1194
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) ممكن
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1195
 
-# --- Series | Series Documentaires (18) ---
+# --- Series | Series Documentaires (19) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/403
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",En guerre(s) pour l'Algérie
@@ -7434,6 +7438,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1171
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1175
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Rafa
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1188
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Michael Jackson : Le Verdict
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1197
 
 # --- Series | Series Marocaines (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Marocaines",أولاد الدرب
@@ -8223,4 +8229,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1193
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Not Suitable for Work
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1196
 
-# Total: 4078
+# Total: 4081

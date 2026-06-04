@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-06-03 22:28:56
+# Generated: 2026-06-04 09:01:09
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -9374,15 +9374,15 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4102.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1465.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/cinepluspremierhdfr.png" group-title="France",Ciné+ Premier HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1463.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",À La Carte 1 HD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 1 FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4141.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",À La Carte 2 HD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 2 FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4140.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",À La Carte 3 HD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 3 FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4139.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",À La Carte 4 HD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 4 FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4138.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",À La Carte 5 HD FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 5 FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/4137.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/ocschochd.png" group-title="France",OCS Choc FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/1454.m3u8
@@ -9942,25 +9942,25 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/8907.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/8906.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/beinsportsmax10hd.png" group-title="France",beIN SPORTS MAX 10 FHD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/8905.m3u8
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 13 VIP FR
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135231.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/france5hd.png" group-title="France",France 5 HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/15987.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/tf1seriesfilms.png" group-title="France",TF1 Séries Films HD FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/15983.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 2 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 12 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96052.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 4 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 11 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96050.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 5 VIP FR
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96049.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 6 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 6 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96048.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 7 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 7 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96047.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 8 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 8 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96046.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 9 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 9 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96045.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A la Carte 10 VIP FR
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/alacarte.png" group-title="France",A La Carte 10 VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",CINE+ FAMIZ HD VIP FR
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/96031.m3u8

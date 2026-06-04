@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-06-03 22:19:14
+# Generated: 2026-06-04 08:56:58
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -6158,7 +6158,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/188893.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/174789.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/PERU/Buena_Vista.png" group-title="AM | LATINO",PUERTO RICO - BUENA TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/271775.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/PERU/Wapa.2.png" group-title="AM | LATINO",PUERTO RICO - WAPA
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/PERU/Wapa.2.png" group-title="AM | LATINO",PUERTO RICO - WAPA AMERICA
 http://teck-tv.com/live/2605201443100597/C655BF416768/271772.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/PERU/CDM%20Internacional.png" group-title="AM | LATINO",PUERTO RICO - CDM INTERNACIONAL
 http://teck-tv.com/live/2605201443100597/C655BF416768/271769.m3u8
@@ -15185,132 +15185,122 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1393295.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/maxppv.png" group-title="AM | USA | MAX PPV",US - MAX PPV 100 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1393294.m3u8
 
-# --- AM | USA | MILB (71) ---
+# --- AM | USA | MILB (66) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | MILB",##### MiLB EVENTS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1284368.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 1 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 1 : BINGHAMTON RUMBLE PONIES @ READING FIGHTIN PHILS JUN 03 – 11:00 AM ET / 04:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311155.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 2 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 2 : WORCESTER RED SOX @ BUFFALO BISONS JUN 03 – 11:05 AM ET / 04:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311156.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 3 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 3 : FAYETTEVILLE WOODPECKERS @ COLUMBIA FIREFLIES JUN 03 – 11:05 AM ET / 04:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311157.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 4 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 4 : ROME EMPERORS @ GREENVILLE DRIVE JUN 03 – 12:00 PM ET / 05:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311158.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 5 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 5 : GWINNETT STRIPERS @ NORFOLK TIDES JUN 03 – 12:05 PM ET / 05:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311159.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 6 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 6 : MEMPHIS REDBIRDS @ LOUISVILLE BATS JUN 03 – 01:05 PM ET / 06:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311160.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 7 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 7 : CEDAR RAPIDS KERNELS @ WISCONSIN TIMBER RATTLERS JUN 03 – 01:05 PM ET / 06:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311161.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 8 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 8 : IOWA CUBS @ TOLEDO MUD HENS JUN 03 – 01:08 PM ET / 06:08 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311162.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 9 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/311163.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 10 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 10 : ST. PAUL SAINTS @ INDIANAPOLIS INDIANS JUN 03 – 02:07 PM ET / 07:07 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311164.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 11 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 11 : SAN JOSE GIANTS @ INLAND EMPIRE 66ERS JUN 03 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311165.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 12 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 12 : ST. LUCIE METS @ CLEARWATER THRESHERS JUN 03 – 04:00 PM ET / 09:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311166.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 13 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 13 : SYRACUSE METS @ SCRANTON-WILKES-BARRE RAILRIDERS JUN 03 – 04:05 PM ET / 09:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311167.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 14 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 14 : ST. LUCIE METS @ CLEARWATER THRESHERS JUN 03 – 04:05 PM ET / 09:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311168.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 15 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 15 : SYRACUSE METS @ SCRANTON-WILKES-BARRE RAILRIDERS JUN 03 – 04:10 PM ET / 09:10 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311169.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 16 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 16 : TAMPA TARPONS @ PALM BEACH CARDINALS JUN 03 – 05:00 PM ET / 10:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311170.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 17 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 17 : PORTLAND SEA DOGS @ HARTFORD YARD GOATS JUN 03 – 06:00 PM ET / 11:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311171.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 18 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 18 : NEW HAMPSHIRE FISHER CATS @ ALTOONA CURVE JUN 03 – 06:03 PM ET / 11:03 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311172.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 19 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/311173.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 20 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 20 : LAKELAND FLYING TIGERS @ FORT MYERS MIGHTY MUSSELS JUN 03 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311174.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 21 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 21 : HARRISBURG SENATORS @ SOMERSET PATRIOTS JUN 03 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311175.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 22 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 22 : JUPITER HAMMERHEADS @ BRADENTON MARAUDERS JUN 03 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311176.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 23 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 23 : WINSTON-SALEM DASH @ HUB CITY SPARTANBURGERS JUN 03 – 06:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311177.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 24 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 24 : CHESAPEAKE BAYSOX @ AKRON RUBBERDUCKS JUN 03 – 06:35 PM ET / 11:35 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311178.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 25 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/311179.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 26 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 26 : FREDERICKSBURG NATIONALS @ HILL CITY HOWLERS JUN 03 – 06:35 PM ET / 11:35 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311180.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 27 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 27 : ASHEVILLE TOURISTS @ GREENSBORO GRASSHOPPERS JUN 03 – 06:35 PM ET / 11:35 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311181.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 28 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 28 : WEST MICHIGAN WHITECAPS @ DAYTON DRAGONS JUN 03 – 06:35 PM ET / 11:35 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311182.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 29 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/311183.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 30 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 30 : DURHAM BULLS @ CHARLOTTE KNIGHTS JUN 03 – 06:45 PM ET / 11:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311184.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 31 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 31 : LEHIGH VALLEY IRONPIGS @ ROCHESTER RED WINGS JUN 03 – 06:45 PM ET / 11:45 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311185.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 32 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 32 : HICKORY CRAWDADS @ KANNAPOLIS CANNON BALLERS JUN 03 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311186.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 33 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 33 : FREDERICK KEYS @ HUDSON VALLEY RENEGADES JUN 03 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311187.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 34 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 34 : KNOXVILLE SMOKIES @ BIRMINGHAM BARONS JUN 03 – 07:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311188.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 35 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 35 : WILSON WARBIRDS @ SALEM RIDGEYAKS JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311189.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 36 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 36 : GREAT LAKES LOONS @ LANSING LUGNUTS JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311190.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 37 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 37 : CHARLESTON RIVERDOGS @ MYRTLE BEACH PELICANS JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311191.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 38 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 38 : COLUMBUS CLIPPERS @ OMAHA STORM CHASERS JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311192.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 39 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 39 : AUGUSTA GREENJACKETS @ DELMARVA SHOREBIRDS JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311193.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 40 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 40 : JACKSONVILLE JUMBO SHRIMP @ NASHVILLE SOUNDS JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311194.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 41 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 41 : FORT WAYNE TINCAPS @ LAKE COUNTY CAPTAINS JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311195.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 42 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 42 : RICHMOND FLYING SQUIRRELS @ ERIE SEAWOLVES JUN 03 – 07:05 PM ET / 12:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311196.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 43 :
-http://teck-tv.com/live/2605201443100597/C655BF416768/311197.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 44 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 44 : QUAD CITIES RIVER BANDITS @ SOUTH BEND CUBS JUN 03 – 07:30 PM ET / 12:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311198.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 45 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 45 : PEORIA CHIEFS @ BELOIT SKY CARP JUN 03 – 07:35 PM ET / 12:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311199.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 46 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 46 : CORPUS CHRISTI HOOKS @ ARKANSAS TRAVELERS JUN 03 – 07:35 PM ET / 12:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311200.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 47 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 47 : WICHITA WIND SURGE @ SAN ANTONIO MISSIONS JUN 03 – 07:35 PM ET / 12:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311201.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 48 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 48 : BILOXI SHUCKERS @ MONTGOMERY BISCUITS JUN 03 – 07:35 PM ET / 12:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311202.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 49 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 49 : ROCKET CITY TRASH PANDAS @ COLUMBUS CLINGSTONES JUN 03 – 07:35 PM ET / 12:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311203.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 50 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 50 : OKLAHOMA CITY COMETS @ ROUND ROCK EXPRESS JUN 03 – 08:05 PM ET / 01:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/311204.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 51 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 51 : FRISCO ROUGHRIDERS @ SPRINGFIELD CARDINALS JUN 03 – 08:05 PM ET / 01:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274669.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 52 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 52 : NORTHWEST ARKANSAS NATURALS @ MIDLAND ROCKHOUNDS JUN 03 – 08:05 PM ET / 01:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274670.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 53 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 53 : AMARILLO SOD POODLES @ TULSA DRILLERS JUN 03 – 08:05 PM ET / 01:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274671.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 54 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 54 : SALT LAKE BEES @ ALBUQUERQUE ISOTOPES JUN 03 – 08:35 PM ET / 01:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274672.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 55 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 55 : EL PASO CHIHUAHUAS @ SUGAR LAND SPACE COWBOYS JUN 03 – 08:35 PM ET / 01:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274673.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 56 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 56 : TRI-CITY DUST DEVILS @ VANCOUVER CANADIANS JUN 03 – 09:30 PM ET / 02:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274674.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 57 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 57 : SPOKANE INDIANS @ HILLSBORO HOPS JUN 03 – 09:35 PM ET / 02:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274675.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 58 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 58 : ONTARIO TOWER BUZZERS @ STOCKTON PORTS JUN 03 – 09:35 PM ET / 02:35 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274676.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 59 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 59 : SACRAMENTO RIVER CATS @ TACOMA RAINIERS JUN 03 – 09:45 PM ET / 02:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274677.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 60 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 60 : FRESNO GRIZZLIES @ LAKE ELSINORE STORM JUN 03 – 09:50 PM ET / 02:50 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1274678.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 61 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 61 : EVERETT AQUASOX @ EUGENE EMERALDS JUN 03 – 10:05 PM ET / 03:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278613.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 62 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 62 : LAS VEGAS AVIATORS @ RENO ACES JUN 03 – 10:05 PM ET / 03:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278614.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 63 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278615.m3u8
@@ -15329,7 +15319,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1278621.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/milb.png" group-title="AM | USA | MILB",US - MILB 70 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1278622.m3u8
 
-# --- AM | USA | MLB (52) ---
+# --- AM | USA | MLB (53) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | MLB",#### MLB PPV ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/79689.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB NETWORK HD
@@ -15344,31 +15334,33 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/302488.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388877.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - THE MLB CHANNEL HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1388886.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 : TIGERS @ RAYS JUN 02 – 07:40 PM ET / 12:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 01 : MARLINS @ NATIONALS JUN 03 – 06:05 PM ET / 11:05 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233018.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 : PADRES @ PHILLIES JUN 02 – 07:40 PM ET / 12:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 02 : TIGERS @ RAYS JUN 03 – 06:10 PM ET / 11:10 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233019.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 : ORIOLES @ RED SOX JUN 02 – 07:45 PM ET / 12:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 03 : WHITE SOX @ TWINS JUN 03 – 06:40 PM ET / 11:40 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233020.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 : MARLINS @ NATIONALS JUN 02 – 07:45 PM ET / 12:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 04 : METS @ MARINERS JUN 03 – 08:40 PM ET / 01:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233021.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 : GUARDIANS @ YANKEES JUN 02 – 08:05 PM ET / 01:05 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 05 : PADRES @ PHILLIES JUN 03 – 11:40 PM ET / 04:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232804.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 06 : ROYALS @ REDS JUN 02 – 08:10 PM ET / 01:10 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 06 : ORIOLES @ RED SOX JUN 03 – 11:45 PM ET / 04:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233022.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 09 : GIANTS @ BREWERS JUN 02 – 08:40 PM ET / 01:40 AM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/232807.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 : RANGERS @ CARDINALS JUN 02 – 08:45 PM ET / 01:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 07 : GUARDIANS @ YANKEES JUN 04 – 12:05 AM ET / 05:05 AM UK
+http://teck-tv.com/live/2605201443100597/C655BF416768/232803.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 08 : ROYALS @ REDS JUN 04 – 12:10 AM ET / 05:10 AM UK
+http://teck-tv.com/live/2605201443100597/C655BF416768/232801.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 10 : GIANTS @ BREWERS JUN 04 – 12:40 AM ET / 05:40 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232806.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 : ATHLETICS @ CUBS JUN 02 – 09:05 PM ET / 02:05 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 11 : RANGERS @ CARDINALS JUN 04 – 12:45 AM ET / 05:45 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232802.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 : PIRATES @ ASTROS JUN 02 – 09:10 PM ET / 02:10 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 12 : ATHLETICS @ CUBS JUN 04 – 01:05 AM ET / 06:05 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233023.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 13 : ROCKIES @ ANGELS JUN 02 – 10:38 PM ET / 03:38 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 13 : PIRATES @ ASTROS JUN 04 – 01:10 AM ET / 06:10 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/233024.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 : DODGERS @ D-BACKS JUN 02 – 10:40 PM ET / 03:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 14 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/233025.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 15 : METS @ MARINERS JUN 02 – 10:40 PM ET / 03:40 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 15 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232808.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/mlb.png" group-title="AM | USA | MLB",US - MLB GAME 16 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/236409.m3u8
@@ -15512,9 +15504,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1317650.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1284376.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA",US - NBA TV FHD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/71986.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA",US - NBA GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA",US - NBA GAME 01 : NEW YORK KNICKS @ SAN ANTONIO SPURS (NBA FINALS GAME 1) JUN 03 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1404642.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA",US - NBA GAME 02 :
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA",US - NBA GAME 02 : NEW YORK KNICKS @ SAN ANTONIO SPURS (NBA FINALS GAME 1) JUN 03 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1404643.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA",US - NBA GAME 03 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1404644.m3u8
@@ -15682,9 +15674,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/649126.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1404667.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA IN ARENA",US - NBA TV FHD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/1404713.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA IN ARENA",US - NBA GAME 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA IN ARENA",US - NBA GAME 01 : NEW YORK KNICKS @ SAN ANTONIO SPURS (NBA FINALS GAME 1) JUN 03 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232809.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA IN ARENA",US - NBA GAME 02 :
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA IN ARENA",US - NBA GAME 02 : NEW YORK KNICKS @ SAN ANTONIO SPURS (NBA FINALS GAME 1) JUN 03 – 08:30 PM ET / 01:30 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232810.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA IN ARENA",US - NBA GAME 03 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232811.m3u8
@@ -30727,4 +30719,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/317165.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/317166.m3u8
 
-# Total: 15185
+# Total: 15181
