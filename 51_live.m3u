@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-04 08:55:55
+# Generated: 2026-06-04 20:41:10
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1579,31 +1579,43 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (90) ---
+# --- DE-DAZN EVENT (96) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8k4k7m2lfpnyyi748bqub5hju_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | Viertelfinale 3 & 4 (2026-06-03 10:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184543.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18g4o8h44aoh11f64l1f4ihln1_image-header_pDach_1779183059000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS FAN vs. AS Police (2026-06-03 17:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184544.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eo2mmq9fadfw1eefcw3ty3g7m_image-header_pDach_1779958785000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Kallon vs. Old Edwardians FC (2026-06-03 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184545.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4uwm4t6lncvhetbbxwts2f9ss_image-header_pDach_1779816925000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gibraltar - British Virgin Islands (2026-06-03 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184546.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7m37gbit4fl41fxpo3tco5xfz_image-header_pDach_1780057873000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Monaco - Nanterre | Halbfinale (Spiel 2) (2026-06-03 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184547.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cw44vx01p6fu5feqck9dc7ot9_image-header_pDach_1779474033000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Albanien - Israel (2026-06-03 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184548.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/434vb06163xcio63qlpgziw6a_image-header_pDach_1779895215000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dänemark - DR Kongo (2026-06-03 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184549.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ds3tdminie7f4hfk6fjh5csxt_image-header_pDach_1779895907000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Polen - Nigeria (2026-06-03 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184550.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a7auih9lv6d4awsh900kyraph_image-header_pDach_1778415368000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Luxemburg - Italien (2026-06-03 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184551.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9nnjq5umzde7lyl5szl33d6nq_image-header_pDach_1779960026000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Niederlande - Algerien (2026-06-03 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184552.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9gqd7el1malphblojqax0w2dy_image-header_pDach_1780045213000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",DFB-Pressekonferenz | 3. Juni (2026-06-03 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184553.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184645.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184648.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184646.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 4
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184647.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 5
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184649.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 6
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184650.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 7
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184651.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184652.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 9
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184654.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 10
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184653.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 11
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184655.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 12
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184656.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 13
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184657.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 14
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184658.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 15
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184659.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 16
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184660.m3u8
+#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 17
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184661.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f78xgdfpj3bx1didh93r0aqat_image-header_pDach_1778732634000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Caiquetio vs. Unistars (2026-06-04 02:30:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184554.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3kaswjicc76qs644yhe0j2dpm_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | Finale Mixed (2026-06-04 12:00:00)
@@ -6813,4 +6825,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3346
+# Total: 3352

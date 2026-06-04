@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-06-04 08:54:16
+# Generated: 2026-06-04 20:39:28
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -6963,7 +6963,7 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/61334.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/8WeFg8OExE8e4vyK8fNiU3xlWv7.jpg" group-title="Movies | KOMEDIJA",Death at a Funeral 2025 #sf
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/61735.mp4
 
-# --- Movies | STRANE SERIJE (199) ---
+# --- Movies | STRANE SERIJE (200) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Ozark (TV Serija 2017-2022)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Superman and Lois (TV Serija 2021-2024)
@@ -7362,6 +7362,8 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/527.mp4
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/532.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Revival (TV Series 2025)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/533.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | STRANE SERIJE",Star Trek: Discovery (TV Series 2017–2024)
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/540.mp4
 
 # --- Movies | TURSKE SERIJE (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURSKE SERIJE",Barbaros Hayreddin Sultanin Fermani  (TV Serija) TU
@@ -7381,7 +7383,7 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/302.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURSKE SERIJE",Gülperi (TV Series 2018-2019)
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/304.mp4
 
-# --- Movies | VIDEOTEKA (4262) ---
+# --- Movies | VIDEOTEKA (4263) ---
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BYjAzMzQxNmUtYmIzNy00MWYzLWJmMTAtOTI5OTg0OGRjN2MxXkEyXkFqcGc%40._V1__SX500&f=1&h=500" group-title="Movies | VIDEOTEKA",Slatka Simona 2024 #df
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/57867.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Prisoner_of_War_%282025_film%29_poster.jpg/250px-Prisoner_of_War_%282025_film%29_poster.jpg" group-title="Movies | VIDEOTEKA",Prisoner of War 2025 #sf
@@ -15906,6 +15908,8 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65540.mp4
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65542.mkv
 #EXTINF:-1 tvg-logo="https://resizing.flixster.com/vYOuQi-szkwXqIPziWYBko-r5Ss=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32423306_v_v8_aa.jpg" group-title="Movies | VIDEOTEKA",Strangers in the Park 2026 #sf
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65543.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_face/uqtXRz7sN9hkUSLRveNNVdroQQG.jpg" group-title="Movies | VIDEOTEKA",Red silk 2025 #sf
+http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/65544.mkv
 
 # --- Movies | WESTERN FILMOVI (176) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | WESTERN FILMOVI",Western Union 1941 |wst
@@ -16261,4 +16265,4 @@ http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40524.mkv
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/8b4d7c7d.jpg" group-title="Movies | WESTERN FILMOVI",The Power of the Dog 2021 |wst
 http://bazaruto.top:8000/movie/igorTrajkaCH.riki/JIPVFqifza/40523.mkv
 
-# Total: 8116
+# Total: 8118
