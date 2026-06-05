@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-06-04 20:45:27
+# Generated: 2026-06-05 20:30:48
 # Expires: 2026-06-26
 # Family Safe Edition
 # ==============================================
@@ -445,6 +445,12 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/206776.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg" group-title="Movies | ACTION",Southpaw (2015)
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/207203.mp4
 
+# --- Movies | APPLE (2) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | APPLE",Your Friends & Neighbors
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2700.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | APPLE",Star City
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2706.mp4
+
 # --- Movies | Action (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Raw
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2598.mp4
@@ -541,7 +547,7 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2647.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action & Adventure",Spartacus：Gods of the Arena
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2652.mp4
 
-# --- Movies | Animation (37) ---
+# --- Movies | Animation (36) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Creature Commandos
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/1830.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Beat Bugs
@@ -598,8 +604,6 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2394.mp4
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2405.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Spider-Man
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2413.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Animation",SpongeBob SquarePants
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2415.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Unicorn: Warriors Eternal
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2445.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animation",Young David
@@ -3317,7 +3321,7 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/96554.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfTNsILhmDiChJJ7Zxxl8IUvkUM.jpg" group-title="Movies | Documentary Films",Last Breath (2019)
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/180461.mp4
 
-# --- Movies | Drama (283) ---
+# --- Movies | Drama (279) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Tracker
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/1029.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Brilliant Minds
@@ -3874,16 +3878,8 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2691.mp4
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2694.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",56 Days
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2698.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Your Friends & Neighbors
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2700.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Long Bright River
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2701.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",When Hope Calls
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2702.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Madison
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2703.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Dutton Ranch
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2705.mp4
 
 # --- Movies | ELVIS (1) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKVHiNbXI6kW5IPhtilfW1oyU38.jpg" group-title="Movies | ELVIS",Love Me Tender (1956)
@@ -3910,6 +3906,14 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2490.mp4
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2547.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Family",The Patrick Star Show
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2559.mp4
+
+# --- Movies | HALLMARK (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | HALLMARK",When Hope Calls
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2702.mp4
+
+# --- Movies | HBO MAX (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",IT: Welcome to Derry
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2671.mp4
 
 # --- Movies | HORROR (393) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VimQZNUnzDIPru4DYdiYcZ5rCp.jpg" group-title="Movies | HORROR",Among the Living (2022)
@@ -4699,12 +4703,6 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/224058.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J7zudfR3VLPwAf9lK5YPfSu0n6.jpg" group-title="Movies | HORROR",Friday the 13th: The Final Chapter (1984)
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/224059.mp4
 
-# --- Movies | Horror (2) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | Horror",IT: Welcome to Derry
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2671.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | Horror",Stranger Things
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2678.mp4
-
 # --- Movies | KIDS-FAMILY (177) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tK1zy5BsCt1J4OzoDicXmr0UTFH.jpg" group-title="Movies | KIDS-FAMILY",The Croods: A New Age (2020)
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/6171.mp4
@@ -5061,7 +5059,7 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/219744.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg" group-title="Movies | KIDS-FAMILY",Maleficent (2014)
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/223722.mp4
 
-# --- Movies | Kids (6) ---
+# --- Movies | Kids (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Eva the Owlet
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2260.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Frog and Toad
@@ -5074,6 +5072,8 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2319.mp4
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2373.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",Spirit Rangers
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2414.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Kids",SpongeBob SquarePants
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2415.mp4
 
 # --- Movies | MUSIC (28) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bDDWUUtYToJFArnbzc1uROqoSW.jpg" group-title="Movies | MUSIC",Homeschool Musical: Class of 2020 (2020)
@@ -5202,6 +5202,10 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2615.mp4
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2643.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mystery",The Rainmaker
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2645.mp4
+
+# --- Movies | NETFLIX (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Stranger Things
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2678.mp4
 
 # --- Movies | NEW RELEASE (727) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c47I6r4PXWrbQ09lW9AkCe5OZtk.jpg" group-title="Movies | NEW RELEASE",Opry 100: A Live Celebration (2025)
@@ -6671,6 +6675,12 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/21042.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | P90X EXERCISE VIDEOS",P95X SHOULDERS & ARMS
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/21043.mp4
 
+# --- Movies | PARAMOUNT (2) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | PARAMOUNT",The Madison
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2703.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | PARAMOUNT",Dutton Ranch
+http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2705.mp4
+
 # --- Movies | RELIGION-CHRISTIAN (4) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C9vyK6leWDb2ds65R7uIwSmh8V.jpg" group-title="Movies | RELIGION-CHRISTIAN",The Passion of the Christ (2004)
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/21002.mp4
@@ -7524,10 +7534,6 @@ http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/1872.mp4
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2523.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Days of Our Lives
 http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2686.mp4
-
-# --- Movies | TV Movie (1) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | TV Movie",bode
-http://tkosportz.live:25461/movie/ym6Xz1y1LL/z9e2hpBJZj/2596.mp4
 
 # --- Movies | WAR - WESTERNS (75) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg" group-title="Movies | WAR - WESTERNS",News of the World (2020)

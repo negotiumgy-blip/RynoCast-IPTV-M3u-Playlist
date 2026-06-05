@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-06-04 20:49:02
+# Generated: 2026-06-05 20:30:32
 # Expires: 2026-10-21
 # Family Safe Edition
 # ==============================================
@@ -765,7 +765,7 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/7656.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTM5YzUwMzctOTA0OS00MjI4LWJlZTYtMDZmOTM1YTZhN2VmXkEyXkFqcGdeQXVyNzE0MDY5MzE@._V1_SY1000_CR0,0,714,1000_AL_.jpg" group-title="Movies | SERIJE",Besa S01 E12
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/7657.mp4
 
-# --- Movies | SERIJE NOVO (72) ---
+# --- Movies | SERIJE NOVO (73) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",The Witcher
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Chernobyl
@@ -910,6 +910,8 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/72.mp4
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/73.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Berlin and the Lady with an Ermine
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/74.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIJE NOVO",Mare of Easttown
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/75.mp4
 
 # --- Movies | VIDEOTEKA (577) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/28_Weeks_Later_poster.jpg/250px-28_Weeks_Later_poster.jpg" group-title="Movies | VIDEOTEKA",28 Weeks Later (2007)
@@ -4039,7 +4041,15 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13433.mp4
 
-# --- Movies | VIDEOTEKA 2026 (63) ---
+# --- Movies | VIDEOTEKA 2026 (67) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVpw0htCNkVzd2joqVLRW1yJhQevsMAZp7cQ&s" group-title="Movies | VIDEOTEKA 2026",In The Grey (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13823.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",Hokum (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13822.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://wevegotbackissues.com/wp-content/uploads/2026/03/1000067463.jpg?w=526" group-title="Movies | VIDEOTEKA 2026",Pretty Lethal (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13824.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BYjBhN2U5NjMtYjA2Yi00ZTVlLTlkNGMtNjViOWQzMzc5M2I2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",Desert Warrior (2025)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13821.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/9/9a/Mortal_Kombat_II_%28film%29_poster.jpg" group-title="Movies | VIDEOTEKA 2026",Mortal Kombat II (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13819.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/GA91tuJH7hq841NkpWmGKn6Vp31zLaZa_300x442.jpg?t=1779794915" group-title="Movies | VIDEOTEKA 2026",Over Your Dead Body (2026)
@@ -4167,4 +4177,4 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13660.mp4
 
-# Total: 2064
+# Total: 2069
