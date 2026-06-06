@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-06-05 20:34:56
+# Generated: 2026-06-06 08:31:19
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -781,7 +781,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/678354.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/5015.jpg?32147" group-title="AR| AL-MAJD TV 4K ▶ المجد",AR: AL MAJD BASMAH
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/214815.m3u8
 
-# --- AR| ALGERIA 4K ▶ الجزائر (32) ---
+# --- AR| ALGERIA 4K ▶ الجزائر (34) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Animated-Flag-Algeria.gif" group-title="AR| ALGERIA 4K ▶ الجزائر",###### ALGERIA TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251802.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/108.jpg" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Echourouk TV 4K
@@ -844,6 +844,10 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/243373.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/411440.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9373.png?93056" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Programme National HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1903923.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10737.jpg?10144" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: SPORT PLUS 4K
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021915.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10737.jpg?10144" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: SPORT PLUS HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021916.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/857.jpg?4260" group-title="AR| ALGERIA 4K ▶ الجزائر",AR: Zahra TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/318682.m3u8
 
@@ -1514,6 +1518,34 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1998495.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1998494.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX F ⚽",FM: beIN SP⚽RTS MAX 6 FR ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1998493.m3u8
+
+# --- AR| BEIN SPORTS MAX SA ⚽ (13) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS MAX SA ⚽",##### beIN SP⚽RTS MAX SA #####
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021337.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 1 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021336.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 2 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021335.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 3 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021334.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 4 AR ᴴᴰ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021333.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 1 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021332.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 2 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021331.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 3 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021330.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 4 AR SD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021329.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 1 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021328.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 2 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021327.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 3 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021326.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15154.jpg?ver=98146" group-title="AR| BEIN SPORTS MAX SA ⚽",SA: beIN SP⚽RTS MAX 4 AR ᴿᴬᵂ
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2021325.m3u8
 
 # --- AR| BEIN SPORTS MAX ᴮᴱ ⚽ (34) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS MAX ᴮᴱ ⚽",##### beIN SP⚽RTS MAX ᴮᴱ #####
@@ -6871,7 +6903,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/177635.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/34.jpg?43865" group-title="AR| SYRIA +6H USA ⎋",AR: LANA TV 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/177636.m3u8
 
-# --- AR| SYRIA 4K ▶ سوريا (36) ---
+# --- AR| SYRIA 4K ▶ سوريا (35) ---
 #EXTINF:-1 tvg-logo="https://aaru.edu.jo/PublishingImages/Flags/Syria-180-animated-flag-gifs[1].gif" group-title="AR| SYRIA 4K ▶ سوريا",###### SYRIA TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251820.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/4738.png?59551" group-title="AR| SYRIA 4K ▶ سوريا",AR: AL EKHBARIYA SY ᴴᴰ
@@ -6912,8 +6944,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1423623.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1423624.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13959.png?26363" group-title="AR| SYRIA 4K ▶ سوريا",AR: SYRIANS MUSIC ᴿᴬᵂ ⁽ᴮᴷ⁾
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1371911.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14411.png?4228" group-title="AR| SYRIA 4K ▶ سوريا",AR: ANA SOORIA ᴴᴰ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1583768.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14411.png?4228" group-title="AR| SYRIA 4K ▶ سوريا",AR: ANA SOORIA ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1583767.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13957.png?74547" group-title="AR| SYRIA 4K ▶ سوريا",AR: MISK SYRIA ᴿᴬᵂ
@@ -8322,7 +8352,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/444697.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/444695.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="ASIA| SPORTS",SPORTS: MY SUPERSPORTS 3 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/444694.m3u8
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/logos/supersport4.png" group-title="ASIA| SPORTS",SPORTS: MY SUPERSPORTS 4 HD
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11571.jpg?94789" group-title="ASIA| SPORTS",SPORTS: MY SUPERSPORTS 4 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/444693.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/SPORTS-18-WCUP.png" group-title="ASIA| SPORTS",SPORTS: SPORTS 18 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/441115.m3u8
@@ -18093,4 +18123,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8796
+# Total: 8810

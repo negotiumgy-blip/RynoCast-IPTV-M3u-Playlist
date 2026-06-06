@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-06-01 23:21:29
+# Generated: 2026-06-06 08:31:19
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -153,7 +153,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Argentina",AR: El Trece *
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15849.m3u8
 
-# --- Brasil (77) ---
+# --- Brasil (75) ---
 #EXTINF:-1 tvg-logo="" group-title="Brasil",BR: A&E
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15071.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",BR: AMC
@@ -192,12 +192,8 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15094.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15095.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",BR: E!
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15097.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil",BR: ESPN 2
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15098.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",BR: ESPN Extra
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Brasil",BR: ESPN
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15100.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",BR: Fish TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15101.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Brasil",BR: Food Network
@@ -425,7 +421,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada",CA: YES TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13765.m3u8
 
-# --- Chile (52) ---
+# --- Chile (51) ---
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14878.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C
@@ -524,8 +520,6 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13888.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15296.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplustv.cl/img/programas/logo.png" group-title="Chile",CL: Visión Plus TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15297.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/etc.png" group-title="Chile",CL: ETC TV HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15686.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/chile/rectv.png" group-title="Chile",CL: Rec TV HD *
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15687.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Chile",CL: TV + 2
@@ -675,7 +669,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13821.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Culturales",Love Nature
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15835.m3u8
 
-# --- Deportes (109) ---
+# --- Deportes (106) ---
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14031.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera HD
@@ -740,16 +734,10 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/3480.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/11662.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 Sur HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13507.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra Full HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/3482.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/3483.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN Full HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13567.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/3474.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Premium HD
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14002.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Premium ARG HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9678.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN Sur HD
@@ -1717,4 +1705,4 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",VE: Promar TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15187.m3u8
 
-# Total: 831
+# Total: 825

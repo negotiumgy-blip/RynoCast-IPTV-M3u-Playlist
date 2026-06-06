@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2026-06-05 20:36:22
+# Generated: 2026-06-06 08:28:04
 # Expires: 2026-12-08
 # Family Safe Edition
 # ==============================================
@@ -14018,7 +14018,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/46712.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/46713.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/az94ZhwoGxMDiHXiIR9KmwdExXt.jpg" group-title="Movies | TR - Western/Kovboy",Zincirsiz (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/46714.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkajqTm8wPqFsL1dlrbDtIvf5GH.jpg" group-title="Movies | TR - Western/Kovboy",Doğudan Gelen Adam (TR)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJy9Z33gU2sYzeH0HlhVsjimvcg.jpg" group-title="Movies | TR - Western/Kovboy",Doğudan Gelen Adam (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/46715.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg" group-title="Movies | TR - Western/Kovboy",Hudut (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/46716.mkv
@@ -19237,7 +19237,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154030.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5u70yujzv29eekDYOYLqj8ZRL4h.jpg" group-title="Movies | TR - Yerli 2024",Hırçın Kız (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154076.mkv
 
-# --- Movies | TR - Yerli 2025 (39) ---
+# --- Movies | TR - Yerli 2025 (40) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2f1VLaVuWSq6nYELqQhnqiKHKh.jpg" group-title="Movies | TR - Yerli 2025",Başka Bir Sen (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/129813.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CF9or2174WFbBbXb5SvREau02H.jpg" group-title="Movies | TR - Yerli 2025",Şımarık (TR)
@@ -19316,6 +19316,8 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154073.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155165.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIlaVCFJuMrIgAIPyHefHVExL3w.jpg" group-title="Movies | TR - Yerli 2025",Adile Naşit (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/155506.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg" group-title="Movies | TR - Yerli 2025",Doğulu (TR)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/156087.mkv
 
 # --- Movies | TR - Yerli 2026 (4) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | TR - Yerli 2026",Sonunda Sen (TR)
@@ -19343,4 +19345,4 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/4372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",The Good Lord Bird
 http://l1iptv.xyz/series/ibrahimtopal/rP8DwDMPgG/686
 
-# Total: 9584
+# Total: 9585

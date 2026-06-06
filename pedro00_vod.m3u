@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-06-05 20:37:55
+# Generated: 2026-06-06 08:32:12
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -42,7 +42,7 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913689.mkv
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913688.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQlHZnv329SKqmfGIhkGLTzWBEQ.jpg" group-title="Movies | Unknown",||FR|| Charlie's Angels (2019)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913687.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnkATXIYHiiDns8UYsnyYv4Ycil.jpg" group-title="Movies | Unknown",||FR|| Isn't It Romantic (2019)
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Unknown",||FR|| Isn't It Romantic (2019)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913686.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoJPjeaIbHgvPf6bl3EqeJIujD6.jpg" group-title="Movies | Unknown",||FR|| Casse-Noisette et les quatre royaumes (2018)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913685.mkv
@@ -2749,7 +2749,7 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2026954.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wbQDkFPzTvUCRFTDqDDpxVAnrhn.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Authentic Trial of Carl Emmanuel Jung (1967)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2027556.mkv
 
-# --- Movies | |MULTI| PRIME AMAZON (167) ---
+# --- Movies | |MULTI| PRIME AMAZON (168) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nsROal9WTDvbB7ITBZZGrVOlz5z.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| No Place to Be Single (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317519.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Tom Clancy's Jack Ryan: Ghost War (2026)
@@ -2760,6 +2760,8 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317608.mkv
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317510.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nMFByoqAxTpiY7Irbvq4ugjjC0y.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Five Blind Dates (2024)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317515.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xlzjUlCmWyz28aOTJ7INfTLqiqt.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Lady Outlaw (2024)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2319755.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dEk0kC7uq54g7cVheQBgiAcCuNH.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Ivanna (2022)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317528.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A8KeSPmFDxqHKwNzyiuwUvPIrw0.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| The Mad Women's Ball (2021)
@@ -3085,4 +3087,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2317543.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2J9QEqdJWjL2etOf6Kf7n33PUK4.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Hang 'em High (1968)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2318452.mkv
 
-# Total: 1529
+# Total: 1530

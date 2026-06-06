@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-06-05 20:39:44
+# Generated: 2026-06-06 08:36:37
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -10731,7 +10731,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1060161.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/usa/22.png" group-title="AM | USA | DOCUMENTARY",US - WILD EARTH UHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/277134.m3u8
 
-# --- AM | USA | ENTERTAINMENT (309) ---
+# --- AM | USA | ENTERTAINMENT (310) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | ENTERTAINMENT",##### ENTERTAINMENT #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/69600.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/a&ee.png" group-title="AM | USA | ENTERTAINMENT",US - A&E EAST HD ◉
@@ -10976,6 +10976,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1117645.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1241338.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/SD2/her.png" group-title="AM | USA | ENTERTAINMENT",US - HERSPHERE HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/978200.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/LATINO/hgptv.png" group-title="AM | USA | ENTERTAINMENT",US - HGPTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1433763.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AM | USA | ENTERTAINMENT",US - HGTV EAST HD ◉
 http://teck-tv.com/live/2605201443100597/C655BF416768/71353.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AM | USA | ENTERTAINMENT",US - HGTV WEST HD
@@ -26912,7 +26914,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/498731.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/900936.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skysportmax.png" group-title="EU | IT | SPORT",IT - SKY SPORT MAX HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/900935.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="EU | IT | SPORT",IT - SKY SPORT TENNIS SD
+#EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="EU | IT | SPORT",IT - SKY SPORT TENNIS FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/498732.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ITALY/skysporttennis.png" group-title="EU | IT | SPORT",IT - SKY SPORT TENNIS HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/900938.m3u8
@@ -27624,7 +27626,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/913141.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/913145.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SWITZERLAND/rts1.png" group-title="EU | SWISS | GENERAL",CH - RTS UN FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/63869.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SWITZERLAND/rts2.png" group-title="EU | SWISS | GENERAL",CH - RTS DEUX FHD ◉
+#EXTINF:-1 tvg-logo="https://go4.pw/SWITZERLAND/rts2.png" group-title="EU | SWISS | GENERAL",CH - RTS DEUX FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/60128.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SWITZERLAND/3+.png" group-title="EU | SWISS | GENERAL",CH - 3+ FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1030955.m3u8
@@ -30707,4 +30709,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/317165.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/wc26.png" group-title="VIP | WORLD CUP 2026 4K",TR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/317166.m3u8
 
-# Total: 15175
+# Total: 15176
