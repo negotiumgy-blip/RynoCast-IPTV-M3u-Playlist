@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-06-07 08:49:41
+# Generated: 2026-06-07 19:25:37
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1579,7 +1579,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (37) ---
+# --- DE-DAZN EVENT (31) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
 #EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 1
@@ -1616,18 +1616,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184659.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184660.m3u8
 #EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 17
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184661.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14s4es00k6kzb1xx353sqh27xq_image-header_pDach_1778851126000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Padley vs. Fiaz (2026-06-06 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184613.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/y1ma8zj7co6hlz6hfki2houx_image-header_pDach_1779525241000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Brown vs. Vieira
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184614.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/egwgkwmvz5qlrqq6q3bwougt8_image-header_pDach_1779688488000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Schweiz - Australien (2026-06-06 21:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184615.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1aned5h4b3ivw1xe0erncilne0_image-header_pDach_1779183031000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pointe Michel FC vs. Mighty Avengers FC (2026-06-06 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184616.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/38rai6acuyy85s858nkwajbua_image-header_pDach_1778573469000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",England - Neuseeland (2026-06-06 22:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184617.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/44v2paalgel8qr61w9dxv4cgj_image-header_pDach_1779973534000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Brasilien - Ägypten (2026-06-07 00:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184619.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d8q39i0hx08ko564eajbaqedz_image-header_pDach_1779689374000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Türkei - Venezuela (2026-06-07 00:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/184620.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ecafa69zu6ec5ad49zji63d7l_image-header_pDach_1780068374000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UFC Fight Night | Belal Muhammed vs Gabriel Bonfim (Main Card) (2026-06-07 02:00:00)
@@ -6707,4 +6695,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3293
+# Total: 3287

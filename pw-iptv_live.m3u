@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-06-07 08:53:49
+# Generated: 2026-06-07 19:37:57
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -2488,7 +2488,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/544461.m3u8
 # --- AR| BEIN SPORTS ⁸ᴷ & ³⁸⁴⁰ᴾ ⚽ (6) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjQY3M2P/Bein-Sports-GIF.gif" group-title="AR| BEIN SPORTS ⁸ᴷ & ³⁸⁴⁰ᴾ ⚽",### beIN SP⚽RTS 4K 3840P ###
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/713566.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?ver=79226" group-title="AR| BEIN SPORTS ⁸ᴷ & ³⁸⁴⁰ᴾ ⚽",8K: beIN ⁴ᴷ ³⁸⁴⁰ᵖ (EVENT ONLY)
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?ver=79226" group-title="AR| BEIN SPORTS ⁸ᴷ & ³⁸⁴⁰ᴾ ⚽",8K: beIN MAX ⁴ᴷ ³⁸⁴⁰ᵖ (EVENT ONLY)
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/544456.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?ver=79226" group-title="AR| BEIN SPORTS ⁸ᴷ & ³⁸⁴⁰ᴾ ⚽",BE: beIN ⁴ᴷ ³⁸⁴⁰ᵖ (EVENT ONLY)
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1543851.m3u8
@@ -11111,12 +11111,12 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/839970.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6574.jpg?31639" group-title="ES| DAZN ESPAÑA VIP",ES: DAZN F1 ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/839967.m3u8
 
-# --- ES| DAZN LALIGA VIP (3) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="ES| DAZN LALIGA VIP",#### ES| DAZN LALIGA VIP ᴴᴰ ####
+# --- ES| DAZN MUNDIAL VIP (3) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCPR3CSF/DAZN-Logo-Gif.gif" group-title="ES| DAZN MUNDIAL VIP",#### DAZN LALIGA VIP ᴴᴰ / MUNDIAL ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/839983.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES| DAZN LALIGA VIP",ES: DAZN LA LIGA ᴴᴰ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES| DAZN MUNDIAL VIP",ES: DAZN LA LIGA ᴴᴰ / MUNDIAL
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/839982.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES| DAZN LALIGA VIP",ES: DAZN LA LIGA 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10145.jpg?50281" group-title="ES| DAZN MUNDIAL VIP",ES: DAZN LA LIGA 2 ᴴᴰ / MUNDIAL
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/839981.m3u8
 
 # --- ES| DOCUMENTALES VIP (6) ---

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-07 08:55:11
+# Generated: 2026-06-07 19:37:09
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -242,6 +242,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/182.mp4
 # --- Movies | All the Light we cannot see (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | All the Light we cannot see",All the Light We Cannot See (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1124.mp4
+
+# --- Movies | Alparslan The Great Seljuks (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Alparslan The Great Seljuks",Alparslan: The Great Seljuks (2021)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1291.mp4
 
 # --- Movies | Alpha Males (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Alpha Males",Alpha Males (2022)
@@ -7405,7 +7409,35 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (134) ---
+# --- Movies | Filme 2026 (148) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOxnMaDkr792WOZFJUb6LxcR74.jpg" group-title="Movies | Filme 2026",The Way to You - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71088.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db9nxdSqZ8Mh6RDRreF1HFsz9hx.jpg" group-title="Movies | Filme 2026",The Murder of Rachel Nickell - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71087.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg" group-title="Movies | Filme 2026",Slanted - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71086.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg" group-title="Movies | Filme 2026",Protector - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71085.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg" group-title="Movies | Filme 2026",Marsupilami - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71084.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rlf10AEAByepp3DEaHfh8mfpxy.jpg" group-title="Movies | Filme 2026",Last Save Point - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71083.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg" group-title="Movies | Filme 2026",Kissing Is the Easy Part - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71082.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="Movies | Filme 2026",The Magic Faraway Tree - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71041.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnIOUhzwJDfgQakx8EjoNyItKgs.jpg" group-title="Movies | Filme 2026",The Drama - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71040.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg" group-title="Movies | Filme 2026",Reminders of Him - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71039.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSzcpfbTy2pXHGvrVU2WhQTo6oU.jpg" group-title="Movies | Filme 2026",Outcome - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71038.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIwakdbMGS1krtgendTWpxTY9Hw.jpg" group-title="Movies | Filme 2026",Iron Lung - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71037.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ab4BIhwZQU2BWeT32QIcsZG2OGZ.jpg" group-title="Movies | Filme 2026",Dirty Hands - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71036.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg" group-title="Movies | Filme 2026",Brothers Under Fire - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71035.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heFjHLMVmYZWC4uhvPNI0idckwU.jpg" group-title="Movies | Filme 2026",The Passenger - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70969.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg" group-title="Movies | Filme 2026",Seven Snipers - 2026
@@ -12119,7 +12151,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (371) ---
+# --- Movies | Filme Drama (372) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nq8Q278MsQOVDtjGzVqgW9Nn5H.jpg" group-title="Movies | Filme Drama",Fog in August - 2016
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71043.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owzDkkxL2DogC2mq1fgIvrlDcux.jpg" group-title="Movies | Filme Drama",Flowers in the Attic - 2014
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70943.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJiGGbuLW8IkEnh5073maEmIr7V.jpg" group-title="Movies | Filme Drama",Still Alice - 2014
@@ -15757,7 +15791,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (219) ---
+# --- Movies | Filme Thriller (220) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TFB0Doe92l9Jgc5qtUnE6r9rqt.jpg" group-title="Movies | Filme Thriller",11:14 - 2004
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71080.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h03nz09KkWX4WBcopq7h7Cxd6um.jpg" group-title="Movies | Filme Thriller",Lethal Seduction - 2015
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70409.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7SEtIWOfLsuCWhQgflev7ppRPq.jpg" group-title="Movies | Filme Thriller",Automata - 2014
@@ -20785,4 +20821,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9075
+# Total: 9092
