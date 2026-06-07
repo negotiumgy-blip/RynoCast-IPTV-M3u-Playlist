@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-06-06 19:11:33
+# Generated: 2026-06-07 08:49:05
 # Expires: 2026-06-26
 # Family Safe Edition
 # ==============================================
 
 
-# --- 01. PPV EVENTS / RACING (ET) (16) ---
+# --- 01. PPV EVENTS / RACING (ET) (30) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/105962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",05. FloRacing 24/7
@@ -40,6 +40,34 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225394.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225395.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FLO 3: 7p High Limit Racing at Gondik Law Speedway
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241094.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloRacing 05 | GNCC at Watkins Glen - FloRacing - 12:45pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloRacing 06 | American Flat Track at Nashville - FloRacing - 4:25pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloRacing 07 | Jim Shampine Memorial at Oswego - FloRacing - 4:45pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloRacing 08 | App Mtn Speedweek at Port Royal Speedway - FloRacing - 6:00pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloRacing 09 | Weekly Racing at Fonda - FloRacing - 6:00pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloRacing 10 | NWMT at Oxford Plains - FloRacing - 6:00pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 11 | RoC Sportsman at Holland - FloRacing - 6:00pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 12 | NAPA All Star Sprints at Lincoln - FloRacing - 6:30pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 13 | IMCA Modifieds at 141 Speedway - FloRacing - 6:55pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 14 | High Limit Racing at Dacotah - FloRacing - 7:00pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 15 | NASCAR Mods Twin 25s at Bowman Gray - FloRacing - 7:45pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 16 | USAC/CRA Sprints at Santa Maria - FloRacing - 9:00pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 17: NARC 410 Sprints at Silver Dollar - FloRacing - 9:30pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",FloSports 18: ARCA West at Tri-City - FloRacing - 10:45pm EDT (6/6)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/241112.m3u8
 
 # --- 01. PPV FIGHTS/WWE (ET) (37) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 8p MONDAY NIGHT RAW
@@ -54,11 +82,11 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218787.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223036.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223037.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. UFC Fight Night Muhammad vs. Bonfim
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223041.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07. UFC Fight Night Muhammad vs. Bonfim
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223518.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08. 12p Padley vs. Fiaz
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223519.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",10.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223520.m3u8
@@ -18669,4 +18697,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191010.m3u8
 
-# Total: 9301
+# Total: 9315

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-06-06 19:12:43
+# Generated: 2026-06-07 08:51:27
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1051,7 +1051,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13611.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljSQgDf8rhz6HxnKUXwMvc4lgqw.jpg" group-title="Movies | Documentaires",C'Est Pas Moi (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13491.mkv
 
-# --- Movies | Enfants (59) ---
+# --- Movies | Enfants (60) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Eden
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/77.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Invincible
@@ -1170,6 +1170,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1150.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1177.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Pour un sou
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1186.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Gameoverse
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1200.mp4
 
 # --- Movies | FILMS TURK (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Movies | FILMS TURK",Sampiyonlar (2025)
@@ -1181,7 +1183,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1615) ---
+# --- Movies | Films (1616) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cVSjSQryFUERYSdOmdgJ2m0eBte.jpg" group-title="Movies | Films",Day of Reckoning (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28347.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iCcJWS7V1T8qOXzqfitfCYldPC2.jpg" group-title="Movies | Films",C'est qui le chef ? (2026)
@@ -4310,6 +4312,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1540.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1840.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnCzCiNXUtuLUc8hYxSCSni2G6V.jpg" group-title="Movies | Films",Tarzan - 2016
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/892.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e3FOSv0Ngg7rsYpy1FUeIVKryYf.jpg" group-title="Movies | Films",Terrible.Jungle (2020)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28458.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2DEjkRH92zsSWMGVAFikRtiF8V.jpg" group-title="Movies | Films",L'art de l'autodéfense - 2019
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2470.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DXja79jYCmWxs2hWNIgLXl4F3n.jpg" group-title="Movies | Films",The Fall of the American Empire
@@ -5373,7 +5377,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (487) ---
+# --- Movies | NETFLIX (488) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcvFncVoRA48mtPXu94kdwRI0C.jpg" group-title="Movies | NETFLIX",L'Inconnue du port (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/28345.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1p5tZnJS4uZNhpDWhnmT1ehCYwH.jpg" group-title="Movies | NETFLIX",Le Mondial de Martín (2026)
@@ -6348,6 +6352,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1181.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1184.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Brasil 70 : Le troisième sacre
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1191.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Que ça vous serve de leçon !
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1201.mp4
 
 # --- Movies | RAMADAN ( 2025 ) (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2025 )",العتاولة - 2024
@@ -8253,4 +8259,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1193
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Not Suitable for Work
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1196
 
-# Total: 4093
+# Total: 4096

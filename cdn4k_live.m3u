@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2026-06-05 20:39:07
+# Generated: 2026-06-07 08:44:57
 # Expires: 2026-06-17
 # Family Safe Edition
 # ==============================================
@@ -368,9 +368,9 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/41395.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/217234.m3u8
 
 # --- BRASILEIRAO (40) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Operário-PR x Juventude - 20:00 Série B FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Criciúma x Londrina - 11:00 Série B FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347087.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Operário-PR x Juventude - 20:00 Série B HD
+#EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Criciúma x Londrina - 11:00 Série B HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347088.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn4k.trade:8080/icon/5653-b-1744896788749.png" group-title="BRASILEIRAO",Brasileirão
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/347089.m3u8
@@ -2882,57 +2882,57 @@ http://cdn4k.us:80/live/Adrianobrito16/910989645a/100488.m3u8
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/100489.m3u8
 
 # --- JOGOS DO DIA (60) ---
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Eslováquia x Montenegro - 13:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bélgica x Tunísia - 10:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355630.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Eslováquia x Montenegro - 13:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bélgica x Tunísia - 10:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355631.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Hungria x Finlândia - 14:45 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Portugal x Chile - 14:45 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355632.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Hungria x Finlândia - 14:45 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Portugal x Chile - 14:45 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355633.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Alemanha x Noruega - 15:30 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Romênia x País de Gales - 14:45 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355634.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Alemanha x Noruega - 15:30 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Romênia x País de Gales - 14:45 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355635.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Espanha x Inglaterra - 16:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Albânia x Luxemburgo - 15:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355636.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Espanha x Inglaterra - 16:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Albânia x Luxemburgo - 15:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355637.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Argentina x Peru - 20:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Estados Unidos x Alemanha - 15:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355638.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Argentina x Peru - 20:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Estados Unidos x Alemanha - 15:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355639.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Haiti x Peru - 21:00 FHD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Suíça x Austrália - 16:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355640.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Haiti x Peru - 21:00 HD
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Suíça x Austrália - 16:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355641.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vitória x Fortaleza - 16:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355642.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Vitória x Fortaleza - 16:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355643.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bolivia x Escócia - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355644.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Bolivia x Escócia - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355645.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Inglaterra x Nova Zelândia - 17:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355646.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Inglaterra x Nova Zelândia - 17:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355647.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brasil x Estados Unidos - 18:30 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355648.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brasil x Estados Unidos - 18:30 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355649.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Venezuela x Turquia - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355650.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Venezuela x Turquia - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355651.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brasil x Egito - 19:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355652.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Brasil x Egito - 19:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355653.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Argentina x Honduras - 21:00 FHD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355654.m3u8
-#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
+#EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Argentina x Honduras - 21:00 HD
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355655.m3u8
 #EXTINF:-1 tvg-logo="http://st1.cdn-us.co:8080/icon/1640-b-1725999236985.png" group-title="JOGOS DO DIA",Jogos do Dia
 http://cdn4k.us:80/live/Adrianobrito16/910989645a/355656.m3u8
