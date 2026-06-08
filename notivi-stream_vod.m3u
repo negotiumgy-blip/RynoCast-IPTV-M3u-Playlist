@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-07 19:26:32
+# Generated: 2026-06-08 08:51:58
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -5047,7 +5047,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/128164.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KjxIiUbRWmrlhR4V_jl-EFkKeqyWFxkrncigkIVs-1iI.jpg" group-title="Movies | [ 2025 DEUTSCHE FiLME ]",The Monkey
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/128165.mkv
 
-# --- Movies | [ CARSAMBA DIZILERI ] (4) ---
+# --- Movies | [ CARSAMBA DIZILERI ] (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CARSAMBA DIZILERI ]",Kuruluş: Osman
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/545.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CARSAMBA DIZILERI ]",Leyla
@@ -5056,26 +5056,32 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/794.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/808.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CARSAMBA DIZILERI ]",Eşref Rüya
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/890.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ CARSAMBA DIZILERI ]",Eşref Rüya
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/912.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ CARSAMBA DIZILERI ]",Kuruluş: Orhan
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/913.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ CARSAMBA DIZILERI ]",Yeraltı
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/914.mp4
 
-# --- Movies | [ CUMA DIZILERI ] (5) ---
+# --- Movies | [ CUMA DIZILERI ] (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMA DIZILERI ]",Arka Sokaklar
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/647.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMA DIZILERI ]",Kızılcık Şerbeti
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/557.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMA DIZILERI ]",Yalı Çapkını
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/558.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMA DIZILERI ]",Zembilli
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/857.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMA DIZILERI ]",Bir Zamanlar İstanbul
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/863.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMA DIZILERI ]",Arka Sokaklar
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/917.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMA DIZILERI ]",Taşacak Bu Deniz
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/918.mp4
 
-# --- Movies | [ CUMARTESI DIZILERI ] (3) ---
+# --- Movies | [ CUMARTESI DIZILERI ] (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMARTESI DIZILERI ]",Gönül Dağı
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/577.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMARTESI DIZILERI ]",Can Borcu
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/820.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMARTESI DIZILERI ]",Piyasa
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/868.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMARTESI DIZILERI ]",Gönül Dağı
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/919.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ CUMARTESI DIZILERI ]",Güller ve Günahlar
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/920.mp4
 
 # --- Movies | [ DE- AMAZON PIRME ] (11) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- AMAZON PIRME ]",Doom Patrol
@@ -6088,8 +6094,6 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/669.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/362.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Yakamoz S-245
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/404.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",The Rookie
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/763.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Emily in Paris
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/793.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Territory
@@ -6098,6 +6102,8 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/805.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/862.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Wednesday
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/894.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",The Rookie
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/924.mp4
 
 # --- Movies | [ DEUTSCHE 4K FiLME ] (1) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KKH_w4VcyDbB1JRfDW66GM9ZfDOMVLDpCqvwFN_7uOfM.jpg" group-title="Movies | [ DEUTSCHE 4K FiLME ]",Konklave
@@ -6233,7 +6239,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/722.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PARAMONT +]",Das Gold
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/723.mp4
 
-# --- Movies | [ PAZAR DIZILERI ] (4) ---
+# --- Movies | [ PAZAR DIZILERI ] (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Teşkilat
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/530.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Deha
@@ -6242,38 +6248,34 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/799.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/818.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Kardelenler
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/864.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Daha 17
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/921.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZAR DIZILERI ]",Teşkilat
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/922.mp4
 
-# --- Movies | [ PAZARTESi DIZILERI ] (3) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZARTESi DIZILERI ]",Kızıl Goncalar
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/697.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZARTESi DIZILERI ]",Kudüs Fatihi: Selahaddin Eyyubi
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/801.mp4
+# --- Movies | [ PAZARTESi DIZILERI ] (2) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZARTESi DIZILERI ]",Cennetin Çocukları
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/908.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PAZARTESi DIZILERI ]",Uzak Şehir
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/807.mp4
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/909.mp4
 
-# --- Movies | [ PERSEMBE DIZILERI ] (4) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",Hudutsuz Sevda
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/659.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",İnci Taneleri
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/717.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",Siyah Kalp
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/795.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",Başka Bir Gün
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/859.mp4
+# --- Movies | [ PERSEMBE DIZILERI ] (2) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",Halef: Köklerin Çağrısı
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/915.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",Sevdiğim Sensin
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/916.mp4
 
 # --- Movies | [ RAMAZAN ÖZEL DIZI ] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ RAMAZAN ÖZEL DIZI ]",Vefa Sultan
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/871.mp4
 
-# --- Movies | [ SALI DIZILERI ] (4) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Bahar
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/740.mp4
+# --- Movies | [ SALI DIZILERI ] (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Mehmed: Fetihler Sultanı
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/741.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Bir Gece Masalı
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/790.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Kral Kaybederse
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/865.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",A.B.İ.
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/910.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Mehmed: Fetihler Sultanı
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/911.mp4
 
 # --- Movies | [ SURVIVOR 2025 ALL STARS  TÜRKIYE ] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ SURVIVOR 2025 ALL STARS  TÜRKIYE ]",Survivor Türkiye 2025
@@ -6623,7 +6625,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/115875.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31Ky-HI-uzvY07jDMgoqblK20fHxbJieOb2fK6PsNCoZwo.jpg" group-title="Movies | [ TR- ANIMASYON ]",Mufasa: Aslan Kral
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/129843.mkv
 
-# --- Movies | [ TR- BEIN CONNECT ] (13) ---
+# --- Movies | [ TR- BEIN CONNECT ] (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- BEIN CONNECT ]",Aile Şirketi
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/68.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- BEIN CONNECT ]",Erkek Severse
@@ -6650,6 +6652,8 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/905.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/906.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- BEIN CONNECT ]",Nasıl Fenomen Oldum
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/907.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- BEIN CONNECT ]",Vicdansız
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/925.mp4
 
 # --- Movies | [ TR- BELGESEL ] (82) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/3e19dec80687a3f5e4d23e3dd1de9d6f.jpg" group-title="Movies | [ TR- BELGESEL ]",Above and Beyond: NASA's Journey to Tomorrow
@@ -7629,4 +7633,4 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127922.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KJ4GOhBiWenAfGqAV5rAK3dmqahVBHEEa21qXpOChZzU.jpg" group-title="Movies | [ TÜRKCE 4K FiLME ]",Uncharted
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127923.mkv
 
-# Total: 3762
+# Total: 3764

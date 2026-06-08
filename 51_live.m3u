@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-07 19:37:44
+# Generated: 2026-06-08 08:50:42
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1579,69 +1579,205 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (31) ---
+# --- DE-DAZN EVENT (99) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184645.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184648.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184646.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184647.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 5
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184649.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 6
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184650.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 7
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184651.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 8
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184652.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 9
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184654.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 10
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184653.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 11
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184655.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 12
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184656.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 13
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184657.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 14
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184658.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 15
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184659.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 16
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184660.m3u8
-#EXTINF:-1 tvg-logo="http://logos.fixserver.xyz/Logo/DE/DEORIGINALLOGO/dazn-de/dazn-de.png" group-title="DE-DAZN EVENT",DE • DAZN EVENT 17
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184661.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d8q39i0hx08ko564eajbaqedz_image-header_pDach_1779689374000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Türkei - Venezuela (2026-06-07 00:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184620.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ecafa69zu6ec5ad49zji63d7l_image-header_pDach_1780068374000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",UFC Fight Night | Belal Muhammed vs Gabriel Bonfim (Main Card) (2026-06-07 02:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184621.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/944n842dktio6s52upksrmpzo_image-header_pDach_1749458403000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ironman European Championship | Hamburg (2026-06-07 06:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184622.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/anyfbuflf14rzn53jy03nvfqf_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | Finale Damen Doppel (2026-06-07 11:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184623.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m065ao5dgty4jz41cii8po8p_image-header_pDach_1776892025000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Portimao | Rennen 2 (2026-06-07 12:55:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184624.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6clkfv9edsfriutlttvgh5q5d_image-header_pDach_1778167157000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | Finale Herren (2026-06-07 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184625.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2y779pl642tmc2szwicnd2ovx_image-header_pDach_1779379728000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Spiel um Platz 3 (2026-06-07 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184626.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eacuxtna1q42tafpd33sf4rj1_image-header_pDach_1779727440000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Liechtenstein - Zypern (2026-06-07 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184627.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8hqo8h6bezb3dftazr7x8gl3x_image-header_pDach_1779379829000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Finale (2026-06-07 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184628.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2p8x8wzeoonzjtyop3ddy3jdb_image-header_pDach_1780855813000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | F. Cobolli - A. Zverev (Finale Herren) (2026-06-07 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184694.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1qgz9qk6dnt3t1vknc2nd9bvce_image-header_pDach_1780408757000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SB Benfica vs. Massaf FC Cacine (2026-06-07 18:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184695.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/77mqj1g4qybhxxh84ez0ag5vd_image-header_pDach_1780666430000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Belgien U17 - Italien U17 | Finale (2026-06-07 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184696.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8mdgfh935zjwnp9114tlmft51_image-header_pDach_1775818996000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cholet - Paris | Halbfinale (Spiel 3) (2026-06-07 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184697.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c2mij8oski45jejulii2lx0yh_image-header_pDach_1779895771000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kosovo - Andorra (2026-06-07 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184629.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c39wsmx84pjxpkqw0qihoz4as_image-header_pDach_1780056977000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dänemark - Ukraine (2026-06-07 20:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184630.m3u8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184698.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b11jtgofrnd11w8qtyt74ck4i_image-header_pDach_1779984941000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",C.S. Cartagines vs. Upala-Carrillo (2026-06-07 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184699.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d1gy5mblb89m7q3tg75tbqc2i_image-header_pDach_1778415338000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kroatien - Slowenien (2026-06-07 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184631.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b11jtgofrnd11w8qtyt74ck4i_image-header_pDach_1779984941000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",C.S. Cartagines vs. Upala-Carrillo (2026-06-07 22:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184632.m3u8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184700.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2ued34lbrf14h17kreoqqdmxr_image-header_pDach_1779972186000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Griechenland - Italien (2026-06-07 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184701.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18xnt2cf4k4ej18wap2zq0apuw_image-header_pDach_1780222734000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ávila F.C v Mineros de Guayana (2026-06-07 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184702.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6u65dc3z8w3fjfru7523tzxuc_image-header_pDach_1780386092000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Las Palmas - Malaga | Halbfinale (Hinspiel) (2026-06-07 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184703.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cnf6cyjq5jesm94qy0nzyan1n_image-header_pDach_1780400929000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ecuador - Guatemala (Sportdigital Fußball) (2026-06-07 22:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184704.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amrinth3tfrs16pf6t2udl3dn_image-header_pDach_1778730861000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Harlem United SC vs. Portsmouth Bombers FC (2026-06-07 22:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184705.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8yl1dzu2zlaq1uf82733dqnxt_image-header_pDach_1779973118000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Roaring Lions FC vs. East Enders FC (2026-06-08 00:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184706.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kywhd2kvnxad1qpq3yafh0orf_image-header_pDach_1780572064000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hurricanes SC vs. St. John's Sports (2026-06-08 00:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184707.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ih1pv128lxhr1cycbvdhesmrg_image-header_pDach_1778731269000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",We United FC vs. Dublanc FC (2026-06-08 00:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184708.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o97qhz3m3jty1exhm99d8mhvq_image-header_pDach_1780310493000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Olympic FC vs. Sahel SC (2026-06-08 17:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184709.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o0p86hqcfdmg1rquujric8zwj_image-header_pDach_1780586761000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Police vs. AS Douanes (2026-06-08 17:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184710.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1exwx2rvnqyr81ut4f39gd6ysu_image-header_pDach_1774003950000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inside The Ring - June 8 (2026-06-08 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184711.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5txewyx4uw0h0m7cff4z6y88d_image-header_pDach_1777379254000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Deutschland U23 - Dänemark U23 (2026-06-08 20:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184712.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8e57plz0j6ecy8g05pvkah04x_image-header_pDach_1779895833000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Niederlande - Usbekistan (2026-06-08 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184713.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jybldxqs3gn08y5bva3w3p3h_image-header_pDach_1780057781000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nanterre - Monaco | Halbfinale (Spiel 4) (2026-06-08 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184714.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cerftda67mke4e6v5y4bybkc3_image-header_pDach_1778415461000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Frankreich - Nordirland (2026-06-08 21:10:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184715.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9vequddm5n1715tb2ip6rsmlr_image-header_pDach_1779871048000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Spanien - Peru (2026-06-09 04:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184716.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m3spsmsd3voc1xgb6onlscm5u_image-header_pDach_1780048117000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Indonesia vs. Mozambique (2026-06-09 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184718.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2wkd1i53meqpnxzd3w469ais5_image-header_pDach_1779744817000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Armenien - Republik Moldau (2026-06-09 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184719.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3f317eqj5ibq6y7snzudhw5k7_image-header_pDach_1779823402000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Belarus - Burkina Faso (2026-06-09 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184720.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e3bl7pzvboij2snh2221etv3w_image-header_pDach_1780045399000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",DFB-Pressekonferenz | 9. Juni (2026-06-09 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184721.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9p566ycu14mbgus4c03vn3xsa_image-header_pDach_1779744799000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ungarn - Kasachstan (2026-06-09 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184722.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3sj2h3ff5uh4qd95747yqpbvb_image-header_pDach_1775818996000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cholet - Paris | Halbfinale (Spiel 4) (2026-06-09 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184723.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6yj2qbw0tqrc88f91l3bxj0dn_image-header_pDach_1778415361000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",San Marino - Aserbaidschan (2026-06-09 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184724.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eeoxlqp8hvwyjtlvho6pmxo1v_image-header_pDach_1780386026000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Almeria - Castellon | Halbfinale (Rückspiel) (2026-06-09 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184725.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1lw5e2xe51hpr1v4487jiv1b40_image-header_pDach_1779987249000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Britannia vs. Sporting (2026-06-10 02:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184726.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6pe5rhuxuseqtxylrr0jc6voj_image-header_pDach_1780386079000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Malaga - Las Palmas | Halbfinale (Rückspiel) (2026-06-10 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184727.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/omsat438ced4167xwqxknohc5_image-header_pDach_1778731236000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hawks FC vs Gambia Ports Authority FC (2026-06-10 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184728.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2xk2cuvg2o7v1e3hjv1hpotze_image-header_pDach_1778731115000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Bombada FC vs. Medina United (2026-06-10 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184729.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vphtcluf12dw1u5sa122o51xl_image-header_pDach_1778731748000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Team Rhino FC vs. Real de Banjul FC (2026-06-10 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184730.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/52n2aknsl4l6y68vci2517tkx_image-header_pDach_1780045213000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",DFB-Pressekonferenz | 10. Juni (2026-06-10 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184731.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aycnkk0w6vtr9dpwt0u5fv5ho_image-header_pDach_1779115607000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Portugal - Nigeria (2026-06-10 21:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184732.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1oqjlj3kc638v2ne8cd7jr8kv_image-header_pDach_1778415638000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",England - Costa Rica (2026-06-10 22:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184733.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qd37fu837xqr14mbswpuyoyf7_image-header_pDach_1779987241000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",La Fama vs. Dakota (2026-06-11 02:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184734.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/y29blrenu0fl1p33gb05kxa5x_image-header_pDach_1780574745000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fury vs. Hall: Pressekonferenz (2026-06-11 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184735.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jdp49l9pvt0q1uqf7vv648q1k_image-header_pDach_1778731239000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Brikama United vs. Greater Tomorrow (2026-06-11 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184736.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1hujfhmpvsx35127eclre8cobu_image-header_pDach_1778731324000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Gambian Dutch Lions vs. TMT FA (2026-06-11 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184737.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18ezpoggg5jfl12nlv11vby2rx_image-header_pDach_1778731324000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",BST Galaxy FC vs. Steve Biko FC (2026-06-11 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184738.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/398iznpuh6q01t4pkcwi4d64a_image-header_pDach_1778731264000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Falcons FC vs. Fortune FC (2026-06-11 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184739.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/17qd3wak99axt1vowjpse8vat8_image-header_pDach_1778731807000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hart FC vs. Samger FC (2026-06-11 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184740.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dswppqsywso4ngg2ekjqcadh8_image-header_pDach_1780045399000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",DFB-Pressekonferenz | 11. Juni (2026-06-11 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184741.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6niiditndwddf0txv28cfx1ef_image-header_pDach_1780057873000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Monaco - Nanterre | Halbfinale (Spiel 5, falls nötig) (2026-06-11 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184742.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8g1fbkb74k4chhrlcoe6iypo7_image-header_pDach_1778007476000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",World Cup of Darts | Tag 1 (2026-06-11 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184743.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1kx2t778dpsoezdtp9kgdev2q_image-header_pDach_1780307927000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cholet - Paris | Halbfinale (Spiel 5, falls nötig) (2026-06-11 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184744.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ka3vq1wmt9g119uiuveril7o2_image-header_pDach_1780677708000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rodriguez vs. Vargas: Pressekonferenz (2026-06-11 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184745.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/193sgmjui95391r5g53dpuqqos_image-header_pDach_1780668947000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mathieu vs. Falcao (2026-06-12 02:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184746.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tw6klve9w5dn1vp79r5xif8h7_image-header_pDach_1780556649000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Auckland FC Reserves vs. Bay Olympic FC (2026-06-12 09:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184747.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1qb02yzj7hiqo1742hafq040vi_image-header_pDach_1768587239000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dubrovnik - Qualifying Time Trials (2026-06-12 11:55:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184748.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f2gt0tq7hcxzaxvr8nhz1ue3f_image-header_pDach_1748447649000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",World Cup of Darts | Tag 2 (Session 1) (2026-06-12 12:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184749.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1e0bgltgfqo261qgbscr7xakcn_image-header_pDach_1768587239000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dubrovnik - Qualifying Sessions and Pole Shootout (2026-06-12 14:25:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184750.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eiizdtyabr18t59d9f0el2zdg_image-header_pDach_1776171337000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Freestyle Friday | 12. Juni (2026-06-12 16:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184751.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bwdhe7nvs9nu1fqdez7zgcywc_image-header_pDach_1779190817000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",NFA BE1 vs. Tauras (2026-06-12 17:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184752.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1hhgefap85f6a1fh5rv3p1ym36_image-header_pDach_1780578137000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fury vs. Hall: Weigh-In (2026-06-12 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184753.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/rrwipkjt65dt1fztmzu94exyw_image-header_pDach_1778732278000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mighty Blackpool FC vs. Bullom Stars FC (2026-06-12 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184754.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/19u6ooiwsn59o1an2yuhcclh0t_image-header_pDach_1778731953000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ports Authority FC vs. Old Edwardians FC (2026-06-12 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184755.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f4muii44ds56tpehn8n096qsv_image-header_pDach_1780045213000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",DFB-Pressekonferenz | 12. Juni (2026-06-12 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184756.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/11604i9t0or1x0jcffsyxjusv_image-header_pDach_1748447523000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",World Cup of Darts | Tag 2 (Session 2) (2026-06-12 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184757.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dr96tfumjakghneqs83csjex6_image-header_pDach_1777989669000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cliftonville - Glentoran (2026-06-12 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184758.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kt06o78bhgi16sigm7jxac97_image-header_pDach_1780680443000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rodriguez vs. Vargas: Weigh-In (2026-06-12 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184759.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1o9qgsjuebybr1k9l2gq949i1n_image-header_pDach_1779183029000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mighty Avengers vs. Portsmouth Bombers FC (2026-06-13 01:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184760.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jze585jh2xtj10fpytqooyizl_image-header_pDach_1779791654000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",MFA Žalgiris-MRU vs. FK TransINVEST (2026-06-13 11:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184761.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/l09yvezvwleb14d2qqzm6mqxj_image-header_pDach_1768587293000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dubrovnik - Group Stages (2026-06-13 11:50:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184762.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vhnsw74ljs5w12lvfqplnnjgc_image-header_pDach_1779791658000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kauno rajono FA vs. FA Šiauliai (2026-06-13 13:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184763.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6dpnwalgy0rcwf7wvfltn904u_image-header_pDach_1748447318000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",World Cup of Darts | Tag 3 (Session 1) (2026-06-13 13:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184764.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5lr56yg397t4ezsfx4pvd5bfc_image-header_pDach_1780484062000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Marie Ruumet vs Roghayeh (2026-06-13 14:10:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184766.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/enwx6iqrkdpfcixc21qwh7huy_image-header_pDach_1780480148000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",TruckScout24 EHF FINAL4 2026 | Halbfinale (2026-06-13 14:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184767.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/17l98sqxlhazx19spg9i83drc7_image-header_pDach_1768587346000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dubrovnik - Race Off (2026-06-13 14:40:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184768.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1aeqcd7anscfj190zuukmkhft3_image-header_pDach_1780555653000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FC Puldin vs. FC Sportika (2026-06-13 15:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184769.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/59hvquejd8ug186miay8fmhrt_image-header_pDach_1768586343000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dubrovnik - Finals (2026-06-13 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184770.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ub3cn68i6lo9155634yu2iyp4_image-header_pDach_1778730949000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FK Minija vs. Vilniaus BFA (2026-06-13 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184771.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bhdcxbrj04391ut3ggmx0m4kn_image-header_pDach_1780315033000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FCB Nyasa Big Bullets vs. Ekhaya FC (2026-06-13 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184772.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1liely3s0z8ex15noofkzsurro_image-header_pDach_1780393927000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Buffles FC vs. BANIGANSE FC (2026-06-13 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184773.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/nus4lqnbtquh1418xll9d9g56_image-header_pDach_1778730921000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SOBEMAP FC vs. AS Cotonou FC (2026-06-13 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184774.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bvzxfxi4n20q1utdxk4vfvmr3_image-header_pDach_1778732083000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Loto Popo FC vs. ASPAC FC (2026-06-13 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184775.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9d1w9gw8omdi1prij78k5iy13_image-header_pDach_1780393927000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Dynamo FC AB vs. Coton FC (2026-06-13 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184776.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m7dwgtmxjsv115s2cinyp1v9_image-header_pDach_1778732246000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Abacha City FC vs. East End Lions FC (2026-06-13 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184777.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5z52zitr0f8n1kl3krcu49ksg_image-header_pDach_1778732032000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SLIFA FC vs. Bo Rangers FC (2026-06-13 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184778.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18lm9kg061d4w1duflhc9opfzi_image-header_pDach_1778731122000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wusum Stars FC vs. FC Kallon (2026-06-13 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184779.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lk2kk0k8ywrx1tlxcj1jmp9d5_image-header_pDach_1778730894000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Diamond Stars FC vs. Bhantal FC (2026-06-13 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184780.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3mex1k42j86i3xugkl29i2cwv_image-header_pDach_1778007476000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",World Cup of Darts | Tag 3 (Session 2) (2026-06-13 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184781.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bm6l814z3slhykabz82k624vu_image-header_pDach_1776670219000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",MMA Bushido | Kassel (2026-06-13 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184782.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jki97npl9mfv1h1q48unfb6s6_image-header_pDach_1778946582000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Fury vs. Hall (2026-06-13 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184783.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ezmbb3ygqmx41ii1osklkqutm_image-header_pDach_1780389668000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kiwitt vs. Kasujja (2026-06-13 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184784.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1iukgqq710p4o108osc4w420d5_image-header_pDach_1778730889000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Pointe Michel FC vs. Bath Estate FC (2026-06-13 22:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184785.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/hqo1qru0hc49183zrv03npgy9_image-header_pDach_1778731059000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",We United FC vs. South East FC (2026-06-14 00:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184786.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/13g9yghtwhkgkz6j14v7p0qpz_image-header_pDach_1776439692000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Rodriguez vs. Vargas (2026-06-14 01:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184787.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/anhar43s4ri1piozan2ctsp5q_image-header_pDach_1743436619000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ironman 70.3 | Pennsylvania (2026-06-14 12:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184788.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4vwfqkgli866uetlkknvskwbw_image-header_pDach_1778007476000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",World Cup of Darts | Tag 4 (Session 1) (2026-06-14 13:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184789.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/uzbaqseqv47n1wcz397cgzevk_image-header_pDach_1779791662000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",FK Gintra vs. FK Žalgiris (2026-06-14 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184790.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/15z1e57q58qdh1hg56prmw3rdz_image-header_pDach_1780314999000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Mighty Wanderers vs. Creck Sporting FC (2026-06-14 14:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184791.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/26yoztly9l53dnypczz8z97p8_image-header_pDach_1780478319000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",TruckScout24 EHF FINAL4 2026 | Spiel um Platz 3 & Finale (2026-06-14 14:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184792.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/71xlx68q9c031px77wp1egr88_image-header_pDach_1780315029000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Silver Strikers vs. Karonga United (2026-06-14 14:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184793.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -6695,4 +6831,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3287
+# Total: 3355

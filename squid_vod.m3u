@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-07 19:37:09
+# Generated: 2026-06-08 08:50:16
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -19989,6 +19989,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/585.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Mind Explained",The Mind, Explained
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/539.mp4
 
+# --- Movies | The Miniature Wife (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Miniature Wife",The Miniature Wife (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1292.mp4
+
 # --- Movies | The Mob Doctor (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Mob Doctor",The Mob Doctor
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/563.mp4
@@ -20821,4 +20825,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9092
+# Total: 9093
