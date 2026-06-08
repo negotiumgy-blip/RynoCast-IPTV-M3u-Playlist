@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-08 08:50:42
+# Generated: 2026-06-08 21:36:52
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1579,39 +1579,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (99) ---
+# --- DE-DAZN EVENT (84) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2p8x8wzeoonzjtyop3ddy3jdb_image-header_pDach_1780855813000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",French Open | F. Cobolli - A. Zverev (Finale Herren) (2026-06-07 15:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184694.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1qgz9qk6dnt3t1vknc2nd9bvce_image-header_pDach_1780408757000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",SB Benfica vs. Massaf FC Cacine (2026-06-07 18:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184695.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/77mqj1g4qybhxxh84ez0ag5vd_image-header_pDach_1780666430000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Belgien U17 - Italien U17 | Finale (2026-06-07 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184696.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8mdgfh935zjwnp9114tlmft51_image-header_pDach_1775818996000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Cholet - Paris | Halbfinale (Spiel 3) (2026-06-07 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184697.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c2mij8oski45jejulii2lx0yh_image-header_pDach_1779895771000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kosovo - Andorra (2026-06-07 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184698.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b11jtgofrnd11w8qtyt74ck4i_image-header_pDach_1779984941000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",C.S. Cartagines vs. Upala-Carrillo (2026-06-07 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184699.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d1gy5mblb89m7q3tg75tbqc2i_image-header_pDach_1778415338000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Kroatien - Slowenien (2026-06-07 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184700.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2ued34lbrf14h17kreoqqdmxr_image-header_pDach_1779972186000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Griechenland - Italien (2026-06-07 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184701.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18xnt2cf4k4ej18wap2zq0apuw_image-header_pDach_1780222734000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ávila F.C v Mineros de Guayana (2026-06-07 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184702.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6u65dc3z8w3fjfru7523tzxuc_image-header_pDach_1780386092000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Las Palmas - Malaga | Halbfinale (Hinspiel) (2026-06-07 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184703.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cnf6cyjq5jesm94qy0nzyan1n_image-header_pDach_1780400929000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Ecuador - Guatemala (Sportdigital Fußball) (2026-06-07 22:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184704.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amrinth3tfrs16pf6t2udl3dn_image-header_pDach_1778730861000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Harlem United SC vs. Portsmouth Bombers FC (2026-06-07 22:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184705.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8yl1dzu2zlaq1uf82733dqnxt_image-header_pDach_1779973118000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Roaring Lions FC vs. East Enders FC (2026-06-08 00:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184706.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kywhd2kvnxad1qpq3yafh0orf_image-header_pDach_1780572064000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Hurricanes SC vs. St. John's Sports (2026-06-08 00:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184707.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ih1pv128lxhr1cycbvdhesmrg_image-header_pDach_1778731269000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",We United FC vs. Dublanc FC (2026-06-08 00:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184708.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o97qhz3m3jty1exhm99d8mhvq_image-header_pDach_1780310493000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Olympic FC vs. Sahel SC (2026-06-08 17:45:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184709.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o0p86hqcfdmg1rquujric8zwj_image-header_pDach_1780586761000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Police vs. AS Douanes (2026-06-08 17:45:00)
@@ -6831,4 +6801,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3355
+# Total: 3340

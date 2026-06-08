@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-08 08:51:58
+# Generated: 2026-06-08 21:39:07
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -6265,10 +6265,6 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/915.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ PERSEMBE DIZILERI ]",Sevdiğim Sensin
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/916.mp4
 
-# --- Movies | [ RAMAZAN ÖZEL DIZI ] (1) ---
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ RAMAZAN ÖZEL DIZI ]",Vefa Sultan
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/871.mp4
-
 # --- Movies | [ SALI DIZILERI ] (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ SALI DIZILERI ]",Mehmed: Fetihler Sultanı
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/741.mp4
@@ -7268,18 +7264,18 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/718.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/787.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Asaf
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/823.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Senna
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/824.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Adsız Aşıklar
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/869.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Lucifer
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/882.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Bir İhtimal Daha Var
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/891.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Exatlon Türkiye
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/897.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Vikingler
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/898.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Masumiyet Müzesi
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/926.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Vikings
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/927.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Lucifer
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/928.mp4
 
 # --- Movies | [ TR- SERi FiLMLER ] (28) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31Ky2Voos1Qf4H8XQTjNGTE1Nv3Gx3G0JdY_Kw4kQ6o84M.jpg" group-title="Movies | [ TR- SERi FiLMLER ]",4N1K
@@ -7633,4 +7629,4 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127922.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KJ4GOhBiWenAfGqAV5rAK3dmqahVBHEEa21qXpOChZzU.jpg" group-title="Movies | [ TÜRKCE 4K FiLME ]",Uncharted
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127923.mkv
 
-# Total: 3764
+# Total: 3763

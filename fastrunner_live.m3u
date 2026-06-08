@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastrunner.live:8080
-# Generated: 2026-06-08 08:48:04
+# Generated: 2026-06-08 21:33:48
 # Expires: 2026-09-11
 # Family Safe Edition
 # ==============================================
@@ -1034,17 +1034,17 @@ http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/86617.m3u8
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/86618.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",Eurodance 90 HD PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/113005.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 3 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 3 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105326.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 4 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 4 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105325.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 5 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 5 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105324.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 6 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 6 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105323.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 7 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 7 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105322.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 9 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 9 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105320.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 10 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105319.m3u8
@@ -1054,9 +1054,9 @@ http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105318.m3u8
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105317.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 13 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105316.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 20 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 10 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105309.m3u8
-#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",ViaPlay Xtra 37 PL
+#EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",DAZN 11 PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105292.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/viaplay-xtra-uk.png" group-title="Poland",NetFlix [2023] FHD PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105282.m3u8

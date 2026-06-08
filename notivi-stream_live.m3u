@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-08 08:51:58
+# Generated: 2026-06-08 21:39:07
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -323,7 +323,7 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2742.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0tWdwUBQO5m16fYkw3kY_1FBwnGnhznGIkQ7DLNY7RuDWj9KGgiXpZHx6QCoTxZ1Zg.png" group-title="[ DEUTSCHLAND ]",DE - SPIEGEL GESCHICHTE HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2743.m3u8
 
-# --- [ DOCU KANÄLE ] (17) ---
+# --- [ DOCU KANÄLE ] (16) ---
 #EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",***** DOCU *****
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/2726.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0uKX9D6-nP55Nq1FdYj3ecVET7jmNVKofMnt49B3YJFcQPgxUnZ1Pk8NViOGmXyv1w.png" group-title="[ DOCU KANÄLE ]",DE- WELT HD
@@ -334,8 +334,6 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/102617.m3u8
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/148.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0mlfvPhn_yex38hgWcrWcAkc2X0Wb2mIfEj8FAzg7kiw6kT79JCRu2eODLPuQEaYAg.png" group-title="[ DOCU KANÄLE ]",DE - HISTORY HD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/154.m3u8
-#EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0tWdwUBQO5m16fYkw3kY_1G98oJXZGzHy6eD9PHCcRXkpwQBUT5KJdxrwUX-gYK_Sw.png" group-title="[ DOCU KANÄLE ]",DE - ANIMAL PLANET HD
-http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119919.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ DOCU KANÄLE ]",DE - BONGUSTO FHD
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/119920.m3u8
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/UFt_ShEwqn7qVr8TGKzz0mlfvPhn_yex38hgWcrWcAkXxTBP7D2go1satBV5J9ilHRxmtKWuG5q2nkrMUCZaZA.png" group-title="[ DOCU KANÄLE ]",DE - NATIONAL GEOGRAPHIC WILD FHD
@@ -649,4 +647,4 @@ http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="[ TELEKOM SPORT KANÄLE ]",DE - SPORT | MAGENTA SPORT 17 HD [ NUR SPIEL TAG ]
 http://notivi-stream.com:64640/live/CengizKoekten/jAa4jQxLVeMC/123194.m3u8
 
-# Total: 307
+# Total: 306
