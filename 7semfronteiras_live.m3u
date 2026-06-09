@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 7semfronteiras.cc
-# Generated: 2026-06-08 21:36:06
+# Generated: 2026-06-09 08:17:32
 # Expires: 2026-07-31
 # Family Safe Edition
 # ==============================================
@@ -7501,77 +7501,17 @@ http://7semfronteiras.cc/live/3947938/128192899/308512.m3u8
 #EXTINF:-1 tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a56d14b6bc074d8004ebfced2ceaf933.png" group-title="CANAIS | TURQUIA",TR: Max Vizyon 1 FHD Vip
 http://7semfronteiras.cc/live/3947938/128192899/308513.m3u8
 
-# --- CANAIS | UHD (4K) (35) ---
+# --- CANAIS | UHD (4K) (5) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/globo4k.png" group-title="CANAIS | UHD (4K)",GLOBO SP UHD¹
 http://7semfronteiras.cc/live/3947938/128192899/315113.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/animalplanet4k.png" group-title="CANAIS | UHD (4K)",ANIMAL PLANET 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/69814.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cartoonnetwork4k.png" group-title="CANAIS | UHD (4K)",CARTOON NETWORK 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116627.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/combate4k.png" group-title="CANAIS | UHD (4K)",COMBATE 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116628.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/discoverychannel4k.png" group-title="CANAIS | UHD (4K)",DISCOVERY CHANNEL 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116629.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/globo4k.png" group-title="CANAIS | UHD (4K)",GLOBO 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116630.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/hbo4k.png" group-title="CANAIS | UHD (4K)",HBO 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116632.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/megapix4k.png" group-title="CANAIS | UHD (4K)",MEGAPIX 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116633.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/multishow4k.png" group-title="CANAIS | UHD (4K)",MULTISHOW 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116634.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/record4k.png" group-title="CANAIS | UHD (4K)",RECORD 4K¹
 http://7semfronteiras.cc/live/3947938/128192899/69813.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/redetv4k.png" group-title="CANAIS | UHD (4K)",REDE TV! 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116635.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/sportv4k.png" group-title="CANAIS | UHD (4K)",SPORTV 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116636.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/telecinepremium4k.png" group-title="CANAIS | UHD (4K)",TELECINE PREMIUM 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116641.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/tnt4k.png" group-title="CANAIS | UHD (4K)",TNT 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116642.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/tntseries4k.png" group-title="CANAIS | UHD (4K)",TNT SERIES 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116643.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/premiereclubes4k.png" group-title="CANAIS | UHD (4K)",PREMIERE CLUBES 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/28790.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/band4k.png" group-title="CANAIS | UHD (4K)",BAND SP 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275364.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/axn4k.png" group-title="CANAIS | UHD (4K)",AXN 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275365.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/discoveryheh4k.png" group-title="CANAIS | UHD (4K)",DISCOVERY HOME & HEALTH 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275366.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/cnnbrasil4k.png" group-title="CANAIS | UHD (4K)",CNN BRASIL 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275367.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/comedycentral4k.png" group-title="CANAIS | UHD (4K)",COMEDY CENTRAL 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275368.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/discoveryturbo4k.png" group-title="CANAIS | UHD (4K)",DISCOVERY TURBO 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275369.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/globonews4k.png" group-title="CANAIS | UHD (4K)",GLOBO NEWS 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275371.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/gnt4k.png" group-title="CANAIS | UHD (4K)",GNT 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275372.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/jovempam4k.png" group-title="CANAIS | UHD (4K)",JOVEM PAN NEWS 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275373.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/telecineaction4k.png" group-title="CANAIS | UHD (4K)",TELECINE ACTION 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275374.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/telecinepipoca4k.png" group-title="CANAIS | UHD (4K)",TELECINE PIPOCA 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275375.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/universal4k.png" group-title="CANAIS | UHD (4K)",UNIVERSAL 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275376.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/viva4k.png" group-title="CANAIS | UHD (4K)",VIVA 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275377.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/sbt4k.png" group-title="CANAIS | UHD (4K)",SBT 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/116644.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/globo4k.png" group-title="CANAIS | UHD (4K)",GLOBO RBS TV UHD¹
 http://7semfronteiras.cc/live/3947938/128192899/315112.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/combate4k.png" group-title="CANAIS | UHD (4K)",COMBATE 4K¹
 http://7semfronteiras.cc/live/3947938/128192899/336462.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/bandsports4k.png" group-title="CANAIS | UHD (4K)",BAND SPORTS 4K¹
 http://7semfronteiras.cc/live/3947938/128192899/336463.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/espn4k.png" group-title="CANAIS | UHD (4K)",ESPN  4K¹
-http://7semfronteiras.cc/live/3947938/128192899/28792.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/espn44k.png" group-title="CANAIS | UHD (4K)",ESPN 4 4K¹
-http://7semfronteiras.cc/live/3947938/128192899/275370.m3u8
 
 # --- CANAIS | USA (515) ---
 #EXTINF:-1 tvg-logo="https://curl.pk/img/u/a816c4f1e9bfb3a95b7b71256200a33c119.jpg" group-title="CANAIS | USA",⭐⭐⭐ Documentary ⭐⭐⭐
@@ -9083,4 +9023,4 @@ http://7semfronteiras.cc/live/3947938/128192899/197699.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7semfronteiras.cc/live/3947938/128192899/197701.m3u8
 
-# Total: 4477
+# Total: 4447

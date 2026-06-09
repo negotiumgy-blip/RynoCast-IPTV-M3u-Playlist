@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: notivi-stream.com:64640
-# Generated: 2026-06-08 21:39:07
+# Generated: 2026-06-09 08:13:49
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -5923,7 +5923,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/732.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- HBO SERIEN ]",We Own This City
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/733.mp4
 
-# --- Movies | [ DE- NETFLiX SERIEN ] (90) ---
+# --- Movies | [ DE- NETFLiX SERIEN ] (92) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",12 Monkeys
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/580.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",2 Broke Girls
@@ -6104,10 +6104,18 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/862.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/894.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",The Rookie
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/924.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Chicago Fire
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/930.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ DE- NETFLiX SERIEN ]",Nemesis
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/931.mp4
 
 # --- Movies | [ DEUTSCHE 4K FiLME ] (1) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KKH_w4VcyDbB1JRfDW66GM9ZfDOMVLDpCqvwFN_7uOfM.jpg" group-title="Movies | [ DEUTSCHE 4K FiLME ]",Konklave
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/128225.mkv
+
+# --- Movies | [ KARISIK SERILER ] (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | [ KARISIK SERILER ]",Kurtlar Vadisi: Pusu
+http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/929.mp4
 
 # --- Movies | [ KEMAL SUNAL ] (40) ---
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31Kxn651ffUlPighDfDAxS23HAJVPB6phePd9TSohgePUs.jpg" group-title="Movies | [ KEMAL SUNAL ]",100 Numaralı Adam
@@ -7207,7 +7215,7 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/481.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- HBO SERILER ]",Bizden Geriye Kalanlar
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/694.mp4
 
-# --- Movies | [ TR- NETFLiX SERILER ] (34) ---
+# --- Movies | [ TR- NETFLiX SERILER ] (33) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Kimler Geldi Kimler Geçti
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/756.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",50M²
@@ -7232,8 +7240,6 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/198.mp4
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/75.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Erşan Kuneri
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/393.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Exatlon Türkiye
-http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/152.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Game of Thrones
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/32.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | [ TR- NETFLiX SERILER ]",Hakan: Muhafız
@@ -7629,4 +7635,4 @@ http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127922.mkv
 #EXTINF:-1 tvg-logo="http://notivi-stream.com:64640/images/p7OyrLOe3x64BAjKQa3Jfix0slderWO9OZun0WHY_rnTZm6wOpdcHOjYYtjUL31KJ4GOhBiWenAfGqAV5rAK3dmqahVBHEEa21qXpOChZzU.jpg" group-title="Movies | [ TÜRKCE 4K FiLME ]",Uncharted
 http://notivi-stream.com:64640/movie/CengizKoekten/jAa4jQxLVeMC/127923.mkv
 
-# Total: 3763
+# Total: 3765

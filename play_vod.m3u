@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-06-08 21:32:13
+# Generated: 2026-06-09 08:13:56
 # Expires: 2026-06-24
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Doramas (222) ---
+# --- Movies | Doramas (223) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",As Três Irmãs
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1585.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",Bulgasal: Almas Imortais
@@ -452,6 +452,8 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5789.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5790.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",A Gente Tenta 2026
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5791.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Doramas",Meu Querido Nêmesis [L]
+http://play.1list.vip/movie/8gZav5kQe2/duoiptv/5845.mp4
 
 # --- Movies | Doramas Viki (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Doramas Viki",Meu colega de quarto é um Gumiho
@@ -13487,7 +13489,7 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1012920.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvqB6hSE7qwXktQu80kzgRGg6NX.jpg" group-title="Movies | Filmes | Drama",O Estrangeiro (2025)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014838.mp4
 
-# --- Movies | Filmes | Especial de Natal (207) ---
+# --- Movies | Filmes | Especial de Natal (206) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGnQmQARgtXtoesIGAsmmTbMKfH.jpg" group-title="Movies | Filmes | Especial de Natal",O Grinch (2018)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/48974.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaOfOKo5REHbSV4fzFFl2mm9JHH.jpg" group-title="Movies | Filmes | Especial de Natal",Bem a Tempo para o Natal (2015)
@@ -13720,8 +13722,6 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/161837.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/161843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4CQkH3BFqhwQxJIDQLJLmiDubV.jpg" group-title="Movies | Filmes | Especial de Natal",O Natal de Costume (2023)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/161844.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2wpjvGFA9ZdQFZn4Phg6QKZRBH.jpg" group-title="Movies | Filmes | Especial de Natal",O Natal do Pequeno Batman (2023)
-http://play.1list.vip/movie/8gZav5kQe2/duoiptv/161846.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHGyCnATtIc2tLS84sXDgDuJaQX.jpg" group-title="Movies | Filmes | Especial de Natal",No Seu Natal ou no Meu 2 (2023)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/161847.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSBIk1EQrt2DJHQHjYqQCHQeHRt.jpg" group-title="Movies | Filmes | Especial de Natal",Urkel Salva o Papai Noel: O Filme! (2023)
@@ -17441,7 +17441,7 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014814.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iECvqAtlvUIihc9b2Dyr2uUaqNW.jpg" group-title="Movies | Filmes | Infantil",Barbie: Vida de Sereia 2 (2012)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014815.mp4
 
-# --- Movies | Filmes | Legendados (948) ---
+# --- Movies | Filmes | Legendados (949) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCCryq8.png" group-title="Movies | Filmes | Legendados",The Quake (2018)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/48943.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81lk1ZfUHjL._SS500_.jpg" group-title="Movies | Filmes | Legendados",A-X-L (2018)
@@ -19338,6 +19338,8 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1009038.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1009039.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8tUMXgpEtSHuHjipX3rrOtCfe1.jpg" group-title="Movies | Filmes | Legendados",Hokum: O Pesadelo da Bruxa (2026)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014637.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZxbfDA3OCcwAFwIgOGC4Rauogn.jpg" group-title="Movies | Filmes | Legendados",Golpe Explosivo (2026) [L]
+http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014930.mp4
 
 # --- Movies | Filmes | Marvel (61) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9it1qyyxxSW7TFKnKF7orVF9BpT.jpg" group-title="Movies | Filmes | Marvel",Deadpool (2016)
@@ -21523,7 +21525,7 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1010930.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5Ws1UCeTw1ywrvOG7ucu81mM6f.jpg" group-title="Movies | Filmes | Romance",Pillion (2025)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014843.mp4
 
-# --- Movies | Filmes | Suspense (781) ---
+# --- Movies | Filmes | Suspense (782) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvcsAfWEbtO85YvzJ7N2c9ghuOn.jpg" group-title="Movies | Filmes | Suspense",Assassinos Múltiplos (2017)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/48204.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVZA7YLdTNzMGjGOARpbF6NvhJI.jpg" group-title="Movies | Filmes | Suspense",Continue Assistindo (2017)
@@ -23086,6 +23088,8 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1009037.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1009725.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tytBUvzKeJgZKuAnBk8Z00TEu6P.jpg" group-title="Movies | Filmes | Suspense",Sob o Domínio do Mal (2004)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014473.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BKJccTFUyppl2rmdpVbZUJeSTS.jpg" group-title="Movies | Filmes | Suspense",Reação em Cadeia (1996)
+http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014929.mp4
 
 # --- Movies | Filmes | Terror (1110) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg" group-title="Movies | Filmes | Terror",A Maldição de Chucky (2013)
@@ -34775,4 +34779,4 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5582
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | STAR+",Food Truck - A Batalha
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5584
 
-# Total: 17338
+# Total: 17340

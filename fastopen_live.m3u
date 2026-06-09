@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-06-08 21:39:20
+# Generated: 2026-06-09 08:24:52
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -31195,6 +31195,46 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/13723.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Viet Nam",ATV VN
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/13678.m3u8
 
+# --- World Cricket VIP (19) ---
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="World Cricket VIP",Sky Sports Cricket HD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135317.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="World Cricket VIP",Sky Sports Cricket FHD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135316.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" group-title="World Cricket VIP",Willow Cricket HD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135320.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Willow_Cricket_2010.png/revision/latest/scale-to-width-down/150?cb=20260102214436" group-title="World Cricket VIP",Willow Cricket FHD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135318.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-xtra-us.png?raw=true" group-title="World Cricket VIP",Willow Cricket Xtra HD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135321.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/malaysia/astro-cricket-my.png?raw=true" group-title="World Cricket VIP",Astro Cricket FHD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135315.m3u8
+#EXTINF:-1 tvg-logo="https://assets.5tars.io/cricket/STARZPLAY-logo-cricket.png" group-title="World Cricket VIP",StarzPlay Cricket FHD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135323.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-in.png?raw=true" group-title="World Cricket VIP",STAR SPORTS 1 HD ENGLISH VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135325.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-1-hindi-in.png?raw=true" group-title="World Cricket VIP",STAR SPORTS 1 HD HINDI VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135326.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-2-in.png?raw=true" group-title="World Cricket VIP",Star Sports 2 HD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135327.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-3-in.png?raw=true" group-title="World Cricket VIP",STAR SPORTS 3 VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135328.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-1-in.png?raw=true" group-title="World Cricket VIP",Star Sports Select 1 HD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135329.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/star-sports-select-2-in.png?raw=true" group-title="World Cricket VIP",Star Sports Select 2 HD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135330.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="World Cricket VIP",SuperSport Cricket VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135324.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="World Cricket VIP",A SPORTS VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135333.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" group-title="World Cricket VIP",PTV SPORTS VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135332.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/sports-18-in.png?raw=true" group-title="World Cricket VIP",Sports 18 HD VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135331.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-cricket-hd-hz-au.png?raw=true" group-title="World Cricket VIP",Fox Cricket VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135322.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png" group-title="World Cricket VIP",Ten Cricket HEVC VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/135319.m3u8
+
 # --- ex-Yu (223) ---
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu",##########   ex-Yu   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2522.m3u8
@@ -31647,4 +31687,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15715
+# Total: 15734

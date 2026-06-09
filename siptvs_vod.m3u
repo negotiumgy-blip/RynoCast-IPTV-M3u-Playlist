@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-06-08 21:36:14
+# Generated: 2026-06-09 08:14:50
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -4067,7 +4067,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/196751.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6LgOh25OtKckq5reV4Nx9jUGT59.jpg" group-title="Movies | |DE| FAMILY",Die drei Fragezeichen  - Erbe des Drachen (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199654.mkv
 
-# --- Movies | |DE| FILME (1194) ---
+# --- Movies | |DE| FILME (1195) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpMok0VXMi7nBSk3hMRag8HNevI.jpg" group-title="Movies | |DE| FILME",Banden von Marseille (2020)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/20495.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LVUihwEm33WQtb6syT6Cjzqdpq.jpg" group-title="Movies | |DE| FILME",Blizzard of Souls - Zwischen den Fronten (2019)
@@ -6456,6 +6456,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/202454.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/203117.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/i5QfNIcg6hc327IWUerea0EczP4.jpg" group-title="Movies | |DE| FILME",Lockout (2012)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/203297.mp4
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg" group-title="Movies | |DE| FILME",Avatar (2009)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/203408.mkv
 
 # --- Movies | |DE| FILME 2019/2020 (3) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivWleLvEQkSJiJ2xw1IQjJWkldp.jpg" group-title="Movies | |DE| FILME 2019/2020",The Last Exorcist (2020)
@@ -35003,4 +35005,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 17435
+# Total: 17436

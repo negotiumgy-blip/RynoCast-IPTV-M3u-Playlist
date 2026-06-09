@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-06-08 21:42:16
+# Generated: 2026-06-09 08:24:16
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -7409,7 +7409,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (148) ---
+# --- Movies | Filme 2026 (150) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg" group-title="Movies | Filme 2026",Mortal Kombat II - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71104.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" group-title="Movies | Filme 2026",Michael - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71103.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOxnMaDkr792WOZFJUb6LxcR74.jpg" group-title="Movies | Filme 2026",The Way to You - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/71088.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/db9nxdSqZ8Mh6RDRreF1HFsz9hx.jpg" group-title="Movies | Filme 2026",The Murder of Rachel Nickell - 2026
@@ -18533,6 +18537,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/966.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Norsemen",Norsemen (2016)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1274.mp4
 
+# --- Movies | Not Suitable for Work (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Not Suitable for Work",Not Suitable for Work (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1293.mp4
+
 # --- Movies | Nothing (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Nothing",Nothing (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1170.mp4
@@ -20825,4 +20833,4 @@ http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 #EXTINF:-1 tvg-logo="" group-title="Series | Malibu Rescue The Series",Malibu Rescue: The Series (2019)
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1286
 
-# Total: 9093
+# Total: 9096

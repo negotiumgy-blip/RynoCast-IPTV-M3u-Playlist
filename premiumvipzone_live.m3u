@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2026-06-05 20:36:26
+# Generated: 2026-06-09 08:13:07
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -15819,8 +15819,8 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/129015.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ RO - Religie ✰",Magura Media Filme Religioase
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/45582.m3u8
 
-# --- ✰ RO - Sport ✰ (64) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43xX81ph/download.png" group-title="✰ RO - Sport ✰",⚽Digi Sport 1 ᴴᴰ
+# --- ✰ RO - Sport ✰ (63) ---
+#EXTINF:-1 tvg-logo="http://46.224.161.11/downloads/DigiSport1HD.png" group-title="✰ RO - Sport ✰",⚽Digi Sport 1 ᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/67.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/digisport1.png" group-title="✰ RO - Sport ✰",⚽DIGI Sport 1 { SD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/128.m3u8
@@ -15882,8 +15882,6 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/101627.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/138766.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/prhHXJK7/Prima-Sport-5-new.png" group-title="✰ RO - Sport ✰",⚽Prima Sport 5 { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/117266.m3u8
-#EXTINF:-1 tvg-logo="https://media.herni-kupony.cz/produkty/produktove-obrazky/voyo/voyo-hk-cz.png" group-title="✰ RO - Sport ✰",⚽Voyo Sport 1 { HD } ( Doar in timpul meciurilor )
-http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/236641.m3u8
 #EXTINF:-1 tvg-logo="https://media.herni-kupony.cz/produkty/produktove-obrazky/voyo/voyo-hk-cz.png" group-title="✰ RO - Sport ✰",⚽Voyo Sport 2 { HD } ( Doar in timpul meciurilor )
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/236640.m3u8
 #EXTINF:-1 tvg-logo="https://media.herni-kupony.cz/produkty/produktove-obrazky/voyo/voyo-hk-cz.png" group-title="✰ RO - Sport ✰",⚽Voyo Sport 3 { HD } ( Doar in timpul meciurilor )
@@ -15946,10 +15944,10 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/52184.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/185341.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jShfJcRw/tvrsport.jpg" group-title="✰ RO - Sport ✰",Tvr Sport { HD }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/152154.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZK2qyzKW/photo-2025-12-15-19-27-05.jpg" group-title="✰ RO - Sport ✰",Event VIP
+#EXTINF:-1 tvg-logo="" group-title="✰ RO - Sport ✰",Event VIP Gala Heroes 15
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/274082.m3u8
 
-# --- ✰ Romania - Full ✰ (468) ---
+# --- ✰ Romania - Full ✰ (469) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRKkSQYS/Antena-1HD-2.png" group-title="✰ Romania - Full ✰",Antena. 1ᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRKkSQYS/Antena-1HD-2.png" group-title="✰ Romania - Full ✰",Antena 1ᶠᴴᴰ
@@ -16012,7 +16010,7 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270673.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270671.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - Full ✰",▁ ▂ ▄ ▅ Romania Sport HD ▅ ▄ ▂ ▁
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270722.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43xX81ph/download.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://46.224.161.11/downloads/DigiSport1HD.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 1 ᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270669.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43xX81ph/download.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 1 FHD (H265)
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270667.m3u8
@@ -16024,11 +16022,11 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270644.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270643.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/digisport3.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 3 FHD (H265)
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270640.m3u8
-#EXTINF:-1 tvg-logo="http://5.189.181.7/extract/digisport3.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 3 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://46.224.161.11/downloads/Digiport3hd.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 3 ᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270639.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/digisport4.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 4 FHD (H265)
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270636.m3u8
-#EXTINF:-1 tvg-logo="http://5.189.181.7/extract/digisport4.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://46.224.161.11/downloads/digiposrt4hd.png" group-title="✰ Romania - Full ✰",⚽Digi Sport 4 ᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270635.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NQfSBN4/prima-sport1.png" group-title="✰ Romania - Full ✰",⚽Prima Sport 1 FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270633.m3u8
@@ -16076,6 +16074,8 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270599.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270597.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jShfJcRw/tvrsport.jpg" group-title="✰ Romania - Full ✰",Tvr Sportᴴᴰ
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="✰ Romania - Full ✰",⚽Voyo Sport 1 ( Doar in timpul meciurilor )
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/236641.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - Full ✰",▁ ▂ ▄ ▅ Romania Kids HD + SD ▅ ▄ ▂ ▁
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270729.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrZP1pNc/cartoonito.png" group-title="✰ Romania - Full ✰",Cartoonito
@@ -16670,7 +16670,7 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270174.m3u8
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="✰ Romania - Full ✰",▁ ▂ ▄ ▅ Romania Sport SD ▅ ▄ ▂ ▁
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270723.m3u8
-#EXTINF:-1 tvg-logo="http://5.189.181.7/extract/digisport1.png" group-title="✰ Romania - Full ✰",⚽DIGI Sport 1 HD
+#EXTINF:-1 tvg-logo="http://46.224.161.11/downloads/DigiSport1HD.png" group-title="✰ Romania - Full ✰",⚽DIGI Sport 1 HD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270668.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/extract/digisport2.png" group-title="✰ Romania - Full ✰",⚽DIGI Sport 2
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270642.m3u8

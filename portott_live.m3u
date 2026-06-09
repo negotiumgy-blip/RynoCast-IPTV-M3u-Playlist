@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: portott.com
-# Generated: 2026-06-08 21:45:43
+# Generated: 2026-06-09 08:19:27
 # Expires: 2027-04-19
 # Family Safe Edition
 # ==============================================
@@ -5747,7 +5747,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/582793.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/FREE.png" group-title="|AR| ARABIC KIDS",SY - FREE TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1206421.m3u8
 
-# --- |AR| ARABIC NEWS & FACTUAL (47) ---
+# --- |AR| ARABIC NEWS & FACTUAL (48) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/250152.png" group-title="|AR| ARABIC NEWS & FACTUAL",##### AR - NEWS #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/250152.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/680105.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL JAZERA SD
@@ -5808,6 +5808,8 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/598099.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/250156.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/250183.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - ALYAUM TV
 http://portott.com/live/c4c24c0217/c4b2e86278c6/250183.m3u8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/924871.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - ALHADATH ALYOUM
+http://portott.com/live/c4c24c0217/c4b2e86278c6/1393227.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/250180.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - AL HADATH NEWS HD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/250180.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/250157.png" group-title="|AR| ARABIC NEWS & FACTUAL",AR - CGTN DOCUMENTARY
@@ -16278,7 +16280,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1358331.m3u8
 # --- |DE| DYN NETWORK (62) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",##### DYN PPV EXCLUSIVE #####
 http://portott.com/live/c4c24c0217/c4b2e86278c6/985362.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | ALBA BERLIN - BMA365 BAMBERG BASKETS | PLAYOFFS – HALBFINALE SPIEL 5 | Tue 09 Jun 20:15 CEST (DE) | 8K EXCLUSIVE | DE: DYN PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331981.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1331980.m3u8
@@ -24958,9 +24960,9 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | TOUR AUVERGNE – RHÔNE-ALPES  | Mon 08 Jun 15:19 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | SAN ANTONIO SPURS @ NEW YORK KNICKS | Tue 09 Jun 02:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307815.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TOUR AUVERGNE – RHÔNE-ALPES | Tue 09 Jun 15:20 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307814.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 3
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1307813.m3u8
@@ -28460,7 +28462,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/988160.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/988161.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/USA-FLAG.png" group-title="|NA| PPV LIVE EVENT",###### PPV LIVE EVENTS ######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/994285.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - 2pm WWE Monday Night RAW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/615651.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/615650.m3u8
@@ -37028,13 +37030,13 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/986068.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/689708.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/826828.png" group-title="|PL| INFORMACJE",PL - TRWAM
 http://portott.com/live/c4c24c0217/c4b2e86278c6/826828.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/689761.png" group-title="|PL| INFORMACJE",PL - POLSAT NEWS POLITYCA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/689761.png" group-title="|PL| INFORMACJE",PL - POLSAT NEWS POLITYKA
 http://portott.com/live/c4c24c0217/c4b2e86278c6/689761.m3u8
 
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | TOUR AUVERGNE - RHÔNE-ALPES | 2. ETAP | Mon 08 Jun 15:19 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | TOUR AUVERGNE - RHONE-ALPES | 3. ETAP | Tue 09 Jun 15:20 CEST (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168965.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 2
 http://portott.com/live/c4c24c0217/c4b2e86278c6/1168964.m3u8
@@ -40942,7 +40944,7 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/677310.m3u8
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677309.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",SBO 4: SKY SPORT BOX OFFICE FHD
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677308.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - 2pm WWE Monday Night RAW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677307.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - NO EVENT
 http://portott.com/live/c4c24c0217/c4b2e86278c6/677306.m3u8
@@ -42289,4 +42291,4 @@ http://portott.com/live/c4c24c0217/c4b2e86278c6/828028.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SETANTASPORTS.png" group-title="|UK| WORLD SPORTS",UK - SETANTA SPORTS 12
 http://portott.com/live/c4c24c0217/c4b2e86278c6/828027.m3u8
 
-# Total: 20791
+# Total: 20792

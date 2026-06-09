@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-06-08 21:45:52
+# Generated: 2026-06-09 08:24:37
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -10533,7 +10533,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1400407.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/cinemania.png" group-title="AM | USA | CINEMANIA SHOWS",US - GOOD TIMES FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1400408.m3u8
 
-# --- AM | USA | CW & MY (74) ---
+# --- AM | USA | CW & MY (75) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | CW & MY",##### CW NETWORK #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1249745.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/21.png" group-title="AM | USA | CW & MY",US - CW 02 DENVER (KWGN) HD
@@ -10560,6 +10560,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1249687.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1249688.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/21.png" group-title="AM | USA | CW & MY",US - CW 14 GREEN BAY (WCWF) HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1249689.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nbcc.png" group-title="AM | USA | CW & MY",US - CW 16 EUGENE (KMTR-DT2) HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/214267.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/21.png" group-title="AM | USA | CW & MY",US - CW 15 ALBANY (WCWN) HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1249690.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/21.png" group-title="AM | USA | CW & MY",US - CW 17 JACKSONVILLE (WCWJ) HD
@@ -14822,9 +14824,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/214527.m3u8
 # --- AM | USA | HBO MAX PPV (21) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | HBO MAX PPV",##### HBO MAX PPV #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1405333.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="AM | USA | HBO MAX PPV",US - HBO MAX  01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="AM | USA | HBO MAX PPV",US - HBO MAX  01 : ULTIMATE POOL PAIRS CUP FINAL JUN 8 – 1:00 PM ET / 6:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1405373.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="AM | USA | HBO MAX PPV",US - HBO MAX  02 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="AM | USA | HBO MAX PPV",US - HBO MAX  02 : WEST INDIES @ SRI LANKA 3RD ODI JUN 8 – 3:00 PM ET / 8:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1405372.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/hbomaxori.png" group-title="AM | USA | HBO MAX PPV",US - HBO MAX  03 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1405371.m3u8
@@ -15757,7 +15759,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1405836.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/LATINO/NBA_TV.png" group-title="AM | USA | NBA IN ARENA",US - NBA GAME 30 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1405837.m3u8
 
-# --- AM | USA | NBC (259) ---
+# --- AM | USA | NBC (258) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | NBC",##### NBC ALABAMA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1283006.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nbcc.png" group-title="AM | USA | NBC",US - NBC 12 MONTGOMERY AL (WSFA) FHD
@@ -16260,8 +16262,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/214238.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/214241.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nbcc.png" group-title="AM | USA | NBC",US - NBC 13 MONTANA (KTVM) FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/214251.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nbcc.png" group-title="AM | USA | NBC",US - NBC 16 EUGENE (KMTR) FHD
-http://teck-tv.com/live/2605201443100597/C655BF416768/214267.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nbcc.png" group-title="AM | USA | NBC",US - NBC 25 SAGINAW (WEYI) FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/214312.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nbcc.png" group-title="AM | USA | NBC",US - NBC 31 SALISBURY (WRDE) FHD
