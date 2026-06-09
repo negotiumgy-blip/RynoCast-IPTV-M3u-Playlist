@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-06-09 08:20:32
+# Generated: 2026-06-09 20:40:57
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1579,25 +1579,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (84) ---
+# --- DE-DAZN EVENT (76) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o97qhz3m3jty1exhm99d8mhvq_image-header_pDach_1780310493000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Olympic FC vs. Sahel SC (2026-06-08 17:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184709.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/o0p86hqcfdmg1rquujric8zwj_image-header_pDach_1780586761000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",AS Police vs. AS Douanes (2026-06-08 17:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184710.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1exwx2rvnqyr81ut4f39gd6ysu_image-header_pDach_1774003950000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Inside The Ring - June 8 (2026-06-08 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184711.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5txewyx4uw0h0m7cff4z6y88d_image-header_pDach_1777379254000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Deutschland U23 - Dänemark U23 (2026-06-08 20:15:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184712.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8e57plz0j6ecy8g05pvkah04x_image-header_pDach_1779895833000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Niederlande - Usbekistan (2026-06-08 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184713.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jybldxqs3gn08y5bva3w3p3h_image-header_pDach_1780057781000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Nanterre - Monaco | Halbfinale (Spiel 4) (2026-06-08 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184714.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cerftda67mke4e6v5y4bybkc3_image-header_pDach_1778415461000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Frankreich - Nordirland (2026-06-08 21:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184715.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9vequddm5n1715tb2ip6rsmlr_image-header_pDach_1779871048000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Spanien - Peru (2026-06-09 04:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184716.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/m3spsmsd3voc1xgb6onlscm5u_image-header_pDach_1780048117000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Indonesia vs. Mozambique (2026-06-09 15:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/184718.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2wkd1i53meqpnxzd3w469ais5_image-header_pDach_1779744817000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Armenien - Republik Moldau (2026-06-09 18:00:00)
@@ -1910,6 +1894,10 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175677.m3u8
 # --- DE-MAGENTA SPORT (38) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/1m3zcjz.png" group-title="DE-MAGENTA SPORT",##### DE MAGENTA/TELEKOM SPORT #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36250.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Fussballtv 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123200.m3u8
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Fussballtv 2H D
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123201.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta MS Sport
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175416.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta MS Golf 1
@@ -1980,10 +1968,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123198.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/166660.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 16 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123199.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 17 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123200.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 18 HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/123201.m3u8
 
 # --- DE-MUSIK (8) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-MUSIK",##### DE MUSIK ####
@@ -6801,4 +6785,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3340
+# Total: 3332

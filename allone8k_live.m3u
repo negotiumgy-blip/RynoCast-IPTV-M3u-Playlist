@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-06-09 08:16:12
+# Generated: 2026-06-09 20:40:02
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -15260,17 +15260,17 @@ http://allone8k.info:8080/live/hany/hany1234/311770.m3u8
 http://allone8k.info:8080/live/hany/hany1234/311772.m3u8
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXMOVIESHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| STAR MOVIES HD
 http://allone8k.info:8080/live/hany/hany1234/311771.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| FOX COMEDY 4K
+#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| STAR COMEDY 4K
 http://allone8k.info:8080/live/hany/hany1234/311778.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| FOX COMEDY HD
+#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| STAR COMEDY HD
 http://allone8k.info:8080/live/hany/hany1234/311777.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| FOX CRIME 4K
+#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| STAR CRIME 4K
 http://allone8k.info:8080/live/hany/hany1234/311776.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| FOX CRIME HD
+#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| STAR CRIME HD
 http://allone8k.info:8080/live/hany/hany1234/311775.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| FOX LIFE 4K
+#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| STAR LIFE 4K
 http://allone8k.info:8080/live/hany/hany1234/311774.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| FOX LIFE HD
+#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| STAR LIFE HD
 http://allone8k.info:8080/live/hany/hany1234/311773.m3u8
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CINEMA",PT| HOLLYWOOD 4K
 http://allone8k.info:8080/live/hany/hany1234/311761.m3u8
@@ -15310,7 +15310,7 @@ http://allone8k.info:8080/live/hany/hany1234/311823.m3u8
 http://allone8k.info:8080/live/hany/hany1234/311824.m3u8
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CULTURE",PT| ODISSEIA
 http://allone8k.info:8080/live/hany/hany1234/311833.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CULTURE",PT| ODISSEIA 4K
+#EXTINF:-1 tvg-logo="http://allone8k.info:80/restrempremiumenew/HFYqAQ565DH58Rhgds5SG/311833" group-title="PT | CULTURE",PT| ODISSEIA 4K
 http://allone8k.info:8080/live/hany/hany1234/311834.m3u8
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISCOVERYHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | CULTURE",PT| DISCOVERY 4K
 http://allone8k.info:8080/live/hany/hany1234/311825.m3u8
@@ -15459,51 +15459,59 @@ http://allone8k.info:8080/live/hany/hany1234/311853.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sic-k-hd-pt.png" group-title="PT | KIDS",PT| SIC KIDS
 http://allone8k.info:8080/live/hany/hany1234/311850.m3u8
 
-# --- PT | SPORT (36) ---
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| SPORT TV+ 4K
-http://allone8k.info:8080/live/hany/hany1234/311785.m3u8
+# --- PT | SPORT (40) ---
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| SPORT TV+ HD
 http://allone8k.info:8080/live/hany/hany1234/311784.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PT | SPORT",PT| SPORT TV 1 4K
-http://allone8k.info:8080/live/hany/hany1234/311787.m3u8
+#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| SPORT TV+ 4K
+http://allone8k.info:8080/live/hany/hany1234/311785.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PT | SPORT",PT| SPORT TV 1HD
 http://allone8k.info:8080/live/hany/hany1234/311786.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="PT | SPORT",PT| SPORT TV 2 4K
-http://allone8k.info:8080/live/hany/hany1234/311789.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-1-pt.png?raw=true" group-title="PT | SPORT",PT| SPORT TV 1 4K
+http://allone8k.info:8080/live/hany/hany1234/311787.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="PT | SPORT",PT| SPORT TV 2HD
 http://allone8k.info:8080/live/hany/hany1234/311788.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="PT | SPORT",PT| SPORT TV 3 4K
-http://allone8k.info:8080/live/hany/hany1234/311791.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-2-pt.png" group-title="PT | SPORT",PT| SPORT TV 2 4K
+http://allone8k.info:8080/live/hany/hany1234/311789.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="PT | SPORT",PT| SPORT TV 3HD
 http://allone8k.info:8080/live/hany/hany1234/311790.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="PT | SPORT",PT| SPORT TV 4 4K
-http://allone8k.info:8080/live/hany/hany1234/311793.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-3-pt.png" group-title="PT | SPORT",PT| SPORT TV 3 4K
+http://allone8k.info:8080/live/hany/hany1234/311791.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="PT | SPORT",PT| SPORT TV 4HD
 http://allone8k.info:8080/live/hany/hany1234/311792.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="PT | SPORT",PT| SPORT TV 5 4K
-http://allone8k.info:8080/live/hany/hany1234/311795.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-4-pt.png" group-title="PT | SPORT",PT| SPORT TV 4 4K
+http://allone8k.info:8080/live/hany/hany1234/311793.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="PT | SPORT",PT| SPORT TV 5HD
 http://allone8k.info:8080/live/hany/hany1234/311794.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sport-tv-5-pt.png" group-title="PT | SPORT",PT| SPORT TV 5 4K
+http://allone8k.info:8080/live/hany/hany1234/311795.m3u8
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNBATVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| SPORT TV NBA
 http://allone8k.info:8080/live/hany/hany1234/311782.m3u8
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNBATVHD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| SPORT TV NBA 4K
 http://allone8k.info:8080/live/hany/hany1234/311783.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 3 4K
-http://allone8k.info:8080/live/hany/hany1234/311801.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 3HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="PT | SPORT",PT| DAZN SPORTS 1 HD
+http://allone8k.info:8080/live/hany/hany1234/657655.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/DAZN_1.svg" group-title="PT | SPORT",PT| DAZN SPORTS 1 4K
+http://allone8k.info:8080/live/hany/hany1234/657657.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/500px-DAZN_2.svg.png" group-title="PT | SPORT",PT| DAZN SPORTS 2 HD
+http://allone8k.info:8080/live/hany/hany1234/657656.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/500px-DAZN_2.svg.png" group-title="PT | SPORT",PT| DAZN SPORTS 2 4K
+http://allone8k.info:8080/live/hany/hany1234/657658.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/500px-DAZN_3.svg.png" group-title="PT | SPORT",PT| DAZN SPORTS 3 HD
 http://allone8k.info:8080/live/hany/hany1234/311800.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 4 4K
-http://allone8k.info:8080/live/hany/hany1234/311803.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 4HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/500px-DAZN_3.svg.png" group-title="PT | SPORT",PT| DAZN SPORTS 3 4K
+http://allone8k.info:8080/live/hany/hany1234/311801.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="PT | SPORT",PT| DAZN SPORTS 4 HD
 http://allone8k.info:8080/live/hany/hany1234/311802.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 5 4K
-http://allone8k.info:8080/live/hany/hany1234/311805.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP5HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 5HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png" group-title="PT | SPORT",PT| DAZN SPORTS 4 4K
+http://allone8k.info:8080/live/hany/hany1234/311803.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" group-title="PT | SPORT",PT| DAZN SPORTS 5 HD
 http://allone8k.info:8080/live/hany/hany1234/311804.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP6HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 6 4K
-http://allone8k.info:8080/live/hany/hany1234/311807.m3u8
-#EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP6HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| ELEVEN SPORTS 6HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" group-title="PT | SPORT",PT| DAZN SPORTS 5 4K
+http://allone8k.info:8080/live/hany/hany1234/311805.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829" group-title="PT | SPORT",PT| DAZN SPORTS 6 HD
 http://allone8k.info:8080/live/hany/hany1234/311806.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829" group-title="PT | SPORT",PT| DAZN  SPORTS 6 4K
+http://allone8k.info:8080/live/hany/hany1234/311807.m3u8
 #EXTINF:-1 tvg-logo="https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBENFICATV1HD.png&profile=ott_16_220x64&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&format=image/png" group-title="PT | SPORT",PT| BENFICA TV HD
 http://allone8k.info:8080/live/hany/hany1234/311812.m3u8
 #EXTINF:-1 tvg-logo="https://www.abola.pt/images/abola_logo.svg" group-title="PT | SPORT",PT | ABOLA TV HD
@@ -18365,4 +18373,4 @@ http://allone8k.info:8080/live/hany/hany1234/618316.m3u8
 #EXTINF:-1 tvg-logo="https://prod-media.beinsports.com/image/70excpe1synn9kadnbppahdn7.64.png?ver=03-06-2025" group-title="كأس العالم FIFA World Cup 2026™",كأس العالم FIFA World Cup 2026™ AT
 http://allone8k.info:8080/live/hany/hany1234/657081.m3u8
 
-# Total: 8972
+# Total: 8976

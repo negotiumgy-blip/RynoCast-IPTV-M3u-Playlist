@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: play.1list.vip
-# Generated: 2026-06-09 08:13:56
+# Generated: 2026-06-09 20:31:18
 # Expires: 2026-06-24
 # Family Safe Edition
 # ==============================================
@@ -9233,7 +9233,7 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1010280.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfE6dI8ECv4mbctoHQF5vSpLZEX.jpg" group-title="Movies | Filmes | Documentarios",BTS: O Reencontro (2026)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014562.mp4
 
-# --- Movies | Filmes | Drama (2127) ---
+# --- Movies | Filmes | Drama (2128) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZaaJPqoFNSxrQKgcplHrrVqHjd.jpg" group-title="Movies | Filmes | Drama",Die wahre Schönheit (2021)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/48199.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg" group-title="Movies | Filmes | Drama",Até o Último Homem (2016)
@@ -13488,6 +13488,8 @@ http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1012508.mp4
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1012920.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvqB6hSE7qwXktQu80kzgRGg6NX.jpg" group-title="Movies | Filmes | Drama",O Estrangeiro (2025)
 http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014838.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XjCeSSuxGQZm6bJqt56kEGRqKL.jpg" group-title="Movies | Filmes | Drama",Procurando Adam (2024)
+http://play.1list.vip/movie/8gZav5kQe2/duoiptv/1014935.mp4
 
 # --- Movies | Filmes | Especial de Natal (206) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGnQmQARgtXtoesIGAsmmTbMKfH.jpg" group-title="Movies | Filmes | Especial de Natal",O Grinch (2018)
@@ -31293,7 +31295,7 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5350
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | NBC",Jogo de Titãs
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5351
 
-# --- Series | Series | Netflix (1176) ---
+# --- Series | Series | Netflix (1177) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",13 Reasons Why
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/33
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Narcos
@@ -33646,6 +33648,8 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5840
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5841
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Michael Jackson: O Veredito
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5842
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",James.
+http://play.1list.vip/series/8gZav5kQe2/duoiptv/5846
 
 # --- Series | Series | Outros Streamings (262) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outros Streamings",Six
@@ -34779,4 +34783,4 @@ http://play.1list.vip/series/8gZav5kQe2/duoiptv/5582
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | STAR+",Food Truck - A Batalha
 http://play.1list.vip/series/8gZav5kQe2/duoiptv/5584
 
-# Total: 17340
+# Total: 17342

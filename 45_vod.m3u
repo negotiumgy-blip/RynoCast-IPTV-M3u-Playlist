@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-06-09 08:13:28
+# Generated: 2026-06-09 20:34:48
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (574) ---
+# --- Movies | 4k Movies [Multi-Sub] [Only On 4K Devices] (575) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Peaky Blinders: The Immortal Man [Multi-Sub] [4K] [2026]
 http://45.139.122.199:8080/movie/Martin1/martin1/2337375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Hunting Season [Multi-Sub] [4K] [2025]
@@ -1156,6 +1156,8 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2401485.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/2408604.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",Michael [Multi-Sub] [4K] [2026]
 http://45.139.122.199:8080/movie/Martin1/martin1/2433381.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzOZRlUhFCXe0eAA8HE1KocdHJ8.jpg" group-title="Movies | 4k Movies [Multi-Sub] [Only On 4K Devices]",USA 94: Brazil's Return to Glory [Multi-Sub] [4K] [2026]
+http://45.139.122.199:8080/movie/Martin1/martin1/2433476.mkv
 
 # --- Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices] (369) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg" group-title="Movies | 4k Old Popular Movies [Multi-Sub] [Only On 4K Devices]",On Her Majesty's Secret Service [4K] [1969]
@@ -32457,7 +32459,11 @@ http://45.139.122.199:8080/movie/Martin1/martin1/503168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",10 Hours of Relaxing Music Calm Piano Guitar, Sleep Music, Study Music 0003
 http://45.139.122.199:8080/movie/Martin1/martin1/503169.mp4
 
-# --- Movies | Svenska (824) ---
+# --- Movies | Svenska (826) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w1280/rNzK5Suxrdr9vU9VpDdY3L9fGH3.jpg" group-title="Movies | Svenska",Kalabalik i Fabriken [SE] [Multi-Sub] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2433491.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU79JdMLTqkeqf3rOO7IK2Bq0DC.jpg" group-title="Movies | Svenska",Kungaparet - 50 år tillsammans [SE] [Multi-Sub] [2026]
+http://45.139.122.199:8080/movie/Martin1/martin1/2433444.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aix3EzSIkQbw13tMEV6pJydTzAj.jpg" group-title="Movies | Svenska",Doktor Glas [SE] [Multi-Sub] [2026]
 http://45.139.122.199:8080/movie/Martin1/martin1/2427744.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouI1wjlpcy00Ojn2MminyF49GYD.jpg" group-title="Movies | Svenska",Svenska revyn [SE] [Multi-Sub] [2026]
@@ -34149,4 +34155,4 @@ http://45.139.122.199:8080/movie/Martin1/martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/martin1/2173473.mkv
 
-# Total: 17055
+# Total: 17058

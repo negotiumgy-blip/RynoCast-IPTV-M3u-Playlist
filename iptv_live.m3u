@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-06-09 08:19:39
+# Generated: 2026-06-09 20:40:53
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -63,7 +63,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5590.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2MsCTm/parwarday-TV.jpg" group-title="Education",Parwarday TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/3302.m3u8
 
-# --- Entertainment (85) ---
+# --- Entertainment (86) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ph3PBFz/bmc.png" group-title="Entertainment",BMC
 http://iptv.nextnet.krd:25461/live/nextnet/3738/88.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbB3j8t/zed.png" group-title="Entertainment",Zed HD
@@ -234,6 +234,8 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5583.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5586.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hp10imbTjaSWhjW4o8wAq6NxSDQtX0ttzg&s" group-title="Entertainment",Bask Plus
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Hrmzyar
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5594.m3u8
 
 # --- Kids (17) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cw70S9F/pelistank.png" group-title="Kids",Pelistank HD
@@ -499,4 +501,4 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="USA",UN Web TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4952.m3u8
 
-# Total: 235
+# Total: 236
